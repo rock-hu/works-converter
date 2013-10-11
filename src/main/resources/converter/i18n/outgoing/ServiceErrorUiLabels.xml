@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Der folgende benötigte Parameter fehlt:</value></content>
+<content><country></country><lang>en</lang><value>The following required parameter is missing:</value></content>
+<content><country></country><lang>es</lang><value>Se necesita ingresar el siguiente parametro :</value></content>
+<content><country></country><lang>fr</lang><value>Le paramètre requis suivant manque :</value></content>
+<content><country></country><lang>it</lang><value>Parametro richiesto mancante:</value></content>
+<content><country></country><lang>nl</lang><value>De volgende vereiste parameters werden niet gevonden:</value></content>
+<content><country></country><lang>ro</lang><value>Parametrul Cerut lipseste:</value></content>
+<content><country></country><lang>th</lang><value>กรุณากรอกข้อมูลให้ครบถ้วน</value></content>
+<content><country></country><lang>zh</lang><value>找不到下列必须的参数：</value></content>
+<content><country></country><lang>zh_TW</lang><value>找不到下列必須的參數：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sie haben keine Berechtigung, diese Aktion für diesen Akteur auszuführen</value></content>
+<content><country></country><lang>en</lang><value>You do not have permission to perform this operation for this party</value></content>
+<content><country></country><lang>es</lang><value>Usted no cuenta con permisos para realizar la acción</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'avez pas l'autorisation pour effectuer cette opération</value></content>
+<content><country></country><lang>it</lang><value>Non hai il permesso per eseguire questa operazione per questo soggetto</value></content>
+<content><country></country><lang>nl</lang><value>U bezit niet de benodigde persmissie om deze opdracht uit te voeren</value></content>
+<content><country></country><lang>ro</lang><value>Tu nu ai dreptul sa executi aceasta operatie pentru acest Subiect.</value></content>
+<content><country></country><lang>th</lang><value>ไม่ได้รับการอนุญาติให้จัดการข้อมูลในส่วนของกลุ่มผู้ใช้นี้</value></content>
+<content><country></country><lang>zh</lang><value>你没有执行这个操作所需的权限</value></content>
+<content><country></country><lang>zh_TW</lang><value>你沒有執行這個操作所需的權限</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sie haben keine Berechtigung, diesen Service auszuführen</value></content>
+<content><country></country><lang>en</lang><value>You do not have permission to run this service</value></content>
+<content><country></country><lang>es</lang><value>Usted no cuenta con permisos para realizar la acción</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'avez pas l'autorisation pour effectuer ce service</value></content>
+<content><country></country><lang>it</lang><value>Non hai il permesso di eseguire questo servizio</value></content>
+<content><country></country><lang>nl</lang><value>U bezit niet de benodigde permissies om deze service uit te voeren</value></content>
+<content><country></country><lang>ro</lang><value>Nu ai dreptul sa folosesti acest serviciu.</value></content>
+<content><country></country><lang>th</lang><value>ไม่ได้รับอนุญาติให้ดำเนินการในส่วนของ service นี้</value></content>
+<content><country></country><lang>zh</lang><value>你没有运行这个服务所需的权限</value></content>
+<content><country></country><lang>zh_TW</lang><value>你沒有執行這個服務所需的權限</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Akteur ID fehlt</value></content>
+<content><country></country><lang>en</lang><value>Party ID missing</value></content>
+<content><country></country><lang>es</lang><value>No existe el código de Participante</value></content>
+<content><country></country><lang>fr</lang><value>Il manque la Party ID</value></content>
+<content><country></country><lang>it</lang><value>Party ID mancante</value></content>
+<content><country></country><lang>nl</lang><value>Relatie nummer van deze partij is niet gevonden</value></content>
+<content><country></country><lang>ro</lang><value>Cod Subiect Lipseste</value></content>
+<content><country></country><lang>th</lang><value>ไม่ได้ใส่รหัสกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>找不到会员标识</value></content>
+<content><country></country><lang>zh_TW</lang><value>無該成員ID</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Job kann nicht abgebrochen werden</value></content>
+<content><country></country><lang>en</lang><value>Unable to cancel job</value></content>
+<content><country></country><lang>es</lang><value>No se puede cancelar la terea</value></content>
+<content><country></country><lang>fr</lang><value>Impossible d'annuler ce job</value></content>
+<content><country></country><lang>it</lang><value>Impossibile annullare il lavoro</value></content>
+<content><country></country><lang>nl</lang><value>Niet mogelijk om deze Job te stoppen</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila stergerea Lucrului</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถยกเลิกงานได้</value></content>
+<content><country></country><lang>zh</lang><value>无法取消任务</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法取消工作</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Job Wiederholungen können nicht abgebrochen werden</value></content>
+<content><country></country><lang>en</lang><value>Unable to cancel job retries</value></content>
+<content><country></country><lang>es</lang><value>No se puede cancelar los reintentos de la terea</value></content>
+<content><country></country><lang>fr</lang><value>Impossible d'annuler les nouvelles tentatives de traitement par lot</value></content>
+<content><country></country><lang>it</lang><value>Impossibile annullare il nuovo tentativo di lavoro</value></content>
+<content><country></country><lang>nl</lang><value>Niet mogelijk om deze Job regels te verwijderen.</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila stergerea noilor tentative de lucru</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถยกเลิกงานได้ กรุณาลองอีกครั้ง</value></content>
+<content><country></country><lang>zh</lang><value>无法取消任务重试</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法取消工作重試</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error doing entity-auto operation for entity ${entityName} in service ${serviceName}: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore mentre faceva l'operazione entity-auto per l'entità ${entityName} nel servizio ${serviceName}: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The ID value in the parameter ${parameterName} was not valid: ${errorDetails}</value></content>
+<content><country></country><lang>it</lang><value>Il valore ID nel parametro ${parameterName} non è valido: ${errorDetails}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error running deadlock test services: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore durante il test del servizio deadlock: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error(s) running sub-services in testServiceDeadLockRetry</value></content>
+<content><country></country><lang>it</lang><value>Errore(i) durante l'esecuzione dei sotto-servizi in testServiceDeadLockRetry</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error running testServiceDeadLockRetryThreadA: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore durante l'esecuzione di testServiceDeadLockRetryThreadA: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error running testServiceDeadLockRetryThreadB: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore durante l'esecuzione di testServiceDeadLockRetryThreadB: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Entity Engine Exception: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Eccezione Entity Engine: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Entity Engine Exception running dead lock test thread A: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Eccezione Entity Engine durante l'esecuzione del test dead lock thread A: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Entity Engine Exception running dead lock test thread B: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Eccezione Entity Engine durante l'esecuzione del test dead lock thread B: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Entity Engine Exception running dead lock test thread A: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Eccezione Entity Engine durante l'esecuzione del test dead lock thread A: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Entity Engine Exception running dead lock test thread B: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Eccezione Entity Engine durante l'esecuzione del test dead lock thread B: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error(s) running sub-services in testServiceLockWaitTimeoutRetry</value></content>
+<content><country></country><lang>it</lang><value>Errore(i) durante l'esecuzione dei sotto-servizi in testServiceLockWaitTimeoutRetry</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Entity Engine Exception running lock wait timeout test Grabber thread: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Eccezione Entity Engine durante l'esecuzione del lock wait timeout test Grabber thread: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Entity Engine Exception running lock wait timeout test Grabber thread: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Eccezione Entity Engine durante l'esecuzione del lock wait timeout test Grabber thread: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Wait Interrupted Exception running lock wait timeout test Grabber thread: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Eccezione Wait Interrupted Exception durante l'esecuzione del lock wait timeout test Grabber thread: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Wait Interrupted Exception running lock wait timeout test Waiter thread: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Eccezione Wait Interrupted Exception durante l'esecuzione del lock wait timeout test Waiter thread: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error running testServiceLockWaitTimeoutRetryCantRecoverWaiter</value></content>
+<content><country></country><lang>it</lang><value>Errore durante l'esecuzione di testServiceLockWaitTimeoutRetryCantRecoverWaiter</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error running sub-service with own tx: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore durante l'esecuzione del sotto-servizio con proprie transazione: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error running ServiceTestOwnTxSubServiceAfterSetRollbackOnlyInParentErrorCatchWrapper</value></content>
+<content><country></country><lang>it</lang><value>Errore durante l'esecuzione di ServiceTestOwnTxSubServiceAfterSetRollbackOnlyInParentErrorCatchWrapper</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error running sub-service in testServiceOwnTxSubServiceAfterSetRollbackOnlyInParent</value></content>
+<content><country></country><lang>it</lang><value>Errore durante l'esecuzione di testServiceOwnTxSubServiceAfterSetRollbackOnlyInParent</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Intentional rollback to test global-rollback</value></content>
+<content><country></country><lang>it</lang><value>Rollback intenzionale per testare il global-rollback</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error calling sub-service, it should return an error but not throw an exception, so something went wrong: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore durante l'esecuzione del sotto-servizio, dovrebbe restituire un'errore ma non generare un'eccezione, così qualcosa è andato male: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>adding integer 125 to 365 yields </value></content>
+<content><country></country><lang>it</lang><value>aggiungere intero 125 a 365 yields </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>calcul is wrong ! Why ?</value></content>
+<content><country></country><lang>it</lang><value>calcolo è errato ! Perchè ?</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>missing parameters</value></content>
+<content><country></country><lang>it</lang><value>parametri mancanti</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Value not found, cannot update</value></content>
+<content><country></country><lang>it</lang><value>Valore non troavato, non è possibile aggiornare</value></content>
+</contents></phrase> </phrases>

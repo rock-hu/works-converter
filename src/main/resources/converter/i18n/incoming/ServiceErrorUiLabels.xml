@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="ModelService.following_required_parameter_missing">
+        <value lang="de">Der folgende benötigte Parameter fehlt:</value>
+        <value lang="en">The following required parameter is missing:</value>
+        <value lang="es">Se necesita ingresar el siguiente parametro :</value>
+        <value lang="fr">Le paramètre requis suivant manque :</value>
+        <value lang="it">Parametro richiesto mancante:</value>
+        <value lang="nl">De volgende vereiste parameters werden niet gevonden:</value>
+        <value lang="ro">Parametrul Cerut lipseste:</value>
+        <value lang="th">กรุณากรอกข้อมูลให้ครบถ้วน</value>
+        <value lang="zh">找不到下列必须的参数：</value>
+        <value lang="zh_TW">找不到下列必須的參數：</value>
+    </property>
+    <property key="serviceUtil.no_permission_to_operation">
+        <value lang="de">Sie haben keine Berechtigung, diese Aktion für diesen Akteur auszuführen</value>
+        <value lang="en">You do not have permission to perform this operation for this party</value>
+        <value lang="es">Usted no cuenta con permisos para realizar la acción</value>
+        <value lang="fr">Vous n'avez pas l'autorisation pour effectuer cette opération</value>
+        <value lang="it">Non hai il permesso per eseguire questa operazione per questo soggetto</value>
+        <value lang="nl">U bezit niet de benodigde persmissie om deze opdracht uit te voeren</value>
+        <value lang="ro">Tu nu ai dreptul sa executi aceasta operatie pentru acest Subiect.</value>
+        <value lang="th">ไม่ได้รับการอนุญาติให้จัดการข้อมูลในส่วนของกลุ่มผู้ใช้นี้</value>
+        <value lang="zh">你没有执行这个操作所需的权限</value>
+        <value lang="zh_TW">你沒有執行這個操作所需的權限</value>
+    </property>
+    <property key="serviceUtil.no_permission_to_run">
+        <value lang="de">Sie haben keine Berechtigung, diesen Service auszuführen</value>
+        <value lang="en">You do not have permission to run this service</value>
+        <value lang="es">Usted no cuenta con permisos para realizar la acción</value>
+        <value lang="fr">Vous n'avez pas l'autorisation pour effectuer ce service</value>
+        <value lang="it">Non hai il permesso di eseguire questo servizio</value>
+        <value lang="nl">U bezit niet de benodigde permissies om deze service uit te voeren</value>
+        <value lang="ro">Nu ai dreptul sa folosesti acest serviciu.</value>
+        <value lang="th">ไม่ได้รับอนุญาติให้ดำเนินการในส่วนของ service นี้</value>
+        <value lang="zh">你没有运行这个服务所需的权限</value>
+        <value lang="zh_TW">你沒有執行這個服務所需的權限</value>
+    </property>
+    <property key="serviceUtil.party_id_missing">
+        <value lang="de">Akteur ID fehlt</value>
+        <value lang="en">Party ID missing</value>
+        <value lang="es">No existe el código de Participante</value>
+        <value lang="fr">Il manque la Party ID</value>
+        <value lang="it">Party ID mancante</value>
+        <value lang="nl">Relatie nummer van deze partij is niet gevonden</value>
+        <value lang="ro">Cod Subiect Lipseste</value>
+        <value lang="th">ไม่ได้ใส่รหัสกลุ่มผู้ใช้</value>
+        <value lang="zh">找不到会员标识</value>
+        <value lang="zh_TW">無該成員ID</value>
+    </property>
+    <property key="serviceUtil.unable_to_cancel_job">
+        <value lang="de">Job kann nicht abgebrochen werden</value>
+        <value lang="en">Unable to cancel job</value>
+        <value lang="es">No se puede cancelar la terea</value>
+        <value lang="fr">Impossible d'annuler ce job</value>
+        <value lang="it">Impossibile annullare il lavoro</value>
+        <value lang="nl">Niet mogelijk om deze Job te stoppen</value>
+        <value lang="ro">Nu este posibila stergerea Lucrului</value>
+        <value lang="th">ไม่สามารถยกเลิกงานได้</value>
+        <value lang="zh">无法取消任务</value>
+        <value lang="zh_TW">無法取消工作</value>
+    </property>
+    <property key="serviceUtil.unable_to_cancel_job_retries">
+        <value lang="de">Job Wiederholungen können nicht abgebrochen werden</value>
+        <value lang="en">Unable to cancel job retries</value>
+        <value lang="es">No se puede cancelar los reintentos de la terea</value>
+        <value lang="fr">Impossible d'annuler les nouvelles tentatives de traitement par lot</value>
+        <value lang="it">Impossibile annullare il nuovo tentativo di lavoro</value>
+        <value lang="nl">Niet mogelijk om deze Job regels te verwijderen.</value>
+        <value lang="ro">Nu este posibila stergerea noilor tentative de lucru</value>
+        <value lang="th">ไม่สามารถยกเลิกงานได้ กรุณาลองอีกครั้ง</value>
+        <value lang="zh">无法取消任务重试</value>
+        <value lang="zh_TW">無法取消工作重試</value>
+    </property>
+    <property key="ServiceEntityAutoOperation">
+        <value lang="en">Error doing entity-auto operation for entity ${entityName} in service ${serviceName}: ${errorString}</value>
+        <value lang="it">Errore mentre faceva l'operazione entity-auto per l'entità ${entityName} nel servizio ${serviceName}: ${errorString}</value>
+    </property>
+    <property key="ServiceParameterValueNotValid">
+        <value lang="en">The ID value in the parameter ${parameterName} was not valid: ${errorDetails}</value>
+        <value lang="it">Il valore ID nel parametro ${parameterName} non è valido: ${errorDetails}</value>
+    </property>
+    <property key="ServiceTestDeadLockError">
+        <value lang="en">Error running deadlock test services: ${errorString}</value>
+        <value lang="it">Errore durante il test del servizio deadlock: ${errorString}</value>
+    </property>
+    <property key="ServiceTestDeadLockRetry">
+        <value lang="en">Error(s) running sub-services in testServiceDeadLockRetry</value>
+        <value lang="it">Errore(i) durante l'esecuzione dei sotto-servizi in testServiceDeadLockRetry</value>
+    </property>
+    <property key="ServiceTestDeadLockThreadA">
+        <value lang="en">Error running testServiceDeadLockRetryThreadA: ${errorString}</value>
+        <value lang="it">Errore durante l'esecuzione di testServiceDeadLockRetryThreadA: ${errorString}</value>
+    </property>
+    <property key="ServiceTestDeadLockThreadB">
+        <value lang="en">Error running testServiceDeadLockRetryThreadB: ${errorString}</value>
+        <value lang="it">Errore durante l'esecuzione di testServiceDeadLockRetryThreadB: ${errorString}</value>
+    </property>
+    <property key="ServiceTestEntityEngineError">
+        <value lang="en">Entity Engine Exception: ${errorString}</value>
+        <value lang="it">Eccezione Entity Engine: ${errorString}</value>
+    </property>
+    <property key="ServiceTestEntityEngineExceptionThreadA">
+        <value lang="en">Entity Engine Exception running dead lock test thread A: ${errorString}</value>
+        <value lang="it">Eccezione Entity Engine durante l'esecuzione del test dead lock thread A: ${errorString}</value>
+    </property>
+    <property key="ServiceTestEntityEngineExceptionThreadB">
+        <value lang="en">Entity Engine Exception running dead lock test thread B: ${errorString}</value>
+        <value lang="it">Eccezione Entity Engine durante l'esecuzione del test dead lock thread B: ${errorString}</value>
+    </property>
+    <property key="ServiceTestEntityEngineWaitInterruptedExceptionThreadA">
+        <value lang="en">Entity Engine Exception running dead lock test thread A: ${errorString}</value>
+        <value lang="it">Eccezione Entity Engine durante l'esecuzione del test dead lock thread A: ${errorString}</value>
+    </property>
+    <property key="ServiceTestEntityEngineWaitInterruptedExceptionThreadB">
+        <value lang="en">Entity Engine Exception running dead lock test thread B: ${errorString}</value>
+        <value lang="it">Eccezione Entity Engine durante l'esecuzione del test dead lock thread B: ${errorString}</value>
+    </property>
+    <property key="ServiceTestLockWaitTimeoutRetry">
+        <value lang="en">Error(s) running sub-services in testServiceLockWaitTimeoutRetry</value>
+        <value lang="it">Errore(i) durante l'esecuzione dei sotto-servizi in testServiceLockWaitTimeoutRetry</value>
+    </property>
+    <property key="ServiceTestLockWaitTimeoutRetryGrabber">
+        <value lang="en">Entity Engine Exception running lock wait timeout test Grabber thread: ${errorString}</value>
+        <value lang="it">Eccezione Entity Engine durante l'esecuzione del lock wait timeout test Grabber thread: ${errorString}</value>
+    </property>
+    <property key="ServiceTestLockWaitTimeoutRetryWaiter">
+        <value lang="en">Entity Engine Exception running lock wait timeout test Grabber thread: ${errorString}</value>
+        <value lang="it">Eccezione Entity Engine durante l'esecuzione del lock wait timeout test Grabber thread: ${errorString}</value>
+    </property>
+    <property key="ServiceTestLockInterruptedExceptionRetryGrabber">
+        <value lang="en">Wait Interrupted Exception running lock wait timeout test Grabber thread: ${errorString}</value>
+        <value lang="it">Eccezione Wait Interrupted Exception durante l'esecuzione del lock wait timeout test Grabber thread: ${errorString}</value>
+    </property>
+    <property key="ServiceTestLockInterruptedExceptionRetryWaiter">
+        <value lang="en">Wait Interrupted Exception running lock wait timeout test Waiter thread: ${errorString}</value>
+        <value lang="it">Eccezione Wait Interrupted Exception durante l'esecuzione del lock wait timeout test Waiter thread: ${errorString}</value>
+    </property>
+    <property key="ServiceTestLockWaitTimeoutRetryCantRecoverWaiter">
+        <value lang="en">Error running testServiceLockWaitTimeoutRetryCantRecoverWaiter</value>
+        <value lang="it">Errore durante l'esecuzione di testServiceLockWaitTimeoutRetryCantRecoverWaiter</value>
+    </property>
+    <property key="ServiceTestOwnTxError">
+        <value lang="en">Error running sub-service with own tx: ${errorString}</value>
+        <value lang="it">Errore durante l'esecuzione del sotto-servizio con proprie transazione: ${errorString}</value>
+    </property>
+    <property key="ServiceTestOwnTxSubServiceAfterSetRollbackOnlyInParentErrorCatchWrapper">
+        <value lang="en">Error running ServiceTestOwnTxSubServiceAfterSetRollbackOnlyInParentErrorCatchWrapper</value>
+        <value lang="it">Errore durante l'esecuzione di ServiceTestOwnTxSubServiceAfterSetRollbackOnlyInParentErrorCatchWrapper</value>
+    </property>
+    <property key="ServiceTestOwnTxSubServiceAfterSetRollbackOnlyInParent">
+        <value lang="en">Error running sub-service in testServiceOwnTxSubServiceAfterSetRollbackOnlyInParent</value>
+        <value lang="it">Errore durante l'esecuzione di testServiceOwnTxSubServiceAfterSetRollbackOnlyInParent</value>
+    </property>
+    <property key="ServiceTestRollback">
+        <value lang="en">Intentional rollback to test global-rollback</value>
+        <value lang="it">Rollback intenzionale per testare il global-rollback</value>
+    </property>
+    <property key="ServiceTestSubServiceError">
+        <value lang="en">Error calling sub-service, it should return an error but not throw an exception, so something went wrong: ${errorString}</value>
+        <value lang="it">Errore durante l'esecuzione del sotto-servizio, dovrebbe restituire un'errore ma non generare un'eccezione, così qualcosa è andato male: ${errorString}</value>
+    </property>
+    <property key="ServiceTestXmlRpcCalculationOK">
+        <value lang="en">adding integer 125 to 365 yields </value>
+        <value lang="it">aggiungere intero 125 a 365 yields </value>
+    </property>
+    <property key="ServiceTestXmlRpcCalculationKO">
+        <value lang="en">calcul is wrong ! Why ?</value>
+        <value lang="it">calcolo è errato ! Perchè ?</value>
+    </property>
+    <property key="ServiceTestXmlRpcMissingParameters">
+        <value lang="en">missing parameters</value>
+        <value lang="it">parametri mancanti</value>
+    </property>
+    <property key="ServiceValueNotFound">
+        <value lang="en">Value not found, cannot update</value>
+        <value lang="it">Valore non troavato, non è possibile aggiornare</value>
+    </property>
+</resource>

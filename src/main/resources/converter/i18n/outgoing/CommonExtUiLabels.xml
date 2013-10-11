@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create Public Message</value></content>
+<content><country></country><lang>fr</lang><value>Créer un message public</value></content>
+<content><country></country><lang>it</lang><value>Crea messaggio pubblico</value></content>
+<content><country></country><lang>pt_BR</lang><value>Criar Mensagem Pública</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Date info created</value></content>
+<content><country></country><lang>fr</lang><value>Date de création</value></content>
+<content><country></country><lang>it</lang><value>Data di creazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data da informação criada</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Date Last Changed</value></content>
+<content><country></country><lang>fr</lang><value>Dernière date de changement</value></content>
+<content><country></country><lang>it</lang><value>Data ultimo cambiamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data da última modificação</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>System Info Note</value></content>
+<content><country></country><lang>fr</lang><value>Message d'information système</value></content>
+<content><country></country><lang>it</lang><value>Messaggio di sistema</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nota de Informação do Sistema</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>System Info note for user:</value></content>
+<content><country></country><lang>fr</lang><value>Message d'information système pour l'utilisateur :</value></content>
+<content><country></country><lang>it</lang><value>Messaggio di sistema per l'utente:</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nota de Informação do Sistema para o usuário:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>System Info Status</value></content>
+<content><country></country><lang>fr</lang><value>Message d'information d'état</value></content>
+<content><country></country><lang>it</lang><value>Stato messaggi di sistema</value></content>
+<content><country></country><lang>pt_BR</lang><value>Informação de estado do sistema</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>System Info status for user:</value></content>
+<content><country></country><lang>fr</lang><value>Message d'information d'état pour l'utilisateur :</value></content>
+<content><country></country><lang>it</lang><value>Stato messaggi di sistema per l'utente:</value></content>
+<content><country></country><lang>pt_BR</lang><value>Informação de estado do sistema para o usuário:</value></content>
+</contents></phrase> </phrases>

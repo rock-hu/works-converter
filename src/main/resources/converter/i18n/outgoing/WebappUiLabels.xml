@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Benötigter Parameter 'delegator' fehlt.</value></content>
+<content><country></country><lang>en</lang><value>Required parameter 'delegator' not passed.</value></content>
+<content><country></country><lang>es</lang><value>No se proporciono el parametro 'delegator'</value></content>
+<content><country></country><lang>fr</lang><value>Le paramètre obligatoire 'delegator' n'a pas fonctionné.</value></content>
+<content><country></country><lang>it</lang><value>Parametro 'delegator' richiesto non passato.</value></content>
+<content><country></country><lang>ro</lang><value>Parametru 'delegat' cerut ne trecut.</value></content>
+<content><country></country><lang>ru</lang><value>Не передан обязательный параметр 'delegator'.</value></content>
+<content><country></country><lang>th</lang><value>ความต้องการของตัวแปร 'delegator' ไม่ถูกต้อง</value></content>
+<content><country></country><lang>zh</lang><value>所需的参数 'delegator' 没有传递过来。</value></content>
+<content><country></country><lang>zh_TW</lang><value>所需的參數 'delegator' 沒有傳遞過來。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Dispatch Kontext ist leer</value></content>
+<content><country></country><lang>en</lang><value>Dispatch context is null</value></content>
+<content><country></country><lang>es</lang><value>Nombre del Context es nulo</value></content>
+<content><country></country><lang>fr</lang><value>Le contexte du dispatch est irrecevable</value></content>
+<content><country></country><lang>it</lang><value>Contesto Dispatch è nullo</value></content>
+<content><country></country><lang>ro</lang><value>Continut Dispecer este nul</value></content>
+<content><country></country><lang>ru</lang><value>Контекст диспетчера не имеет значения</value></content>
+<content><country></country><lang>th</lang><value>รายละเอียดของสิ่งที่ส่งไปเป็นค่าว่าง</value></content>
+<content><country></country><lang>zh</lang><value>执行context是null</value></content>
+<content><country></country><lang>zh_TW</lang><value>執行context是null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Dispatcher Name ist leer</value></content>
+<content><country></country><lang>en</lang><value>Dispatcher name is null</value></content>
+<content><country></country><lang>es</lang><value>Nombre del Dispatcher es nulo</value></content>
+<content><country></country><lang>fr</lang><value>Le nom du dispatcher est irrecevable</value></content>
+<content><country></country><lang>it</lang><value>Nome Dispatcher è nullo</value></content>
+<content><country></country><lang>ro</lang><value>Nume Dispecer este nul</value></content>
+<content><country></country><lang>ru</lang><value>Имя диспетчера не имеет значения</value></content>
+<content><country></country><lang>th</lang><value>ชื่อของสิ่งที่ส่งไปเป็นค่าว่าง</value></content>
+<content><country></country><lang>zh</lang><value>执行程序名称是null</value></content>
+<content><country></country><lang>zh_TW</lang><value>執行程式名稱是null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Benötigter Parameter 'dispatcher' fehlt</value></content>
+<content><country></country><lang>en</lang><value>Required parameter 'dispatcher' not passed</value></content>
+<content><country></country><lang>es</lang><value>El parametro 'dispatcher' no se transmitio</value></content>
+<content><country></country><lang>fr</lang><value>le paramètre obligatoire 'dispatcher' n'a pas fonctionné</value></content>
+<content><country></country><lang>it</lang><value>Parameter 'dispatcher' richiesto non passato</value></content>
+<content><country></country><lang>ro</lang><value>Parametru 'dispecer' cerut ne trecut</value></content>
+<content><country></country><lang>ru</lang><value>Не передан обязательный параметр 'dispatcher'</value></content>
+<content><country></country><lang>th</lang><value>ความต้องการของตัวแปร 'dispatcher' ไม่ถูกต้อง</value></content>
+<content><country></country><lang>zh</lang><value>所需的参数 'dispatcher' 没有传递过来</value></content>
+<content><country></country><lang>zh_TW</lang><value>所需的參數 'dispatcher' 沒有傳遞過來</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler beim Zugriff auf ModelService für serviceName</value></content>
+<content><country></country><lang>en</lang><value>Error looking up ModelService for serviceName</value></content>
+<content><country></country><lang>es</lang><value>Error al buscar el 'ModelService' del servicio</value></content>
+<content><country></country><lang>fr</lang><value>Error looking up ModelService for serviceName </value></content>
+<content><country></country><lang>it</lang><value>Errore nella ricerca di ModelService per serviceName</value></content>
+<content><country></country><lang>ro</lang><value>Eroare in cererea de ModelService pentru serviceName</value></content>
+<content><country></country><lang>ru</lang><value>Не найден ModelService для serviceName</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาด ! ในการค้นหา ModelService สำหรับ serviceName</value></content>
+<content><country></country><lang>zh</lang><value>为服务名称查找ModelService时出错</value></content>
+<content><country></country><lang>zh_TW</lang><value>為服務名稱查找ModelService時出錯</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Falsches Format für SERVICE_COUNT</value></content>
+<content><country></country><lang>en</lang><value>Invalid format for SERVICE_COUNT</value></content>
+<content><country></country><lang>es</lang><value>Formato invalido de cantidad de sevicio</value></content>
+<content><country></country><lang>fr</lang><value>Format irrecevable pour SERVICE_COUNT</value></content>
+<content><country></country><lang>it</lang><value>Formato invalido per SERVICE_COUNT</value></content>
+<content><country></country><lang>ro</lang><value>Format invalid pentru SERVICE_COUNT</value></content>
+<content><country></country><lang>ru</lang><value>Неверный формат SERVICE_COUNT</value></content>
+<content><country></country><lang>th</lang><value>รูปแบบไม่ถูกต้องสำหรับ SERVICE_COUNT</value></content>
+<content><country></country><lang>zh</lang><value>SERVICE_COUNT格式无效</value></content>
+<content><country></country><lang>zh_TW</lang><value>SERVICE_COUNT格式無效</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Falsches Format für SERVICE_FREQUENCY</value></content>
+<content><country></country><lang>en</lang><value>Invalid format for SERVICE_FREQUENCY</value></content>
+<content><country></country><lang>es</lang><value>Formato invalido de frecuencia de sevicio</value></content>
+<content><country></country><lang>fr</lang><value>Format irrecevable pour SERIVCE_FREQUENCY</value></content>
+<content><country></country><lang>it</lang><value>Formato invalido per SERIVCE_FREQUENCY</value></content>
+<content><country></country><lang>ro</lang><value>Format invalid pentru SERIVCE_FREQUENCY</value></content>
+<content><country></country><lang>ru</lang><value>Неверный формат SERVICE_FREQUENCY</value></content>
+<content><country></country><lang>th</lang><value>รูปแบบไม่ถูกต้องสำหรับ SERVICE_FREQUENCY</value></content>
+<content><country></country><lang>zh</lang><value>SERIVCE_FREQUENCY格式无效</value></content>
+<content><country></country><lang>zh_TW</lang><value>SERIVCE_FREQUENCY格式無效</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Falsches Format für SERVICE_INTERVAL</value></content>
+<content><country></country><lang>en</lang><value>Invalid format for SERVICE_INTERVAL</value></content>
+<content><country></country><lang>es</lang><value>Formato invalido de intervalo de sevicio</value></content>
+<content><country></country><lang>fr</lang><value>Format irrecevable pour SERVICE_INTERVAL</value></content>
+<content><country></country><lang>it</lang><value>Formato invalido per SERVICE_INTERVAL</value></content>
+<content><country></country><lang>ro</lang><value>Format Invalid pentru SERVICE_INTERVAL</value></content>
+<content><country></country><lang>ru</lang><value>Неверный формат SERVICE_INTERVAL</value></content>
+<content><country></country><lang>th</lang><value>รูปแบบไม่ถูกต้องสำหรับ SERVICE_INTERVAL</value></content>
+<content><country></country><lang>zh</lang><value>SERVICE_INTERVAL格式无效</value></content>
+<content><country></country><lang>zh_TW</lang><value>SERVICE_INTERVAL格式無效</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Falsches Format für SERVICE_TIME</value></content>
+<content><country></country><lang>en</lang><value>Invalid format for SERVICE_TIME</value></content>
+<content><country></country><lang>es</lang><value>Formato invalido de tiempo de sevicio</value></content>
+<content><country></country><lang>fr</lang><value>Format irrecevable pour SERVICE_TIME</value></content>
+<content><country></country><lang>it</lang><value>Formato invalido per SERVICE_TIME</value></content>
+<content><country></country><lang>ro</lang><value>Format invalid pentru SERVICE_TIME</value></content>
+<content><country></country><lang>ru</lang><value>Неверный формат SERVICE_TIME</value></content>
+<content><country></country><lang>th</lang><value>รูปแบบไม่ถูกต้องสำหรับ SERVICE_TIME</value></content>
+<content><country></country><lang>zh</lang><value>SERVICE_TIME格式无效</value></content>
+<content><country></country><lang>zh_TW</lang><value>SERVICE_TIME格式無效</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sie müssen einen Servicenamen 'SERVICE_NAME' angeben (zusätzliche Parameter sind: SERVICE_TIME, SERVICE_FREQUENCY, SERVICE_INTERVAL, SERVICE_COUNT)</value></content>
+<content><country></country><lang>en</lang><value>You must specify a 'SERVICE_NAME' (other parameters include: SERVICE_TIME, SERVICE_FREQUENCY, SERVICE_INTERVAL, SERVICE_COUNT)</value></content>
+<content><country></country><lang>es</lang><value>Debe especificar nombre de servicio(además de: tiempo, frecuencia, intervalos y cantidad de servicios)</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez spécifier un 'SERVICE_NAME'. Les autres paramètres incluent : SERVICE_TIME, SERVICE_FREQUENCY, SERVICE_INTERVAL, SERVICE_COUNT</value></content>
+<content><country></country><lang>it</lang><value>Tu devi specificare un 'SERVICE_NAME' (altri parametri inclusi: SERVICE_TIME, SERVICE_FREQUENCY, SERVICE_INTERVAL, SERVICE_COUNT)</value></content>
+<content><country></country><lang>ro</lang><value>Trebbie sa specifici un 'SERVICE_NAME' (alti parametri inclusi: SERVICE_TIME, SERVICE_FREQUENCY, SERVICE_INTERVAL, SERVICE_COUNT)</value></content>
+<content><country></country><lang>ru</lang><value>Вы должны указать 'SERVICE_NAME' (другие параметры: SERVICE_TIME, SERVICE_FREQUENCY, SERVICE_INTERVAL, SERVICE_COUNT)</value></content>
+<content><country></country><lang>th</lang><value>คุณต้องระบุ 'SERVICE_NAME' (รวมถึงตัวแปรอื่น ๆ: SERVICE_TIME, SERVICE_FREQUENCY, SERVICE_INTERVAL, SERVICE_COUNT)</value></content>
+<content><country></country><lang>zh</lang><value>你必须指定一个 'SERVICE_NAME' (其它参数包括： SERVICE_TIME, SERVICE_FREQUENCY, SERVICE_INTERVAL, SERVICE_COUNT)</value></content>
+<content><country></country><lang>zh_TW</lang><value>你必須指定一個 'SERVICE_NAME' (其他參數包括： SERVICE_TIME, SERVICE_FREQUENCY, SERVICE_INTERVAL, SERVICE_COUNT)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sie müssen einen Servicenamen 'SERVICE_NAME' und optional einen Modus angeben (sync oder async, standardmässig auf sync)</value></content>
+<content><country></country><lang>en</lang><value>You must specify a 'serviceName', and optionally a 'mode' (sync or async, defaults to sync)</value></content>
+<content><country></country><lang>es</lang><value>Debe especificar un nombre de servicio y opcionalmente el modo (síncrono o asíncrono, Síncrono por defecto)</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez spécifier un 'service Name', et optionnellement un mode (sync ou async, standard: sync)</value></content>
+<content><country></country><lang>it</lang><value>Tu devi specificare un 'serviceName', e opzionalmente un 'mode' (sincrono o asincrono, defaults è sincrono)</value></content>
+<content><country></country><lang>ro</lang><value>Trebbie sa specifici un 'serviceName', si  optional un 'mod' (sincron sau asincron, de default este sincron)</value></content>
+<content><country></country><lang>ru</lang><value>Вы должны указать 'serviceName', и не объязательно 'mode' (sync или async, обычное значение sync)</value></content>
+<content><country></country><lang>th</lang><value>คุณต้องระบุ 'serviceName', และเลือก 'mode' (sync หรือ async, ค่ามาตรฐานถึง sync)</value></content>
+<content><country></country><lang>zh</lang><value>你必须指定一个'服务名称'，'状态'可选 (同步或异步，缺省是同步)</value></content>
+<content><country></country><lang>zh_TW</lang><value>你必須指定一個'服務名稱'，'狀態'可選 (同步或異步，缺省是同步)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kein Delegator definiert mit diesem Namen</value></content>
+<content><country></country><lang>en</lang><value>No delegator defined by that name</value></content>
+<content><country></country><lang>es</lang><value>No se ha definido un delegator con ese nombre</value></content>
+<content><country></country><lang>fr</lang><value>Aucun delegator défini par ce nom</value></content>
+<content><country></country><lang>it</lang><value>Nessun delegator definito da questo nome</value></content>
+<content><country></country><lang>ro</lang><value>Nici-un delegat definit la acest nume</value></content>
+<content><country></country><lang>ru</lang><value>Нет делегаторов определенных под таким именем</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีตัวแปรที่ระบุด้วยชื่อนี้</value></content>
+<content><country></country><lang>zh</lang><value>没有定义使用那个名字的代表</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有定義使用那個名字的代表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kein Dispatcher mit dem angegebenen Names ist im System registriert</value></content>
+<content><country></country><lang>en</lang><value>No dispatcher with that name has been registered</value></content>
+<content><country></country><lang>es</lang><value>No se ha registrado un dispachador con ese nombre</value></content>
+<content><country></country><lang>fr</lang><value>Aucun dispatcher défini par ce nom</value></content>
+<content><country></country><lang>it</lang><value>Nessun dispatcher con questo nome è stato registrato</value></content>
+<content><country></country><lang>ro</lang><value>Nu a fost inregistrat nici-un dispecer cu acest nume</value></content>
+<content><country></country><lang>ru</lang><value>Нет диспетчеров зарегистрированных под таким именем</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีการส่งของด้วยชื่อที่ลงทะเบียนนี้</value></content>
+<content><country></country><lang>zh</lang><value>已注册的执行程序中没有那个名字</value></content>
+<content><country></country><lang>zh_TW</lang><value>已注冊的執行程式中沒有那個名字</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Keine 'previous fields' auf der Session gefunden</value></content>
+<content><country></country><lang>en</lang><value>No previous fields found in session</value></content>
+<content><country></country><lang>fr</lang><value>Aucun champ précédent appartenant à la session</value></content>
+<content><country></country><lang>it</lang><value>Nessun campo precedentemente trovato in questa sessione</value></content>
+<content><country></country><lang>ru</lang><value>Предыдущие поля в сессии не найдены</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบข้อมูลก่อนหน้านี้ใน session</value></content>
+<content><country></country><lang>zh</lang><value>会话中没有找到以前的数据项</value></content>
+<content><country></country><lang>zh_TW</lang><value>會話中沒有找到以前的資料項</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sie sind nicht berechtigt, diesen 'non-exported' Service aufzurufen. Sie müssen sich am System anmelden und die Sicherheitsberechtigung SERVICE_INVOKE_ANY besitzen.</value></content>
+<content><country></country><lang>en</lang><value>You are not authorized to call this non-exported service, you must be logged in and have the SERVICE_INVOKE_ANY permission</value></content>
+<content><country></country><lang>es</lang><value>Usten no está autorizada a invocar a este servicio, para lo cual debe contar con el permiso: SERVICE_INVOKE_ANY</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'êtes pas autorisé à appeler ce sercie non exporté, vous devez  être connecté et avoir l'autorisation du SERVICE_INVOKE_ANY.</value></content>
+<content><country></country><lang>it</lang><value>Tu non sei autorizzato ad eseguire questo servizio non-esportato, tu devi essere autenticato e avere il permesso SERVICE_INVOKE_ANY</value></content>
+<content><country></country><lang>ro</lang><value>Nu esti autorizat sa chemi acest serviciu ne-exportat, trebuie sa fii autentificat si sa ai permisul SERVICE_INVOKE_ANY</value></content>
+<content><country></country><lang>ru</lang><value>Вы не авторизированны для вызова этой не экспортируемой службы, вы должны быть зарегистрированным в системе и иметь права SERVICE_INVOKE_ANY</value></content>
+<content><country></country><lang>th</lang><value>คุณไม่สามารถเรียก service ออกมาได้ คุณต้องเข้าสู่ระบบและได้รับอนุญาตจาก SERVICE_INVOKE_ANY ก่อน</value></content>
+<content><country></country><lang>zh</lang><value>你无权调用这个非输出的服务，你必须登录，并具有SERVICE_INVOKE_ANY权限才行</value></content>
+<content><country></country><lang>zh_TW</lang><value>你無權調用這個非輸出的服務，你必須登錄，並具有SERVICE_INVOKE_ANY權限才行</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sie sind nicht berechtigt, diese Funktion zu verwenden</value></content>
+<content><country></country><lang>en</lang><value>You are not authorized to use this function</value></content>
+<content><country></country><lang>es</lang><value>Usted no está autorizada a usar esta función</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'êtes pas autorisé à utiliser cette fonction</value></content>
+<content><country></country><lang>it</lang><value>Tu non sei autorizzato ad usare questa funzione</value></content>
+<content><country></country><lang>ro</lang><value>Tu nu esti autorizat sa folosesti aceasta functie</value></content>
+<content><country></country><lang>ru</lang><value>Вы не авторизированны для использования этой функции</value></content>
+<content><country></country><lang>th</lang><value>คุณยังไม่ได้รับสิทธิ์ให้ใช้ฟังก์ชันนี้</value></content>
+<content><country></country><lang>zh</lang><value>你没有被授权使用这个功能</value></content>
+<content><country></country><lang>zh_TW</lang><value>你沒有被授權使用這個功能</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Der Service Dispatcher hat eine Exception geworfen</value></content>
+<content><country></country><lang>en</lang><value>Service dispatcher threw an exception</value></content>
+<content><country></country><lang>es</lang><value>Service dispatcher lanzo una excepción</value></content>
+<content><country></country><lang>fr</lang><value>Le service dispatcher a envoyer une exception</value></content>
+<content><country></country><lang>it</lang><value>Dispatcher servizio ha lanciato una eccezione</value></content>
+<content><country></country><lang>ro</lang><value>Dispeceratul de serviciu a lansat o exceptie</value></content>
+<content><country></country><lang>ru</lang><value>Диспетчер служб вызвал исключение</value></content>
+<content><country></country><lang>th</lang><value>Service dispatcher threw an exception</value></content>
+<content><country></country><lang>zh</lang><value>服务执行程序抛出一个意外错误</value></content>
+<content><country></country><lang>zh_TW</lang><value>服務執行程式拋出一個意外錯誤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Der ServiceEventHandler hat eine Exception geworfen</value></content>
+<content><country></country><lang>en</lang><value>ServiceEventHandler threw an exception</value></content>
+<content><country></country><lang>es</lang><value>ServiceEventHandler lanzo una excepción</value></content>
+<content><country></country><lang>fr</lang><value>Le ServiceEventHandler a envoyer une exception</value></content>
+<content><country></country><lang>it</lang><value>ServiceEventHandler ha lanciato una eccezione</value></content>
+<content><country></country><lang>ro</lang><value>ServiceEventHandler a lansat o exceptie</value></content>
+<content><country></country><lang>ru</lang><value>ServiceEventHandler вызвал исключение</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นของ ServiceEventHandler</value></content>
+<content><country></country><lang>zh</lang><value>ServiceEventHandler抛出一个意外错误</value></content>
+<content><country></country><lang>zh_TW</lang><value>ServiceEventHandler拋出一個意外錯誤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ein Service mit diesem Namen wurde nicht gefunden</value></content>
+<content><country></country><lang>en</lang><value>Could not find a service with the serviceName</value></content>
+<content><country></country><lang>es</lang><value>No se pudo encontrar un servicio con ese nombre</value></content>
+<content><country></country><lang>fr</lang><value>Un service ne peut être trouvé par ce nom de service</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile trovare un servizio con serviceName</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila gasirea unui serviciu cu serviceName</value></content>
+<content><country></country><lang>ru</lang><value>Не могу найти службу с serviceName</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบ service ด้วย serviceName นี้</value></content>
+<content><country></country><lang>zh</lang><value>无法找到这个服务：服务名称</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法找到這個服務：服務名稱</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Service wurde eingeplant</value></content>
+<content><country></country><lang>en</lang><value>Service has been scheduled</value></content>
+<content><country></country><lang>es</lang><value>El servicio a sido programado</value></content>
+<content><country></country><lang>fr</lang><value>Le service a été planifié</value></content>
+<content><country></country><lang>it</lang><value>Servizio è stato schedulato</value></content>
+<content><country></country><lang>ro</lang><value>Serviciu a fost Planificat</value></content>
+<content><country></country><lang>ru</lang><value>Служба запланирована</value></content>
+<content><country></country><lang>th</lang><value>Service มีการทำรายการ</value></content>
+<content><country></country><lang>zh</lang><value>服务已列入计划</value></content>
+<content><country></country><lang>zh_TW</lang><value>服務已列入計劃</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>SERVICE_TIME ist bereits vorbei</value></content>
+<content><country></country><lang>en</lang><value>SERVICE_TIME has already passed</value></content>
+<content><country></country><lang>es</lang><value>El tiempo de servicio a concluido</value></content>
+<content><country></country><lang>fr</lang><value>SERVICE_TIME a déjà réussi </value></content>
+<content><country></country><lang>it</lang><value>SERVICE_TIME è già stato passato</value></content>
+<content><country></country><lang>ro</lang><value>SERVICE_TIME a fost deja trecut</value></content>
+<content><country></country><lang>ru</lang><value>SERVICE_TIME уже передан</value></content>
+<content><country></country><lang>th</lang><value>SERVICE_TIME ผ่านเรียบร้อยแล้ว</value></content>
+<content><country></country><lang>zh</lang><value>SERVICE_TIME已经传递了</value></content>
+<content><country></country><lang>zh_TW</lang><value>SERVICE_TIME已經傳遞了</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>This is the blocked message (to be adapted).</value></content>
+<content><country></country><lang>fr</lang><value>Ceci est le message de bloquage (à adapter).</value></content>
+<content><country></country><lang>it</lang><value>Questo è il messaggio bloccante (che deve essere adattato).</value></content>
+<content><country></country><lang>zh</lang><value>这是(要被采用的)被阻塞的信息。</value></content>
+<content><country></country><lang>zh_TW</lang><value>這是(要被採用的)被阻塞的資訊。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>This is the tarpitted message (to be adapted).</value></content>
+<content><country></country><lang>fr</lang><value>Ceci est le message d'engluage (à adapter).</value></content>
+<content><country></country><lang>it</lang><value>Questo è il messaggio (che deve essere adattato).</value></content>
+<content><country></country><lang>zh</lang><value>这是(要被采用的)被延迟的信息。</value></content>
+<content><country></country><lang>zh_TW</lang><value>這是(要被採用的)被延遲的資訊。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler beim Aufruf eines Events</value></content>
+<content><country></country><lang>en</lang><value>Error calling event</value></content>
+<content><country></country><lang>es</lang><value>Error en la llamada el evento</value></content>
+<content><country></country><lang>fr</lang><value>Erreur lors de l'appel de l'événement</value></content>
+<content><country></country><lang>it</lang><value>Errore esecuzione evento</value></content>
+<content><country></country><lang>ro</lang><value>Eroare la executia evenimentului</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка вызова события</value></content>
+<content><country></country><lang>th</lang><value>เกิดความผิดพลาดในการเรียกเหตุการณ์</value></content>
+<content><country></country><lang>zh</lang><value>调用事件时出错</value></content>
+<content><country></country><lang>zh_TW</lang><value>調用事件時出錯</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Not accepting insecure form data posted to a secure request</value></content>
+<content><country></country><lang>es</lang><value>No permite enviarle un forma inseguro a un pedido seguro</value></content>
+<content><country></country><lang>zh</lang><value>不接受把不安全的表单数据提交到安全的请求</value></content>
+<content><country></country><lang>zh_TW</lang><value>不接受把不安全的表單資料提交到安全的請求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Event konnte nicht abgeschlossen werden</value></content>
+<content><country></country><lang>en</lang><value>Could not complete event</value></content>
+<content><country></country><lang>es</lang><value>No se pudo completar el evento</value></content>
+<content><country></country><lang>fr</lang><value>L'événement n'a pas pu être terminé</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile completare questo evento</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila completarea acestui eveniment</value></content>
+<content><country></country><lang>ru</lang><value>Не могу завершить событие</value></content>
+<content><country></country><lang>th</lang><value>เหตุการณ์ยังไม่เสร็จสมบูรณ์</value></content>
+<content><country></country><lang>zh</lang><value>没有完成事件</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有完成事件</value></content>
+</contents></phrase> </phrases>

@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="AddPermissionManuallyToSecurityGroup">
+        <value lang="de">Berechtigung (durch Eingabe) zur Sicherheitsgruppe hinzufügen</value>
+        <value lang="en">Add Permission (manually) to Security Group</value>
+        <value lang="es">Añadir permiso (manualmente) al grupo de seguridad</value>
+        <value lang="fr">Ajouter une autorisation (manuellement) au groupe de sécurité</value>
+        <value lang="hi_IN">सुरक्षा समूह में अनुमति(स्वयं) जोड़ें</value>
+        <value lang="it">Aggiungi permesso (manualmente) al gruppo sicurezza</value>
+        <value lang="nl">Handmatig rechten aan deze beveiligingsgroep toevoegen</value>
+        <value lang="pt_BR">Adicionar permissão (manualmente) ao SecurityGroup</value>
+        <value lang="pt_PT">Adicionar Permissão (manualmente) ao Grupo de Segurança</value>
+        <value lang="ro">Adauga Permis (manual) la Grupul Siguranta</value>
+        <value lang="ru">Добавить права (вручную) в SecurityGroup</value>
+        <value lang="th">เพิ่มการอนุมัติ(ด้วยมือ)ในกลุ่มความปลอดภัย</value>
+        <value lang="zh">(手工)把权限添加到安全组</value>
+        <value lang="zh_TW">(手工)把權限添加到安全組</value>
+    </property>
+    <property key="AddPermissionToSecurityGroup">
+        <value lang="de">Berechtigung (aus Liste) zur Sicherheitsgruppe hinzufügen</value>
+        <value lang="en">Add Permission (from list) to Security Group</value>
+        <value lang="es">Añadir permiso (desde lista) a grupo de seguridad</value>
+        <value lang="fr">Ajouter une autorisation (à partir de la liste) au groupe de sécurité</value>
+        <value lang="hi_IN">सुरक्षा समूह में अनुमति(सूची से) जोड़ें</value>
+        <value lang="it">Aggiungi permesso (dalla lista) al gruppo sicurezza</value>
+        <value lang="nl">Rechten vanaf lijst aan beveiligingsgroep toevoegen</value>
+        <value lang="pt_BR">Adicionar permissão (da lista) ao SecurityGroup</value>
+        <value lang="pt_PT">Adicionar Permissão (da lista)ao Grupo de Segurança</value>
+        <value lang="ro">Adauga Permis (din lista) la Grupul Siguranta</value>
+        <value lang="ru">Добавить права (из списка) в SecurityGroup</value>
+        <value lang="th">เพิ่มการอนุมัติ(จากรายการ)ในกลุ่มความปลอดภัย</value>
+        <value lang="zh">(从列表)把权限添加到安全组</value>
+        <value lang="zh_TW">(從列表)把權限添加到安全組</value>
+    </property>
+    <property key="AddProtectedViewToSecurityGroup">
+        <value lang="en">Add a Protected View to SecurityGroup</value>
+        <value lang="fr">Ajouter une vue protégée à ce groupe de sécurité</value>
+        <value lang="hi_IN">सुरक्षा समूह में सुरक्षित दृष्टिकोण जोड़ें</value>
+        <value lang="it">Aggiungi una vista protetta al gruppo sicurezza</value>
+        <value lang="pt_BR">Adicionar uma visão protegida ao SecurityGroup</value>
+        <value lang="zh">添加一个受保护的视图到安全组</value>
+        <value lang="zh_TW">添加一個受保護的視圖到安全組</value>
+    </property>
+    <property key="AddUserLoginToSecurityGroup">
+        <value lang="de">Benutzeranmeldung zur Sicherheitsgruppe hinzufügen</value>
+        <value lang="en">Add User Login to Security Group</value>
+        <value lang="es">Añadir usuario a grupo de seguridad</value>
+        <value lang="fr">Ajouter un identifiant de connexion à ce groupe de sécurité</value>
+        <value lang="hi_IN">सुरक्षा समूह में प्रयोक्तालॉगिन जोड़ें</value>
+        <value lang="it">Aggiungi utente al gruppo sicurezza</value>
+        <value lang="nl">Loginnaam gebruiker aan beveiligingsgroep toevoegen</value>
+        <value lang="pt_BR">Adicionar usuário e senha ao Grupo de Segurança</value>
+        <value lang="pt_PT">Adicionar Início de Utilizador a Este Grupo de Segurança</value>
+        <value lang="ro">Adauga Utilizator la Grupul Siguranta</value>
+        <value lang="ru">Добавить имя пользователя в группу безопасности</value>
+        <value lang="th">เพิ่มผู้เข้าใช้ระบบในกลุ่มความปลอดภัย</value>
+        <value lang="zh">把用户登录添加到安全组</value>
+        <value lang="zh_TW">把用戶登錄添加到安全組</value>
+    </property>
+    <property key="CertComponent">
+        <value lang="de">Komponente</value>
+        <value lang="en">Component</value>
+        <value lang="es">Componente</value>
+        <value lang="fr">Composant</value>
+        <value lang="hi_IN">घटक</value>
+        <value lang="it">Componente</value>
+        <value lang="nl">Component</value>
+        <value lang="pt_BR">Componente</value>
+        <value lang="th">ส่วนประกอบ</value>
+        <value lang="zh">组件</value>
+        <value lang="zh_TW">元件</value>
+    </property>
+    <property key="CertDetails">
+        <value lang="en">Cert Details</value>
+        <value lang="pt_BR">Detalhes do certificado</value>
+    </property>
+    <property key="CertImportIssuer">
+        <value lang="de">Aussteller importieren</value>
+        <value lang="en">Import Issuer</value>
+        <value lang="es">Imporar emisor</value>
+        <value lang="fr">Émetteur d'importation</value>
+        <value lang="hi_IN">जारीकर्ता आयात करे</value>
+        <value lang="it">Importa Certificato</value>
+        <value lang="nl">Uitgever importeren</value>
+        <value lang="pt_BR">Importar emissor</value>
+        <value lang="th">ปัญหา</value>
+        <value lang="zh">导入发行人</value>
+        <value lang="zh_TW">導入發行人</value>
+    </property>
+    <property key="CertInvalid">
+        <value lang="de">Ungültiges Zertifikat</value>
+        <value lang="en">Invalid certificate</value>
+        <value lang="es">Certificado inválido</value>
+        <value lang="fr">Certificat irrecevable</value>
+        <value lang="hi_IN">अमान्य प्रमाणपत्र</value>
+        <value lang="it">Certificato Invalido</value>
+        <value lang="nl">Ongeldig certificaat</value>
+        <value lang="pt_BR">Certificado Inválido</value>
+        <value lang="th">หนังสือรับรองไม่ถูกต้อง</value>
+        <value lang="zh">无效的证书</value>
+        <value lang="zh_TW">無效的証書</value>
+    </property>
+    <property key="CertIssuers">
+        <value lang="de">Zertifikatsersteller</value>
+        <value lang="en">Cert Issuers</value>
+        <value lang="es">Emisores de certificados</value>
+        <value lang="fr">Émetteurs de certificat</value>
+        <value lang="hi_IN">प्रमाणपत्र के प्रदाता</value>
+        <value lang="it">Fornitori di certificati</value>
+        <value lang="nl">Certificaat-uitgever</value>
+        <value lang="pt_BR">Emissores de certificados</value>
+        <value lang="ru">Эмитенты сертификата</value>
+        <value lang="th">ประเด็น</value>
+        <value lang="zh">证书发行人</value>
+        <value lang="zh_TW">証書發行人</value>
+    </property>
+    <property key="CertKeyAlias">
+        <value lang="de">Schlüssel Alias</value>
+        <value lang="en">Key Alias</value>
+        <value lang="es">Alias de clave</value>
+        <value lang="fr">Clé d'alias</value>
+        <value lang="hi_IN">कुंजी के उपनाम</value>
+        <value lang="it">Chiave Alias</value>
+        <value lang="nl">Key-alias</value>
+        <value lang="pt_BR">Sinônimo de chave</value>
+        <value lang="th">ใช้อีกชื่อหนึ่งว่า</value>
+        <value lang="zh">密钥别名</value>
+        <value lang="zh_TW">密鑰別名</value>
+    </property>
+    <property key="CertKeyStore">
+        <value lang="de">KeyStore</value>
+        <value lang="en">Keystore</value>
+        <value lang="es">Fondo de claves</value>
+        <value lang="fr">Clé de magasin</value>
+        <value lang="hi_IN">कुंजीस्टोर</value>
+        <value lang="it">Keystore</value>
+        <value lang="nl">Keystore</value>
+        <value lang="pt_BR">Base de chaves</value>
+        <value lang="th">รหัสการเก็บข้อมูล</value>
+        <value lang="zh">密钥库</value>
+        <value lang="zh_TW">密鑰庫</value>
+    </property>
+    <property key="CertName">
+        <value lang="de">Zertifikat Name</value>
+        <value lang="en">Cert Name</value>
+        <value lang="es">Nombre del certificado</value>
+        <value lang="fr">Nom de Certificat</value>
+        <value lang="hi_IN">प्रमाणपत्र का नाम</value>
+        <value lang="it">Nome Certificato</value>
+        <value lang="nl">Naam certificaat</value>
+        <value lang="pt_BR">Nome do certificado</value>
+        <value lang="th">ชื่อจริง</value>
+        <value lang="zh">证书名</value>
+        <value lang="zh_TW">証書名</value>
+    </property>
+    <property key="CertSaveToKeyStore">
+        <value lang="de">Im KeyStore speichern</value>
+        <value lang="en">Save to Keystore</value>
+        <value lang="es">Guardar en el fondo de claves</value>
+        <value lang="fr">Sauver dans le magasin de clés</value>
+        <value lang="hi_IN">कुंजीस्टोर में सहेजें</value>
+        <value lang="it">Salva sul KeyStore</value>
+        <value lang="nl">In keystore opslaan</value>
+        <value lang="pt_BR">Salvar na base de chaves</value>
+        <value lang="th">บันทึกรหัสการเก็บข้อมูล</value>
+        <value lang="zh">保存到密钥库</value>
+        <value lang="zh_TW">保存到密鑰庫</value>
+    </property>
+    <property key="CertSerialNumber">
+        <value lang="de">Zertifikat Seriennummer</value>
+        <value lang="en">Cert Serial Number</value>
+        <value lang="es">Nº de serie del certificado</value>
+        <value lang="fr">N° de série de Certificat</value>
+        <value lang="hi_IN">प्रमाणपत्र क्रम संख्या</value>
+        <value lang="it">Numero di Serie Certificato</value>
+        <value lang="nl">Serienummer certificaat</value>
+        <value lang="pt_BR">Número de série do certificado</value>
+        <value lang="th">หมายเลขลำดับ</value>
+        <value lang="zh">证书序列号</value>
+        <value lang="zh_TW">証書序列號</value>
+    </property>
+    <property key="CertType">
+        <value lang="de">Zertifikat Typ</value>
+        <value lang="en">Cert Type</value>
+        <value lang="es">Tipo de certificado</value>
+        <value lang="fr">Type de Certificat</value>
+        <value lang="hi_IN">प्रमाणपत्र का प्रकार</value>
+        <value lang="it">Tipo Certificato</value>
+        <value lang="nl">Type certificaat</value>
+        <value lang="pt_BR">Tipo de certificado</value>
+        <value lang="th">ประเภท</value>
+        <value lang="zh">证书类型</value>
+        <value lang="zh_TW">証書類型</value>
+    </property>
+    <property key="CreateUserLogin">
+        <value lang="de">Benutzeranmeldung erstellen</value>
+        <value lang="en">Create User Login</value>
+        <value lang="es">Crear usuario</value>
+        <value lang="fr">Création d'un identifiant de connexion</value>
+        <value lang="hi_IN">प्रयोक्तालॉगिन बनाएँ</value>
+        <value lang="it">Creare Utente</value>
+        <value lang="nl">Nieuwe gebruiker</value>
+        <value lang="pt_BR">Criar nome usuário</value>
+        <value lang="ro">Creare Utilizator</value>
+        <value lang="ru">Создать имя входа</value>
+        <value lang="th">สร้างผู้ใช้ระบบ</value>
+        <value lang="zh">创建用户登录</value>
+        <value lang="zh_TW">建立使用者登入</value>
+    </property>
+    <property key="FindUserLogin">
+        <value lang="en">Find User Login</value>
+        <value lang="it">Ricerca utenti</value>
+        <value lang="pt_BR">Encontrar Nome de Usuário</value>
+    </property>
+    <property key="FormFieldTitle_currentPassword">
+        <value lang="de">Aktuelles Passwort</value>
+        <value lang="en">Current Password</value>
+        <value lang="es">Clave actual</value>
+        <value lang="fr">Mot de passe actuel</value>
+        <value lang="hi_IN">वर्तमान पासवर्ड</value>
+        <value lang="it">Password attuale</value>
+        <value lang="nl">Huidig wachtwoord</value>
+        <value lang="pt_BR">Senha atual</value>
+        <value lang="ro">Parola Actuala</value>
+        <value lang="ru">Действующий пароль</value>
+        <value lang="th">รหัสผ่านปัจจุบัน</value>
+        <value lang="zh">当前密码</value>
+        <value lang="zh_TW">目前密碼</value>
+    </property>
+    <property key="FormFieldTitle_currentPasswordVerify">
+        <value lang="de">Überprüfung des aktuellen Passworts</value>
+        <value lang="en">Current Password Verify</value>
+        <value lang="es">Verificar clave actual</value>
+        <value lang="fr">Vérification du mot de passe actuel</value>
+        <value lang="hi_IN">वर्तमान पासवर्ड सत्यापित करें</value>
+        <value lang="it">Verifica password attuale</value>
+        <value lang="nl">Verificatie huidig wachtwoord</value>
+        <value lang="pt_BR">Verificação da senha atual</value>
+        <value lang="ro">Verifica Parola Actuala </value>
+        <value lang="ru">Действующий пароль повторно</value>
+        <value lang="th">ยืนยันรหัสผ่าน</value>
+        <value lang="zh">当前密码验证</value>
+        <value lang="zh_TW">目前密碼驗証</value>
+    </property>
+    <property key="FormFieldTitle_disabledDateTime">
+        <value lang="en">Disabled Date Time</value>
+        <value lang="it">Disabilitato dal</value>
+    </property>
+    <property key="FormFieldTitle_enabled">
+        <value lang="ar">شغال</value>
+        <value lang="de">Aktiviert</value>
+        <value lang="en">Enabled</value>
+        <value lang="es">Habilitado</value>
+        <value lang="fr">Disponible</value>
+        <value lang="hi_IN">सक्रिय</value>
+        <value lang="it">Abilitato</value>
+        <value lang="nl">Beschikbaar</value>
+        <value lang="pt">Activado</value>
+        <value lang="pt_BR">Habilitado</value>
+        <value lang="ro">Abilitat</value>
+        <value lang="ru">Доступно</value>
+        <value lang="th">สามารถ</value>
+        <value lang="zh">有效</value>
+        <value lang="zh_CN">启用</value>
+        <value lang="zh_TW">有效</value>
+    </property>
+    <property key="FormFieldTitle_externalAuthId">
+        <value lang="en">External Auth Id</value>
+        <value lang="it">Codice autenticazione esterna</value>
+    </property>
+    <property key="FormFieldTitle_hasLoggedOut">
+        <value lang="en">Has Logged Out</value>
+        <value lang="it">Uscito dal sistema</value>
+    </property>
+    <property key="FormFieldTitle_maxHits">
+        <value lang="en">Maximum number of visits</value>
+        <value lang="fr">Nombre maximum de visites</value>
+        <value lang="hi_IN">यात्राओं(visits) की अधिकतम संख्या</value>
+        <value lang="it">Massimo numero di visite</value>
+        <value lang="nl">Maximaal aantal bezoeken</value>
+        <value lang="pt_BR">Número máximo de visitas</value>
+        <value lang="zh">最大访问数量</value>
+        <value lang="zh_TW">最大訪問數量</value>
+    </property>
+    <property key="FormFieldTitle_maxHitsDuration">
+        <value lang="en">Duration during which the visits are considered (in seconds)</value>
+        <value lang="fr">Durée pendant laquelle les visites sont considérées (en secondes)</value>
+        <value lang="hi_IN">अवधि जिसके दौरान यात्राओं पर विचार कर रहे हैं (सेकंड में)</value>
+        <value lang="it">Durata nella quale le visite sono considerate (in secondi)</value>
+        <value lang="pt_BR">Período durante o qual as visitas são consideradas (segundos)</value>
+        <value lang="zh">访问停留时间(秒)</value>
+        <value lang="zh_TW">訪問停留時間(秒)</value>
+    </property>
+    <property key="FormFieldTitle_newPassword">
+        <value lang="de">Neues Passwort</value>
+        <value lang="en">New Password</value>
+        <value lang="es">Nueva clave</value>
+        <value lang="fr">Nouveau mot de passe</value>
+        <value lang="hi_IN">नया पासवर्ड</value>
+        <value lang="it">Nuova password</value>
+        <value lang="nl">Nieuw wachtwoord</value>
+        <value lang="pt_BR">Nova senha</value>
+        <value lang="ro">Parola Noua</value>
+        <value lang="ru">Новый пароль</value>
+        <value lang="th">รหัสผ่านใหม่</value>
+        <value lang="zh">新密码</value>
+        <value lang="zh_TW">新密碼</value>
+    </property>
+    <property key="FormFieldTitle_newPasswordVerify">
+        <value lang="de">Überprüfung neues Passwort</value>
+        <value lang="en">Verify New Password</value>
+        <value lang="es">Validar nueva clave</value>
+        <value lang="fr">Vérification du nouveau mot de passe</value>
+        <value lang="hi_IN">नया पासवर्ड सत्यापित करें</value>
+        <value lang="it">Verifica nuova password</value>
+        <value lang="pt_BR">Verificação da nova senha</value>
+        <value lang="ro">Verifica Parola Noua</value>
+        <value lang="ru">Новый пароль повторно</value>
+        <value lang="th">ยืนยันรหัสผ่านใหม่</value>
+        <value lang="zh">新密码验证</value>
+        <value lang="zh_TW">新密碼驗証</value>
+    </property>
+    <property key="FormFieldTitle_passwordHint">
+        <value lang="en">Password Hint</value>
+        <value lang="it">Suggerimento password</value>
+    </property>
+    <property key="FormFieldTitle_requirePasswordChange">
+        <value lang="en">Require Password Change</value>
+        <value lang="fr">Changement mot de passe obligatoire</value>
+        <value lang="hi_IN">पासवर्ड परिवर्तित किया जाना चाहिए</value>
+        <value lang="it">Richiesto cambio password</value>
+        <value lang="pt_BR">Pedir alteração de senha</value>
+        <value lang="zh">必须修改密码</value>
+        <value lang="zh_TW">必須修改密碼</value>
+    </property>
+    <property key="FormFieldTitle_successiveFailedLogins">
+        <value lang="en">Successive Failed Logins</value>
+        <value lang="it">Accessi falliti consecutivi</value>
+    </property>
+    <property key="FormFieldTitle_tarpitDuration">
+        <value lang="en">Duration during which the view will not be accessible (in seconds)</value>
+        <value lang="fr">Durée pendant laquelle la vue ne sera plus accessible (en secondes)</value>
+        <value lang="hi_IN">अवधि जिसके दौरान देखना सुलभ नहीं होगा (सेकंड में)</value>
+        <value lang="it">Tempo durante il quale la vista non è accessibile (in secondi)</value>
+        <value lang="pt_BR">Período durante o qual a vista não poderá ser acessada (em segundos)</value>
+        <value lang="zh">视图不能访问的时长(秒)</value>
+        <value lang="zh_TW">視圖不能訪問的時長(秒)</value>
+    </property>
+    <property key="FormFieldTitle_userLdapDn">
+        <value lang="de">LDAP Distinguished Name</value>
+        <value lang="en">LDAP Distinguished Name</value>
+        <value lang="es">Nombre distinguido LDAP</value>
+        <value lang="fr">Nom LDAP distinct</value>
+        <value lang="hi_IN">एलडीएपी(LDAP) विशिष्ट नाम</value>
+        <value lang="it">Nome distinto LDAP</value>
+        <value lang="nl">LDAP Distinguished Name</value>
+        <value lang="pt_BR">Nome único de LDAP</value>
+        <value lang="zh">LDAP专有名</value>
+        <value lang="zh_TW">LDAP專有名</value>
+    </property>
+    <property key="FormFieldTitle_userLoginId">
+        <value lang="de">Benutzeranmeldung ID</value>
+        <value lang="en">User Login ID</value>
+        <value lang="es">Código de usuario para conexión</value>
+        <value lang="fr">Identifiant de connexion</value>
+        <value lang="hi_IN">प्रयोक्ता लॉगिन क्रमांक</value>
+        <value lang="it">Codice utente</value>
+        <value lang="nl">Loginnaam gebruiker</value>
+        <value lang="pt_BR">Id de login do usuário</value>
+        <value lang="ro">Utilizator Login</value>
+        <value lang="ru">Код имени пользователя</value>
+        <value lang="th">รหัสผู้ใช้ที่เข้าสู่ระบบ</value>
+        <value lang="zh">用户登录标识</value>
+        <value lang="zh_TW">使用者登入ID</value>
+    </property>
+    <property key="FormFieldTitle_viewNameId">
+        <value lang="en">View Name</value>
+        <value lang="fr">Nom de la vue</value>
+        <value lang="hi_IN">नाम देखें</value>
+        <value lang="it">Nome della vista</value>
+        <value lang="pt_BR">Ver nome</value>
+        <value lang="zh">浏览名称</value>
+        <value lang="zh_TW">瀏覽名稱</value>
+    </property>
+    <property key="LookupUserLogin">
+        <value lang="en">Lookup User Login</value>
+        <value lang="pt_BR">Pesquisar Nome de Usuário</value>
+    </property>
+    <property key="NewSecurityGroup">
+        <value lang="de">Neue Sicherheitsgruppe</value>
+        <value lang="en">New Security Group</value>
+        <value lang="es">Nuevo grupo de seguridad</value>
+        <value lang="fr">Nouveau groupe de sécurité</value>
+        <value lang="hi_IN">नया सुरक्षा समूह</value>
+        <value lang="it">Nuovo gruppo sicurezza</value>
+        <value lang="nl">Nieuwe beveiligingsgroep</value>
+        <value lang="pt_BR">Novo grupo de segurança</value>
+        <value lang="pt_PT">Novo Grupo de Segurança</value>
+        <value lang="ro">Nou Grup De Siguranta</value>
+        <value lang="ru">Новая группа безопасности</value>
+        <value lang="th">กลุ่มความปลอดภัยใหม่</value>
+        <value lang="zh">新建安全组</value>
+        <value lang="zh_TW">新建安全組</value>
+    </property>
+    <property key="PageTitleAddIssuerProvisions">
+        <value lang="de">Aussteller Bestimmungen hinzufügen</value>
+        <value lang="en">Add Issuer Provisions</value>
+        <value lang="es">Añadir condiciones de emisor</value>
+        <value lang="fr">Ajoutez les dispositions d'émetteur</value>
+        <value lang="hi_IN">जारीकर्ता के प्रावधान जोड़ें</value>
+        <value lang="it">Aggiungi fornitore di certificati</value>
+        <value lang="nl">Provisies uitgever toevoegen</value>
+        <value lang="pt_BR">Adicionar emissor de provisões</value>
+        <value lang="th">เพิ่มการจำแนกเงื่อนไข</value>
+        <value lang="zh">添加发行人信息</value>
+        <value lang="zh_TW">添加發行人資訊</value>
+    </property>
+    <property key="PageTitleEditIssuerProvisions">
+        <value lang="de">Aussteller Bestimmungen bearbeiten</value>
+        <value lang="en">Edit Issuer Provisions</value>
+        <value lang="es">Editar condiciones de emisor</value>
+        <value lang="fr">Modifier les dispositions d'émetteur</value>
+        <value lang="hi_IN">निर्गमकर्ता प्रावधानों को संपादित करें</value>
+        <value lang="it">Aggiorna Fornitore Certificati</value>
+        <value lang="nl">Provisies uitgever wijzigen</value>
+        <value lang="pt_BR">Editar emissor de provisões</value>
+        <value lang="ru">Изменить запасы отгрузчика</value>
+        <value lang="th">แก้ไขประเด็นที่ผ่านมา</value>
+        <value lang="zh">编辑发行人信息</value>
+        <value lang="zh_TW">編輯發行人資訊</value>
+    </property>
+    <property key="PageTitleEditSecurityGroup">
+        <value lang="de">Sicherheitsgruppe bearbeiten</value>
+        <value lang="en">Edit Security Group</value>
+        <value lang="es">Editar grupo de seguridad</value>
+        <value lang="fr">Modifier le groupe de sécurité</value>
+        <value lang="hi_IN">सुरक्षा समूह को संपादित करें</value>
+        <value lang="it">Aggiorna gruppo sicurezza</value>
+        <value lang="nl">Beveiligingsgroepen wijzigen</value>
+        <value lang="pt_BR">Editar grupo de segurança</value>
+        <value lang="pt_PT">Editar Grupo de Segurança</value>
+        <value lang="ro">Actualizare Grup Siguranta</value>
+        <value lang="ru">Изменить группу безопасности</value>
+        <value lang="th">แก้ไขกลุ่มความปลอดภัย</value>
+        <value lang="zh">编辑安全组</value>
+        <value lang="zh_TW">編輯安全組</value>
+    </property>
+    <property key="PageTitleEditSecurityGroupPermissions">
+        <value lang="de">Sicherheitsgruppe Berechtigungen bearbeiten</value>
+        <value lang="en">Edit Security Group Permissions</value>
+        <value lang="es">Editar permisos</value>
+        <value lang="fr">Modifier les autorisations du groupe de sécurité</value>
+        <value lang="hi_IN">सुरक्षा समूह अनुमति को संपादित करें</value>
+        <value lang="it">Aggiorna permessi gruppo sicurezza</value>
+        <value lang="nl">Toegangsrechten beveiligingsgroep wijzigen</value>
+        <value lang="pt_BR">Editar permissões de grupo de segurança</value>
+        <value lang="pt_PT">Editar Permissões do Grupo de Segurança</value>
+        <value lang="ro">Actualizare Permisuri Grup Siguranta</value>
+        <value lang="ru">Изменить права группы безопасности</value>
+        <value lang="th">แก้ไขการอนุญาตกลุ่มความปลอดภัย</value>
+        <value lang="zh">编辑安全组权限</value>
+        <value lang="zh_TW">編輯安全組權限</value>
+    </property>
+    <property key="PageTitleEditUserLoginSecurityGroups">
+        <value lang="de">Sicherheitsgruppen zur Benuterzanmeldung bearbeiten</value>
+        <value lang="en">Edit User Login Security Groups</value>
+        <value lang="es">Editar grupos de seguridad</value>
+        <value lang="fr">Modifier les groupes de sécurité de l'identifiant de connexion </value>
+        <value lang="hi_IN">प्रयोक्तालॉगिन के सुरक्षा समूह को संपादित करें</value>
+        <value lang="it">Aggiorna Gruppi Sicurezza Utente</value>
+        <value lang="nl">Beveiligingsgroepen userlogin wijzigen</value>
+        <value lang="pt_BR">Editar usuários/senhas dos grupos de segurança</value>
+        <value lang="ro">Actualizare Grup Siguranta Utilizator</value>
+        <value lang="ru">Изменить группу безопасности для имени пользователя</value>
+        <value lang="th">แก้ไขกลุ่มความปลอดภัยของผู้เข้าใช้ระบบ</value>
+        <value lang="zh">编辑用户登录安全组</value>
+        <value lang="zh_TW">編輯用戶登錄安全組</value>
+    </property>
+    <property key="PageTitleFindSecurityGroup">
+        <value lang="de">Sicherheitsgruppe suchen</value>
+        <value lang="en">Find Security Group</value>
+        <value lang="es">Buscar grupo de seguridad</value>
+        <value lang="fr">Recherche de groupes de sécurité</value>
+        <value lang="hi_IN">सुरक्षा समूह खोजें</value>
+        <value lang="it">Ricerca gruppi sicurezza</value>
+        <value lang="nl">Beveiligingsgroep(en) vinden</value>
+        <value lang="pt_BR">Procurar grupo de segurança</value>
+        <value lang="ro">Cauta Grup Siguranta</value>
+        <value lang="ru">Найти группу безопасности</value>
+        <value lang="th">ค้นหากลุ่มความปลอดภัย</value>
+        <value lang="zh">查找安全组</value>
+        <value lang="zh_TW">查找安全組</value>
+    </property>
+    <property key="PageTitleImportCertificate">
+        <value lang="de">Zertifikat importieren</value>
+        <value lang="en">Import Certificate</value>
+        <value lang="es">Importar certificado</value>
+        <value lang="fr">Importer le certificat</value>
+        <value lang="hi_IN">प्रमाणपत्र आयात करे</value>
+        <value lang="it">Importa Certificato</value>
+        <value lang="nl">Certificaat importeren</value>
+        <value lang="pt_BR">Importar certificado</value>
+        <value lang="ru">Импортировать сертификат</value>
+        <value lang="th">มีใบรับรอง</value>
+        <value lang="zh">导入证书</value>
+        <value lang="zh_TW">導入証書</value>
+    </property>
+    <property key="PermissionId">
+        <value lang="de">Berechtigung ID</value>
+        <value lang="en">Permission ID</value>
+        <value lang="es">Código de permiso</value>
+        <value lang="fr">Autorisation</value>
+        <value lang="hi_IN">अनुमति क्रमांक</value>
+        <value lang="it">Codice permesso</value>
+        <value lang="nl">Permissie</value>
+        <value lang="pt_BR">ID de permissão</value>
+        <value lang="pt_PT">ID de Permissão</value>
+        <value lang="ro">Cod Permis</value>
+        <value lang="ru">Код прав</value>
+        <value lang="th">รหัสใบอนุญาต</value>
+        <value lang="zh">权限标识</value>
+        <value lang="zh_TW">權限ID</value>
+    </property>
+    <property key="Permissions">
+        <value lang="de">Berechtigungen</value>
+        <value lang="en">Permissions</value>
+        <value lang="es">Permisos</value>
+        <value lang="fr">Autorisations</value>
+        <value lang="hi_IN">अनुमतियाँ</value>
+        <value lang="it">Permessi</value>
+        <value lang="nl">Permissies</value>
+        <value lang="pt_BR">Permissões</value>
+        <value lang="pt_PT">Permissões</value>
+        <value lang="ro">Permis</value>
+        <value lang="ru">Права</value>
+        <value lang="th">อนุญาต</value>
+        <value lang="zh">权限</value>
+        <value lang="zh_TW">權限</value>
+    </property>
+    <property key="ProtectedViews">
+        <value lang="en">Protected Views</value>
+        <value lang="fr">Vues protégées</value>
+        <value lang="hi_IN">संरक्षित दृश्य</value>
+        <value lang="it">Viste protette</value>
+        <value lang="pt_BR">Vistas protegidas</value>
+        <value lang="zh">受保护的视图</value>
+        <value lang="zh_TW">受保護的視圖</value>
+    </property>
+    <property key="SecurityGroups">
+        <value lang="de">Sicherheitsgruppen</value>
+        <value lang="en">Security Groups</value>
+        <value lang="es">Grupos de seguridad</value>
+        <value lang="fr">Groupes de sécurité</value>
+        <value lang="hi_IN">सुरक्षा समूह</value>
+        <value lang="it">Gruppo di sicurezza</value>
+        <value lang="nl">Beveiligingsgroepen</value>
+        <value lang="pt_BR">Grupos de segurança</value>
+        <value lang="pt_PT">Grupos de Segurança</value>
+        <value lang="ro">Grupuri De Siguranta</value>
+        <value lang="ru">Группы безопасности</value>
+        <value lang="th">กลุ่มความปลอดภัย</value>
+        <value lang="zh">安全组</value>
+        <value lang="zh_TW">安全群組</value>
+    </property>
+    <property key="SecurityGroupsList">
+        <value lang="de">Liste der Sicherheitsgruppen</value>
+        <value lang="en">SecurityGroups List</value>
+        <value lang="es">Lista de grupos de seguridad</value>
+        <value lang="fr">Liste des groupes de sécurité</value>
+        <value lang="hi_IN">सुरक्षासमूह की सूची</value>
+        <value lang="it">Lista gruppi sicurezza</value>
+        <value lang="nl">Overzicht beveiligingsgroepen</value>
+        <value lang="pt_BR">Lista de grupos de segurança</value>
+        <value lang="pt_PT">Lista de Grupos de Segurança</value>
+        <value lang="ro">Lista Grupuri De Siguranta</value>
+        <value lang="ru">Список групп безопасности</value>
+        <value lang="th">รายการกลุ่มความปลอดภัย</value>
+        <value lang="zh">安全组列表</value>
+        <value lang="zh_TW">安全群組列表</value>
+    </property>
+    <property key="SecurityViewPermissionError">
+        <value lang="de">Sicherheitsfehler: Sie haben nicht die Berechtigung diese Seite anzusehen. ("SECURITY_VIEW" oder "SECURITY_ADMIN" benötigt) </value>
+        <value lang="en">SecurityViewPermissionError You do not have permission to view this page. ("SECURITY_VIEW" or "SECURITY_ADMIN" needed)</value>
+        <value lang="es">Error de seguridad: para acceder a esta funcionalidad debe contar con los permisos SECURITY_VIEW o SECURITY_ADMIN</value>
+        <value lang="fr">Error Vous n'avez pas l'autorisation de voir cette page. ("SECURITY_VIEW" ou "SECURITY_ADMIN" est nécessaire)</value>
+        <value lang="hi_IN">PartySecurityViewPermissionError आपको इस पृष्ठ को देखने की अनुमति नहीं है|("SECURITY_VIEW" या "SECURITY_ADMIN" की आवश्यकता)</value>
+        <value lang="it">SecurityViewPermissionError Tu non sei autorizzato a vedere questa pagina. (I permessi "SECURITY_VIEW" o "SECURITY_ADMIN" sono necessari)</value>
+        <value lang="nl">Toegangfout: PartySecurityViewPermissionError You do not have permission to view this page. ("SECURITY_VIEW" or "SECURITY_ADMIN" needed)</value>
+        <value lang="pt_BR">Erro de segurança: você não possui permissão para visualizar esta página. (necessário "SECURITY_VIEW" ou "SECURITY_ADMIN")</value>
+        <value lang="pt_PT">Erro de Segurança na visualização de Secções Você não tem permissão para visualizar esta página (necessário "SECURITY_VIEW" ou "SECURITY_ADMIN").</value>
+        <value lang="ro">SecurityViewPermissionError Tu nu esti autorizat sa vezi aceasta pagina. (Este necesar sa ai Permisul "SECURITY_VIEW" sau "SECURITY_ADMIN")</value>
+        <value lang="ru">SecurityViewPermissionError У вас нет прав на просмотр этой страницы. (необходимы "SECURITY_VIEW" или "SECURITY_ADMIN")</value>
+        <value lang="th">ผิดพลาด ! ความปลอดภัยของกลุ่มผู้ใช้ในการได้รับอนุญาตในการดู  คุณยังไม่ได้รับอุญาตให้ดูหน้านี้ ("SECURITY_VIEW" หรือ "SECURITY_ADMIN" ตามที่คุณต้องการ)</value>
+        <value lang="zh">SecurityViewPermissionError 你没有权限浏览本页面。 (需要"SECURITY_VIEW" 或 "SECURITY_ADMIN")</value>
+        <value lang="zh_TW">SecurityViewPermissionError 你沒有權限瀏覽本頁面。 (需要"SECURITY_VIEW" 或 "SECURITY_ADMIN")</value>
+    </property>
+    <property key="UserLogin">
+        <value lang="en">User Login</value>
+        <value lang="it">Utente</value>
+        <value lang="pt_BR">Nome de Usuário</value>
+    </property>
+    <property key="UserLoginChangePassword">
+        <value lang="de">Passwort der Benutzeranmeldung ändern</value>
+        <value lang="en">Change User Login Password</value>
+        <value lang="es">Cambiar clave de conexión</value>
+        <value lang="fr">Changer le mot de passe de connexion</value>
+        <value lang="hi_IN">प्रयोक्तालॉगिन का पासवर्ड बदलें</value>
+        <value lang="it">Cambio password utente</value>
+        <value lang="nl">Wachtwoord wijzigen</value>
+        <value lang="pt_BR">Alterar senha do nome de usuário</value>
+        <value lang="ro">Schimb Parola Utilizator Login</value>
+        <value lang="ru">Изменение пароля пользователя</value>
+        <value lang="th">เปลี่ยนรหัสผ่านผู้เข้าใช้ระบบ</value>
+        <value lang="zh">修改用户登录密码</value>
+        <value lang="zh_TW">修改用戶登錄密碼</value>
+    </property>
+    <property key="UserLoginUpdateSecuritySettings">
+        <value lang="de">Benutzeranmeldung Sicherheitsberechtigungen aktualisieren</value>
+        <value lang="en">Update User Login Security Settings</value>
+        <value lang="fr">Mise à jour des paramètres de sécurité pour l'identifiant de connexion</value>
+        <value lang="hi_IN">प्रयोक्ता लॉगिन सुरक्षा सेटिंग्स नवीनतम करे</value>
+        <value lang="it">Aggiorna impostazioni sicurezza utente</value>
+        <value lang="nl">UserLogin Security Settings wijzigen</value>
+        <value lang="pt_BR">Atualizar configurações de segurança do nome de usuário</value>
+        <value lang="ro">Actualizare Setari De Siguranta Utilizator Login</value>
+        <value lang="ru">Обновление настроек безопасности пользователя</value>
+        <value lang="th">เปลี่ยนแปลงการตั้งค่าความปลอดภัยของผู้เข้าใช้ระบบ</value>
+        <value lang="zh">更新用户登录安全设置</value>
+        <value lang="zh_TW">更新用戶登錄安全設置</value>
+    </property>
+    <property key="UserLogins">
+        <value lang="de">Benutzeranmeldungen</value>
+        <value lang="en">User Logins</value>
+        <value lang="es">Usuarios</value>
+        <value lang="fr">Utilisateurs de connexion</value>
+        <value lang="hi_IN">प्रयोक्ता लॉगिन</value>
+        <value lang="it">Utenti</value>
+        <value lang="nl">User logins</value>
+        <value lang="pt_BR">Nomes de usuário</value>
+        <value lang="pt_PT">Inícios de Secção</value>
+        <value lang="ro">Utilizatori Login</value>
+        <value lang="ru">Имена пользователей</value>
+        <value lang="th">ผู้เข้าใช้ระบบ</value>
+        <value lang="zh">用户登录</value>
+        <value lang="zh_TW">用戶登錄</value>
+    </property>
+    <property key="ViewCert">
+        <value lang="de">Zertifikat anzeigen</value>
+        <value lang="en">View Cert</value>
+        <value lang="es">Ver certificado</value>
+        <value lang="fr">Afficher le certificat</value>
+        <value lang="hi_IN">प्रमाणपत्र देखें</value>
+        <value lang="it">Mostra certificato</value>
+        <value lang="nl">Certificaat bekijken</value>
+        <value lang="pt_BR">Ver certificado</value>
+        <value lang="ru">Просмотр сертификата</value>
+        <value lang="th">แสดงความมั่นใจ</value>
+        <value lang="zh">浏览证书</value>
+        <value lang="zh_TW">瀏覽証書</value>
+    </property>
+</resource>

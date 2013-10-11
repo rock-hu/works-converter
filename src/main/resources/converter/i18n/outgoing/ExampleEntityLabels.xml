@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Desired</value></content>
+<content><country></country><lang>fr</lang><value>Désiré</value></content>
+<content><country></country><lang>it</lang><value>Desiderato</value></content>
+<content><country></country><lang>th</lang><value>ความต้องการ</value></content>
+<content><country></country><lang>zh</lang><value>期望的</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Not Allowed</value></content>
+<content><country></country><lang>fr</lang><value>Non laissé</value></content>
+<content><country></country><lang>it</lang><value>Non Permesso</value></content>
+<content><country></country><lang>th</lang><value>ไม่อนุญาต</value></content>
+<content><country></country><lang>zh</lang><value>不允许</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Required</value></content>
+<content><country></country><lang>fr</lang><value>Requis</value></content>
+<content><country></country><lang>it</lang><value>Richiesto</value></content>
+<content><country></country><lang>th</lang><value>ความต้องการ</value></content>
+<content><country></country><lang>zh</lang><value>必须的</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Contrived</value></content>
+<content><country></country><lang>fr</lang><value>Arrangé</value></content>
+<content><country></country><lang>it</lang><value>Inventato</value></content>
+<content><country></country><lang>th</lang><value>เป็นไปตามที่วางแผนไว้</value></content>
+<content><country></country><lang>zh</lang><value>人为的</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Inspired</value></content>
+<content><country></country><lang>fr</lang><value>Inspiré</value></content>
+<content><country></country><lang>it</lang><value>Ispirato</value></content>
+<content><country></country><lang>th</lang><value>ยอดเยี่ยม</value></content>
+<content><country></country><lang>zh</lang><value>受启发的</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Made Up</value></content>
+<content><country></country><lang>fr</lang><value>Composé</value></content>
+<content><country></country><lang>it</lang><value>Composto</value></content>
+<content><country></country><lang>th</lang><value>ทำขึ้น</value></content>
+<content><country></country><lang>zh</lang><value>制定</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Real World</value></content>
+<content><country></country><lang>fr</lang><value>Monde réel</value></content>
+<content><country></country><lang>it</lang><value>Mondo Reale</value></content>
+<content><country></country><lang>th</lang><value>สภาพที่เป็นจริง</value></content>
+<content><country></country><lang>zh</lang><value>真实世界</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Example Entity</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>A unique Example ID. If you don't assign an ID, one will be generated automatically</value></content>
+<content><country></country><lang>fr</lang><value>Une réf. unique d'exemple. Si vous n'entrez pas de réf., elle sera générée automatiquement</value></content>
+<content><country></country><lang>it</lang><value>Un codice esempio univoco. Se tu non assegni un codice, uno verrà generato automaticamente</value></content>
+<content><country></country><lang>th</lang><value>รหัสตัวอย่าง ถ้าไม่มีการกำหนดรหัส จะต้องมีการสร้างขึ้นอัตโมัติ</value></content>
+<content><country></country><lang>zh</lang><value>一个唯一的样例表示。如果你没有指定一个标识，那么会自动生成一个</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>A unique Example Item sequence ID. If you don't assign an ID, one will be generated automatically</value></content>
+<content><country></country><lang>fr</lang><value>Une réf. unique d'article exemple. Si vous n'entrez pas de réf., elle sera générée automatiquement</value></content>
+<content><country></country><lang>it</lang><value>Un codice riga esempio univoco. Se tu non assegni un codice, uno verrà generato automaticamente</value></content>
+<content><country></country><lang>th</lang><value>รหัสตัวอย่างสินค้า ถ้าไม่มีการกำหนดรหัส จะต้องมีการสร้างขึ้นอัตโมัติ</value></content>
+<content><country></country><lang>zh</lang><value>一个唯一的样例明细序号。如果你没有指定一个标识，那么会自动生成一个</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>A unique Example Type ID. If you don't assign an ID, one will be generated automatically</value></content>
+<content><country></country><lang>fr</lang><value>Une réf. unique de type exemple. Si vous n'entrez pas de réf., elle sera générée automatiquement</value></content>
+<content><country></country><lang>it</lang><value>Un tipo esempio univoco. Se tu non assegni un codice, uno verrà generato automaticamente</value></content>
+<content><country></country><lang>th</lang><value>รหัสตัวอย่างประเภท ถ้าไม่มีการกำหนดรหัส จะต้องมีการสร้างขึ้นอัตโมัติ</value></content>
+<content><country></country><lang>zh</lang><value>一个唯一的样例类型序号。如果你没有指定一个标识，那么会自动生成一个</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The type of Example.</value></content>
+<content><country></country><lang>fr</lang><value>Le type de l'exemple.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Betrag</value></content>
+<content><country></country><lang>en</lang><value>Amount</value></content>
+<content><country></country><lang>fr</lang><value>Montant</value></content>
+<content><country></country><lang>it</lang><value>Importo</value></content>
+<content><country></country><lang>ro</lang><value>Import</value></content>
+<content><country></country><lang>th</lang><value>จำนวน</value></content>
+<content><country></country><lang>zh</lang><value>金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Another Date</value></content>
+<content><country></country><lang>fr</lang><value>Une autre date</value></content>
+<content><country></country><lang>it</lang><value>Altra Data</value></content>
+<content><country></country><lang>th</lang><value>วันที่อื่น ๆ</value></content>
+<content><country></country><lang>zh</lang><value>另一个日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Another Text</value></content>
+<content><country></country><lang>fr</lang><value>Une autre texte</value></content>
+<content><country></country><lang>it</lang><value>Altro Testo</value></content>
+<content><country></country><lang>th</lang><value>ตัวอักษรอื่น ๆ</value></content>
+<content><country></country><lang>zh</lang><value>另一个文本</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kommentare</value></content>
+<content><country></country><lang>en</lang><value>Comments</value></content>
+<content><country></country><lang>fr</lang><value>Commentaires</value></content>
+<content><country></country><lang>it</lang><value>Commenti</value></content>
+<content><country></country><lang>ro</lang><value>Comentarii</value></content>
+<content><country></country><lang>th</lang><value>ความคิดเห็น</value></content>
+<content><country></country><lang>zh</lang><value>评论</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Example Date</value></content>
+<content><country></country><lang>fr</lang><value>Exemple de date</value></content>
+<content><country></country><lang>it</lang><value>Esempio Data</value></content>
+<content><country></country><lang>ro</lang><value>Data Exemplu</value></content>
+<content><country></country><lang>th</lang><value>ตัวอย่างวันที่</value></content>
+<content><country></country><lang>zh</lang><value>样例日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Example ID</value></content>
+<content><country></country><lang>fr</lang><value>Réf. d'exemple</value></content>
+<content><country></country><lang>it</lang><value>Codice Esempio</value></content>
+<content><country></country><lang>ro</lang><value>Cod Exemplu</value></content>
+<content><country></country><lang>th</lang><value>รหัสตัวอย่าง</value></content>
+<content><country></country><lang>zh</lang><value>样例标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Example Item sequence ID</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de séquence exemple d'article</value></content>
+<content><country></country><lang>it</lang><value>Riga esempio</value></content>
+<content><country></country><lang>th</lang><value>รหัสลำดับตัวอย่างสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>样例明细序号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Example Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom d'exemple</value></content>
+<content><country></country><lang>it</lang><value>Nome Esempio</value></content>
+<content><country></country><lang>ro</lang><value>Nume Exemplu</value></content>
+<content><country></country><lang>th</lang><value>ชื่อตัวอย่าง</value></content>
+<content><country></country><lang>zh</lang><value>样例名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Example Size</value></content>
+<content><country></country><lang>fr</lang><value>Exemple de taille</value></content>
+<content><country></country><lang>it</lang><value>Esempio Taglia</value></content>
+<content><country></country><lang>ro</lang><value>Marime-size Exemplu</value></content>
+<content><country></country><lang>th</lang><value>ขนาดตัวอย่าง</value></content>
+<content><country></country><lang>zh</lang><value>样例尺寸</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Example Type ID</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de type d'exemple</value></content>
+<content><country></country><lang>it</lang><value>Tipo esempio</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภทตัวอย่าง</value></content>
+<content><country></country><lang>zh</lang><value>样例类型标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Long Description</value></content>
+<content><country></country><lang>fr</lang><value>Longue description</value></content>
+<content><country></country><lang>it</lang><value>Descrizione Lunga</value></content>
+<content><country></country><lang>ro</lang><value>Descriere Lunga</value></content>
+<content><country></country><lang>th</lang><value>รายละเอียด</value></content>
+<content><country></country><lang>zh</lang><value>详细描述</value></content>
+</contents></phrase> </phrases>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="AssetMaintApplication">
+        <value lang="de">Vermögensverwaltungsanwendung</value>
+        <value lang="en">Asset Maintenance Application</value>
+        <value lang="fr">Application de maintenance des biens</value>
+        <value lang="it">Applicazione manutenzione cespiti</value>
+        <value lang="th">บำรุงรักษาโปรแกรม</value>
+        <value lang="zh">资产维护应用程序</value>
+    </property>
+    <property key="AssetMaintCompanyName">
+        <value lang="en">OFBiz: Asset Maintenance</value>
+        <value lang="fr">OFBiz : maintenance des biens</value>
+        <value lang="it">OFBiz: Manutenzione cespiti</value>
+        <value lang="th">OFBiz: การบำรุงรักษา</value>
+        <value lang="zh">OFBiz：资产维护</value>
+    </property>
+    <property key="AssetMaintCompanySubtitle">
+        <value lang="en">Maintenance Department</value>
+        <value lang="fr">Service de maintenance</value>
+        <value lang="it">Servizio manutenzione</value>
+        <value lang="th">แผนกการดูแลรักษา</value>
+        <value lang="zh">维护部门</value>
+    </property>
+    <property key="AssetMaintInvalidPartProductIdError">
+        <value lang="en">"Part Id ${productId} provided is invalid please check and try again"</value>
+        <value lang="fr">"La réf. de piéce ${productId} fournie n'est pas valable, SVP recommencez"</value>
+        <value lang="it">"Il Codice parte ${productId} fornito non è valido. Per favore controllare e riprovare"</value>
+        <value lang="th">รหัสส่วน ${productId} ใช้ไม่ได้ กรุณาตรวจสอบและลองอีกครั้ง</value>
+        <value lang="zh">"提供的零部件标识${productId}无效，请检查重试"</value>
+    </property>
+    <property key="AssetMaintItemIssuance">
+        <value lang="en">Parts</value>
+        <value lang="fr">Pièces</value>
+        <value lang="it">Parti</value>
+        <value lang="th">ส่วนหนึ่ง</value>
+        <value lang="zh">零部件</value>
+    </property>
+    <property key="AssetMaintLowPartInventoryError">
+        <value lang="en">"Available Inventory level for ${productId} is ${quantity}"</value>
+        <value lang="fr">"Le niveau de stock disponible pour ${productId} est ${quantity"</value>
+        <value lang="it">"La quantità disponibile a magazzino per ${productId} è ${quantity}"</value>
+        <value lang="th">รดับสินค้าคงเหลือของ ${productId} คือ ${quantity}</value>
+        <value lang="zh">"${productId}的有效的库存级别是${quantity}"</value>
+    </property>
+    <property key="AssetMaintManager">
+        <value lang="de">Vermögensverwaltungsanwendung</value>
+        <value lang="en">Asset Maintenance</value>
+        <value lang="fr">Application de maintenance des biens</value>
+        <value lang="it">Manutenzione cespiti</value>
+        <value lang="th">บำรุงรักษาโปรแกรม</value>
+        <value lang="zh">资产维护应用程序</value>
+    </property>
+    <property key="AssetMaintParentWorkEffort">
+        <value lang="en">Parent Work Effort</value>
+        <value lang="fr">"Tâche parente"</value>
+        <value lang="it">Impegno di lavoro padre</value>
+        <value lang="zh">上级人工服务</value>
+    </property>
+    <property key="AssetMaintPartId">
+        <value lang="en">Part Id</value>
+        <value lang="fr">Réf. de la pièce</value>
+        <value lang="it">Codice parte</value>
+        <value lang="zh">零部件标识</value>
+    </property>
+    <property key="AssetMaintProblemCallingService">
+        <value lang="en">Problem in calling service issueInventoryItemToFixedAssetMaint</value>
+        <value lang="it">Problema durante la chiamata al servizio issueInventoryItemToFixedAssetMaint</value>
+    </property>
+    <property key="AssetMaintProblemGettingInventoryLevel">
+        <value lang="en">Problem in getting Inventory level for </value>
+        <value lang="it">Problema ad ottenere il livello di inventario per </value>
+    </property>
+    <property key="AssetMaintProductMaint">
+        <value lang="en">Product Maint</value>
+        <value lang="fr">Maintenance</value>
+        <value lang="it">Manutenzione</value>
+        <value lang="zh">产品维护</value>
+    </property>
+    <property key="AssetMaintViewPermissionError">
+        <value lang="en">View Permission Error</value>
+        <value lang="fr">Afficher l'erreur d'autorisation</value>
+        <value lang="it">Mostra errore di autorizzazione</value>
+        <value lang="th">แสดงข้อผิดพลาดในการอนุญาต</value>
+        <value lang="zh">浏览权限错误</value>
+    </property>
+    <property key="PageTitleAddItemIssuance">
+        <value lang="en">Add Item Issuance</value>
+        <value lang="fr">Ajouter une émission d'article</value>
+        <value lang="it">Aggiungi prelievo articolo</value>
+        <value lang="th">เพิ่มรายการที่ออกมา</value>
+        <value lang="zh">添加交付明细</value>
+    </property>
+    <property key="PageTitleChildWorkEfforts">
+        <value lang="en">Task Breakdown</value>
+        <value lang="fr">Décomposition de tâche</value>
+        <value lang="it">Scoposizione compito</value>
+        <value lang="th">งานหยุด</value>
+        <value lang="zh">任务分解</value>
+    </property>
+    <property key="PageTitleFindFixedAssetMaints">
+        <value lang="de">Verwaltungen finden</value>
+        <value lang="en">Find Maintenances</value>
+        <value lang="fr">Chercher des maintenances</value>
+        <value lang="it">Ricerca manutenzioni</value>
+        <value lang="th">ค้นหาการบำรุงรักษา</value>
+        <value lang="zh">查找维修保养</value>
+    </property>
+    <property key="PageTitleFindFixedAssets">
+        <value lang="en">Find Equipments</value>
+        <value lang="fr">Chercher des équipements</value>
+        <value lang="it">Ricerca cespite</value>
+        <value lang="th">ค้นหาเครื่องมือ</value>
+        <value lang="zh">查找设备</value>
+    </property>
+    <property key="PageTitleListItemIssuance">
+        <value lang="en">Parts List</value>
+        <value lang="fr">Liste des pièces</value>
+        <value lang="it">Lista parti</value>
+        <value lang="th">ส่วนหนึ่งของรายการ</value>
+        <value lang="zh">零部件列表</value>
+    </property>
+</resource>

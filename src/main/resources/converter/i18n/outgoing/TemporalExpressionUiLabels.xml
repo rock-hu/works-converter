@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Temporal Expression</value></content>
+<content><country></country><lang>fr</lang><value>Expression temporelle</value></content>
+<content><country></country><lang>it</lang><value>Espressione temporale</value></content>
+<content><country></country><lang>pt_BR</lang><value>Expressão temporal</value></content>
+<content><country></country><lang>zh</lang><value>时间表达式</value></content>
+<content><country></country><lang>zh_TW</lang><value>時間運算式</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Expression Collections</value></content>
+<content><country></country><lang>fr</lang><value>Collections d'expression</value></content>
+<content><country></country><lang>it</lang><value>Collezione espressioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Coleções de Expressões</value></content>
+<content><country></country><lang>zh</lang><value>表达式集合</value></content>
+<content><country></country><lang>zh_TW</lang><value>運算式集合</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exclude</value></content>
+<content><country></country><lang>fr</lang><value>Exclure</value></content>
+<content><country></country><lang>it</lang><value>Escludi</value></content>
+<content><country></country><lang>pt_BR</lang><value>Excluir</value></content>
+<content><country></country><lang>zh</lang><value>排除</value></content>
+<content><country></country><lang>zh_TW</lang><value>排除</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Temporal Expression</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher une expression temporelle</value></content>
+<content><country></country><lang>it</lang><value>Ricerca espressione temporale</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar uma expressão temporal</value></content>
+<content><country></country><lang>zh</lang><value>查找时间表达式</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找時間運算式</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Frequency Count</value></content>
+<content><country></country><lang>fr</lang><value>Nombre d'occurrences</value></content>
+<content><country></country><lang>it</lang><value>Frequenza conteggio</value></content>
+<content><country></country><lang>pt_BR</lang><value>Contagem de Freqüência</value></content>
+<content><country></country><lang>zh</lang><value>频率计数</value></content>
+<content><country></country><lang>zh_TW</lang><value>頻率計數</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Frequency Type</value></content>
+<content><country></country><lang>fr</lang><value>Type de fréquence</value></content>
+<content><country></country><lang>it</lang><value>Tipo frequenza</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipo de Frequência</value></content>
+<content><country></country><lang>zh</lang><value>频率类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>頻率類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Expression Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. d'expression</value></content>
+<content><country></country><lang>it</lang><value>Espressione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de Expressão</value></content>
+<content><country></country><lang>zh</lang><value>表达式标识</value></content>
+<content><country></country><lang>zh_TW</lang><value>算式ID</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Include</value></content>
+<content><country></country><lang>fr</lang><value>Inclure</value></content>
+<content><country></country><lang>it</lang><value>Includi</value></content>
+<content><country></country><lang>pt_BR</lang><value>Incluir</value></content>
+<content><country></country><lang>zh</lang><value>包含</value></content>
+<content><country></country><lang>zh_TW</lang><value>包含</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Temporal Expression Maintenance</value></content>
+<content><country></country><lang>fr</lang><value>maintenance d'expression temporelle</value></content>
+<content><country></country><lang>it</lang><value>Gestione espressioni temporali</value></content>
+<content><country></country><lang>pt_BR</lang><value>Manutenção Expressão Temporal</value></content>
+<content><country></country><lang>zh</lang><value>时间表达式维护</value></content>
+<content><country></country><lang>zh_TW</lang><value>時間運算式維護</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Occurrence</value></content>
+<content><country></country><lang>fr</lang><value>Occurrence</value></content>
+<content><country></country><lang>it</lang><value>Occorrenze</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ocorrência</value></content>
+<content><country></country><lang>zh</lang><value>同步</value></content>
+<content><country></country><lang>zh_TW</lang><value>同步</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>hh:mm:ss</value></content>
+<content><country></country><lang>fr</lang><value>hh:mm:ss</value></content>
+<content><country></country><lang>it</lang><value>hh:mm:ss</value></content>
+<content><country></country><lang>pt_BR</lang><value>hh:mm:ss</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Expression Type</value></content>
+<content><country></country><lang>fr</lang><value>Type d'expression</value></content>
+<content><country></country><lang>it</lang><value>Tipo espressione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipo de Expressão</value></content>
+<content><country></country><lang>zh</lang><value>表达式类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>運算式類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Date Range</value></content>
+<content><country></country><lang>fr</lang><value>Intervalle entre 2 dates</value></content>
+<content><country></country><lang>it</lang><value>Intervallo di date</value></content>
+<content><country></country><lang>pt_BR</lang><value>Período</value></content>
+<content><country></country><lang>zh</lang><value>日期范围</value></content>
+<content><country></country><lang>zh_TW</lang><value>日期範圍</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Day In Month</value></content>
+<content><country></country><lang>fr</lang><value>Jour du mois</value></content>
+<content><country></country><lang>it</lang><value>Giorno nel mese</value></content>
+<content><country></country><lang>pt_BR</lang><value>Dia do Mês</value></content>
+<content><country></country><lang>zh</lang><value>月中的天</value></content>
+<content><country></country><lang>zh_TW</lang><value>月中的天</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Day Of Month Range</value></content>
+<content><country></country><lang>fr</lang><value>Intervalle entre 2 jours du mois</value></content>
+<content><country></country><lang>it</lang><value>Giorno del mese nell'intervallo</value></content>
+<content><country></country><lang>pt_BR</lang><value>Intervalo de dias do mês</value></content>
+<content><country></country><lang>zh</lang><value>月中天的范围</value></content>
+<content><country></country><lang>zh_TW</lang><value>月中天的範圍</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Day Of Week Range</value></content>
+<content><country></country><lang>fr</lang><value>Intervalle entre 2 jour de la semaine</value></content>
+<content><country></country><lang>it</lang><value>Giorno della settimana nell'intervallo</value></content>
+<content><country></country><lang>pt_BR</lang><value>Intervalo de dias da semana</value></content>
+<content><country></country><lang>zh</lang><value>周中天的范围</value></content>
+<content><country></country><lang>zh_TW</lang><value>周中天的範圍</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Difference</value></content>
+<content><country></country><lang>fr</lang><value>Différence</value></content>
+<content><country></country><lang>it</lang><value>Differenze</value></content>
+<content><country></country><lang>pt_BR</lang><value>Diferença</value></content>
+<content><country></country><lang>zh</lang><value>差别</value></content>
+<content><country></country><lang>zh_TW</lang><value>差別</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Frequency</value></content>
+<content><country></country><lang>fr</lang><value>Fréquence</value></content>
+<content><country></country><lang>it</lang><value>Frequenza</value></content>
+<content><country></country><lang>pt_BR</lang><value>Frequência</value></content>
+<content><country></country><lang>zh</lang><value>频率</value></content>
+<content><country></country><lang>zh_TW</lang><value>頻率</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Hour Range</value></content>
+<content><country></country><lang>pt_BR</lang><value>Intervalo de Hora</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Intersection</value></content>
+<content><country></country><lang>fr</lang><value>Intersection</value></content>
+<content><country></country><lang>it</lang><value>Intersezione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Intersecção</value></content>
+<content><country></country><lang>zh</lang><value>交叉点</value></content>
+<content><country></country><lang>zh_TW</lang><value>交叉點</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Minute Range</value></content>
+<content><country></country><lang>pt_BR</lang><value>Intervalo de Minutos</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Month Range</value></content>
+<content><country></country><lang>fr</lang><value>Intervalle entre 2 mois</value></content>
+<content><country></country><lang>it</lang><value>Intervallo di mese</value></content>
+<content><country></country><lang>pt_BR</lang><value>Intervalo de Meses</value></content>
+<content><country></country><lang>zh</lang><value>月的范围</value></content>
+<content><country></country><lang>zh_TW</lang><value>月的範圍</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Substitution</value></content>
+<content><country></country><lang>pt_BR</lang><value>Substituição</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Union</value></content>
+<content><country></country><lang>fr</lang><value>Union</value></content>
+<content><country></country><lang>it</lang><value>Unione</value></content>
+<content><country></country><lang>pt_BR</lang><value>União</value></content>
+<content><country></country><lang>zh</lang><value>联合</value></content>
+<content><country></country><lang>zh_TW</lang><value>聯合</value></content>
+</contents></phrase> </phrases>

@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="RateType.description.DISCOUNTED">
+        <value lang="en">Discounted Hourly Rate</value>
+        <value lang="fr">Taux horaire escompté</value>
+        <value lang="it">Percentuale oraria scontata</value>
+        <value lang="ro">Procent Orar Redus</value>
+        <value lang="ru">Сниженные почасовые ставки</value>
+        <value lang="th">อัตราลดลงทุก ๆ ชั่วโมง</value>
+        <value lang="zh">小时价格折扣</value>
+        <value lang="zh_TW">小時價格折扣</value>
+    </property>
+    <property key="RateType.description.OVERTIME">
+        <value lang="en">Overtime Hourly Rate</value>
+        <value lang="fr">Taux horaire des heures supplémentaires</value>
+        <value lang="it">Percentuale oraria straordinaria</value>
+        <value lang="ro">Procent Orar Straordinar</value>
+        <value lang="ru">Почасовые ставки при переработке</value>
+        <value lang="th">อัตราล่วงเวลาทุก ๆ ชั่วโมง</value>
+        <value lang="zh">加班小时价格</value>
+        <value lang="zh_TW">加班小時價格</value>
+    </property>
+    <property key="RateType.description.STANDARD">
+        <value lang="en">Standard Hourly Rate</value>
+        <value lang="fr">Taux horaire standard</value>
+        <value lang="it">Percentuale oraria standard</value>
+        <value lang="ro">Procent Orar Standard</value>
+        <value lang="ru">Стандартные почасовые ставки</value>
+        <value lang="th">อัตรามาตรฐานทุก ๆ ชั่วโมง</value>
+        <value lang="zh">标准小时价格</value>
+        <value lang="zh_TW">標准小時價格</value>
+    </property>
+    <property key="WorkEffortAssocType.description.ROUTING_COMPONENT">
+        <value lang="en">Routing and Routing Task Association</value>
+        <value lang="fr">Routage et association de tâche de routage</value>
+        <value lang="it">Associazione rotta e rotta compito</value>
+        <value lang="ru">Связи между маршрутизацией и задачами маршрутизации</value>
+        <value lang="th">Routing และ Routing กลุ่มภารกิจ</value>
+        <value lang="zh">路线与路线任务关联</value>
+        <value lang="zh_TW">路線與路線任務關聯</value>
+    </property>
+    <property key="WorkEffortAssocType.description.WORK_EFF_BREAKDOWN">
+        <value lang="en">Breakdown/Detail</value>
+        <value lang="es">Descomposición de esfuerzo de trabajo</value>
+        <value lang="fr">Détail/Ventilation</value>
+        <value lang="it">Interruzione/Dettaglio</value>
+        <value lang="ro">Intrerupere/Detaliu</value>
+        <value lang="ru">Поломка/Подробно</value>
+        <value lang="th">การวิเคราะห์/รายละเอียด</value>
+        <value lang="zh">故障/详细</value>
+        <value lang="zh_TW">故障/詳細</value>
+    </property>
+    <property key="WorkEffortAssocType.description.WORK_EFF_CONCURRENCY">
+        <value lang="en">Concurrency</value>
+        <value lang="es">Concurrencia de esfuerzo de trabajo</value>
+        <value lang="fr">Simultanéité</value>
+        <value lang="it">Concorrenza</value>
+        <value lang="ro">Concurenta</value>
+        <value lang="ru">Конкуренция</value>
+        <value lang="th">การเกิดขึ้นในเวลาเดียวกัน</value>
+        <value lang="zh">并发</value>
+        <value lang="zh_TW">並發</value>
+    </property>
+    <property key="WorkEffortAssocType.description.WORK_EFF_DEPENDENCY">
+        <value lang="en">Dependency</value>
+        <value lang="es">Dependencia de esfuerzo de trabajo</value>
+        <value lang="fr">Dépendance</value>
+        <value lang="it">Dipendenza</value>
+        <value lang="ro">Dependenta</value>
+        <value lang="ru">Зависимость</value>
+        <value lang="th">ส่วนเพิ่มเติม</value>
+        <value lang="zh">依赖</value>
+        <value lang="zh_TW">依賴</value>
+    </property>
+    <property key="WorkEffortAssocType.description.WORK_EFF_PHASE">
+        <value lang="en">Phase</value>
+        <value lang="es">Fase de proyecto de esfuerzo de trabajo</value>
+        <value lang="fr">Phase</value>
+        <value lang="it">Fase</value>
+        <value lang="th">ขั้นตอน</value>
+        <value lang="zh">阶段</value>
+        <value lang="zh_TW">階段</value>
+    </property>
+    <property key="WorkEffortAssocType.description.WORK_EFF_PRECEDENCY">
+        <value lang="en">Precedency</value>
+        <value lang="es">Precedencia de esfuerzo de trabajo</value>
+        <value lang="fr">Priorité</value>
+        <value lang="it">Precedenza</value>
+        <value lang="ro">Precedenta</value>
+        <value lang="ru">Преимущество</value>
+        <value lang="th">Precedency</value>
+        <value lang="zh">优先级</value>
+        <value lang="zh_TW">優先級</value>
+    </property>
+    <property key="WorkEffortAssocType.description.WORK_EFF_TASK">
+        <value lang="en">Task</value>
+        <value lang="es">Tarea de fase de esfuerzo de trabajo</value>
+        <value lang="fr">Tâche</value>
+        <value lang="it">Compito</value>
+        <value lang="th">ภารกิจ</value>
+        <value lang="zh">任务</value>
+        <value lang="zh_TW">任務</value>
+    </property>
+    <property key="WorkEffortAssocType.description.WORK_EFF_TEMPLATE">
+        <value lang="en">Template of</value>
+        <value lang="fr">Gabarit de</value>
+        <value lang="it">Template di</value>
+        <value lang="ro">Template de</value>
+        <value lang="ru">Шаблон</value>
+        <value lang="th">ของเทมเพลต</value>
+        <value lang="zh">模板</value>
+        <value lang="zh_TW">範本</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.ROU_ASSEMBLING">
+        <value lang="en">Assembling</value>
+        <value lang="fr">Assemblage</value>
+        <value lang="it">Assemblaggio</value>
+        <value lang="ro">Asamblare</value>
+        <value lang="ru">Монтаж</value>
+        <value lang="th">การรวมกลุ่ม</value>
+        <value lang="zh">组装</value>
+        <value lang="zh_TW">組裝</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.ROU_MANUFACTURING">
+        <value lang="en">Manufacturing</value>
+        <value lang="fr">Fabrication</value>
+        <value lang="it">Produzione</value>
+        <value lang="ro">Productie</value>
+        <value lang="ru">Производство</value>
+        <value lang="th">การผลิต</value>
+        <value lang="zh">制造</value>
+        <value lang="zh_TW">制造</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.ROU_SUBCONTRACTING">
+        <value lang="en">Sub-contracting</value>
+        <value lang="fr">Sous-contractant</value>
+        <value lang="it">Sotto-contratto</value>
+        <value lang="ro">Sub-contract</value>
+        <value lang="ru">Субподряд</value>
+        <value lang="th">Sub-contracting</value>
+        <value lang="zh">子商</value>
+        <value lang="zh_TW">子商</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.WEPT_DEPLOYMENT">
+        <value lang="en">Deployment</value>
+        <value lang="es">Despliegue</value>
+        <value lang="fr">Déploiement</value>
+        <value lang="it">Distribuzione</value>
+        <value lang="ro">Distributie</value>
+        <value lang="ru">Развертывание</value>
+        <value lang="th">แพร่กระจาย</value>
+        <value lang="zh">部署</value>
+        <value lang="zh_TW">部署</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.WEPT_DEVELOPMENT">
+        <value lang="en">Development</value>
+        <value lang="es">Desarrollo</value>
+        <value lang="fr">Développement</value>
+        <value lang="it">Sviluppo</value>
+        <value lang="ro">Dezvoltare</value>
+        <value lang="ru">Совершенствование</value>
+        <value lang="th">การพัฒนา</value>
+        <value lang="zh">开发</value>
+        <value lang="zh_TW">開發</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.WEPT_MAINTENANCE">
+        <value lang="en">Maintenance</value>
+        <value lang="es">Mantenimiento</value>
+        <value lang="fr">Maintenance</value>
+        <value lang="it">Manutenzione</value>
+        <value lang="ro">Intretinere</value>
+        <value lang="ru">Обслуживание</value>
+        <value lang="th">การบำรุงรักษา</value>
+        <value lang="zh">维护</value>
+        <value lang="zh_TW">維護</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.WEPT_MEETING">
+        <value lang="en">Meeting</value>
+        <value lang="es">Reunión</value>
+        <value lang="fr">Réunion</value>
+        <value lang="it">Incontro</value>
+        <value lang="ro">Intalnire</value>
+        <value lang="ru">Встреча</value>
+        <value lang="th">พบประสังสรรค์</value>
+        <value lang="zh">会议</value>
+        <value lang="zh_TW">會議</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.WEPT_PHASE">
+        <value lang="en">Phase</value>
+        <value lang="es">Fase</value>
+        <value lang="fr">Phase</value>
+        <value lang="it">Fase</value>
+        <value lang="ro">Faze</value>
+        <value lang="ru">Этап</value>
+        <value lang="th">ขั้นตอน</value>
+        <value lang="zh">阶段</value>
+        <value lang="zh_TW">階段</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.WEPT_PRODUCTION_RUN">
+        <value lang="en">Production Run</value>
+        <value lang="es">Orden de producción</value>
+        <value lang="fr">Ordre de fabrication</value>
+        <value lang="it">Ciclo di produzione</value>
+        <value lang="ro">Ciclu Productie</value>
+        <value lang="ru">Производственный прогон</value>
+        <value lang="th">ดำเนินการผลิต</value>
+        <value lang="zh">实际运行</value>
+        <value lang="zh_TW">實際運行</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.WEPT_PROJECT">
+        <value lang="en">Project</value>
+        <value lang="es">Proyecto</value>
+        <value lang="fr">Projet</value>
+        <value lang="it">Progetto</value>
+        <value lang="ro">Proiect</value>
+        <value lang="ru">Проект</value>
+        <value lang="th">โปรเจค</value>
+        <value lang="zh">项目</value>
+        <value lang="zh_TW">專案</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.WEPT_RESEARCH">
+        <value lang="en">Research</value>
+        <value lang="es">Investigación</value>
+        <value lang="fr">Recherche</value>
+        <value lang="it">Ricerca</value>
+        <value lang="ro">Cautare</value>
+        <value lang="ru">Исследование</value>
+        <value lang="th">งานวิจัย</value>
+        <value lang="zh">研究</value>
+        <value lang="zh_TW">研究</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.WEPT_SUPPORT">
+        <value lang="en">Support</value>
+        <value lang="es">Soporte</value>
+        <value lang="fr">Support</value>
+        <value lang="it">Supporto</value>
+        <value lang="ro">Suport</value>
+        <value lang="ru">Поддержка</value>
+        <value lang="th">สนับสนุน</value>
+        <value lang="zh">支持</value>
+        <value lang="zh_TW">支援</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.WEPT_TASK_EMAIL">
+        <value lang="en">Email</value>
+        <value lang="es">E-mail</value>
+        <value lang="fr">Courriel</value>
+        <value lang="it">Email</value>
+        <value lang="ro">Email</value>
+        <value lang="ru">Эл. почта</value>
+        <value lang="th">อีเมล</value>
+        <value lang="zh">电子邮件</value>
+        <value lang="zh_TW">電子郵件</value>
+    </property>
+    <property key="WorkEffortPurposeType.description.WEPT_TASK_PHONE_CALL">
+        <value lang="en">Phone Call</value>
+        <value lang="fr">Appel téléphonique</value>
+        <value lang="it">Chiamata telefonica</value>
+        <value lang="ro">Chemare Telefonica</value>
+        <value lang="ru">Телефонный звонок</value>
+        <value lang="th">การเรียกโทรศัพท์</value>
+        <value lang="zh">电话</value>
+        <value lang="zh_TW">電話</value>
+    </property>
+    <property key="WorkEffortType.description.ACTIVITY">
+        <value lang="en">Workflow Activity</value>
+        <value lang="es">Actividad</value>
+        <value lang="fr">Activité</value>
+        <value lang="it">Attività impegno di lavoro</value>
+        <value lang="ro">Activitati Sarcini de Lucru</value>
+        <value lang="ru">Действие Workflow</value>
+        <value lang="th">ขั้นตอนกิจกรรม</value>
+        <value lang="zh">工作流活动</value>
+        <value lang="zh_TW">工作流活動</value>
+    </property>
+    <property key="WorkEffortType.description.ASSET_USAGE">
+        <value lang="en">Fixed Asset Usage (rental)</value>
+        <value lang="fr">Utilisation d'immobilisation (location)</value>
+        <value lang="it">Uso cespite (noleggio)</value>
+        <value lang="ro">Folosire Mijloc Fix (inchiriat)</value>
+        <value lang="ru">Использование ОС (аренда)</value>
+        <value lang="th">การใช้ทรัพย์สินที่ไม่หมุนเวียน (การเช่า)</value>
+        <value lang="zh">固定资产使用(租赁)</value>
+        <value lang="zh_TW">固定資產使用(租賃)</value>
+    </property>
+    <property key="WorkEffortType.description.AVAILABLE">
+        <value lang="de">Verfügbar</value>
+        <value lang="en">Available</value>
+        <value lang="es">Disponible</value>
+        <value lang="fr">Disponible</value>
+        <value lang="it">Disponibile</value>
+        <value lang="ro">Disponibil</value>
+        <value lang="ru">Доступный</value>
+        <value lang="th">สามารถใช้ประโยชน์ได้</value>
+        <value lang="zh">有效</value>
+        <value lang="zh_TW">有效</value>
+    </property>
+    <property key="WorkEffortType.description.BUSINESS_TRAVEL">
+        <value lang="en">Business Travel</value>
+        <value lang="fr">Voyage professionnel</value>
+        <value lang="it">Viaggio di lavoro</value>
+        <value lang="zh">商务旅行</value>
+        <value lang="zh_TW">商務旅行</value>
+    </property>
+    <property key="WorkEffortType.description.COMPANY_EVENT">
+        <value lang="en">Company Events</value>
+        <value lang="fr">Séminaire d'entreprise</value>
+        <value lang="it">Eventi aziendali</value>
+        <value lang="zh">公司事件</value>
+        <value lang="zh_TW">公司事件</value>
+    </property>
+    <property key="WorkEffortType.description.EVENT">
+        <value lang="en">Event</value>
+        <value lang="es">Evento</value>
+        <value lang="fr">Evènement</value>
+        <value lang="it">Evento</value>
+        <value lang="ro">Eveniment</value>
+        <value lang="ru">Событие</value>
+        <value lang="th">เหตุการณ์</value>
+        <value lang="zh">事件</value>
+        <value lang="zh_TW">事件</value>
+    </property>
+    <property key="WorkEffortType.description.MEETING">
+        <value lang="en">Meeting</value>
+        <value lang="fr">Réunion</value>
+        <value lang="it">Incontri</value>
+        <value lang="zh">会议</value>
+        <value lang="zh_TW">會議</value>
+    </property>
+    <property key="WorkEffortType.description.MILESTONE">
+        <value lang="en">Milestone</value>
+        <value lang="fr">Jalon</value>
+    </property>
+    <property key="WorkEffortType.description.PERSONAL_TIMEOFF">
+        <value lang="en">Personal Time Off</value>
+        <value lang="fr">Temps libre personnel</value>
+        <value lang="it">Tempo libero personale</value>
+        <value lang="zh">个人空闲时间</value>
+        <value lang="zh_TW">個人空閒時間</value>
+    </property>
+    <property key="WorkEffortType.description.PHASE">
+        <value lang="en">Project Phase</value>
+        <value lang="es">Fase</value>
+        <value lang="fr">Phase de projet</value>
+        <value lang="it">Fase progetto</value>
+        <value lang="ro">Faze Proiect</value>
+        <value lang="ru">Этап проекта</value>
+        <value lang="th">ขั้นตอน</value>
+        <value lang="zh">项目阶段</value>
+        <value lang="zh_TW">專案階段</value>
+    </property>
+    <property key="WorkEffortType.description.PHASE_TEMPLATE">
+        <value lang="en">Project Phase Template</value>
+        <value lang="fr">Modèle de phase de projet</value>
+        <value lang="it">Fase progetto template</value>
+        <value lang="zh">项目阶段模板</value>
+        <value lang="zh_TW">專案階段範本</value>
+    </property>
+    <property key="WorkEffortType.description.PROD_ORDER_HEADER">
+        <value lang="en">Production Run Header</value>
+        <value lang="fr">En-tête d'ordre de fabrication</value>
+        <value lang="it">Testata ciclo di produzione</value>
+        <value lang="ro">Antet Cliclu Productie</value>
+        <value lang="ru">Заголовок произв. прогона</value>
+        <value lang="th">หัวข้อดำเนินการการผลิต</value>
+        <value lang="zh">实际运行头</value>
+        <value lang="zh_TW">實際運行頭</value>
+    </property>
+    <property key="WorkEffortType.description.PROD_ORDER_TASK">
+        <value lang="en">Production Run Task</value>
+        <value lang="fr">Tâche d'ordre de fabrication</value>
+        <value lang="it">Compito ciclo di produzione</value>
+        <value lang="ro">Tema Ciclu Productie</value>
+        <value lang="ru">Задача произв. прогона</value>
+        <value lang="th">งานดำเนินการการผลิต</value>
+        <value lang="zh">实际运行任务</value>
+        <value lang="zh_TW">實際運行任務</value>
+    </property>
+    <property key="WorkEffortType.description.PROGRAM">
+        <value lang="en">Program</value>
+        <value lang="es">Programa</value>
+        <value lang="fr">Programme</value>
+        <value lang="it">Programma</value>
+        <value lang="ro">Program</value>
+        <value lang="ru">Программа</value>
+        <value lang="th">โปรแกรม</value>
+        <value lang="zh">程序</value>
+        <value lang="zh_TW">程式</value>
+    </property>
+    <property key="WorkEffortType.description.PROJECT">
+        <value lang="en">Project</value>
+        <value lang="es">Proyecto</value>
+        <value lang="fr">Projet</value>
+        <value lang="it">Progetto</value>
+        <value lang="ro">Proiect</value>
+        <value lang="ru">Проект</value>
+        <value lang="th">โปรเจค</value>
+        <value lang="zh">项目</value>
+        <value lang="zh_TW">專案</value>
+    </property>
+    <property key="WorkEffortType.description.PROJECT_TEMPLATE">
+        <value lang="en">Project Template</value>
+        <value lang="fr">Modèle de projet</value>
+        <value lang="it">Progetto template</value>
+        <value lang="zh">项目模板</value>
+        <value lang="zh_TW">專案範本</value>
+    </property>
+    <property key="WorkEffortType.description.PUBLISH_PROPS">
+        <value lang="en">Publish Properties</value>
+        <value lang="fr">Propriétés de publication</value>
+        <value lang="it">Pubblica properties</value>
+        <value lang="zh">发布属性</value>
+        <value lang="zh_TW">發布屬性</value>
+    </property>
+    <property key="WorkEffortType.description.ROUTING">
+        <value lang="en">Routing</value>
+        <value lang="fr">Routage</value>
+        <value lang="it">Rotta</value>
+        <value lang="ro">Ruta</value>
+        <value lang="ru">Маршрутизация</value>
+        <value lang="th">Routing</value>
+        <value lang="zh">路线</value>
+        <value lang="zh_TW">路線</value>
+    </property>
+    <property key="WorkEffortType.description.ROU_TASK">
+        <value lang="en">Routing Task</value>
+        <value lang="fr">Tâche de routage</value>
+        <value lang="it">Compito rotta</value>
+        <value lang="ro">Tema Ruta</value>
+        <value lang="ru">Задача маршрутизации</value>
+        <value lang="th">งาน Routing </value>
+        <value lang="zh">路线任务</value>
+        <value lang="zh_TW">路線任務</value>
+    </property>
+    <property key="WorkEffortType.description.TASK">
+        <value lang="en">Task</value>
+        <value lang="es">Tarea</value>
+        <value lang="fr">Tâche</value>
+        <value lang="it">Compito</value>
+        <value lang="ro">Tema</value>
+        <value lang="ru">Задача</value>
+        <value lang="th">งาน</value>
+        <value lang="zh">任务</value>
+        <value lang="zh_TW">任務</value>
+    </property>
+    <property key="WorkEffortType.description.TASK_TEMPLATE">
+        <value lang="en">Project Task Template</value>
+        <value lang="fr">Modèle de tâche de projet</value>
+        <value lang="it">Compito progetto template</value>
+        <value lang="zh">项目任务模板</value>
+        <value lang="zh_TW">專案任務範本</value>
+    </property>
+    <property key="WorkEffortType.description.TEMPLATE">
+        <value lang="en">Template</value>
+        <value lang="fr">Modèle</value>
+        <value lang="it">Template</value>
+        <value lang="zh">模板</value>
+        <value lang="zh_TW">範本</value>
+    </property>
+    <property key="WorkEffortType.description.TRAINING">
+        <value lang="en">Training</value>
+        <value lang="fr">Formation</value>
+        <value lang="it">Formazione</value>
+    </property>
+    <property key="WorkEffortType.description.WORK_FLOW">
+        <value lang="en">Workflow Process</value>
+        <value lang="es">Flujo de trabajo</value>
+        <value lang="fr">Processus de flux de travail</value>
+        <value lang="it">Processo impegno di lavoro</value>
+        <value lang="ro">Proces Sarcini de Lucru</value>
+        <value lang="ru">Процесс Workflow</value>
+        <value lang="th">วิธีการขั้นตอนการทำงาน</value>
+        <value lang="zh">工作流流程</value>
+        <value lang="zh_TW">工作流流程</value>
+    </property>
+    <property key="WorkflowParticipantType.description.HUMAN">
+        <value lang="en">HUMAN</value>
+        <value lang="es">Interacción humana con el sistema a través de una aplicación</value>
+        <value lang="fr">Humain</value>
+        <value lang="it">Umano</value>
+        <value lang="th">เกี่ยวกับคน</value>
+        <value lang="zh">人</value>
+        <value lang="zh_TW">人</value>
+    </property>
+    <property key="WorkflowParticipantType.description.ORGANIZATIONAL_UNIT">
+        <value lang="en">ORGANIZATIONAL_UNIT</value>
+        <value lang="es">Departamento u otra unidad en una organización</value>
+        <value lang="fr">Unité d'organisation</value>
+        <value lang="it">Unità organizzativa</value>
+        <value lang="th">เกี่ยวกับองค์กร</value>
+        <value lang="zh">组织机构单位</value>
+        <value lang="zh_TW">組織機構單位</value>
+    </property>
+    <property key="WorkflowParticipantType.description.RESOURCE">
+        <value lang="en">RESOURCE</value>
+        <value lang="es">Un agente específico de recurso</value>
+        <value lang="fr">Ressource</value>
+        <value lang="it">Risorsa</value>
+        <value lang="th">แหล่งข้อมูล</value>
+        <value lang="zh">资源</value>
+        <value lang="zh_TW">資源</value>
+    </property>
+    <property key="WorkflowParticipantType.description.RESOURCE_SET">
+        <value lang="en">RESOURCE_SET</value>
+        <value lang="es">Un conjunto de recursos</value>
+        <value lang="fr">Ensemble de ressources</value>
+        <value lang="it">Gruppo risorse</value>
+        <value lang="th">ตั้งแหล่งข้อมูล</value>
+        <value lang="zh">资源集合</value>
+        <value lang="zh_TW">資源集合</value>
+    </property>
+    <property key="WorkflowParticipantType.description.ROLE">
+        <value lang="en">ROLE</value>
+        <value lang="es">Especifica un rol que se puede asociar a un grupo de personas</value>
+        <value lang="fr">Rôle</value>
+        <value lang="it">Ruolo</value>
+        <value lang="th">สถานะ</value>
+        <value lang="zh">角色</value>
+        <value lang="zh_TW">角色</value>
+    </property>
+    <property key="WorkflowParticipantType.description.SYSTEM">
+        <value lang="en">SYSTEM</value>
+        <value lang="es">Un agente automático</value>
+        <value lang="fr">Système</value>
+        <value lang="it">Sistema</value>
+        <value lang="th">ระบบ</value>
+        <value lang="zh">系统</value>
+        <value lang="zh_TW">系統</value>
+    </property>
+</resource>

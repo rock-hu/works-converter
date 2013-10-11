@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Business Intelligence Application</value></content>
+<content><country></country><lang>fr</lang><value>Application d'informatique décisionnelle</value></content>
+<content><country></country><lang>it</lang><value>Applicazione Business Intelligence</value></content>
+<content><country></country><lang>th</lang><value>โปรแกรมประยุกต์การเรียนรู้ทางธุรกิจ</value></content>
+<content><country></country><lang>zh</lang><value>商业智能应用程序</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OFBiz: Business Intelligence</value></content>
+<content><country></country><lang>fr</lang><value>OFBiz: Informatique décisionnelle</value></content>
+<content><country></country><lang>it</lang><value>OFBiz: Business Intelligence</value></content>
+<content><country></country><lang>th</lang><value>OFBiz:การเรียนรู้ทางธุรกิจ</value></content>
+<content><country></country><lang>zh</lang><value>OFBiz：商业智能</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>ar</lang><value>جزء من عائلة أوفبيز للتطبيقات الحرة للتسيير</value></content>
+<content><country></country><lang>de</lang><value>Teil der Open For Business Familie von Open Source Software</value></content>
+<content><country></country><lang>en</lang><value>Part of the Open For Business Family of Open Source Software</value></content>
+<content><country></country><lang>es</lang><value>Parte de la familia de software Open For Business de código abierto</value></content>
+<content><country></country><lang>fr</lang><value>Un module de la famille Open For Business, logiciel libre de gestion d'entreprise.</value></content>
+<content><country></country><lang>it</lang><value>Un modulo della famiglia di software open source Open For Business</value></content>
+<content><country></country><lang>nl</lang><value>Deel van de Open For Business-suite van Open Source Software</value></content>
+<content><country></country><lang>pt_BR</lang><value>Parte da família OfBiz de software de fonte aberta</value></content>
+<content><country></country><lang>pt_PT</lang><value>Parte da família OfBiz de software de fonte aberta</value></content>
+<content><country></country><lang>ro</lang><value>Partea de Deschidere Pentru Afaceri Familiale din Open Source Software</value></content>
+<content><country></country><lang>ru</lang><value>Входит в состав семейства Open For Business</value></content>
+<content><country></country><lang>th</lang><value>ส่วนหนึ่งของธุรกิจแบบครอบครัวที่เป็นซอฟต์แวร์โอเพนซอส</value></content>
+<content><country></country><lang>zh</lang><value>开源软件OFBiz家族的一部分</value></content>
+<content><country></country><lang>zh_CN</lang><value>OFBiz的一部分</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Current Status</value></content>
+<content><country></country><lang>fr</lang><value>Statuts en cours</value></content>
+<content><country></country><lang>it</lang><value>Stato attuale</value></content>
+<content><country></country><lang>th</lang><value>สถานะในปัจจุบัน</value></content>
+<content><country></country><lang>zh</lang><value>当前状态</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Field Description</value></content>
+<content><country></country><lang>fr</lang><value>Description de champ</value></content>
+<content><country></country><lang>it</lang><value>Descrizione Campo</value></content>
+<content><country></country><lang>th</lang><value>รายละเอียดข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>数据项描述</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Field Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de champ</value></content>
+<content><country></country><lang>it</lang><value>Nome Campo</value></content>
+<content><country></country><lang>th</lang><value>ชื่อข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>数据项名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Business Intelligence Integrated Framework</value></content>
+<content><country></country><lang>fr</lang><value>Informatique décisionnelle intégrée au Framework</value></content>
+<content><country></country><lang>it</lang><value>Business Intelligence Framework Integrato</value></content>
+<content><country></country><lang>th</lang><value>Framework ของการเรียนรู้ทางธุรกิจรวมกัน</value></content>
+<content><country></country><lang>zh</lang><value>商业智能集成框架</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Main Page</value></content>
+<content><country></country><lang>fr</lang><value>Page D'accueil</value></content>
+<content><country></country><lang>it</lang><value>Pagina Principale</value></content>
+<content><country></country><lang>th</lang><value>หน้าหลัก</value></content>
+<content><country></country><lang>zh</lang><value>首页</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The natural key: ${naturalKeyFields} is empty in value: ${dimensionValue}</value></content>
+<content><country></country><lang>it</lang><value>La chiave naturale: ${naturalKeyFields} è vuota nel valore: ${dimensionValue}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The best practices for datawarehouses are mainly taken from the great book "The Data Warehouse Toolkit - Second Edition" by Ralph Kimball.</value></content>
+<content><country></country><lang>fr</lang><value>Les bonnes pratiques pour datawarehouses sont principalement tirées du fameux livre "The Data Warehouse Toolkit - Second Edition" by Ralph Kimball.</value></content>
+<content><country></country><lang>it</lang><value>Sono state ricavate le migliori pratiche per i datawarehouses dal grande libro "The Data Warehouse Toolkit - Second Edition" di Ralph Kimball.</value></content>
+<content><country></country><lang>th</lang><value>วิธีปฏิบัติที่ดีที่สุดสำหรับข้อมูลคลังสินค้าส่วนใหญ่มาจากหนังสือดี ๆ ชื่อ "The Data Warehouse Toolkit - Second Edition" โดย Ralph Kimball</value></content>
+<content><country></country><lang>zh</lang><value>数据仓库的最佳实践来自Ralph Kimball撰写的伟大的书《数据仓库工具箱：维度建模的完全指南（第二版）》。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The data for dimensions and facts are maintained and kept up to date using standard OFBiz services</value></content>
+<content><country></country><lang>fr</lang><value>Les données des dimensions et faits sont maintenues et tenues à jour à l'aide des services standard d'OFBiz</value></content>
+<content><country></country><lang>it</lang><value>I dati per dimensioni e fatti sono gestiti e mantenuti aggiornati usando servizi standard di OFBiz</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลสำหรับขอบเขตและข้อเท็จจริงคือการดูแลและรักษาวันที่ใช้บริการ OFBiz</value></content>
+<content><country></country><lang>zh</lang><value>数据纬度和事实的维护和更新由标准的OFBiz服务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>(most of them written in minilang to facilitate customizations) and eca rules (easily customizable).</value></content>
+<content><country></country><lang>fr</lang><value>(la plupart d'entre eux écrits en minilang pour faciliter la personnalisation) et des règles de ECA (facilement personnalisables).</value></content>
+<content><country></country><lang>it</lang><value>(molti dei quali sono scritti utizzando minilang per facilitare le personalizzazioni) e le regole eca (facilmente personalizzabili).</value></content>
+<content><country></country><lang>th</lang><value>(สิ่งที่เขียนทั้งมหดใน minilang ถึง facilitate customizations) และเข้าแทนที่สถานะ (อย่างสะดวก)</value></content>
+<content><country></country><lang>zh</lang><value>(它们中的绝大多数使用minilang来实现定制)以及eca规则(容易定制)实现。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The main low level services to post data to the datawarehouse,</value></content>
+<content><country></country><lang>fr</lang><value>Les principaux services de bas niveau pour envoyer des données au datawarehouse,</value></content>
+<content><country></country><lang>it</lang><value>I servizi principali a basso livello per ricavare i dati del datawarehouse,</value></content>
+<content><country></country><lang>th</lang><value>หลักการบริการระดับล่างในการบันทึกข้อมูลลงในคลังข้อมูลสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>主要的底层服务实现把数据提交到数据仓库，</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>to map the operational keys with the datawarehouse ones, and to manage</value></content>
+<content><country></country><lang>fr</lang><value>pour aligner les clefs opérationnelles avec celles du datawarehouse, et contrôler</value></content>
+<content><country></country><lang>it</lang><value>la mappa di chiavi operazionali con il datawarehouse, e la gestione</value></content>
+<content><country></country><lang>th</lang><value>แผนที่สำคัญที่สามารถใช้งานได้ด้วยข้อมูลคลังสินค้าและการจัดการ</value></content>
+<content><country></country><lang>zh</lang><value>把操作键与数据仓库的建立映射，并管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>history of data changes are already implemented; they will be improved as the datawarehouse will grow (e.g. performance enhancements).</value></content>
+<content><country></country><lang>fr</lang><value>l'historique des changements de données sont déjà implémentés. Ils seront améliorés quand le datawarehouse se développera (par exemple des perfectionnements en performance).</value></content>
+<content><country></country><lang>it</lang><value>storia di cambio di dati che sono già implementati; sarà aumentato di caratteristiche non appena crescerà il datawarehouse (e.g. aumento prestazioni).</value></content>
+<content><country></country><lang>th</lang><value>ความเป็นมาของข้อมูลได้เปลี่ยนแปลงเรียบร้อยแล้ว; ได้มีการปรับปรุงข้อมูลคลังสินค้าให้ดีขึ้น (ตัวอย่างเช่น การทำให้ดีขึ้น)</value></content>
+<content><country></country><lang>zh</lang><value>已经实现数据的历史记录；它们会随数据仓库的增长而改进（如性能提升）。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The following dimensions (and data services) are defined: CurrencyDimension, DateDimension, ProductDimension;</value></content>
+<content><country></country><lang>fr</lang><value>Les dimensions suivantes (et les services de données) sont définis : dimension de devise, dimension de date, dimension d'article</value></content>
+<content><country></country><lang>it</lang><value>Le seguenti dimensioni (e servizi dei dati) sono definiti: CurrencyDimension, DateDimension, ProductDimension;</value></content>
+<content><country></country><lang>th</lang><value>การวัดขนาดตามที่กำหนด (และข้อมูลการบริการ) ระบุ : CurrencyDimension, DateDimension, ProductDimension;</value></content>
+<content><country></country><lang>zh</lang><value>已经定义了下列纬度（以及数据服务）：货币纬度、日期纬度、产品纬度；</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>we will have to complete them and design the other ones (the total number of dimension will be probably around 20).</value></content>
+<content><country></country><lang>fr</lang><value>Nous devrons les compléter et en concevoir d'autres (le nombre total de dimension sera probablement autour 20).</value></content>
+<content><country></country><lang>it</lang><value>verranno usati per completare questi e disegnare gli altri (il numero totale di dimensioni saranno probabilmente circa 20).</value></content>
+<content><country></country><lang>th</lang><value>เรากำลังทำสิ่งเหล่านั้นสำเร็จแล้วและวางแผนสิ่งต่อไป (จำนวนทั้งหมดประมาณ 20)</value></content>
+<content><country></country><lang>zh</lang><value>我们将完成它们，并设计其它的（全部纬度数量大约将在20个左右）。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Just one fact and one star schema are defined: SalesInvoiceItemFact and SalesInvoiceItemStarSchema.</value></content>
+<content><country></country><lang>fr</lang><value>Seul un fait et un schéma d'étoile sont définis : SalesInvoiceItemFact et SalesInvoiceItemStarSchema.</value></content>
+<content><country></country><lang>it</lang><value>Solo un fatto e uno star schema sono definiti: SalesInvoiceItemFact e SalesInvoiceItemStarSchema.</value></content>
+<content><country></country><lang>th</lang><value>จะต้องระบุ 1 ข้อเท็จจริงและ 1 โครงการ: SalesInvoiceItemFact and SalesInvoiceItemStarSchema</value></content>
+<content><country></country><lang>zh</lang><value>只定义了一个事实和一个星型模型：SalesInvoiceItemFact和SalesInvoiceItemStarSchema。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You can quickly initialize the datawarehouse by clicking on the link below:</value></content>
+<content><country></country><lang>fr</lang><value>Vous pouvez rapidement initialiser le datawarehouse en cliquant sur le lien ci-dessous :</value></content>
+<content><country></country><lang>it</lang><value>Tu puoi velocemente inizializzare il datawarehouse facendo click sul link qui sotto:</value></content>
+<content><country></country><lang>th</lang><value>คุณสามารถเริ่มต้นเข้าสู่ข้อมูลคลังสินค้าได้อย่างรวดเร็วโดยการคลิกบนลิงค์ด้านล่างนี้</value></content>
+<content><country></country><lang>zh</lang><value>你能通过点击下面的链接来快速初始化数据仓库：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>This is a proof of concept for an OFBiz integrated framework for business intelligence analysis.</value></content>
+<content><country></country><lang>fr</lang><value>C'est une preuve de concept d'informatique décisionnelle intégrée au Framework</value></content>
+<content><country></country><lang>it</lang><value>Questo è un prototipo di un framework per analisi di dati (business intelligence) integrato in OFBiz.</value></content>
+<content><country></country><lang>th</lang><value>การทดสอบความเข้าใจสำหรับ OFBiz framework เพื่อการวิเคราะห์ระบบการเรียนรู้ทางธุรกิจ</value></content>
+<content><country></country><lang>zh</lang><value>这是一个验证OFBiz集成框架能够用于商业智能的实现。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The CurrencyDimension, DateDimension, ProductDimension and the SalesInvoiceItemFact entities will be automatically populated.</value></content>
+<content><country></country><lang>fr</lang><value>La dimension de devise, la dimension de date, la dimension d'article et SalesInvoiceItemFact seront automatiquement alimentés.</value></content>
+<content><country></country><lang>it</lang><value>Le entità CurrencyDimension, DateDimension, ProductDimension e SalesInvoiceItemFact sono caricate automaticamente.</value></content>
+<content><country></country><lang>th</lang><value>CurrencyDimension, DateDimension, ProductDimension และ SalesInvoiceItemFact จะคงอยู่โดยอัตโนมัติ</value></content>
+<content><country></country><lang>zh</lang><value>会自动把CurrencyDimension、DateDimension、ProductDimension以及SalesInvoiceItemFact实体填入。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Then you can run the analysis using the report builder menu.</value></content>
+<content><country></country><lang>fr</lang><value>Vous pouvez alors exécuter l'analyse en utilisant le menu "Générateur de rapport".</value></content>
+<content><country></country><lang>it</lang><value>Successivamente potrai eseguire l'analisi usando il menu costruzione report.</value></content>
+<content><country></country><lang>th</lang><value>หลังจากที่คุณทำการวิเคราะห์แล้วสามารถใช้เมนูการสร้างรายงานได้</value></content>
+<content><country></country><lang>zh</lang><value>然后你能使用报告生成程序菜单运行分析。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The report builder is a very simple tool that allows you to run</value></content>
+<content><country></country><lang>fr</lang><value>Le générateur de rapport est un outil très simple qui vous permet d'exécuter</value></content>
+<content><country></country><lang>it</lang><value>La costruzione report è uno strumento molto semplice che ti permette di eseguire</value></content>
+<content><country></country><lang>th</lang><value>การสร้างรายงานเป็นเครื่องมือง่าย ๆ ที่ให้คุณใช้งานได้</value></content>
+<content><country></country><lang>zh</lang><value>报告生成程序是一个很简单的工具，允许你运行</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>the analysis on all the star schemas defined in the system.</value></content>
+<content><country></country><lang>fr</lang><value>l'analyse sur tous les schémas en étoile définis dans le système.</value></content>
+<content><country></country><lang>it</lang><value>le analisi su tutti gli star schemas definiti nel sistema.</value></content>
+<content><country></country><lang>th</lang><value>การวิเคราะห์บนแผนผังทั้งหมดที่ระบุในระบบ</value></content>
+<content><country></country><lang>zh</lang><value>系统中定义的所有星型模型的分析。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>However, right now there is just one star schema defined:</value></content>
+<content><country></country><lang>fr</lang><value>Cependant, pour l'instant il y a qu'un schéma en étoile défini : </value></content>
+<content><country></country><lang>it</lang><value>Comunque, fino adesso c'è solo un star schema definito:</value></content>
+<content><country></country><lang>th</lang><value>อย่างไรก็ตาม, ขณะนี้มีแผนผังที่กำหนด:</value></content>
+<content><country></country><lang>zh</lang><value>然而，目前只定义了一个星型模型：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>SalesInvoiceItemStarSchema that is a simple "profit and loss" (P&L) analysis.</value></content>
+<content><country></country><lang>fr</lang><value>SalesInvoiceItemStarSchema qui est une simple analyse "profits et pertes" (P&L).</value></content>
+<content><country></country><lang>it</lang><value>SalesInvoiceItemStarSchema che è una semplice analisi di "profit and loss" (P&L).</value></content>
+<content><country></country><lang>th</lang><value>SalesInvoiceItemStarSchema เป็นการวิเคราะห์ขั้นพื้นฐานของ "กำไรและขาดทุน" (P&L) </value></content>
+<content><country></country><lang>zh</lang><value>销售发票明细星型模型(SalesInvoiceItemStarSchema)是一个简单的盈亏分析。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Just select using the checkboxes the fields (columns) you want to see in the report</value></content>
+<content><country></country><lang>fr</lang><value>Sélectionner simplement en utilisant les case à cocher des champs (colonnes) que vous voulez voir dans le rapport</value></content>
+<content><country></country><lang>it</lang><value>Seleziona i campi che vuoi vedere</value></content>
+<content><country></country><lang>th</lang><value>จะต้องเลือกใช้เช็คบ็อก (คอลัมภ์) ตามที่คุณต้องการให้มีในรายงาน</value></content>
+<content><country></country><lang>zh</lang><value>使用选择框选择你想在报告中看到的那些数据项(列)，</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>and a simple report will be shown: according to the columns selected the data will be aggregated (drill up/down);</value></content>
+<content><country></country><lang>fr</lang><value>et un simple rapport sera généré : selon les colonnes choisies les données seront regroupées (tri haut/bas).</value></content>
+<content><country></country><lang>it</lang><value>e verrà mostrato un semplice report: i dati verranno aggregati (drill up/down) in base alle colonne selezionate;</value></content>
+<content><country></country><lang>th</lang><value>และพื้นฐานของรายงานจะต้องแสดง: ตามคอลัมภ์ที่เลือกข้อมูลจะต้องรวมกัน (drill up/down);</value></content>
+<content><country></country><lang>zh</lang><value>然后会显示一个简单的报告：按照选择的列，数据会被聚合(汇总分析/细化分析)；</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>all the descriptions you see in the report screens are pulled from the entity definitions.</value></content>
+<content><country></country><lang>fr</lang><value>Toutes les descriptions que vous voyez dans les écrans de rapport sont tirées des définitions d'entités.</value></content>
+<content><country></country><lang>it</lang><value>tutte le descrizioni che tu vedrai nelle scrermate del report sono prelevare dalla definizioni delle entità.</value></content>
+<content><country></country><lang>th</lang><value>รายละเอียดทั้งหมดที่คุณเห็นในหน้ารายงานดึงมาจากสิ่งที่กำหด</value></content>
+<content><country></country><lang>zh</lang><value>你在报告屏幕中看到的全部描述都是从实体定义中抽取出来的。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The initialization is needed only once, because the product data and sales invoice data</value></content>
+<content><country></country><lang>fr</lang><value>L'initialisation n'est nécessaire qu'une fois, parce que les données d'articles et de factures de vente sont</value></content>
+<content><country></country><lang>it</lang><value>L'inizializzazione è necessaria solo una volta, perchè i dati dei prodotti e delle fatture di vendita</value></content>
+<content><country></country><lang>th</lang><value>การเริ่มต้นเป็นความต้องการอย่างแรกเพราะเป็นข้อมูลสินค้าและข้อมูลใบแจ้งการขาย</value></content>
+<content><country></country><lang>zh</lang><value>初始化只需要做一次，因为产品数据和销售发票数据</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The idea is to define a set entities for business intelligence analysis in a separate (olap) database,</value></content>
+<content><country></country><lang>fr</lang><value>L'idée est de définir un ensemble d'entités pour l'analyse de l'Informatique décisionnelle dans une base de données séparée (OLAP),</value></content>
+<content><country></country><lang>it</lang><value>L'idea è di definire un'insieme di entità per le analisi di business intelligence in un database (OLAP) separato,</value></content>
+<content><country></country><lang>th</lang><value>แผนการในการตั้งค่าสิ่งที่มีอยู่เพื่อวิเคราะห์การเรียนรู้ทางธุรกิจในการแยก (olap) ฐานข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>思路是在一个独立的(OLAP)数据库中为商业智能分析定义一组实体，</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>are kept updated by ecas: if you create/update a product or create a new invoice,</value></content>
+<content><country></country><lang>fr</lang><value>sont maintenues à jour par ECAS (Evènements/Conditions/Actions). Si vous créez/mettez à jour un article ou créez une nouvelle facture,</value></content>
+<content><country></country><lang>it</lang><value>sono mantenuti aggiornati dagli ecas: ogni volta che crei/aggiorni un prodotto o crei una nuova fattura,</value></content>
+<content><country></country><lang>th</lang><value>เป็นการเปลี่ยนแปลงโดยการแทนที่: ถ้าคุณสร้าง/เปลี่ยนแปลงสินค้าหรือสร้างใบส่งของใหม่</value></content>
+<content><country></country><lang>zh</lang><value>是由ECAS来保持和更新的：如果你创建/更新一个产品或新建一个发票，</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>the new information will be immediately included in the datawarehouse analysis.</value></content>
+<content><country></country><lang>fr</lang><value>la nouvelle information sera immédiatement incluse dans l'analyse du datawarehouse.</value></content>
+<content><country></country><lang>it</lang><value>la nuova informazione sarà immediatamente inclusa nelle analisi del datawarehouse.</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลใหม่จะต้องรวมทันทีในการวิเคราะห์ข้อมูลคลังสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>新信息会立即包含在数据仓库的分析中。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>accessible, in the same way as the main one (OLTP), via the delegator.</value></content>
+<content><country></country><lang>fr</lang><value>accessibles, de la même manière que pour la base de données principale (OLTP), par l'intermédiaire du délégateur.</value></content>
+<content><country></country><lang>it</lang><value>accessibile, nello stesso modo di quello principale (OLTP), attraverso un delegator.</value></content>
+<content><country></country><lang>th</lang><value>สามารถเข้าถึงได้ในทางเดียวกันกับทางแรก (OLTP)</value></content>
+<content><country></country><lang>zh</lang><value>可访问，与主要的数据库同构，通过delegator实现。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The new olap database, will contain all the entities necessary to datawarehouse analysis:</value></content>
+<content><country></country><lang>fr</lang><value>La nouvelle base de données OLAP, contiendra toutes les entités nécessaires à l'analyse du datawarehouse :</value></content>
+<content><country></country><lang>it</lang><value>Il nuovo database olap, conterrà tutte le entità necessarie alle analisi di datawarehouse: </value></content>
+<content><country></country><lang>th</lang><value>ฐานข้อมูล olap ใหม่จะประกอบด้วยสิ่งที่มีอยู่ซึ่งจำเป็นในการวิเคราะห์ข้อมูลคลังสินค้า:</value></content>
+<content><country></country><lang>zh</lang><value>新的OLAP数据库，将包含全部数据仓库分析所需的实体：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>dimensions, facts and star schemas (that are view-entities).</value></content>
+<content><country></country><lang>fr</lang><value>dimensions, faits et schémas en étoile (ce sont des vues sur la base de données : view-entities au sens d'OFBiz).</value></content>
+<content><country></country><lang>it</lang><value>dimensioni, fatti e star schemas (view-entities).</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขต,ข้อเท็จจริงและแผนผัง (เป็นการแสดงสิ่งที่มีอยู่)</value></content>
+<content><country></country><lang>zh</lang><value>纬度、事实和星型模型(浏览实体)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The dimensions, facts and star schemas are defined according to best practices for datawarehouses</value></content>
+<content><country></country><lang>fr</lang><value>Les dimensions, les faits et les schémas en étoile sont définis selon les bonnes pratiques pour les datawarehouses </value></content>
+<content><country></country><lang>it</lang><value>Le dimensioni, fatti e star schemas sono definiti in accordo alle migliori pratiche per i datawarehouses</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขต,ข้อเท็จจริงและแผนผังตามที่ระบุเป็นวิธีปฏิบัติที่ดีที่สุดสำหรับข้อมูลคลังสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>纬度、事实和星型模型定义参考了数据仓库最佳实践</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>and best practices for OFBiz: they are defined as standard entities using the xml entity defs;</value></content>
+<content><country></country><lang>fr</lang><value>et pour OFBiz. Ils sont définis comme des entités standards à l'aide de définitions d'entités dans des fichiers XML.</value></content>
+<content><country></country><lang>it</lang><value>e le migliori pratiche per OFBiz: sono definite come entità standard usando le definizioni xml entity;</value></content>
+<content><country></country><lang>th</lang><value>และวิธีปฏิบัติที่ดีที่สุดสำหรับ OFBiz คือ: ต้องกำหนดมาตรฐานสิ่งที่มีอยู่ให้เหมือนกับที่ใช้ใน xml </value></content>
+<content><country></country><lang>zh</lang><value>以及OFBiz最佳实践：把它们用XML实体定义定义为标准实体；</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>clear and consistent naming conventions are used and they are documented</value></content>
+<content><country></country><lang>fr</lang><value>Des conventions de nommages claires et cohérentes sont utilisées et documentées</value></content>
+<content><country></country><lang>it</lang><value>sono usate convenzioni nei nomi corrette e consistenti e sono documentate</value></content>
+<content><country></country><lang>th</lang><value>ยกเลิกและใช้ชื่อข้อตกลงที่สอดคล้องกันและเป็นไปตามเอกสาร</value></content>
+<content><country></country><lang>zh</lang><value>使用简明一致的命名规范，</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>by meta data descriptions (in the entity def).</value></content>
+<content><country></country><lang>fr</lang><value>par des méta descriptions de données (dans les définitions d'entités)</value></content>
+<content><country></country><lang>it</lang><value>mediante le descrizioni dei meta dati (nella definizione entità).</value></content>
+<content><country></country><lang>th</lang><value>โดยรายละเอียดที่มาของข้อมูล(อยู่ในที่กำหนด)</value></content>
+<content><country></country><lang>zh</lang><value>(在实体定义中)通过元数据描述进行文档化。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Quick Init DataWarehouse</value></content>
+<content><country></country><lang>fr</lang><value>Initialiser rapidement le dataWarehouse</value></content>
+<content><country></country><lang>it</lang><value>Inizializzazione veloce DataWarehouse</value></content>
+<content><country></country><lang>th</lang><value>เริ่มต้นเข้าสู่ข้อมูลคลังสินค้าอย่างรวดเร็ว</value></content>
+<content><country></country><lang>zh</lang><value>快速初始化数据仓库</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Quick Start Guide</value></content>
+<content><country></country><lang>fr</lang><value>Guide de démarrage rapide</value></content>
+<content><country></country><lang>it</lang><value>Guida Rapida</value></content>
+<content><country></country><lang>th</lang><value>เข้าสู่คำแนะนำอย่างรวดเร็ว</value></content>
+<content><country></country><lang>zh</lang><value>快速使用指南</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Render the Report</value></content>
+<content><country></country><lang>fr</lang><value>Générer le rapport</value></content>
+<content><country></country><lang>it</lang><value>Visualizza il Report</value></content>
+<content><country></country><lang>th</lang><value>เสนอรายงาน</value></content>
+<content><country></country><lang>zh</lang><value>修饰报告</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Report Builder</value></content>
+<content><country></country><lang>fr</lang><value>Générateur de rapport</value></content>
+<content><country></country><lang>it</lang><value>Costruzione Report</value></content>
+<content><country></country><lang>th</lang><value>สร้างรายงาน</value></content>
+<content><country></country><lang>zh</lang><value>报告生成程序</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Render Star Schema Report</value></content>
+<content><country></country><lang>fr</lang><value>Générateur de rapport de schéma en étoile</value></content>
+<content><country></country><lang>it</lang><value>Visualizza Report Star Schema</value></content>
+<content><country></country><lang>th</lang><value>เสนอแผนผังรายงาน</value></content>
+<content><country></country><lang>zh</lang><value>修饰星型模型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Select Star Schema</value></content>
+<content><country></country><lang>fr</lang><value>Sélectionner le schéma en étoile</value></content>
+<content><country></country><lang>it</lang><value>Seleziona Star Schema</value></content>
+<content><country></country><lang>th</lang><value>เลือกแผนผัง</value></content>
+<content><country></country><lang>zh</lang><value>选择星型模型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Select Star Schema Fields</value></content>
+<content><country></country><lang>fr</lang><value>Sélectionner les champs du schéma en étoile</value></content>
+<content><country></country><lang>it</lang><value>Seleziona Campi Star Schema</value></content>
+<content><country></country><lang>th</lang><value>เลือกช่องแผนผัง</value></content>
+<content><country></country><lang>zh</lang><value>选择星型模型数据项</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Select the start schema (report)</value></content>
+<content><country></country><lang>fr</lang><value>Sélectionner le schéma en étoile (rapport)</value></content>
+<content><country></country><lang>it</lang><value>Seleziona lo start schema (report)</value></content>
+<content><country></country><lang>th</lang><value>เลือกแผนผัง (รายงาน)</value></content>
+<content><country></country><lang>zh</lang><value>选择星型模型(报告)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The update mode: ${updateMode} is still not supported.</value></content>
+<content><country></country><lang>it</lang><value>Il metodo di aggiornamento: ${updateMode} non è ancora supportato.</value></content>
+</contents></phrase> </phrases>

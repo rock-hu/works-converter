@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="ServerHitType.description.ENTITY">
+        <value lang="de">Entität</value>
+        <value lang="en">Entity</value>
+        <value lang="es">Entidad</value>
+        <value lang="fr">Entité</value>
+        <value lang="it">Entità</value>
+        <value lang="ro">Entitate</value>
+        <value lang="ru">Сущность</value>
+        <value lang="th">เอกลักษณ์</value>
+        <value lang="zh">实体</value>
+        <value lang="zh_TW">實體</value>
+    </property>
+    <property key="ServerHitType.description.EVENT">
+        <value lang="de">Event</value>
+        <value lang="en">Event</value>
+        <value lang="es">Evento</value>
+        <value lang="fr">Evènement</value>
+        <value lang="it">Evento</value>
+        <value lang="ro">Eveniment</value>
+        <value lang="ru">Событие</value>
+        <value lang="th">เหตุการณ์</value>
+        <value lang="zh">事件</value>
+        <value lang="zh_TW">事件</value>
+    </property>
+    <property key="ServerHitType.description.REQUEST">
+        <value lang="de">Request</value>
+        <value lang="en">Request</value>
+        <value lang="es">Petición</value>
+        <value lang="fr">Requête</value>
+        <value lang="it">Richiesta</value>
+        <value lang="ro">Cerere</value>
+        <value lang="ru">Запрос</value>
+        <value lang="th">คำร้อง</value>
+        <value lang="zh">访问请求</value>
+        <value lang="zh_TW">訪問請求</value>
+    </property>
+    <property key="ServerHitType.description.SERVICE">
+        <value lang="de">Service</value>
+        <value lang="en">Service</value>
+        <value lang="es">Servicio</value>
+        <value lang="fr">Service</value>
+        <value lang="it">Servizio</value>
+        <value lang="ro">Serviciu</value>
+        <value lang="ru">Служба</value>
+        <value lang="th">บริการ</value>
+        <value lang="zh">服务</value>
+        <value lang="zh_TW">服務</value>
+    </property>
+    <property key="ServerHitType.description.VIEW">
+        <value lang="de">Ansicht</value>
+        <value lang="en">View</value>
+        <value lang="es">Vista</value>
+        <value lang="fr">Vue</value>
+        <value lang="it">Vista</value>
+        <value lang="ro">Afisare</value>
+        <value lang="ru">Представление</value>
+        <value lang="th">ข้อคิดเห็น</value>
+        <value lang="zh">浏览</value>
+        <value lang="zh_TW">瀏覽</value>
+    </property>
+</resource>

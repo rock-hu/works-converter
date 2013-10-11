@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Manufacturing Order receipt</value></content>
+<content><country></country><lang>es</lang><value>Recibo de Orden de Producción</value></content>
+<content><country></country><lang>fr</lang><value>Reçu d'ordre de fabrication</value></content>
+<content><country></country><lang>it</lang><value>Ricevuto Ordine Produzione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Recibo de pedido de produção</value></content>
+<content><country></country><lang>ro</lang><value>Primit Comanda Productie</value></content>
+<content><country></country><lang>th</lang><value>การสร้างใบเสร็จรับเงิน</value></content>
+<content><country></country><lang>zh</lang><value>制造订单收据</value></content>
+<content><country></country><lang>zh_TW</lang><value>制造訂單收據</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Manufacturing Order requirement</value></content>
+<content><country></country><lang>es</lang><value>Requisito de Orden de Producción</value></content>
+<content><country></country><lang>fr</lang><value>Besoin d'ordre de fabrication</value></content>
+<content><country></country><lang>it</lang><value>Fabbisogno Ordine Produzione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Requisito do pedido de produção</value></content>
+<content><country></country><lang>ro</lang><value>Necesar Comenzi Productie</value></content>
+<content><country></country><lang>th</lang><value>การสร้างรายการสั่งซื้อตามความต้องการ</value></content>
+<content><country></country><lang>zh</lang><value>制造订单需求</value></content>
+<content><country></country><lang>zh_TW</lang><value>制造訂單需求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Mrp requirement</value></content>
+<content><country></country><lang>es</lang><value>Requisito de Mrp</value></content>
+<content><country></country><lang>fr</lang><value>Besoin Mrp</value></content>
+<content><country></country><lang>it</lang><value>Fabbisogno Mrp</value></content>
+<content><country></country><lang>pt_BR</lang><value>Requisito de Mrp</value></content>
+<content><country></country><lang>ro</lang><value>Necesar Mrp</value></content>
+<content><country></country><lang>th</lang><value>ความต้องการตาม Mrp</value></content>
+<content><country></country><lang>zh</lang><value>材料需求计划的需求</value></content>
+<content><country></country><lang>zh_TW</lang><value>材料需求計劃的需求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Proposed Manufacturing Order receipt</value></content>
+<content><country></country><lang>es</lang><value>Orden de Producción Propuesta</value></content>
+<content><country></country><lang>fr</lang><value>Reçu d'ordre de fabrication proposé</value></content>
+<content><country></country><lang>it</lang><value>Ricevuta Proposta Ordine Produzione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Recibo de pedido de produção proposto</value></content>
+<content><country></country><lang>ro</lang><value>Primit Offerta Comanda Productie</value></content>
+<content><country></country><lang>th</lang><value>การสร้างใบเสร็จรับเงินตามวัตถุประสงค์</value></content>
+<content><country></country><lang>zh</lang><value>已提交的制造订单收据</value></content>
+<content><country></country><lang>zh_TW</lang><value>已提交的制造訂單收據</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Proposed Purchase Order receipt</value></content>
+<content><country></country><lang>es</lang><value>Recibo de Pedido de Compra propuesto</value></content>
+<content><country></country><lang>fr</lang><value>Reçu d'ordre d'achat proposé</value></content>
+<content><country></country><lang>it</lang><value>Ricevuta Proposta Ordine Acquisto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Recibo de pedido de compra proposto</value></content>
+<content><country></country><lang>ro</lang><value>Primit Oferta Comanda Cumparare</value></content>
+<content><country></country><lang>th</lang><value>ใบสั่งซื้อสินค้าตามวัตถุประสงค์</value></content>
+<content><country></country><lang>zh</lang><value>已提交的购物订单收据</value></content>
+<content><country></country><lang>zh_TW</lang><value>已提交的購物訂單收據</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Purchase Order receipt</value></content>
+<content><country></country><lang>es</lang><value>Recibo de Pedido de Compra</value></content>
+<content><country></country><lang>fr</lang><value>Reçu d'ordre d'achat</value></content>
+<content><country></country><lang>it</lang><value>Ricevuto Ordine Acquisto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Recibo de pedido de compra</value></content>
+<content><country></country><lang>ro</lang><value>Primit Comanda Cumparare</value></content>
+<content><country></country><lang>th</lang><value>ใบสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>购物订单收据</value></content>
+<content><country></country><lang>zh_TW</lang><value>購物訂單收據</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Sales order shipment</value></content>
+<content><country></country><lang>es</lang><value>Envío de Pedido de Venta</value></content>
+<content><country></country><lang>fr</lang><value>Expédition de commande de vente</value></content>
+<content><country></country><lang>it</lang><value>Spedizioni Ordini Vendita</value></content>
+<content><country></country><lang>pt_BR</lang><value>Envio de pedido de vendas</value></content>
+<content><country></country><lang>ro</lang><value>Expediere Comenzi Vanzare</value></content>
+<content><country></country><lang>th</lang><value>การขนส่งสินค้าตามรายการขาย</value></content>
+<content><country></country><lang>zh</lang><value>销售订单运输</value></content>
+<content><country></country><lang>zh_TW</lang><value>銷售訂單運輸</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Default calendar used when no specific calendar is defined</value></content>
+<content><country></country><lang>es</lang><value>El calendario por defecto se usará cuando no se especifique otro</value></content>
+<content><country></country><lang>fr</lang><value>Calendrier utilisé par défaut quand aucun calendrier spécifique n'est défini</value></content>
+<content><country></country><lang>it</lang><value>Calendario di Default usato quando nessun calendario specifico è definito</value></content>
+<content><country></country><lang>pt_BR</lang><value>Calendário padrão utilizado quando não há um calendário específico definido</value></content>
+<content><country></country><lang>ro</lang><value>Calendar de Default folosit atunci cand nici-un calendar specific nu este definit</value></content>
+<content><country></country><lang>th</lang><value>ปฏิทินมาตรฐานใช้เมื่อไม่มีการระบุปฏิทินโดยเฉพาะ</value></content>
+<content><country></country><lang>zh</lang><value>当没有指定日历时所用的缺省日历</value></content>
+<content><country></country><lang>zh_TW</lang><value>當沒有指定日歷時所用的缺省日歷</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Demo Workcenter Calendar</value></content>
+<content><country></country><lang>it</lang><value>Calendario demo</value></content>
+<content><country></country><lang>pt_BR</lang><value>Calendário de demonstração</value></content>
+<content><country></country><lang>zh</lang><value>演示作业中心日历</value></content>
+<content><country></country><lang>zh_TW</lang><value>演示作業中心日歷</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>DRYING</value></content>
+<content><country></country><lang>es</lang><value>Calendario del taller de secado</value></content>
+<content><country></country><lang>fr</lang><value>Calendrier d'atelier de séchage</value></content>
+<content><country></country><lang>it</lang><value>Calendario Officina Asciugatura</value></content>
+<content><country></country><lang>pt_BR</lang><value>Calendários do escritório de secagem</value></content>
+<content><country></country><lang>ro</lang><value>Calendar Atelier Uscatorie</value></content>
+<content><country></country><lang>th</lang><value>ปฏิทิน</value></content>
+<content><country></country><lang>zh</lang><value>烘干车间日历</value></content>
+<content><country></country><lang>zh_TW</lang><value>烘幹車間日歷</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>MACHINING</value></content>
+<content><country></country><lang>es</lang><value>Calendario del Taller de Maquinaria</value></content>
+<content><country></country><lang>fr</lang><value>Calendrier d'atelier d'usinage</value></content>
+<content><country></country><lang>it</lang><value>Calendario Officina Macchine</value></content>
+<content><country></country><lang>pt_BR</lang><value>Calendário do escritório de maquinário</value></content>
+<content><country></country><lang>ro</lang><value>Calendar Atelier Masini</value></content>
+<content><country></country><lang>th</lang><value>ปฏิทินของระบบการปฎิบัติงาน</value></content>
+<content><country></country><lang>zh</lang><value>加工车间日历</value></content>
+<content><country></country><lang>zh_TW</lang><value>加工車間日歷</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Calendar used for Re-Order date calculation for bought product</value></content>
+<content><country></country><lang>es</lang><value>Calendario usado para el cálculo de la fecha de repetición de pedido para productos comprados</value></content>
+<content><country></country><lang>fr</lang><value>Calendrier utilisé pour le calcul de la date de commande répétitive de l'article acheté</value></content>
+<content><country></country><lang>it</lang><value>Calendario usato per Ri-Ordini data calcolo per prodotti acquistati</value></content>
+<content><country></country><lang>pt_BR</lang><value>Calendário usado para refazer pedidos de produtos já comprados</value></content>
+<content><country></country><lang>ro</lang><value>Calendar folosit pentru Re-Ordonarea datelor de calcul a produselor cumparate</value></content>
+<content><country></country><lang>th</lang><value>ปฏิทินใช้สำหรับวันที่มีการคำนวณรายการสั่งสินค้าสำหรับซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>购买产品时计算重新排订单日期所用的日历</value></content>
+<content><country></country><lang>zh_TW</lang><value>購買產品時計算重新排訂單日期所用的日歷</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>8hours/days</value></content>
+<content><country></country><lang>es</lang><value>8 horas/día</value></content>
+<content><country></country><lang>fr</lang><value>8heures/jour</value></content>
+<content><country></country><lang>it</lang><value>8 ore/giorno</value></content>
+<content><country></country><lang>pt_BR</lang><value>8 horas/dia</value></content>
+<content><country></country><lang>ro</lang><value>8 ore/zi</value></content>
+<content><country></country><lang>th</lang><value>8 ชั่วโมง/วัน</value></content>
+<content><country></country><lang>zh</lang><value>8小时/天</value></content>
+<content><country></country><lang>zh_TW</lang><value>8小時/天</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Demo calendar week of 8hours/days 5days/week starting at 8h30 from monday to friday</value></content>
+<content><country></country><lang>it</lang><value>Calendario settimanale demo di 8 ore/giorno 5 giorni/settimana iniziando alle 8:30 dal lunedì al venerdì</value></content>
+<content><country></country><lang>pt_BR</lang><value>Calendário semanal de demonstração de 8 horas/dia 5 dias/semana começando às 8:30h de segunda à sexta-feira</value></content>
+<content><country></country><lang>zh</lang><value>演示每周5天、每天8小时、周一至周五从8:30开始的日历周</value></content>
+<content><country></country><lang>zh_TW</lang><value>演示每周5天、每天8小時、周一至周五從8:30開始的日歷周</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>HOLIDAY</value></content>
+<content><country></country><lang>es</lang><value>Calendario de vacaciones, 0 horas/día, 0 días/semana</value></content>
+<content><country></country><lang>fr</lang><value>Caldendrier des vacances (0 heure/jour, 0 jour/semaine)</value></content>
+<content><country></country><lang>it</lang><value>Calendario per il periodo di vacanze, 0 ore/giorno 0 giorni/settimana</value></content>
+<content><country></country><lang>pt_BR</lang><value>Calendário de feriados, 0 horas/dia, 0 dias/semana</value></content>
+<content><country></country><lang>ro</lang><value>Calendar pentru perioada de vacanza, 0 ore/zi 0 zile/saptamana</value></content>
+<content><country></country><lang>th</lang><value>ปฏิทินวันหยุด</value></content>
+<content><country></country><lang>zh</lang><value>节假日日历—— 0小时/天、0天/周</value></content>
+<content><country></country><lang>zh_TW</lang><value>節假日日歷—— 0小時/天、0天/周</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>STD24H-7D</value></content>
+<content><country></country><lang>es</lang><value>Calendario estándar 24h al día, 7 días a la semana</value></content>
+<content><country></country><lang>fr</lang><value>Calendrier standard 24 heures, 7 jours</value></content>
+<content><country></country><lang>it</lang><value>Calendario Standard aperto 24 ore al giorno 7 giorni alla settimana</value></content>
+<content><country></country><lang>pt_BR</lang><value>Calendário padrão de 24 horas e 7 dias por semana</value></content>
+<content><country></country><lang>ro</lang><value>Calendar Standard deschis 24 ore pe zi 7 zile pe saptamana</value></content>
+<content><country></country><lang>th</lang><value>ปฏิทินมาตรฐานกำหนดให้เป็น 24 ชั่วโมงหรือ 7 วัน</value></content>
+<content><country></country><lang>zh</lang><value>标准日历——24小时/天、7天/周</value></content>
+<content><country></country><lang>zh_TW</lang><value>標准日歷——24小時/天、7天/周</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>STD8H-5D</value></content>
+<content><country></country><lang>es</lang><value>Calendario estándar 8 horas/día, 5 días a la semana. Comienza 8h30 de lunes a viernes</value></content>
+<content><country></country><lang>fr</lang><value>Calendrier standard 8heures/jour, 5 jours par semaine</value></content>
+<content><country></country><lang>it</lang><value>Calendario Standard 8 ore/giorno 5giorni/settimana con inizio alle 8:30 dal Lunedì al Venerdì</value></content>
+<content><country></country><lang>pt_BR</lang><value>Calendário padrão de 8 horas/dia, 5 dias/semana.</value></content>
+<content><country></country><lang>ro</lang><value>Calendar Standard 8 ore/zi 5 zile /saptamana de la orele 8:30 de Luni pana Vineri</value></content>
+<content><country></country><lang>th</lang><value>ปฏิทินมาตรฐาน 8 ชั่วโมง/5 วัน/กำหนดให้เริ่ม 8:30</value></content>
+<content><country></country><lang>zh</lang><value>标准日历——8小时/天、5天/周、周一至周五8:30开始</value></content>
+<content><country></country><lang>zh_TW</lang><value>標准日歷——8小時/天、5天/周、周一至周五8:30開始</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>8hours/days, currently the Re-Order Process convert day to mms with 8h/days</value></content>
+<content><country></country><lang>es</lang><value>8 horas/día, expresado en mms</value></content>
+<content><country></country><lang>fr</lang><value>8 heures/jour, actuellement le precessus de renouvellement de commande converti le jour en mms à 8h/jour</value></content>
+<content><country></country><lang>it</lang><value>8 ore/giorno, attualmente il Processo di Ri-Ordine converte il giorno a mms con 8h/giorno</value></content>
+<content><country></country><lang>pt_BR</lang><value>8 horas/dia, atualmente o processo de refazer pedidos converte dia para mms.</value></content>
+<content><country></country><lang>ro</lang><value>8 ore/zi, in prezent Procesul de Re-Ordinare converteste ziua in mms cu  8h/zi" mondayStartTime="08:30:00"</value></content>
+<content><country></country><lang>th</lang><value>8 ชั่วโมง/วัน, ขณะนี้รายการสั่งซื้อกำลังประมวลผลในการเปลี่ยนวันไปเป็น mms ด้วย 8 ชั่วโมง/วัน</value></content>
+<content><country></country><lang>zh</lang><value>8小时/天，目前重新排订单过程会把天按8小时/天转换为百万毫秒" mondayStartTime="08:30:00" mondayCapacity="2.88E7" tuesdayStartTime="08:30:00" tuesdayCapacity="2.88E7" wednesdayStartTime="08:30:00" wednesdayCapacity="2.88E7" thursdayStartTime="08:30:00" thursdayCapacity="2.88E7" fridayStartTime="08:30:00" fridayCapacity="2.88E7"/></value></content>
+<content><country></country><lang>zh_TW</lang><value>8小時/天，目前重新排訂單過程會把天按8小時/天轉換為百萬毫秒" mondayStartTime="08:30:00" mondayCapacity="2.88E7" tuesdayStartTime="08:30:00" tuesdayCapacity="2.88E7" wednesdayStartTime="08:30:00" wednesdayCapacity="2.88E7" thursdayStartTime="08:30:00" thursdayCapacity="2.88E7" fridayStartTime="08:30:00" fridayCapacity="2.88E7"/></value></content>
+</contents></phrase> </phrases>

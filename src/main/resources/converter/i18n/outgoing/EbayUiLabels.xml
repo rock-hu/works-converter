@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Catalog To Store</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Ebay Configuration</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi configurazione eBay</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Ebay Shipping Method</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi metodo di spedizione eBay</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Ebay Integration</value></content>
+<content><country></country><lang>fr</lang><value>Intégration Ebay</value></content>
+<content><country></country><lang>it</lang><value>Applicazione per esportare i prodotti su eBay</value></content>
+<content><country></country><lang>th</lang><value>อีเบย์ทั้งหมด</value></content>
+<content><country></country><lang>zh</lang><value>eBay集成</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OFBiz</value></content>
+<content><country></country><lang>fr</lang><value>OFBiz</value></content>
+<content><country></country><lang>it</lang><value>OFBiz</value></content>
+<content><country></country><lang>th</lang><value>OFBiz</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Ebay Configurations</value></content>
+<content><country></country><lang>it</lang><value>Configurazioni eBay</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>eBay Orders Import</value></content>
+<content><country></country><lang>it</lang><value>Importa ordini da eBay</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OrderID / TransactionID</value></content>
+<content><country></country><lang>it</lang><value>Numero Ordine / Numero Transazione</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Ebay Configuration</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>zu eBay exportieren</value></content>
+<content><country></country><lang>en</lang><value>Export To eBay</value></content>
+<content><country></country><lang>fr</lang><value>Exporter vers Ebay</value></content>
+<content><country></country><lang>it</lang><value>Esporta su eBay</value></content>
+<content><country></country><lang>th</lang><value>การส่งออกไปยังอีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>导出到eBay</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Item Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. d'article</value></content>
+<content><country></country><lang>it</lang><value>Numero oggetto</value></content>
+<content><country></country><lang>th</lang><value>รหัสรายการ</value></content>
+<content><country></country><lang>zh</lang><value>明细标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>eBay-Aufträge importieren</value></content>
+<content><country></country><lang>en</lang><value>Import Orders From eBay</value></content>
+<content><country></country><lang>fr</lang><value>Importer des commandes depuis Ebay</value></content>
+<content><country></country><lang>it</lang><value>Importa ordini da eBay</value></content>
+<content><country></country><lang>th</lang><value>การนำเข้ารายการสั่งซื้อสินค้าจากอีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>从eBay导入订单</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Search Orders To Import From eBay</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher des commandes à importer depuis Ebay</value></content>
+<content><country></country><lang>it</lang><value>Ricerca ordini da importare da eBay</value></content>
+<content><country></country><lang>th</lang><value>ค้นหารายการสั่งซื้อสินค้าไปยังการนำเข้าสินค้าจากอีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>搜索从eBay导入的订单</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Search Single Transactions From eBay</value></content>
+<content><country></country><lang>it</lang><value>Ricerca singole transazioni da eBay</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Import Single Transactions</value></content>
+<content><country></country><lang>it</lang><value>Importa singole transazioni</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Shipping Method Configurations</value></content>
+<content><country></country><lang>it</lang><value>Configurazioni metodi di spedizione</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to create postalAddress with input map: </value></content>
+<content><country></country><lang>it</lang><value>Non è possibile create l'indirizzo postal con l'input: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You do not have permission to view this page. ("EBAY_VIEW" needed)</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'avez pas la permission de voir cette page. (Il faut l'autorisation "EBAY_VIEW")</value></content>
+<content><country></country><lang>it</lang><value>Tu non sei autorizzato per vedere questa pagina. (necessario permesso "EBAY_VIEW")</value></content>
+<content><country></country><lang>th</lang><value>คุณไม่มีการอนุญาตถึงการแสดงหน้านี้  ("EBAY_VIEW" ต้องการ)</value></content>
+<content><country></country><lang>zh</lang><value>你没有浏览这个页面的权限(需要EBAY_VIEW)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Amount Paid</value></content>
+<content><country></country><lang>fr</lang><value>Montant payé</value></content>
+<content><country></country><lang>it</lang><value>Importo pagato</value></content>
+<content><country></country><lang>th</lang><value>จ่ายจำนวน</value></content>
+<content><country></country><lang>zh</lang><value>支付金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Buyer Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de l'acheteur</value></content>
+<content><country></country><lang>it</lang><value>Nome compratore</value></content>
+<content><country></country><lang>th</lang><value>ชื่อผู้ซื้อ</value></content>
+<content><country></country><lang>zh</lang><value>买家姓名</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Checkout Status</value></content>
+<content><country></country><lang>fr</lang><value>Statut du processus de paiement</value></content>
+<content><country></country><lang>it</lang><value>Stato completamento asta</value></content>
+<content><country></country><lang>th</lang><value>สถานะการตรวจสอบ</value></content>
+<content><country></country><lang>zh</lang><value>结账状态</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Payment Sent by Buyer</value></content>
+<content><country></country><lang>fr</lang><value>Paiement envoyé par l'acheteur</value></content>
+<content><country></country><lang>it</lang><value>Pagamento inviato dal compratore</value></content>
+<content><country></country><lang>th</lang><value>ส่งการชำระเงินโดยผู้ซื้อ</value></content>
+<content><country></country><lang>zh</lang><value>买家发送的支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Custom XML</value></content>
+<content><country></country><lang>it</lang><value>XML personalizzato</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>eBay Payment Status</value></content>
+<content><country></country><lang>fr</lang><value>Statut de paiement Ebay</value></content>
+<content><country></country><lang>it</lang><value>Stato pagamento su eBay</value></content>
+<content><country></country><lang>th</lang><value>สถานะการชำระเงินของอีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>eBay支付状态</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>eBay Category</value></content>
+<content><country></country><lang>fr</lang><value>Catégorie Ebay</value></content>
+<content><country></country><lang>it</lang><value>Categoria eBay</value></content>
+<content><country></country><lang>th</lang><value>หมวดหมู่อีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>eBay分类</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Buyer Email</value></content>
+<content><country></country><lang>fr</lang><value>Email de l'acheteur</value></content>
+<content><country></country><lang>it</lang><value>Email compratore</value></content>
+<content><country></country><lang>th</lang><value>อีเมลผู้ซื้อ</value></content>
+<content><country></country><lang>zh</lang><value>买家电子邮件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error Message</value></content>
+<content><country></country><lang>fr</lang><value>Message d'erreur</value></content>
+<content><country></country><lang>it</lang><value>Messaggio di errore</value></content>
+<content><country></country><lang>th</lang><value>ข้อความผิดพลาด</value></content>
+<content><country></country><lang>zh</lang><value>错误信息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Listing Duration</value></content>
+<content><country></country><lang>fr</lang><value>Durée de listage</value></content>
+<content><country></country><lang>it</lang><value>Durata asta</value></content>
+<content><country></country><lang>th</lang><value>ช่วงเวลาการลงรายการ</value></content>
+<content><country></country><lang>zh</lang><value>列表用时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Listing Status</value></content>
+<content><country></country><lang>fr</lang><value>Statut de listage</value></content>
+<content><country></country><lang>it</lang><value>Stato dell'asta</value></content>
+<content><country></country><lang>th</lang><value>สถานะการลงรายการ</value></content>
+<content><country></country><lang>zh</lang><value>列表状态</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Location</value></content>
+<content><country></country><lang>fr</lang><value>Lieu</value></content>
+<content><country></country><lang>it</lang><value>Località</value></content>
+<content><country></country><lang>th</lang><value>ที่ตั้ง</value></content>
+<content><country></country><lang>zh</lang><value>地点</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Date/Time Payment Received</value></content>
+<content><country></country><lang>fr</lang><value>Date/heure de paiement reçu</value></content>
+<content><country></country><lang>it</lang><value>Data/Ora ricezione pagamento</value></content>
+<content><country></country><lang>th</lang><value>วันที่/เวลาที่ได้รับการชำระเงิน</value></content>
+<content><country></country><lang>zh</lang><value>日期/时间收到的支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PayPal email</value></content>
+<content><country></country><lang>fr</lang><value>Courriel PayPal</value></content>
+<content><country></country><lang>it</lang><value>Email PayPal</value></content>
+<content><country></country><lang>th</lang><value>อีเมลเพย์พาว</value></content>
+<content><country></country><lang>zh</lang><value>贝宝电子邮件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>American Express</value></content>
+<content><country></country><lang>fr</lang><value>American Express</value></content>
+<content><country></country><lang>it</lang><value>American Express</value></content>
+<content><country></country><lang>th</lang><value>American Express</value></content>
+<content><country></country><lang>zh</lang><value>美国运通卡</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Credit card</value></content>
+<content><country></country><lang>fr</lang><value>Carte de crédit</value></content>
+<content><country></country><lang>it</lang><value>Carta di credito</value></content>
+<content><country></country><lang>th</lang><value>บัตรเครดิต</value></content>
+<content><country></country><lang>zh</lang><value>信用卡</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cash on delivery</value></content>
+<content><country></country><lang>fr</lang><value>Paiement comptant à la livraison</value></content>
+<content><country></country><lang>it</lang><value>Contanti alla consegna</value></content>
+<content><country></country><lang>th</lang><value>เงินด่วน</value></content>
+<content><country></country><lang>zh</lang><value>货到付现金</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cash On Delivery After Paid</value></content>
+<content><country></country><lang>fr</lang><value>Paiement comptant à la livraison après pré-paiement initial</value></content>
+<content><country></country><lang>it</lang><value>Contanti alla consegna dopo aver pagato</value></content>
+<content><country></country><lang>th</lang><value>เงินด่วนหลังการจ่าย</value></content>
+<content><country></country><lang>zh</lang><value>有预付费的货到付现金</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cash-in-person </value></content>
+<content><country></country><lang>fr</lang><value>Paiement comptant en personne</value></content>
+<content><country></country><lang>it</lang><value>Contanti di persona</value></content>
+<content><country></country><lang>th</lang><value>เงินส่วนตัว</value></content>
+<content><country></country><lang>zh</lang><value>现金速贷</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Payment on delivery</value></content>
+<content><country></country><lang>fr</lang><value>Paiement à la livraison </value></content>
+<content><country></country><lang>it</lang><value>Pagamento alla consegna</value></content>
+<content><country></country><lang>th</lang><value>การชำระเงินด่วน</value></content>
+<content><country></country><lang>zh</lang><value>货到支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Discover card</value></content>
+<content><country></country><lang>fr</lang><value>Carte Discover</value></content>
+<content><country></country><lang>it</lang><value>Discover</value></content>
+<content><country></country><lang>th</lang><value>ตรวจสอลบัตร</value></content>
+<content><country></country><lang>zh</lang><value>美国发现卡</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Money order/cashiers check</value></content>
+<content><country></country><lang>fr</lang><value>Mandat/Chèque de banque</value></content>
+<content><country></country><lang>it</lang><value>Ordini di soldi/Assegni al cassiere</value></content>
+<content><country></country><lang>th</lang><value>รายการเงิน/เช็คของขวัญ</value></content>
+<content><country></country><lang>zh</lang><value>汇票/本票</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Payment Method Used</value></content>
+<content><country></country><lang>fr</lang><value>Méthode de paiement utilisée</value></content>
+<content><country></country><lang>it</lang><value>Metodo di pagamento scelto</value></content>
+<content><country></country><lang>th</lang><value>ใช้วิธีการชำระเงิน</value></content>
+<content><country></country><lang>zh</lang><value>已用的支付方法</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Payment Methods Accepted</value></content>
+<content><country></country><lang>fr</lang><value>Méthodes de paiement acceptées</value></content>
+<content><country></country><lang>it</lang><value>Metodi di pagamento accettati</value></content>
+<content><country></country><lang>th</lang><value>ยอมรับวิธีการชำระเงิน</value></content>
+<content><country></country><lang>zh</lang><value>已接受的支付方法</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Direct transfer of money</value></content>
+<content><country></country><lang>fr</lang><value>Transfert d'argent direct</value></content>
+<content><country></country><lang>it</lang><value>Trasferimento diretto di soldi</value></content>
+<content><country></country><lang>th</lang><value>ควบคุมการขนส่งของเงิน</value></content>
+<content><country></country><lang>zh</lang><value>资金直接汇兑</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PayPal</value></content>
+<content><country></country><lang>fr</lang><value>PayPal</value></content>
+<content><country></country><lang>it</lang><value>PayPal</value></content>
+<content><country></country><lang>th</lang><value>เพย์พาว</value></content>
+<content><country></country><lang>zh</lang><value>贝宝</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Personal check</value></content>
+<content><country></country><lang>fr</lang><value>Chèque personnel</value></content>
+<content><country></country><lang>it</lang><value>Assegno personale</value></content>
+<content><country></country><lang>th</lang><value>การตรวจสอบส่วนบุคคล</value></content>
+<content><country></country><lang>zh</lang><value>个人支票</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Visa/Mastercard</value></content>
+<content><country></country><lang>fr</lang><value>Visa/Mastercard</value></content>
+<content><country></country><lang>it</lang><value>Visa/Mastercard</value></content>
+<content><country></country><lang>th</lang><value>วีซ่า/มาสเตอร์การ์ด</value></content>
+<content><country></country><lang>zh</lang><value>维萨卡/万事达卡</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Product Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de l'article</value></content>
+<content><country></country><lang>it</lang><value>Nome prodotto</value></content>
+<content><country></country><lang>th</lang><value>ชื่อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>产品名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Quantity Purchased</value></content>
+<content><country></country><lang>fr</lang><value>Quantité achetée</value></content>
+<content><country></country><lang>it</lang><value>Quantità acquistata</value></content>
+<content><country></country><lang>th</lang><value>จำนวนการสั่งซื้อ</value></content>
+<content><country></country><lang>zh</lang><value>已采购的数量</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Date/Time Shipment</value></content>
+<content><country></country><lang>fr</lang><value>Date/Heure d'expédition</value></content>
+<content><country></country><lang>it</lang><value>Date/Ora spedizione</value></content>
+<content><country></country><lang>th</lang><value>วันที่/เวลาการขนส่ง</value></content>
+<content><country></country><lang>zh</lang><value>运输日期/时间</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Shipping Service</value></content>
+<content><country></country><lang>fr</lang><value>Service d'expédition</value></content>
+<content><country></country><lang>it</lang><value>Metodo di spedizione scelto</value></content>
+<content><country></country><lang>th</lang><value>บริการการขนส่ง</value></content>
+<content><country></country><lang>zh</lang><value>运输服务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Shipping Service Cost</value></content>
+<content><country></country><lang>fr</lang><value>Coût du service d'expédition</value></content>
+<content><country></country><lang>it</lang><value>Costo del servizio di spedizione</value></content>
+<content><country></country><lang>th</lang><value>ต้นทุนบริการการขนส่ง</value></content>
+<content><country></country><lang>zh</lang><value>运输服务费</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Shipping Additional Costs</value></content>
+<content><country></country><lang>fr</lang><value>Coûts additionnels d'expédition</value></content>
+<content><country></country><lang>it</lang><value>Costi aggiuntivi spedizione</value></content>
+<content><country></country><lang>th</lang><value>การเพิ่มต้นทุนการขนส่ง</value></content>
+<content><country></country><lang>zh</lang><value>运输附加费</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Start Price</value></content>
+<content><country></country><lang>fr</lang><value>Prix de début</value></content>
+<content><country></country><lang>it</lang><value>Prezzo di partenza</value></content>
+<content><country></country><lang>th</lang><value>ราคาเริ่มต้น</value></content>
+<content><country></country><lang>zh</lang><value>开始价格</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Transaction Price</value></content>
+<content><country></country><lang>fr</lang><value>Prix de transaction</value></content>
+<content><country></country><lang>it</lang><value>Prezzo transazione</value></content>
+<content><country></country><lang>th</lang><value>รายการราคา</value></content>
+<content><country></country><lang>zh</lang><value>交易价格</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Export Products to eBay</value></content>
+<content><country></country><lang>fr</lang><value>Articles d'export vers Ebay</value></content>
+<content><country></country><lang>it</lang><value>Esportazioni prodotti su eBay</value></content>
+<content><country></country><lang>th</lang><value>ส่งออกสินค้าถึงอีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>把产品导出到eBay</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception in getting orders from Ebay.</value></content>
+<content><country></country><lang>it</lang><value>Eccezione nel ricevere gli ordini da eBay.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to find eBay configurations.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile trovare configurazioni eBay.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cannot convert from date, from yyyy-MM-dd HH:mm:ss.SSS date format to yyyy-MM-dd'T'HH:mm:ss.SSS'Z' date format</value></content>
+<content><country></country><lang>fr</lang><value>Ne peut convertir la date de début, depuis le format yyyy-MM-dd HH:mm:ss.SSS vers yyyy-MM-dd'T'HH:mm:ss.SSS'Z'</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile convertire la data da, dal formato yyyy-MM-dd HH:mm:ss al formato yyyy-MM-dd'T'HH:mm:ss.SSS'Z'</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถเปลี่ยนจากวันที่, จาก yyyy-MM-dd HH:mm:ss.SSS ถึงรูปแบบวันที่ yyyy-MM-dd'T'HH:mm:ss.SSS'Z' รูปแบบวันที่</value></content>
+<content><country></country><lang>zh</lang><value>不能转换开始日期，从yyyy-MM-dd HH:mm:ss.SSS日期格式变为yyyy-MM-dd'T'HH:mm:ss.SSS'Z'日期格式</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cannot convert thru date, from yyyy-MM-dd HH:mm:ss.SSS date format to yyyy-MM-dd'T'HH:mm:ss.SSS'Z' date format</value></content>
+<content><country></country><lang>fr</lang><value>Ne peut convertir la date de fin, depuis le format yyyy-MM-dd HH:mm:ss.SSS vers yyyy-MM-dd'T'HH:mm:ss.SSS'Z'</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile convertire la data a, dal formato yyyy-MM-dd HH:mm:ss al formato yyyy-MM-dd'T'HH:mm:ss.SSS'Z'</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถเปลี่ยนวันที่ถึง, จาก yyyy-MM-dd HH:mm:ss.SSS ถึงรูปแบบวันที่ yyyy-MM-dd'T'HH:mm:ss.SSS'Z' รูปแบบวันที่</value></content>
+<content><country></country><lang>zh</lang><value>不能转换结束日期，从yyyy-MM-dd HH:mm:ss.SSS日期格式变为yyyy-MM-dd'T'HH:mm:ss.SSS'Z'日期格式</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error during buildItemAndTransactionIdFromExternalId</value></content>
+<content><country></country><lang>fr</lang><value>Erreur durant buildItemAndTransactionIdFromExternalId</value></content>
+<content><country></country><lang>it</lang><value>Errore durante buildItemAndTransactionIdFromExternalId</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดระหว่างการสร้างรายการและรหัสรายการจากรหัสภายนอก</value></content>
+<content><country></country><lang>zh</lang><value>运行buildItemAndTransactionIdFromExternalId时出错</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error During Post Complete Sale Request</value></content>
+<content><country></country><lang>fr</lang><value>Erreur durant la confirmation de la demande de vente</value></content>
+<content><country></country><lang>it</lang><value>Errore durante il post della richiesta Complete Sale</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดระหว่างบันทึกข้อมูลคำร้องของการขายสำเร็จ</value></content>
+<content><country></country><lang>zh</lang><value>在提交完成销售请求时出现错误</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error Retrieving externalId from orderId</value></content>
+<content><country></country><lang>fr</lang><value>Erreur à l'extraction de la réf. de commande depuis la réf. externe</value></content>
+<content><country></country><lang>it</lang><value>Errore ricavando externalId da orderId</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดการเรียกข้อมูลรหัสภายในคืนมาจากรหัสรายการสั่งซื้อ</value></content>
+<content><country></country><lang>zh</lang><value>从订单标识获取外部标识时出错</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error Retrieving Order From Order Id</value></content>
+<content><country></country><lang>it</lang><value>Errore nella ricerca dell'ordine attraverso il numero ordine</value></content>
+<content><country></country><lang>zh</lang><value>从订单标识获取订单时出错</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception during building CompleteSaleRequest</value></content>
+<content><country></country><lang>fr</lang><value>Exception durant la construction de confirmation de la demande de vente</value></content>
+<content><country></country><lang>it</lang><value>Eccezione durante la costruzione di CompleteSaleRequest</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นระหว่างการสร้างคำร้องการขายเสร็จสมบูรณ์</value></content>
+<content><country></country><lang>zh</lang><value>运行完成销售请求时出现意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception during building get eBay details request</value></content>
+<content><country></country><lang>fr</lang><value>Exception durant la construction de réception de demande de détails Ebay</value></content>
+<content><country></country><lang>it</lang><value>Eccezione durante la creazione della richiesta get eBay details</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นระหว่างการสร้างคำร้องขอรายละเอียดอีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>运行获得eBay详细信息请求时出现意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception during building get seller transactions request</value></content>
+<content><country></country><lang>fr</lang><value>Exception durant la construction de réception de demande des transactions du vendeur</value></content>
+<content><country></country><lang>it</lang><value>Eccezione durante la creazione della richiesta get seller transactions</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นระหว่างการสร้างคำร้องรายการของผู้ขาย</value></content>
+<content><country></country><lang>zh</lang><value>运行获得卖家交易请求时出现意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception in createShoppingCart</value></content>
+<content><country></country><lang>fr</lang><value>Exception à la création du panier</value></content>
+<content><country></country><lang>it</lang><value>Eccezione in createShoppingCart</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นในการสร้างตระกร้าซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>运行创建购物车时出现意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception in importOrderFromEbay</value></content>
+<content><country></country><lang>fr</lang><value>Exception dans l'import de commande depuis Ebay</value></content>
+<content><country></country><lang>it</lang><value>Eccezione in importOrderFromEbay</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นในการนำเข้ารายการสั่งซื้อสินค้าจากอีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>运行从eBay导入订单时出现意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception in importOrdersSearchFromEbay</value></content>
+<content><country></country><lang>fr</lang><value>Exception dans l'import de recherche de commandes depuis Ebay</value></content>
+<content><country></country><lang>it</lang><value>Eccezione in importOrdersSearchFromEbay</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นในการค้นหาการนำเข้ารายการสั่งซื้อสินค้าจากอีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>运行从eBay搜索导入订单时出现意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception in setEbayOrderToComplete</value></content>
+<content><country></country><lang>fr</lang><value>Exception dans la complétion de la comande Ebay</value></content>
+<content><country></country><lang>it</lang><value>Eccezione in setEbayOrderToComplete</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นในการกำหนดรายการสั่งซื้อสินค้าอีเบย์ให้สำเร็จ</value></content>
+<content><country></country><lang>zh</lang><value>运行设置eBay订单为完成时出现意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ExternalId Already Exists</value></content>
+<content><country></country><lang>fr</lang><value>Réf. d'externe existe déjà</value></content>
+<content><country></country><lang>it</lang><value>Numero ordine esterno già esistente</value></content>
+<content><country></country><lang>th</lang><value>รหัสภายในยังคงมีอยู่แล้ว</value></content>
+<content><country></country><lang>zh</lang><value>外部标识已经存在了</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ExternalId Not Available</value></content>
+<content><country></country><lang>fr</lang><value>Réf. d'externe non disponible</value></content>
+<content><country></country><lang>it</lang><value>Numero ordine esterno non disponibile</value></content>
+<content><country></country><lang>th</lang><value>รหัสภายในไม่สามารถใช้งานได้</value></content>
+<content><country></country><lang>zh</lang><value>外部标识无效</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No Orders Found</value></content>
+<content><country></country><lang>fr</lang><value>Aucune commande trouvée</value></content>
+<content><country></country><lang>it</lang><value>Nessun ordine trovato</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>没有找到订单</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OrderId Or ExternalId Are Mandatory</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de commande ou réf. externe sont obligatoires</value></content>
+<content><country></country><lang>it</lang><value>OrderId o ExternalId sono obbligatori</value></content>
+<content><country></country><lang>th</lang><value>รหัสรายการสั่งซื้อสินค้าหรือรหัสภายในเป็นผู้ได้รับคำสั่ง</value></content>
+<content><country></country><lang>zh</lang><value>订单标识或外部标识是必须的</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Before Import the order from eBay you have to receive the payment from the buyer</value></content>
+<content><country></country><lang>fr</lang><value>Avant d'importer la commande depuis Ebay vous devez recevoir le paiement depuis l'acheteur</value></content>
+<content><country></country><lang>it</lang><value>Prima di importare l'ordine da eBay tu devi ricevere il pagamento dal compratore</value></content>
+<content><country></country><lang>th</lang><value>ก่อนการนำเข้ารายการสั่งซื้อสินค้าจากอีเบย์  คุณมีการได้รับการชำระเงินจากผู้ซื้อ</value></content>
+<content><country></country><lang>zh</lang><value>从eBay导入订单之前，你必须从买家接收支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ProductId Does Not Exist</value></content>
+<content><country></country><lang>fr</lang><value>Cette réf. d'article n'existe pas</value></content>
+<content><country></country><lang>it</lang><value>Codice prodotto inesistente</value></content>
+<content><country></country><lang>th</lang><value>รหัสสินค้าไม่มีอยู่</value></content>
+<content><country></country><lang>zh</lang><value>产品标识不存在</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ProductId Not Available</value></content>
+<content><country></country><lang>fr</lang><value>Cette réf. d'article n'est pas disponible</value></content>
+<content><country></country><lang>it</lang><value>Codice prodotto non disponibile</value></content>
+<content><country></country><lang>th</lang><value>รหัสสินค้าไม่สามารถใช้ได้</value></content>
+<content><country></country><lang>zh</lang><value>产品标识无效</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ProductStoreId Is Mandatory</value></content>
+<content><country></country><lang>fr</lang><value>La réf. de centre de profit est obligatoire</value></content>
+<content><country></country><lang>it</lang><value>Codice negozio è obbligatorio</value></content>
+<content><country></country><lang>th</lang><value>รหัสคลังสินค้าคือคำสั่ง</value></content>
+<content><country></country><lang>zh</lang><value>产品店铺标识是必须的</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error during authentication to eBay</value></content>
+<content><country></country><lang>fr</lang><value>Erreur durant l'authentification vers Ebay</value></content>
+<content><country></country><lang>it</lang><value>Errore durante l'autenticazione su eBay</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดระหว่างเครื่องหมายที่รับรองว่าเป็นของแท้ถึงอีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>eBay认证时出错</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception during building AddTransactionConfirmationItemRequestToEbay</value></content>
+<content><country></country><lang>it</lang><value>Eccezione durante la costruzione della richiesta AddTransactionConfirmationItemRequestToEbay ad eBay</value></content>
+<content><country></country><lang>zh</lang><value>把交易确认明细请求添加到eBay时出现意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception occurred during building data items to eBay</value></content>
+<content><country></country><lang>fr</lang><value>Une exception s'est produite durant la construction des données d'articles vers Ebay</value></content>
+<content><country></country><lang>it</lang><value>Eccezione accaduta durante la creazione dei dati prodotti per eBay</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นเกิดขึ้นระหว่างการสร้างรายการข้อมูลถึงอีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>生成到eBay的数据明细时出现意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception occurred during building get categories request</value></content>
+<content><country></country><lang>fr</lang><value>Une exception s'est produite durant la construction de réception de demande des catégories</value></content>
+<content><country></country><lang>it</lang><value>Eccezione accaduta durante la creazione della richiesta di ottenimento delle categorie</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นเกิดขึ้นระหว่างการสร้างคำร้องหมวดหมู่</value></content>
+<content><country></country><lang>zh</lang><value>运行获取分类请求时发生意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception during building request SetTaxTableToEbay</value></content>
+<content><country></country><lang>it</lang><value>Eccezione durante la costruzione della richiesta SetTaxTableToEbay ad eBay</value></content>
+<content><country></country><lang>zh</lang><value>生成设置到eBay的税表时出现意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception in exportToEbay</value></content>
+<content><country></country><lang>fr</lang><value>Exception dans l'export vers Ebay</value></content>
+<content><country></country><lang>it</lang><value>Eccezione in exportToEbay</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นในการส่งออกถึงอีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>导出到eBay时出现意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception in getEbayCategories</value></content>
+<content><country></country><lang>fr</lang><value>Exception dans la réception des catégories Ebay</value></content>
+<content><country></country><lang>it</lang><value>Eccezione in getEbayCategories</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นในหมวดหมู่อีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>获得eBay分类时出现意外</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Parameters Not Correct in getEbayCategories</value></content>
+<content><country></country><lang>fr</lang><value>Paramètres non corrects dans la réception des catégories Ebay</value></content>
+<content><country></country><lang>it</lang><value>Parametri non corretti in getEbayCategories</value></content>
+<content><country></country><lang>th</lang><value>พารามิเตอร์ไม่ถูกต้องในการเรียกหมวดหมู่อีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>获得eBay分类的参数不正确</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Product items sent to eBay</value></content>
+<content><country></country><lang>fr</lang><value>Les lignes d'articles ont été envoyées corectement à Ebay</value></content>
+<content><country></country><lang>it</lang><value>Prodotti inviati correttamente su eBay</value></content>
+<content><country></country><lang>th</lang><value>รายการสินค้าส่งอย่างถูกต้องถึงอีเบย์</value></content>
+<content><country></country><lang>zh</lang><value>产品明细被正确发送到了eBay</value></content>
+</contents></phrase> </phrases>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>(adjustment)</value></content>
+<content><country></country><lang>es</lang><value>(adjustment)</value></content>
+<content><country></country><lang>fr</lang><value>(ajustement)</value></content>
+<content><country></country><lang>it</lang><value>(adjustment)</value></content>
+<content><country></country><lang>ro</lang><value>(adjustment)</value></content>
+<content><country></country><lang>zh</lang><value>(调整)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>AMT</value></content>
+<content><country></country><lang>es</lang><value>Precio</value></content>
+<content><country></country><lang>fr</lang><value>Prix</value></content>
+<content><country></country><lang>it</lang><value>IMP</value></content>
+<content><country></country><lang>ro</lang><value>IMP</value></content>
+<content><country></country><lang>zh</lang><value>金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Auth Code:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese el código secreto :</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le code secret :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Codice Autorizzazione:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti Codul de Autorizatie:</value></content>
+<content><country></country><lang>zh</lang><value>输入授权码:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>CASH</value></content>
+<content><country></country><lang>es</lang><value>CONTADO</value></content>
+<content><country></country><lang>fr</lang><value>Espèces</value></content>
+<content><country></country><lang>it</lang><value>CONTANTE</value></content>
+<content><country></country><lang>ro</lang><value>Numerar</value></content>
+<content><country></country><lang>zh</lang><value>现金</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Change Due:</value></content>
+<content><country></country><lang>es</lang><value>Cambio :</value></content>
+<content><country></country><lang>fr</lang><value>A rendre :</value></content>
+<content><country></country><lang>it</lang><value>Cambio Dovuto:</value></content>
+<content><country></country><lang>ro</lang><value>Schimb Valutar:</value></content>
+<content><country></country><lang>zh</lang><value>找零:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>CHECK</value></content>
+<content><country></country><lang>es</lang><value>CHEQUE</value></content>
+<content><country></country><lang>fr</lang><value>Chèque(s)</value></content>
+<content><country></country><lang>it</lang><value>ASSEGNO</value></content>
+<content><country></country><lang>ro</lang><value>CEC</value></content>
+<content><country></country><lang>zh</lang><value>支票</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Clerk:</value></content>
+<content><country></country><lang>es</lang><value>Empleado</value></content>
+<content><country></country><lang>fr</lang><value>Vendeur :</value></content>
+<content><country></country><lang>it</lang><value>Impieg.:</value></content>
+<content><country></country><lang>ro</lang><value>Ang:</value></content>
+<content><country></country><lang>zh</lang><value>收银员:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Customer informations, selection adds the card number as a promo code</value></content>
+<content><country></country><lang>fr</lang><value>Informations sur le client, sa sélection entraîne celle de son n° de carte comme code de promotion.</value></content>
+<content><country></country><lang>zh</lang><value>客户资料,选择添加卡号作为优惠券代码</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Item Configuration</value></content>
+<content><country></country><lang>fr</lang><value>Configuration de l'article</value></content>
+<content><country></country><lang>it</lang><value>Riga configurazione</value></content>
+<content><country></country><lang>zh</lang><value>明细配置</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You have to create or choose a reason</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez créer ou choisir le motif de ce mouvement de caisse</value></content>
+<content><country></country><lang>it</lang><value>Tu devi creare o scegliere una motivazione</value></content>
+<content><country></country><lang>zh</lang><value>你必须创建或选择一个原因</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Card Number:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese número de tarjeta :</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le n° de carte :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Numero Carta:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti Numarul Cartii:</value></content>
+<content><country></country><lang>zh</lang><value>输入卡号:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Billing ZipCode:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese código postal de facturación</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le code postal de facturation :</value></content>
+<content><country></country><lang>it</lang><value>Inserire C.A.P. Fatturazione:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti zipCod Facturare:</value></content>
+<content><country></country><lang>zh</lang><value>输入账单邮政编码:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Last 4 Digits:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese los últimos 4 dígitos</value></content>
+<content><country></country><lang>fr</lang><value>Entrez les 4 derniers chiffres :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Ultimi 4 Numeri:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti ultimale 4 Numere:</value></content>
+<content><country></country><lang>zh</lang><value>输入最后4位卡号:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Expiration Date (MMYY):</value></content>
+<content><country></country><lang>es</lang><value>Ingrese fecha de expiración (MMYY)</value></content>
+<content><country></country><lang>fr</lang><value>Entrez la date d'expiration (MMYY):</value></content>
+<content><country></country><lang>it</lang><value>Inserire Data Scadenza (MMYY):</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti Data Expirarii (LLAA):</value></content>
+<content><country></country><lang>zh</lang><value>输入到期日 (MMYY):</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>CREDIT CARD</value></content>
+<content><country></country><lang>es</lang><value>TARJETA DE CRÉDITO</value></content>
+<content><country></country><lang>fr</lang><value>Carte(s) de crédit</value></content>
+<content><country></country><lang>it</lang><value>CARTA CREDITO</value></content>
+<content><country></country><lang>ro</lang><value>CARTE DE CREDIT</value></content>
+<content><country></country><lang>zh</lang><value>信用卡</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Customer:</value></content>
+<content><country></country><lang>fr</lang><value>Client :</value></content>
+<content><country></country><lang>zh</lang><value>客户:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>DATE</value></content>
+<content><country></country><lang>es</lang><value>FECHA</value></content>
+<content><country></country><lang>fr</lang><value>Date</value></content>
+<content><country></country><lang>it</lang><value>DATA</value></content>
+<content><country></country><lang>ro</lang><value>DATA</value></content>
+<content><country></country><lang>zh</lang><value>日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>EEE MMM dd</value></content>
+<content><country></country><lang>es</lang><value>EEE MMM dd</value></content>
+<content><country></country><lang>fr</lang><value>EE dd MMM</value></content>
+<content><country></country><lang>it</lang><value>EEE MMM dd</value></content>
+<content><country></country><lang>ro</lang><value>EEE MMM dd</value></content>
+<content><country></country><lang>zh</lang><value>EEE MMM dd</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>'the' yyyy MMMMM dd 'at'  hh:mm:ss aaa</value></content>
+<content><country></country><lang>es</lang><value>'the' yyyy MMMMM dd 'at'  hh:mm:ss aaa</value></content>
+<content><country></country><lang>fr</lang><value>'le' dd MMMMM yyyy 'à'  HH:mm:ss</value></content>
+<content><country></country><lang>it</lang><value>'il' yyyy MMMMM dd 'alle'  hh:mm:ss aaa</value></content>
+<content><country></country><lang>ro</lang><value>yyyy MMMMM dd 'la' hh:mm:ss aaa </value></content>
+<content><country></country><lang>zh</lang><value>yyyy MMMMM dd HH:mm:ss</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Dr:</value></content>
+<content><country></country><lang>es</lang><value>Dr.</value></content>
+<content><country></country><lang>fr</lang><value>Tiroir :</value></content>
+<content><country></country><lang>it</lang><value>Cass.:</value></content>
+<content><country></country><lang>ro</lang><value>Cas:</value></content>
+<content><country></country><lang>zh</lang><value>钞箱:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>TILL</value></content>
+<content><country></country><lang>es</lang><value>Caja</value></content>
+<content><country></country><lang>fr</lang><value>Caisse</value></content>
+<content><country></country><lang>it</lang><value>CASSIERE</value></content>
+<content><country></country><lang>ro</lang><value>CASIER</value></content>
+<content><country></country><lang>zh</lang><value>钞箱</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>EMPL</value></content>
+<content><country></country><lang>es</lang><value>VENDEDOR</value></content>
+<content><country></country><lang>fr</lang><value>Vendeur</value></content>
+<content><country></country><lang>it</lang><value>IMPIEGATO</value></content>
+<content><country></country><lang>ro</lang><value>Angajat</value></content>
+<content><country></country><lang>zh</lang><value>收银员</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Cash Amount:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese monto en efectivo</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le montant en espèce :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Importo Contante:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti Valoare Numerar:</value></content>
+<content><country></country><lang>zh</lang><value>输入现金额:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Check Amount:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese monto en cheque</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le montant en chèque :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Importo Assegno:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti Valoare  CEC:</value></content>
+<content><country></country><lang>zh</lang><value>输入支票额:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Credit Card Amount:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese monto en tarjeta de crédito</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le montant en carte de crédit :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Importo Carta di Credito:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti Valoare Carte de Credit:</value></content>
+<content><country></country><lang>zh</lang><value>输入信用卡额:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Gift Card Amount:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese monto de certificado de regalo: </value></content>
+<content><country></country><lang>fr</lang><value>Entrez le montant en bon d'achat :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Importo Carta Omaggio:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti Valoare Carte Omagiu:</value></content>
+<content><country></country><lang>zh</lang><value>输入礼品卡额:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Other Payment Amount:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese monto de otros pagos</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le mt en autre moyen de paiement :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Importo Altri Pagamenti:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti Valoare Alte Plati:</value></content>
+<content><country></country><lang>zh</lang><value>输入其他付款额:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Promo Code:</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le code promo:</value></content>
+<content><country></country><lang>it</lang><value>Inserire codice promozione:</value></content>
+<content><country></country><lang>zh</lang><value>输入促销代码:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>GIFT CARD</value></content>
+<content><country></country><lang>es</lang><value>Certificado de regalo</value></content>
+<content><country></country><lang>fr</lang><value>Bon(s) d'achat</value></content>
+<content><country></country><lang>it</lang><value>CARTA OMAGGIO</value></content>
+<content><country></country><lang>ro</lang><value>CARTE OMAGIU</value></content>
+<content><country></country><lang>zh</lang><value>礼品卡</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Grand Total</value></content>
+<content><country></country><lang>es</lang><value>Gran total</value></content>
+<content><country></country><lang>fr</lang><value>Total</value></content>
+<content><country></country><lang>it</lang><value>Totale Generale</value></content>
+<content><country></country><lang>ro</lang><value>Total General</value></content>
+<content><country></country><lang>zh</lang><value>总计</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>GROSS SALES</value></content>
+<content><country></country><lang>es</lang><value>Total</value></content>
+<content><country></country><lang>fr</lang><value>Total</value></content>
+<content><country></country><lang>it</lang><value>LORDO VENDITA</value></content>
+<content><country></country><lang>ro</lang><value>Valoare BRUTA-VANZARE</value></content>
+<content><country></country><lang>zh</lang><value>毛销售额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Name is required</value></content>
+<content><country></country><lang>fr</lang><value>Le nom doit être renseignés</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Invalid Selection!</value></content>
+<content><country></country><lang>es</lang><value>Selección inválida</value></content>
+<content><country></country><lang>fr</lang><value>Sélection non valide !</value></content>
+<content><country></country><lang>it</lang><value>Selezione Non Valida!</value></content>
+<content><country></country><lang>ro</lang><value>Selectare InValida!</value></content>
+<content><country></country><lang>zh</lang><value>非法选项!</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Register Is Closed</value></content>
+<content><country></country><lang>es</lang><value>El registro está cerrado</value></content>
+<content><country></country><lang>fr</lang><value>Le registre est fermé.</value></content>
+<content><country></country><lang>it</lang><value>Registratore di Cassa è Chiuso</value></content>
+<content><country></country><lang>ro</lang><value>Registru de Casa este Inchis</value></content>
+<content><country></country><lang>zh</lang><value>提示牌已关闭</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Register Is Open</value></content>
+<content><country></country><lang>es</lang><value>El registro está abierto</value></content>
+<content><country></country><lang>fr</lang><value>Le registre est ouvert.</value></content>
+<content><country></country><lang>it</lang><value>Registratore di Cassa è Aperto</value></content>
+<content><country></country><lang>ro</lang><value>Registru de Casa este Deschis</value></content>
+<content><country></country><lang>zh</lang><value>提示牌已打开</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ITEM</value></content>
+<content><country></country><lang>es</lang><value>ITEM</value></content>
+<content><country></country><lang>fr</lang><value>Désignation</value></content>
+<content><country></country><lang>it</lang><value>PRODOTTO</value></content>
+<content><country></country><lang>ro</lang><value>PRODUS</value></content>
+<content><country></country><lang>zh</lang><value>项</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>(Item discount)</value></content>
+<content><country></country><lang>es</lang><value>(Item discount)</value></content>
+<content><country></country><lang>fr</lang><value>Remise sur l'article</value></content>
+<content><country></country><lang>it</lang><value>(Item discount)</value></content>
+<content><country></country><lang>ro</lang><value>(Item discount)</value></content>
+<content><country></country><lang>zh</lang><value>(明细折扣)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Load a sale</value></content>
+<content><country></country><lang>fr</lang><value>Charger une vente</value></content>
+<content><country></country><lang>it</lang><value>Carica una vendita</value></content>
+<content><country></country><lang>zh</lang><value>载入一个销售</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You may use a double click to replace the current sale and delete this one</value></content>
+<content><country></country><lang>fr</lang><value>Vous pouvez utiliser le double-clic pour remplacer la vente en cours et supprimer celle ci</value></content>
+<content><country></country><lang>it</lang><value>Tu devi usare un doppio click per sostituire l'attuale vendita and cancellarla</value></content>
+<content><country></country><lang>ro</lang><value>Poti folosi dublu click  pentru a rescrie vanzarea cruenta si pentru a o sterge.</value></content>
+<content><country></country><lang>zh</lang><value>你可以双击鼠标来替换当前的销售并删除这个</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Any customer profile to update</value></content>
+<content><country></country><lang>fr</lang><value>Aucun client à mettre à jour</value></content>
+<content><country></country><lang>zh</lang><value>更新客户资料</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Starting Drawer Amount:</value></content>
+<content><country></country><lang>es</lang><value>Monto inicial de la caja:</value></content>
+<content><country></country><lang>fr</lang><value>Contenu initial du tiroir :</value></content>
+<content><country></country><lang>it</lang><value>Importo Iniziale Cassiere:</value></content>
+<content><country></country><lang>ro</lang><value>Valoare Initiala Casierie:</value></content>
+<content><country></country><lang>zh</lang><value>开始钞箱金额:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OTHER</value></content>
+<content><country></country><lang>es</lang><value>OTROS</value></content>
+<content><country></country><lang>fr</lang><value>Autres</value></content>
+<content><country></country><lang>it</lang><value>ALTRO</value></content>
+<content><country></country><lang>ro</lang><value>ALTE</value></content>
+<content><country></country><lang>zh</lang><value>其他</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter amount to paid in and create or choose a reason</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le montant à remettre en caisse et créez ou choisissez un motif</value></content>
+<content><country></country><lang>it</lang><value>Inserire importo da pagare in ingresso e creare o scegliere una motivazione</value></content>
+<content><country></country><lang>zh</lang><value>输入要收取的金额并创建或选择一个原因</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter amount to withdraw and create or choose a reason</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le montant à retirer et créez ou choisissez un motif</value></content>
+<content><country></country><lang>it</lang><value>Inserire un'importo da prelevare e crea o scegliere una motivazione</value></content>
+<content><country></country><lang>zh</lang><value>输入要撤销的金额并创建或输入一个原因</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Press Finish To Complete Sale</value></content>
+<content><country></country><lang>es</lang><value>Presione FINISH para completar la venta</value></content>
+<content><country></country><lang>fr</lang><value>Appuyez sur [Fin] pour terminer la vente !</value></content>
+<content><country></country><lang>it</lang><value>Premere Fine Per Completare la Vendita</value></content>
+<content><country></country><lang>ro</lang><value>Apasa Terminare(FINISH) Pentru a Completa Vanzarea</value></content>
+<content><country></country><lang>zh</lang><value>按完成键结束销售</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The phone number must be at least 5 characters long (also used as password).</value></content>
+<content><country></country><lang>fr</lang><value>Le n° de téléphone doit être au moins de 5 caractèrs (sert aussi de mot de passe).</value></content>
+<content><country></country><lang>zh</lang><value>电话号码必须有五位数字以上(也作为密码用途)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter the billing postal code:</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le code postal :</value></content>
+<content><country></country><lang>it</lang><value>Inserire il codice postale di fatturazione:</value></content>
+<content><country></country><lang>zh</lang><value>输入寄账单邮政编码:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Processing payments...</value></content>
+<content><country></country><lang>es</lang><value>Procesando pagos...</value></content>
+<content><country></country><lang>fr</lang><value>Traitement du paiement...</value></content>
+<content><country></country><lang>it</lang><value>Esecuzione pagamenti...</value></content>
+<content><country></country><lang>ro</lang><value>Executie plati...</value></content>
+<content><country></country><lang>zh</lang><value>处理支付...</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Promo code(s):</value></content>
+<content><country></country><lang>fr</lang><value>Code(s) de promotion :</value></content>
+<content><country></country><lang>zh</lang><value>优惠券代码:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>QTY</value></content>
+<content><country></country><lang>es</lang><value>Cantidad</value></content>
+<content><country></country><lang>fr</lang><value>Nb</value></content>
+<content><country></country><lang>it</lang><value>QNT</value></content>
+<content><country></country><lang>ro</lang><value>CANT</value></content>
+<content><country></country><lang>zh</lang><value>件数</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Reference Number:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese número  de referencia</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le n° du chèque ou la référence :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Numero Riferimento:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti Numar de Referinta:</value></content>
+<content><country></country><lang>zh</lang><value>输入流水号:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>(Sale discount)</value></content>
+<content><country></country><lang>es</lang><value>(Sales discount)</value></content>
+<content><country></country><lang>fr</lang><value>Remise sur la vente</value></content>
+<content><country></country><lang>it</lang><value>(Sales discount)</value></content>
+<content><country></country><lang>ro</lang><value>(Sales discount)</value></content>
+<content><country></country><lang>zh</lang><value>(销售折扣)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Sales Tax</value></content>
+<content><country></country><lang>es</lang><value>Impuestos de ventas</value></content>
+<content><country></country><lang>fr</lang><value>TVA</value></content>
+<content><country></country><lang>it</lang><value>Tasse di Vendita</value></content>
+<content><country></country><lang>ro</lang><value>Taxe de Vanzare</value></content>
+<content><country></country><lang>zh</lang><value>销售税</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Save current sale</value></content>
+<content><country></country><lang>fr</lang><value>Sauver la vente en cours</value></content>
+<content><country></country><lang>it</lang><value>Salvare attuale vendita</value></content>
+<content><country></country><lang>ro</lang><value>Salveaza vanzarea curenta</value></content>
+<content><country></country><lang>zh</lang><value>保存当前销售</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Saving sale...</value></content>
+<content><country></country><lang>es</lang><value>Usted ahorra....</value></content>
+<content><country></country><lang>fr</lang><value>Enregistrement de la vente...</value></content>
+<content><country></country><lang>it</lang><value>Salvataggio vendita...</value></content>
+<content><country></country><lang>ro</lang><value>Salveaza vanzarea...</value></content>
+<content><country></country><lang>zh</lang><value>保存销售...</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter security code:</value></content>
+<content><country></country><lang>fr</lang><value>Entrez votre code :</value></content>
+<content><country></country><lang>it</lang><value>Inserire codice sicurezza:</value></content>
+<content><country></country><lang>zh</lang><value>输入安全码:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Select a product</value></content>
+<content><country></country><lang>fr</lang><value>Sélectionnez un produit</value></content>
+<content><country></country><lang>it</lang><value>Selezionare un prodotto</value></content>
+<content><country></country><lang>zh</lang><value>选择一个产品</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Select a customer to edit or select</value></content>
+<content><country></country><lang>fr</lang><value>Choisissez le client à modifier ou à sélectionner</value></content>
+<content><country></country><lang>zh</lang><value>选择编辑客户资料</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You may use a double click to select the current product</value></content>
+<content><country></country><lang>fr</lang><value>Vous pouvez utiliser le double-clic pour choisir un produit</value></content>
+<content><country></country><lang>it</lang><value>Tu devi usare un doppio clieck per selezionare il prodotto corrente</value></content>
+<content><country></country><lang>zh</lang><value>你可以双击鼠标来选择当前产品</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Shutting down...</value></content>
+<content><country></country><lang>es</lang><value>Cerrando...</value></content>
+<content><country></country><lang>fr</lang><value>Arrêt en cours...</value></content>
+<content><country></country><lang>it</lang><value>Chiusura...</value></content>
+<content><country></country><lang>ro</lang><value>Inchidere...</value></content>
+<content><country></country><lang>zh</lang><value>关闭...</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>SKU</value></content>
+<content><country></country><lang>es</lang><value>SKU</value></content>
+<content><country></country><lang>fr</lang><value>Code</value></content>
+<content><country></country><lang>it</lang><value>CODICE PRODOTTO</value></content>
+<content><country></country><lang>ro</lang><value>COD PRODUS</value></content>
+<content><country></country><lang>zh</lang><value>产品统一编号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Term:</value></content>
+<content><country></country><lang>es</lang><value>Terminal:</value></content>
+<content><country></country><lang>fr</lang><value>Terminal :</value></content>
+<content><country></country><lang>it</lang><value>Termine:</value></content>
+<content><country></country><lang>ro</lang><value>Term:</value></content>
+<content><country></country><lang>zh</lang><value>终端:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>To look for names which contain the name entered</value></content>
+<content><country></country><lang>fr</lang><value>Pour rechercher des noms contenant celui entré</value></content>
+<content><country></country><lang>zh</lang><value>用部分名字去查找全名</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>To look for names strictly equals to the name entered</value></content>
+<content><country></country><lang>fr</lang><value>Pour rechercher des noms exactement égaux à celui entré</value></content>
+<content><country></country><lang>zh</lang><value>查找的名字需要与资料一致</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>TOTAL</value></content>
+<content><country></country><lang>es</lang><value>Total</value></content>
+<content><country></country><lang>fr</lang><value>Total</value></content>
+<content><country></country><lang>it</lang><value>TOTALE</value></content>
+<content><country></country><lang>ro</lang><value>TOTAL</value></content>
+<content><country></country><lang>zh</lang><value>合计</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Total Due:</value></content>
+<content><country></country><lang>es</lang><value>Total debido:</value></content>
+<content><country></country><lang>fr</lang><value>Total dû :</value></content>
+<content><country></country><lang>it</lang><value>Totale Dovuto:</value></content>
+<content><country></country><lang>ro</lang><value>Total(dovuto)?:</value></content>
+<content><country></country><lang>zh</lang><value>合计额:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>TOTALS REPORT</value></content>
+<content><country></country><lang>es</lang><value>REPORTE TOTAL:</value></content>
+<content><country></country><lang>fr</lang><value>TOTAUX</value></content>
+<content><country></country><lang>it</lang><value>TOTALI STAMPA</value></content>
+<content><country></country><lang>ro</lang><value>TOTAL REPORT</value></content>
+<content><country></country><lang>zh</lang><value>合计报表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>TXID</value></content>
+<content><country></country><lang>es</lang><value>Número de venta</value></content>
+<content><country></country><lang>fr</lang><value>N°vente</value></content>
+<content><country></country><lang>it</lang><value>IDTAX</value></content>
+<content><country></country><lang>ro</lang><value>IDTAX</value></content>
+<content><country></country><lang>zh</lang><value>交易号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter User ID:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese su login:</value></content>
+<content><country></country><lang>fr</lang><value>Entrez votre identifiant :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Id Utente:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti Id Utilizator:</value></content>
+<content><country></country><lang>zh</lang><value>输入用户 ID:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Password:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese password</value></content>
+<content><country></country><lang>fr</lang><value>Entrez votre mot de passe :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Password:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti Parola:</value></content>
+<content><country></country><lang>zh</lang><value>输入口令:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>User is not a valid manager!</value></content>
+<content><country></country><lang>es</lang><value>El usuario no es administrador válido</value></content>
+<content><country></country><lang>fr</lang><value>Cet utilisateur n'est pas un gérant !</value></content>
+<content><country></country><lang>it</lang><value>Utente non è un manager valido!</value></content>
+<content><country></country><lang>ro</lang><value>Utilizatorul nu este un manager valid!</value></content>
+<content><country></country><lang>zh</lang><value>用户非合法管理员!</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Validating...</value></content>
+<content><country></country><lang>es</lang><value>Validando...</value></content>
+<content><country></country><lang>fr</lang><value>Validation...</value></content>
+<content><country></country><lang>it</lang><value>Validazione...</value></content>
+<content><country></country><lang>ro</lang><value>Validare...</value></content>
+<content><country></country><lang>zh</lang><value>确认...</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>To inactivate the virtual keyboard: 1. Permanently, parameters.properties file. 2. Temporarily, button VIRTUAL on Admin Panel.</value></content>
+<content><country></country><lang>fr</lang><value>Pour désactiver le clavier virtuel : 1. En permanence, fichier parameters.properties. 2. Temporairement, bouton Clavier virtuel du panneau Gestion.</value></content>
+<content><country></country><lang>zh</lang><value>关闭虚拟键盘: 1.永远的,parameters.properties 文件. 2.临时的,控制页面的[虚拟键盘]按钮</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>To inactivate: see virtual keyboard.</value></content>
+<content><country></country><lang>fr</lang><value>Pour désactiver voir le clavier virtuel.</value></content>
+<content><country></country><lang>zh</lang><value>要关闭: 看虚拟键盘</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Order Number To Void:</value></content>
+<content><country></country><lang>es</lang><value>Ingrese número de orden a anular</value></content>
+<content><country></country><lang>fr</lang><value>Entrez le n° de commande à annuler :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Numero Ordine Da Svuotare:</value></content>
+<content><country></country><lang>ro</lang><value>Introduceti Numarul Comenzii de Descarcat:</value></content>
+<content><country></country><lang>zh</lang><value>输入要作废的订单号:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Waiting for final sales data transmission...</value></content>
+<content><country></country><lang>es</lang><value>Esperando transmisión de datos...</value></content>
+<content><country></country><lang>fr</lang><value>En attente de transmission de données ...</value></content>
+<content><country></country><lang>it</lang><value>In Attesa di trasmissione dei dati vendite finali...</value></content>
+<content><country></country><lang>ro</lang><value>Asteptare pentru transmiterea datelor de vanzare finale...</value></content>
+<content><country></country><lang>zh</lang><value>等待最终销售数据传输...</value></content>
+</contents></phrase> </phrases>

@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problem reading product categories: ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Problemi leggendo categorie prodotto: ${errMessage}.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error finding previous/next product info: ${errMessage}</value></content>
+<content><country></country><lang>it</lang><value>Errore nelle ricerca dei prodotti precedenti/successivi: ${errMessage}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Both Index and ProductID cannot be null.</value></content>
+<content><country></country><lang>it</lang><value>Entrambi indice e prodotto non possono essere vuoti.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Product not found in the current category.</value></content>
+<content><country></country><lang>it</lang><value>Prodotto non trovato nell'attuale categoria.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to remove an image. It is the defualt image.</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถลบรูปภาพ</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>An error occurs during writing</value></content>
+<content><country></country><lang>fr</lang><value>Une erreur est survenue lors de l'écriture</value></content>
+<content><country></country><lang>zh</lang><value>写的过程中发生一个错误</value></content>
+<content><country></country><lang>zh_TW</lang><value>寫的過程中發生一個錯誤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>One current image dimension is null</value></content>
+<content><country></country><lang>fr</lang><value>Une des dimensions de l'image courrante est nulle</value></content>
+<content><country></country><lang>zh</lang><value>一个当前图像尺寸是null</value></content>
+<content><country></country><lang>zh_TW</lang><value>一個當前圖像尺寸是null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>One parameter is null</value></content>
+<content><country></country><lang>fr</lang><value>Un des paramètres est nul</value></content>
+<content><country></country><lang>zh</lang><value>一个参数是null</value></content>
+<content><country></country><lang>zh_TW</lang><value>一個參數是null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Transform is non-invertible</value></content>
+<content><country></country><lang>fr</lang><value>La transformation n'est pas réversible</value></content>
+<content><country></country><lang>zh</lang><value>转换是不可逆的</value></content>
+<content><country></country><lang>zh_TW</lang><value>轉換是不可逆的</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to create target directory</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer le dossier cible</value></content>
+<content><country></country><lang>zh</lang><value>无法创建目标目录</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法創建目標目錄</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to parse</value></content>
+<content><country></country><lang>fr</lang><value>Impossible d'analyser</value></content>
+<content><country></country><lang>zh</lang><value>无法解析</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法解析</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to scale original image</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de redimensionner l'image originale</value></content>
+<content><country></country><lang>zh</lang><value>无法缩放原始图像</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法縮放原始圖像</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create Communication Event Product Permission Error</value></content>
+<content><country></country><lang>it</lang><value>Errore di permesso durante la creazione evento comunicazione prodotto</value></content>
+<content><country></country><lang>zh</lang><value>创建沟通事件产品权限时出错</value></content>
+<content><country></country><lang>zh_TW</lang><value>創建溝通事件產品權限時出錯</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: All order items are not packed</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: All order items are not verified</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Entered Dimension and Package input box, both the fields cannot be processed together (should enter one of them)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: No items currently set to be shipped cannot complete</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Not entered all fields (length, width and height) in Dimension</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error Inventory Item Label Id Not Found</value></content>
+<content><country></country><lang>it</lang><value>Errore riga etichetta inventario non trovata</value></content>
+<content><country></country><lang>zh</lang><value>发生库存明细标签标识无法找到的错误</value></content>
+<content><country></country><lang>zh_TW</lang><value>發生庫存明細標簽ID無法找到的錯誤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Issue item did not return a valid shipmentItemSeqId</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: No inventory reservations available; cannot pick this item</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: No ship group sequence Id found cannot process</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Not enough inventory reservation available; cannot verify the item</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: No valid order item found for product [${productId}] with quantity [${quantity}]</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Number of package cannot be greater than the number of ordered quantity</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Package weight cannot be null/zero, it should be greater than zero</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Shipment Item cannot be deleted and require Shipment Package Content to be deleted first</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Shipment Package cannot be deleted and require Shipment Package Content to be deleted first</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Verified quantity does not match the reserved quantity for item #${productId} [verified qty = ${verifiedQty} / reserved qty = ${reservedQty}]</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Die Produktmerkmal Typ ID darf nur Buchstaben, Zahlen und _ enthalten. Bitte erneut eingeben.</value></content>
+<content><country></country><lang>en</lang><value>The Product Feature TypeId must contains only letters, underscore and digits. Please re-enter</value></content>
+<content><country></country><lang>fr</lang><value>La réf. de type de caractéristique d'article ne doit contenir que des lettres, le tiret bas "_" et des chiffres. Recommencez SVP</value></content>
+<content><country></country><lang>it</lang><value>Il tipo caratteristica prodotto deve contenere solamente lettere, underscore e numeri. Prego reinserire</value></content>
+<content><country></country><lang>zh</lang><value>产品特征类型标识必须只包含字符、下划线和数字。请重新输入</value></content>
+<content><country></country><lang>zh_TW</lang><value>產品特徵類型ID必須只包含字符、下劃線和數字。請重新輸入</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>This Product is not in any Location</value></content>
+<content><country></country><lang>fr</lang><value>Ce produit ne se trouve en aucun emplacement</value></content>
+<content><country></country><lang>zh</lang><value>这个产品不在任何地方</value></content>
+<content><country></country><lang>zh_TW</lang><value>這個產品不在任何地方</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Please, fill the product field before</value></content>
+<content><country></country><lang>fr</lang><value>Sélectionnez le produit d'abord</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The number of orders must not be empty. Please re-enter to print pick sheet.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The number of orders must be greater then zero. Please re-enter to print pick sheet.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Remove Communication Event Product Permission Error</value></content>
+<content><country></country><lang>it</lang><value>Errore permesso durante la rimozione dell'evento comunicazione prodotto</value></content>
+<content><country></country><lang>zh</lang><value>删除沟通事件时发生产品权限出错</value></content>
+<content><country></country><lang>zh_TW</lang><value>刪除溝通事件時發生產品權限出錯</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Diese Retoure wurde noch nicht akzeptiert oder wurde schon erhalten.</value></content>
+<content><country></country><lang>en</lang><value>This return is not yet accepted or already received.</value></content>
+<content><country></country><lang>fr</lang><value>Ce retour n'est pas encore accepté ou déjà reçu.</value></content>
+<content><country></country><lang>it</lang><value>Questo non è ancora accettato o già ricevuto.</value></content>
+<content><country></country><lang>ru</lang><value>Этот возврат еще не подтвержден или уже получен.</value></content>
+<content><country></country><lang>th</lang><value>การคืนค่านี้ไม่ยอมรับหรือได้รับเรียบร้อยแล้ว</value></content>
+<content><country></country><lang>zh</lang><value>还没有接受或接收到这个退货。</value></content>
+<content><country></country><lang>zh_TW</lang><value>還沒有接受或接收到這個退貨。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Die Retoure wurde verlangt.</value></content>
+<content><country></country><lang>en</lang><value>The return is requested.</value></content>
+<content><country></country><lang>fr</lang><value>Le retour est demandé.</value></content>
+<content><country></country><lang>it</lang><value>Il reso è richiesto.</value></content>
+<content><country></country><lang>ru</lang><value>Запрошен возврат.</value></content>
+<content><country></country><lang>th</lang><value>การคืนค่าการร้องขอ</value></content>
+<content><country></country><lang>zh</lang><value>已请求退货。</value></content>
+<content><country></country><lang>zh_TW</lang><value>已請求退貨。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>${numAdded} Merkmale hinzugefügt mit ID ${productFeatureId}</value></content>
+<content><country></country><lang>en</lang><value>Added ${numAdded} features with ID ${productFeatureId}</value></content>
+<content><country></country><lang>es</lang><value>Se añadieron ${numAdded} características con códigos ${productFeatureId}</value></content>
+<content><country></country><lang>fr</lang><value>Ajout de ${numAdded} caractéristiques avec la réf. ${productFeatureId}]</value></content>
+<content><country></country><lang>it</lang><value>Aggiunta(e) ${numAdded} caratteristiche con Codice ${productFeatureId}</value></content>
+<content><country></country><lang>ro</lang><value>Adauga ${numAdded} caracteristici cu Codul ${productFeatureId}</value></content>
+<content><country></country><lang>ru</lang><value>Добавлены ${numAdded} особенностей с кодом ${productFeatureId}</value></content>
+<content><country></country><lang>th</lang><value>เพิ่ม ${numAdded} ลักษณะด้วยรหัส ${productFeatureId}</value></content>
+<content><country></country><lang>zh</lang><value>已添加 ${numAdded} 特征，标识 ${productFeatureId}</value></content>
+<content><country></country><lang>zh_TW</lang><value>已添加 ${numAdded} 特徵ID ${productFeatureId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler bei der Konvertierung von Datentypen</value></content>
+<content><country></country><lang>en</lang><value>Error casting data types</value></content>
+<content><country></country><lang>es</lang><value>Error convirtiendo tipos de datos</value></content>
+<content><country></country><lang>fr</lang><value>Erreur pendant le remplacement de types de données</value></content>
+<content><country></country><lang>it</lang><value>Errore di casting tipi dato</value></content>
+<content><country></country><lang>ro</lang><value>Eroare de casting tip data</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка приведение типов данных</value></content>
+<content><country></country><lang>th</lang><value>Error: ผิดพลาด ! การคัดเลือกประเภทข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>释放数据类型时发生错误</value></content>
+<content><country></country><lang>zh_TW</lang><value>釋放資料類型時發生錯誤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler beim Holen der Suchresultate</value></content>
+<content><country></country><lang>en</lang><value>Error getting search results</value></content>
+<content><country></country><lang>es</lang><value>Error al obtener resultados de búsqueda</value></content>
+<content><country></country><lang>fr</lang><value>Erreur survenue pendant la recherche</value></content>
+<content><country></country><lang>it</lang><value>Errore nella ricerca risultati</value></content>
+<content><country></country><lang>ro</lang><value>Eroare in cautarea resultatelor </value></content>
+<content><country></country><lang>ru</lang><value>Ошибка получения результатов поиска</value></content>
+<content><country></country><lang>th</lang><value>Error: ผิดพลาด ! การดึงค่าผลลัพธ์การค้นหา</value></content>
+<content><country></country><lang>zh</lang><value>获取搜索结果时发生错误</value></content>
+<content><country></country><lang>zh_TW</lang><value>獲取搜索結果時發生錯誤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>${numRemoved} Merkmale gelöscht mit ID ${productFeatureId}</value></content>
+<content><country></country><lang>en</lang><value>Removed ${numRemoved} features with ID ${productFeatureId}</value></content>
+<content><country></country><lang>es</lang><value>Se quitaron ${numRemoved} características con código ${productFeatureId}</value></content>
+<content><country></country><lang>fr</lang><value>Suppression de ${numRemoved} caractéristiques avec la réf. ${productFeatureId}]</value></content>
+<content><country></country><lang>it</lang><value>Cancellato(i) ${numRemoved} caratteristiche con Codice ${productFeatureId}</value></content>
+<content><country></country><lang>ro</lang><value>Sters(i) ${numRemoved} caracteristici cu Cod ${productFeatureId}</value></content>
+<content><country></country><lang>ru</lang><value>Удалены ${numRemoved} особенностей с кодом ${productFeatureId}</value></content>
+<content><country></country><lang>th</lang><value>ลบ ${numRemoved} ลักษณะด้วยรหัส ${productFeatureId}</value></content>
+<content><country></country><lang>zh</lang><value>已删除 ${numRemoved} 特征，标识 ${productFeatureId}</value></content>
+<content><country></country><lang>zh_TW</lang><value>已刪除 ${numRemoved} 特徵ID ${productFeatureId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verknüpfungstyp ID fehlt.</value></content>
+<content><country></country><lang>en</lang><value>Association Type ID is missing.</value></content>
+<content><country></country><lang>es</lang><value>Hace falta el código del tipo de asociación</value></content>
+<content><country></country><lang>fr</lang><value>La réf. de type d'association est absente.</value></content>
+<content><country></country><lang>it</lang><value>Tipo Associazione è mancante.</value></content>
+<content><country></country><lang>ro</lang><value>Tip Asociatie lipseste.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует код типа ассоциации.</value></content>
+<content><country></country><lang>th</lang><value>รหัสกลุ่มประเภทซึ่งหาไม่พบ</value></content>
+<content><country></country><lang>zh</lang><value>缺少关联类型标识。</value></content>
+<content><country></country><lang>zh_TW</lang><value>缺少關聯類型ID。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Attributname fehlt.</value></content>
+<content><country></country><lang>en</lang><value>Attribute name is missing.</value></content>
+<content><country></country><lang>es</lang><value>Falta el nombre del atributo.</value></content>
+<content><country></country><lang>fr</lang><value>Le nom d'attribut est absent.</value></content>
+<content><country></country><lang>it</lang><value>Nome Attributo è mancante.</value></content>
+<content><country></country><lang>ro</lang><value>Nume Atribut lipseste.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует имя атрибута.</value></content>
+<content><country></country><lang>th</lang><value>ชื่อแอททริบิวต์ซึ่งหาไม่พบ</value></content>
+<content><country></country><lang>zh</lang><value>缺少属性名称。</value></content>
+<content><country></country><lang>zh_TW</lang><value>缺少屬性名稱。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Attribute konnten nicht erstellen werden (Schreibfehler).</value></content>
+<content><country></country><lang>en</lang><value>Could not create attribute (write error).</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear atributo (error de escritura).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer l'attribut (erreur d'écriture).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare l'attributo (errore scrittura).</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila crearea atributului (eroare la scriere).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно создать атрибут (ошибка записи).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างแอททริบิวต์ (เขียนผิดพลาด).</value></content>
+<content><country></country><lang>zh</lang><value>没有创建属性 (写错误)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有創建屬性 (寫錯誤)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Schlüsselwörter konnten nicht erstellt werden (Schreibfehler).</value></content>
+<content><country></country><lang>en</lang><value>Could not create keywords (write error).</value></content>
+<content><country></country><lang>es</lang><value>No se pudieron crear palabras clave (error de escritura).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer le mot-clé (erreur d'écriture).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare le chiavi (errore scrittura).</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila crearea cheilor (eroare la scriere).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно создать ключевые слова (ошибка записи).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างคีย์เวิร์ด (เขียนผิดลาด).</value></content>
+<content><country></country><lang>zh</lang><value>没有创建关键字 (写错误)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有創建關鍵字 (寫錯誤)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produktverknüpfung konnte nicht erstellt werden (existiert bereits).</value></content>
+<content><country></country><lang>en</lang><value>Could not create product association (already exists).</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear asociación (ya existe).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer l'association à l'article (existe déjà).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare l'associazione prodotto (già esistente).</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila crearea asociere produs (deja existente).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно создать ассоциации продукта (уже существуют).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างกลุ่มสินค้า (ยังคงมีอยู่).</value></content>
+<content><country></country><lang>zh</lang><value>没有创建产品关联(已存在)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有創建產品關聯(已存在)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produktverknüpfung konnte nicht erstellt werden (Schreibfehler).</value></content>
+<content><country></country><lang>en</lang><value>Could not create product association (write error).</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear asociación (error de escritura).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer l'association à l'article (erreur d'écriture).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare associazione prodotto (errore scrittura).</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila crearea asocierii produs (eroare la scriere).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно создать ассоциацию продукта (ошибка записи).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างกลุ่มสินค้า (เขียนผิดลาด).</value></content>
+<content><country></country><lang>zh</lang><value>没有创建产品关联(写错误)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有創建產品關聯(寫錯誤)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt Schlüsselwort Eintrag konnte nicht erstellt werden (existiert bereits).</value></content>
+<content><country></country><lang>en</lang><value>Could not create product-keyword entry (already exists).</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear entrada de palabra clave-producto (ya existe).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer le mot-clé de l'article (existe déjà).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare voce chiave-prodotto (già esistenti).</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila crearea campului cheie-produs (deja existenta).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно создать элемент ключевого слова (уже существует).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างการกรอกคีย์เวิร์ดสินค้า (ยังคงมีอยู่).</value></content>
+<content><country></country><lang>zh</lang><value>没有创建产品-关键字记录 (已存在)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有創建產品-關鍵字記錄 (已存在)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt Schlüsselwort Eintrag konnte nicht erstellt werden (Schreibfehler).</value></content>
+<content><country></country><lang>en</lang><value>Could not create product-keyword entry (write error).</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear asociación entrada de palabra clave-producto (error de escritura).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer le mot-clé de l'article (erreur d'écriture).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare voce chiave-prodotto (errore scrittura).</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila crearea vocii cheie-produsd (eroare la scriere).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно создать элемент ключевого слова (ошибка записи).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างการกรอกคีย์เวิร์ดสินค้า (เขียนผิดพลาด)</value></content>
+<content><country></country><lang>zh</lang><value>没有创建产品-关键字记录 (写错误)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有創建產品-關鍵字記錄 (寫錯誤)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Attribut konnte nicht gelöscht werden (Schreibfehler).</value></content>
+<content><country></country><lang>en</lang><value>Could not delete attribute (write error).</value></content>
+<content><country></country><lang>es</lang><value>No se pudo borrar atributo (error de escritura).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de supprimer l'attribut (erreur d'écriture)</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile cancellare attributo (errore scrittura).</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila stergerea atributului (eroare la scriere).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно удалить атрибут (ошибка записи).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถลบแอททริบิวต์ (เขียนผิดพลาด).</value></content>
+<content><country></country><lang>zh</lang><value>没有删除属性 (写错误)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有刪除屬性 (寫錯誤)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt-Schlüsselwort konnte nicht gelöscht werden (Schreibfehler).</value></content>
+<content><country></country><lang>en</lang><value>Could not remove product-keywords (write error).</value></content>
+<content><country></country><lang>es</lang><value>No se pudo remover producto-palabras clave (error de escritura).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de supprimer le mot-clé de l'article (erreur d'écriture).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile cancellare chiavi-prodotto (errore scrittura).</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila stergerea cheie -produs (eroare la scriere).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно удалить элемент ключевого слова (ошибка записи).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถลบคีย์เวิร์ดสินค้า (เขียนผิดพลาด).</value></content>
+<content><country></country><lang>zh</lang><value>没有删除产品-关键字 (写错误)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有刪除產品-關鍵字 (寫錯誤)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produktverknüpfung konnte nicht gelöscht werden (nicht vorhanden).</value></content>
+<content><country></country><lang>en</lang><value>Could not remove product association (does not exist).</value></content>
+<content><country></country><lang>es</lang><value>No se pudo remover asociación de producto (no existe).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de supprimer le mot-clé de l'article (erreur d'écriture).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile cancellare associazione prodotto (non esiste).</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila stergerea asocierea produs (nu exista).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно удалить ассоциацию продукта (не существует).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถลบกลุ่มสินค้า (ไม่มีอยู่).</value></content>
+<content><country></country><lang>zh</lang><value>没有删除产品关联(不存在)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有刪除產品關聯(不存在)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produktverknüpfung konnte nicht gelöscht werden (Schreibfehler).</value></content>
+<content><country></country><lang>en</lang><value>Could not remove product association (write error).</value></content>
+<content><country></country><lang>es</lang><value>No se pudo remover asociación de producto (error de escritura).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de supprimer l'association à l'article (n'existe pas).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile cancellare associazione prodotto (errore scrittura).</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila stergere asociere produs (eroare la scriere).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно удалить ассоциацию продукта (ошибка записи).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถลบกลุ่มสินค้า (เขียนผิดพลาด).</value></content>
+<content><country></country><lang>zh</lang><value>没有删除产品关联(写错误)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有刪除產品關聯(寫錯誤)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt Schlüsselwort konnte nicht gelöscht werden (nicht vorhanden).</value></content>
+<content><country></country><lang>en</lang><value>Could not remove product-keyword (does not exist);</value></content>
+<content><country></country><lang>es</lang><value>No se pudo remover producto-palabra clave (no existe).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de supprimer le mot-clé de l'article (n'existe pas).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile cancellare chiave-prodotto (non esiste).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно удалить ключевое слово (не существует).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถลบคีย์เวิร์ดสินค้า (ไม่มีอยู่);</value></content>
+<content><country></country><lang>zh</lang><value>没有删除产品-关键字(不存在)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有刪除產品-關鍵字(不存在)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt Schlüsselwort konnte nicht gelöscht werden (Schreibfehler).</value></content>
+<content><country></country><lang>en</lang><value>Could not remove product-keyword (write error);</value></content>
+<content><country></country><lang>es</lang><value>No se pudo remover producto-palabra clave (error de escritura).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de supprimer le mot-clé de l'article (erreur d'écriture).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile cancellare chiave-prodotto (errore scrittura);</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila stergerea cheie-produs (eroare la scriere);</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно удалить ключевое слово (ошибка записи);</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถลบคีย์เวิร์ดสินค้า (เขียนผิดพลาด)</value></content>
+<content><country></country><lang>zh</lang><value>没有删除产品-关键字(写错误)；</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有刪除產品-關鍵字(寫錯誤)；</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Attribut konnte nicht aktualisiert werden (Schreibfehler).</value></content>
+<content><country></country><lang>en</lang><value>Could not update attribute (write error).</value></content>
+<content><country></country><lang>es</lang><value>No se pudo actualizar atributo (error de escritura).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de mettre à jour l'attribut (erreur d'écriture).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile aggiornare attributo (errore scrittura).</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila actualizarea atribut (eroare la scriere).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно обновить атрибут (ошибка записи).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถอัพเดทแอททริบิวต์ (เขียนผิดพลาด).</value></content>
+<content><country></country><lang>zh</lang><value>没有更新属性 (写错误)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有更新屬性 (寫錯誤)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produktverknüpfung konnte nicht aktualisiert werden (Schreibfehler).</value></content>
+<content><country></country><lang>en</lang><value>Could not update product association (write error).</value></content>
+<content><country></country><lang>es</lang><value>No se pudo actualizar asociación de escritura (error de escritura).</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de mettre à jour l'association à l'article (erreur d'écriture).</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile aggiornare associazione prodotto (errore scrittura).</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila actualizarea asociatie produs (eroare la scriere).</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно обновить ассоциацию продукта (ошибка записи).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถอัพเดทกลุ่มสินค้า (เขียนผิดพลาด).</value></content>
+<content><country></country><lang>zh</lang><value>没有更新产品关联(写错误)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有更新產品關聯(寫錯誤)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler beim Holden der Produktliste für Index: ${gee}.</value></content>
+<content><country></country><lang>en</lang><value>Error getting the product list to index: ${gee}.</value></content>
+<content><country></country><lang>es</lang><value>Error obteniendo la lista de productos en el índice: ${gee}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur en obtenant la liste d'article à l'index : ${gee}.</value></content>
+<content><country></country><lang>it</lang><value>Errore leggendo la lista prodotti per indice: ${gee}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare la citirea listei produs indexat: ${gee}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка получения списка продуктов по индексу: ${gee}.</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดการดึงค่ารายการสินค้าไปยังดัชนี: ${gee}.</value></content>
+<content><country></country><lang>zh</lang><value>获取产品列表到索引时出错：${gee}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>獲取產品列表到索引時出錯：${gee}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Der folgende Fehler ist aufgetreten:</value></content>
+<content><country></country><lang>en</lang><value>The following errors occurred:</value></content>
+<content><country></country><lang>es</lang><value>Ocurrieron los siguientes errores</value></content>
+<content><country></country><lang>fr</lang><value>Les erreurs suivantes sont apparues :</value></content>
+<content><country></country><lang>it</lang><value>I seguenti errori sono occorsi:</value></content>
+<content><country></country><lang>ro</lang><value>Urmatoarele erori au aparut:</value></content>
+<content><country></country><lang>ru</lang><value>Произошли следующие ошибки:</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดตามที่เกิดขึ้น:</value></content>
+<content><country></country><lang>zh</lang><value>发生下列错误：</value></content>
+<content><country></country><lang>zh_TW</lang><value>發生下列錯誤：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Von Datum fehlt.</value></content>
+<content><country></country><lang>en</lang><value>From Date is missing.</value></content>
+<content><country></country><lang>es</lang><value>Falta la fecha de inicio.</value></content>
+<content><country></country><lang>fr</lang><value>La date de début manque.</value></content>
+<content><country></country><lang>it</lang><value>Data Da è mancante.</value></content>
+<content><country></country><lang>ro</lang><value>Data De la lipseste.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует дата начала.</value></content>
+<content><country></country><lang>th</lang><value>จากวันที่ซึ่งหาไม่พบ</value></content>
+<content><country></country><lang>zh</lang><value>缺少开始日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>缺少開始日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Erstellung Schlüsselwörter abgeschlossen für ${numProds} Produkte.</value></content>
+<content><country></country><lang>en</lang><value>Keyword creation complete for ${numProds} products.</value></content>
+<content><country></country><lang>es</lang><value>Se completó la creación de palabras clave de ${numProds} productos.</value></content>
+<content><country></country><lang>fr</lang><value>La création de mot-clé est terminée pour ${numProds} articless,</value></content>
+<content><country></country><lang>it</lang><value>Creazione Chiave completata per ${numProds} prodotto(i).</value></content>
+<content><country></country><lang>ro</lang><value>Creare Cheie completa pentru ${numProds} produs(e).</value></content>
+<content><country></country><lang>ru</lang><value>Создание ключевых слов для ${numProds} продуктов завершено.</value></content>
+<content><country></country><lang>th</lang><value>การสร้างคีย์เวิร์ดทั้งหมดสำหรับ ${numProds} สินค้า.</value></content>
+<content><country></country><lang>zh</lang><value>完成为 ${numProds} 产品创建关键字。</value></content>
+<content><country></country><lang>zh_TW</lang><value>完成為 ${numProds} 產品創建關鍵字。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Erstellung Schlüsselwörter abgeschlossen für ${numProds} Produkte, mit Fehlern bei ${errProds} Produkten (siehe Log für mehr Details).</value></content>
+<content><country></country><lang>en</lang><value>Keyword creation complete for ${numProds} products, with errors in ${errProds} products (see the log for more details).</value></content>
+<content><country></country><lang>es</lang><value>Se completó la creación de palabras clave de ${numProds} productos, con errores en ${errProds} productos (ver el log para más detalles).</value></content>
+<content><country></country><lang>fr</lang><value>La création de mot-clé est terminée pour ${numProds} articles, avec des erreurs dans ${errProds} articles (voir la log - journal de bord - pour plus de détails).</value></content>
+<content><country></country><lang>it</lang><value>Creazione Chiave completata per ${numProds} prodotto(i), con errori in ${errProds} prodotto(i) (vedi il log per maggiori dettagli).</value></content>
+<content><country></country><lang>ro</lang><value>Creare Cheie complectata pentru ${numProds} produs(e), cu erori in ${errProds} produs(e) (vezi log pentru mai multe detalii).</value></content>
+<content><country></country><lang>ru</lang><value>Создание ключевых слов завершено для ${numProds} продуктов, с ошибками в ${errProds} продуктах (подробности в лог файле).</value></content>
+<content><country></country><lang>th</lang><value>การสร้างคีย์เวิร์ดทั้งหมดสำหรับ${numProds} สินค้า, ด้วยผิดพลาดใน ${errProds} สินค้า (ดูในลอกสำหรับข้อมูลที่มากกว่า).</value></content>
+<content><country></country><lang>zh</lang><value>完成为 ${numProds} 产品创建关键字，${errProds} 产品出错 (查看日志了解详细信息)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>完成為 ${numProds} 產品創建關鍵字，${errProds} 產品出錯 (查看日誌了解詳細資訊)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Schlüsselwort fehlt.</value></content>
+<content><country></country><lang>en</lang><value>Keyword is missing.</value></content>
+<content><country></country><lang>es</lang><value>Falta la palabra clave.</value></content>
+<content><country></country><lang>fr</lang><value>Le mot-clé est absent.</value></content>
+<content><country></country><lang>it</lang><value>Chiave mancante.</value></content>
+<content><country></country><lang>ro</lang><value>Chieie lipsa.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует ключевое слово.</value></content>
+<content><country></country><lang>th</lang><value>คีย์เวิร์ดซึ่งหาไม่พบ</value></content>
+<content><country></country><lang>zh</lang><value>缺少关键字。</value></content>
+<content><country></country><lang>zh_TW</lang><value>缺少關鍵字。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Keine Produkt-ID angegeben, kann die Schlüsselwörter nicht aktualisieren.</value></content>
+<content><country></country><lang>en</lang><value>No Product ID specified, cannot update keywords.</value></content>
+<content><country></country><lang>es</lang><value>No se especificó producto, no se puede actualizar palabras clave.</value></content>
+<content><country></country><lang>fr</lang><value>Aucune réf. d'article indiquée, ne peut mettre à jour les mots-clés.</value></content>
+<content><country></country><lang>it</lang><value>Nessun Codice Prodotto specificato, non è possibile aggiornare le chiavi.</value></content>
+<content><country></country><lang>ro</lang><value>Nici-un Cod Produs specificat, nu este posibila actualizarea cheilor.</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно обновить ключевые слова потому-что не указан код продукта.</value></content>
+<content><country></country><lang>th</lang><value>ไม่ระบุรหัสสินค้า, ไม่สามารถอัพเดทคีย์เวิร์ด.</value></content>
+<content><country></country><lang>zh</lang><value>没有指定产品标识， 无法更新关键字。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有指定產品ID無法更新關鍵字。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sie haben nicht genügend Berechtigungen um ${updateMode} CATALOG (CATALOG_${updateMode} oder CATALOG_ADMIN benötigt).</value></content>
+<content><country></country><lang>en</lang><value>You do not have sufficient permissions to ${updateMode} CATALOG (CATALOG_${updateMode} or CATALOG_ADMIN needed).</value></content>
+<content><country></country><lang>es</lang><value>No tiene suficientes permisos para ${updateMode} se necesitan permisos de CATALOG (CATALOG_${updateMode} o CATALOG_ADMIN).</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'avez pas les autorisations suffisantes pour ${updatemode} le CATALOGUE (CATALOG_${updateMode} ou CATALOG_ADMIN requis).</value></content>
+<content><country></country><lang>it</lang><value>Non hai permessi sufficienti per ${updateMode} CATALOG (permesso CATALOG_${updateMode} o CATALOG_ADMIN necessario).</value></content>
+<content><country></country><lang>ro</lang><value>Nu aidestule permise pentru ${updateMode} CATALOG (este necesar permisul CATALOG_${updateMode} sau CATALOG_ADMIN).</value></content>
+<content><country></country><lang>ru</lang><value>У вас нет достаточных прав для ${updateMode} CATALOG (необходимы права CATALOG_${updateMode} или CATALOG_ADMIN).</value></content>
+<content><country></country><lang>th</lang><value>คุณไม่มีการอนุญาตเพียงพอถึง ${updateMode} CATALOG (CATALOG_${updateMode} หรือ CATALOG_ADMIN ต้องการ).</value></content>
+<content><country></country><lang>zh</lang><value>你没有足够的权限 ${updateMode} 目录 (需要CATALOG_${updateMode} 或 CATALOG_ADMIN)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>你沒有足夠的權限 ${updateMode} 目錄 (需要CATALOG_${updateMode} 或 CATALOG_ADMIN)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt ID Zu fehlt.</value></content>
+<content><country></country><lang>en</lang><value>Product ID To is missing.</value></content>
+<content><country></country><lang>es</lang><value>Falta el código de producto destino.</value></content>
+<content><country></country><lang>fr</lang><value>La réf. de "l'article vers" est absente.</value></content>
+<content><country></country><lang>it</lang><value>Codice Prodotto A mancante.</value></content>
+<content><country></country><lang>ro</lang><value>Cod Produs A lipseste.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует К продукту.</value></content>
+<content><country></country><lang>th</lang><value>รหัสสินค้าซึ่งหาไม่พบ</value></content>
+<content><country></country><lang>zh</lang><value>缺少产品标识到。</value></content>
+<content><country></country><lang>zh_TW</lang><value>缺少產品ID到。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt ID fehlt.</value></content>
+<content><country></country><lang>en</lang><value>Product ID is missing.</value></content>
+<content><country></country><lang>es</lang><value>Falta el código de producto.</value></content>
+<content><country></country><lang>fr</lang><value>La réf. d'article est absente.</value></content>
+<content><country></country><lang>it</lang><value>Codice Prodotto mancante.</value></content>
+<content><country></country><lang>ro</lang><value>Cod Produs lipseste.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует код продукта.</value></content>
+<content><country></country><lang>th</lang><value>รหัสสินค้าซึ่งหาไม่พบ</value></content>
+<content><country></country><lang>zh</lang><value>缺少产品标识。</value></content>
+<content><country></country><lang>zh_TW</lang><value>缺少產品ID。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt Zu mit ID ${productIdTo} nicht gefunden.</value></content>
+<content><country></country><lang>en</lang><value>Product To with id ${productIdTo} not found.</value></content>
+<content><country></country><lang>es</lang><value>Producto destino con código ${productIdTo} no se encontró.</value></content>
+<content><country></country><lang>fr</lang><value>Le "l'article vers" avec la réf. ${productidTo} non trouvé.</value></content>
+<content><country></country><lang>it</lang><value>Prodotto A con Codice ${productIdTo} non trovato.</value></content>
+<content><country></country><lang>ro</lang><value>Nu gaseste Produs A cu Cod ${productIdTo}.</value></content>
+<content><country></country><lang>ru</lang><value>Не найден продукт с кодом ${productIdTo}.</value></content>
+<content><country></country><lang>th</lang><value>สินค้าถึงด้วยรหัส ${productIdTo} ไม่พบ.</value></content>
+<content><country></country><lang>zh</lang><value>没有找到标识为 ${productIdTo} 产品到。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有找到ID為 ${productIdTo} 產品到。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt mit ID ${productId} nicht gefunden.</value></content>
+<content><country></country><lang>en</lang><value>Product with id ${productId} not found.</value></content>
+<content><country></country><lang>es</lang><value>Producto con código ${productId} no fue encontrado.</value></content>
+<content><country></country><lang>fr</lang><value>Produit avec la réf. ${productId} non trouvé.</value></content>
+<content><country></country><lang>it</lang><value>Prodotto con Codice ${productId} non trovato.</value></content>
+<content><country></country><lang>ro</lang><value>Produs cu Cod ${productId} negasit.</value></content>
+<content><country></country><lang>ru</lang><value>Продукт с кодом ${productId} не найден.</value></content>
+<content><country></country><lang>th</lang><value>สินค้าด้วยรหัส${productId} ไม่พบ.</value></content>
+<content><country></country><lang>zh</lang><value>没有找到标识为 ${productId} 的产品。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有找到ID為 ${productId} 的產品。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Product mit ID "${productId}", nicht gefunden; Schlüsselwörter können nicht aktualisiert werden.</value></content>
+<content><country></country><lang>en</lang><value>Product with ID "${productId}", not found; cannot update keywords.</value></content>
+<content><country></country><lang>es</lang><value>Producto con código "${productId}" no fue encotrado; no se pueden actualizar las palabras clave.</value></content>
+<content><country></country><lang>fr</lang><value>L'article avec la réf. "${productId}", non trouvé. Ne peut mettre à jour les mots-clés.</value></content>
+<content><country></country><lang>it</lang><value>Prodotto con Codice "${productId}", non trovato; non è possibile aggiornare le chiavi.</value></content>
+<content><country></country><lang>ro</lang><value>Produs cu Cod "${productId}", negasit; nu este posibila actualizarea cheilor.</value></content>
+<content><country></country><lang>ru</lang><value>Продукт с кодом "${productId}" не найден; невозможно обновить ключевые слова.</value></content>
+<content><country></country><lang>th</lang><value>สินค้าด้วยรหัส "${productId}", ไม่พบ; ไม่สามารถอัพเดทคีย์เวิร์ด.</value></content>
+<content><country></country><lang>zh</lang><value>没有找到标识为 "${productId}" 的产品；不能更新关键字。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有找到ID為 "${productId}" 的產品；不能更新關鍵字。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Menge in falschem Format angegeben.</value></content>
+<content><country></country><lang>en</lang><value>Quantity not formatted correctly.</value></content>
+<content><country></country><lang>es</lang><value>Cantidad no formateada correctamente.</value></content>
+<content><country></country><lang>fr</lang><value>Quantité non formatée correctement.</value></content>
+<content><country></country><lang>it</lang><value>Quantità non formattata correttamente.</value></content>
+<content><country></country><lang>ro</lang><value>Cantitatea nu este formatata corect.</value></content>
+<content><country></country><lang>ru</lang><value>Неверный формат количества.</value></content>
+<content><country></country><lang>th</lang><value>จำนวนไม่ตรงรูปแบบอย่างถูกต้อง</value></content>
+<content><country></country><lang>zh</lang><value>数量格式不正确。</value></content>
+<content><country></country><lang>zh_TW</lang><value>數量格式不正確。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sequenznummer im Falschen Format angegeben.</value></content>
+<content><country></country><lang>en</lang><value>SequenceNum not formatted correctly.</value></content>
+<content><country></country><lang>es</lang><value>Número de secuencia no formateada correctamente.</value></content>
+<content><country></country><lang>fr</lang><value>N° de séquence non composé correctement.</value></content>
+<content><country></country><lang>it</lang><value>Numero Sequence non formattato correttamente.</value></content>
+<content><country></country><lang>ro</lang><value>Numar Secventa ne formatat corect.</value></content>
+<content><country></country><lang>ru</lang><value>Неверный формат последовательного номера.</value></content>
+<content><country></country><lang>th</lang><value>หมายเลขรายการไม่ตรงรูปแบบอย่างถูกต้อง</value></content>
+<content><country></country><lang>zh</lang><value>序号格式不正确。</value></content>
+<content><country></country><lang>zh_TW</lang><value>序號格式不正確。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Angegebenen Aktualisierungsmodus: "${updateMode}" wird nicht unterstützt.</value></content>
+<content><country></country><lang>en</lang><value>Specified update mode: "${updateMode}" is not supported.</value></content>
+<content><country></country><lang>es</lang><value>Modo especificado de actualización: "${updateMode}" no es soportado</value></content>
+<content><country></country><lang>fr</lang><value>Le mode indiqué de mise à jour: "${updatemode}" n'est pas supporté.</value></content>
+<content><country></country><lang>it</lang><value>Specificato modo di aggiornamento: "${updateMode}" non è supportato.</value></content>
+<content><country></country><lang>ro</lang><value>Modul de actualizare specificat: "${updateMode}" nu a fost suportat.</value></content>
+<content><country></country><lang>ru</lang><value>Указанный режим обновления: "${updateMode}" не поддерживается.</value></content>
+<content><country></country><lang>th</lang><value>เฉพาะอัพเดทวิธีการ: "${updateMode}" ไม่สนับสนุน.</value></content>
+<content><country></country><lang>zh</lang><value>不支持指定的更新模式："${updateMode}"。</value></content>
+<content><country></country><lang>zh_TW</lang><value>不支援指定的更新模式："${updateMode}"。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Bis Datum im falschen Format</value></content>
+<content><country></country><lang>en</lang><value>Thru Date not formatted correctly.</value></content>
+<content><country></country><lang>es</lang><value>Fecha fin no formateada correctamente.</value></content>
+<content><country></country><lang>fr</lang><value>Date de fin non composée correctement.</value></content>
+<content><country></country><lang>it</lang><value>Data A non formattata correttamente.</value></content>
+<content><country></country><lang>ro</lang><value>Data A nu este formatata corect.</value></content>
+<content><country></country><lang>ru</lang><value>Формат конечной даты неверный.</value></content>
+<content><country></country><lang>th</lang><value>ถึงวันที่ไม่ตรงรูปแบบที่ถูกต้อง</value></content>
+<content><country></country><lang>zh</lang><value>结束日期格式不正确。</value></content>
+<content><country></country><lang>zh_TW</lang><value>結束日期格式不正確。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aktualisierungmodus nicht angegeben, wird benötigt.</value></content>
+<content><country></country><lang>en</lang><value>Update Mode was not specified, but is required.</value></content>
+<content><country></country><lang>es</lang><value>No se especificó el modo de actualización, pero es requerido.</value></content>
+<content><country></country><lang>fr</lang><value>Le mode de mise à jour n'a pas été indiqué, mais est exigé.</value></content>
+<content><country></country><lang>it</lang><value>Modo di Aggiornamento non è stato specificato, ma è richiesto.</value></content>
+<content><country></country><lang>ro</lang><value>Mod de Actualizare nu a fost specificat, dar este cerut.</value></content>
+<content><country></country><lang>ru</lang><value>Требуется режим обновления, но он не указан.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทวิธีการไม่ระบุ แต่ต้องการ</value></content>
+<content><country></country><lang>zh</lang><value>没有指定必须的更新模式。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有指定必須的更新模式。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>${numAdded} Produktkategorie Mitglieder hinzugefügt.</value></content>
+<content><country></country><lang>en</lang><value>Added ${numAdded} product category members.</value></content>
+<content><country></country><lang>es</lang><value>Se añadieron ${numAdded} miembros de categoría de productos.</value></content>
+<content><country></country><lang>fr</lang><value>Ajout de ${numAdded} articles membres de la catégorie.</value></content>
+<content><country></country><lang>it</lang><value>Aggiunti ${numAdded} membri prodotto categoria.</value></content>
+<content><country></country><lang>ro</lang><value>Adaugati ${numAdded} membri produs categorie.</value></content>
+<content><country></country><lang>ru</lang><value>Добавлены ${numAdded} членов категории продуктов.</value></content>
+<content><country></country><lang>th</lang><value>เพิ่ม ${numAdded} สมาชิกหมวดหมู่สินค้า.</value></content>
+<content><country></country><lang>zh</lang><value>已添加 ${numAdded} 产品分类成员。</value></content>
+<content><country></country><lang>zh_TW</lang><value>已添加 ${numAdded} 產品分類成員。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler beim Holen Suchresultate: ${errSearchResult}.</value></content>
+<content><country></country><lang>en</lang><value>Error getting search results: ${errSearchResult}.</value></content>
+<content><country></country><lang>es</lang><value>Error obteniendo resultados de búsqueda: ${errSearchResult}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur dans les résultats de recherche : ${errSearchResult}.</value></content>
+<content><country></country><lang>it</lang><value>Errore leggendo i risultati di ricerca: ${errSearchResult}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare citind resultatele de cautare: ${errSearchResult}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка получения результатов поиска: ${errSearchResult}.</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดการดึงค่าผลลัพธ์การค้นหา: ${errSearchResult}.</value></content>
+<content><country></country><lang>zh</lang><value>获得搜索结果时出错：${errSearchResult}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>獲得搜索結果時出錯：${errSearchResult}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>${numExpired} Positionen abgelaufen.</value></content>
+<content><country></country><lang>en</lang><value>Expired ${numExpired} items.</value></content>
+<content><country></country><lang>es</lang><value>Expiraron ${numExpired} artículos.</value></content>
+<content><country></country><lang>fr</lang><value>${numExpired} articles périmés.</value></content>
+<content><country></country><lang>it</lang><value>${numExpired} righe Scadute.</value></content>
+<content><country></country><lang>ro</lang><value>${numExpired} linii Expirate.</value></content>
+<content><country></country><lang>ru</lang><value>Устарели ${numExpired} позиций.</value></content>
+<content><country></country><lang>th</lang><value>หมดอายุ ${numExpired} รายการ.</value></content>
+<content><country></country><lang>zh</lang><value>已过期 ${numExpired} 明细。</value></content>
+<content><country></country><lang>zh_TW</lang><value>已過期 ${numExpired} 明細。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das Von Datum ist nicht im korrekten Format: ${errDateFormat}.</value></content>
+<content><country></country><lang>en</lang><value>The fromDate was not formatted properly: ${errDateFormat}.</value></content>
+<content><country></country><lang>es</lang><value>La fecha de fin no fue formateada adecuadamente: ${errDateFormat}.</value></content>
+<content><country></country><lang>fr</lang><value>Le champ "Date de début" n'a pas été convenablement formaté : ${errDateFormat}.</value></content>
+<content><country></country><lang>it</lang><value>La Data Da non è stata formattata propriamente: ${errDateFormat}.</value></content>
+<content><country></country><lang>ro</lang><value>Data De La nu a fost formatata: ${errDateFormat}.</value></content>
+<content><country></country><lang>ru</lang><value>Неверный формат даты начала: ${errDateFormat}.</value></content>
+<content><country></country><lang>th</lang><value>จากวันที่ไม่ตรงรูปแบบอย่างถูกต้อ ${errDateFormat}.</value></content>
+<content><country></country><lang>zh</lang><value>开始日期格式不正确：${errDateFormat}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>開始日期格式不正確：${errDateFormat}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Keine Resultate gefunde, vermutlich ist ein Fehler aufgetreten oder es waren keine Bedingungen vorhanden</value></content>
+<content><country></country><lang>en</lang><value>No results found, probably because there was an error or were no constraints.</value></content>
+<content><country></country><lang>es</lang><value>No se encontraron resultados, probablemente porque hubo un error o no hubieron restricciones.</value></content>
+<content><country></country><lang>fr</lang><value>Aucun résultat trouvé, probablement parce qu'il y avait une erreur ou aucunes contrainte.</value></content>
+<content><country></country><lang>it</lang><value>Nessun risultato trovato, probabilmente perché c'era un'errore o nessuna costrizione.</value></content>
+<content><country></country><lang>ro</lang><value>Nici-un rezultat gasit, probabil pentru ca era o eroare si nici-o constrangere.</value></content>
+<content><country></country><lang>ru</lang><value>Результаты не найдены, вероятно по причине ошибке или по условиям.</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบผลลัพธ์, อย่างถูกต้องเพราะมีข้อผิดพลาดหรือไม่เป็นข้อจำกัด</value></content>
+<content><country></country><lang>zh</lang><value>没有找到结果，可能是因为有错误或没有约束。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有找到結果，可能是因為有錯誤或沒有約束。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>${numRemoved} Positionen entfernt.</value></content>
+<content><country></country><lang>en</lang><value>removed ${numRemoved} items.</value></content>
+<content><country></country><lang>es</lang><value>se removieron ${numRemoved} artículos.</value></content>
+<content><country></country><lang>fr</lang><value>${numRemoved} articles supprimés.</value></content>
+<content><country></country><lang>it</lang><value>${numRemoved} righe cancellate.</value></content>
+<content><country></country><lang>ru</lang><value>удалено ${numRemoved} позиций.</value></content>
+<content><country></country><lang>th</lang><value>ลบ ${numRemoved} รายการ.</value></content>
+<content><country></country><lang>zh</lang><value>已删除 ${numRemoved} 明细。</value></content>
+<content><country></country><lang>zh_TW</lang><value>已刪除 ${numRemoved} 明細。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das Bis Datum ist nicht im korrekten Format: ${errDateFormat}.</value></content>
+<content><country></country><lang>en</lang><value>The thruDate is not formatted properly: ${errDateFormat}.</value></content>
+<content><country></country><lang>es</lang><value>La fecha fin no fue formateada adecuadamente: ${errDateFormat}.</value></content>
+<content><country></country><lang>fr</lang><value>Le champ "Date de fin" n'est pas convenablement formaté : ${errDateFormat}.</value></content>
+<content><country></country><lang>it</lang><value>La Data A non è stata formattata propriamente: ${errDateFormat}.</value></content>
+<content><country></country><lang>ro</lang><value>Data A nu a fost formatata: ${errDateFormat}.</value></content>
+<content><country></country><lang>ru</lang><value>Неверный формат конечной даты: ${errDateFormat}.</value></content>
+<content><country></country><lang>th</lang><value>ถึงวันที่ไม่ตรงรูปแบบอย่างถูกต้อง: ${errDateFormat}.</value></content>
+<content><country></country><lang>zh</lang><value>结束日期格式不正确：${errDateFormat}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>結束日期格式不正確：${errDateFormat}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sowohl Produkt ID wie auch Produkt ID Zu können nicht definiert werden.</value></content>
+<content><country></country><lang>en</lang><value>Both productId and productIdTo cannot be defined.</value></content>
+<content><country></country><lang>es</lang><value>Tanto el código de producto como el código de producto destino no se pudieron definir.</value></content>
+<content><country></country><lang>fr</lang><value>La "Réf. d'article" et la "Réf. d'article vers" n'ont pu être définis.</value></content>
+<content><country></country><lang>it</lang><value>Entrambi productId e productIdTo non sono stati definiti.</value></content>
+<content><country></country><lang>ro</lang><value>Amandoua productId si productIdTo nu au fost definite.</value></content>
+<content><country></country><lang>ru</lang><value>Нельзя определять одновременно productId и productIdTo.</value></content>
+<content><country></country><lang>th</lang><value>ทั้งรหัสสินค้าและถึงรหัสสินค้าไม่สามารถระบุ</value></content>
+<content><country></country><lang>zh</lang><value>不能定义productId和 productIdTo。</value></content>
+<content><country></country><lang>zh_TW</lang><value>不能定義productId和 productIdTo。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sowohl Produkt ID und Produkt ID Zu dürfen nicht leer sein.</value></content>
+<content><country></country><lang>en</lang><value>Both productId and productIdTo cannot be null.</value></content>
+<content><country></country><lang>es</lang><value>Tanto el código de producto como el código de producto destino no se pueden ser nulos.</value></content>
+<content><country></country><lang>fr</lang><value>La "Réf. d'article" et la "Réf. d'article vers" ne peuvent être toutes les 2 nulles.</value></content>
+<content><country></country><lang>it</lang><value>Entrambi productId e productIdTo non possono essere nulli.</value></content>
+<content><country></country><lang>ro</lang><value>Amandoua productId si productIdTo nu pot sa fie nuli.</value></content>
+<content><country></country><lang>ru</lang><value>Значения productId и productIdTo не могут быть пустыми одновременно.</value></content>
+<content><country></country><lang>th</lang><value>ทั้งรหัสสินค้าและถึงรหัสสินค้าไม่สามารถเป็นค่าว่าง</value></content>
+<content><country></country><lang>zh</lang><value>productId和 productIdTo 不能为null。</value></content>
+<content><country></country><lang>zh_TW</lang><value>productId和 productIdTo 不能為null。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Merkmals-Baum kann nicht aufgebaut werden, Merkmalliste ist leer.</value></content>
+<content><country></country><lang>en</lang><value>Cannot build feature tree: featureList is null.</value></content>
+<content><country></country><lang>es</lang><value>No se pudo construir el árbol de características: la lista de características es nula.</value></content>
+<content><country></country><lang>fr</lang><value>Ne peut construire l'arbre de caractéristiques : la liste de caractéristiques est nulle.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibli costruire l'albero delle caratteristiche build feature tree: featureList è nulla.</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibla construirea arborelui caracteristicilor build feature tree: featureList este nula.</value></content>
+<content><country></country><lang>ru</lang><value>Не могу построить дерево особенностей: пустое значение featureList.</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างลักษณะต้นไม้: รายการลักษณะเป็นค่าว่าง.</value></content>
+<content><country></country><lang>zh</lang><value>不能构建特征树：特征列表为 null。</value></content>
+<content><country></country><lang>zh_TW</lang><value>不能構建特征樹：特征列表為 null。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Leere Produktliste erhalten.</value></content>
+<content><country></country><lang>en</lang><value>Empty list of products returned.</value></content>
+<content><country></country><lang>es</lang><value>Se devolvió una lista de productos vacía.</value></content>
+<content><country></country><lang>fr</lang><value>Liste d'articles retournés vide.</value></content>
+<content><country></country><lang>it</lang><value>Lista vuota di prodotti restituita.</value></content>
+<content><country></country><lang>ro</lang><value>Restituita-Lista goala de produse.</value></content>
+<content><country></country><lang>ru</lang><value>Возвращен пустой список продуктов.</value></content>
+<content><country></country><lang>th</lang><value>กลับไปยังสินค้าของรายการที่ว่าง.</value></content>
+<content><country></country><lang>zh</lang><value>返回了空的产品列表。</value></content>
+<content><country></country><lang>zh_TW</lang><value>返回了空的產品列表。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Leere Liste mit wählbaren Merkmalen gefunden.</value></content>
+<content><country></country><lang>en</lang><value>Empty list of selectable features found.</value></content>
+<content><country></country><lang>es</lang><value>Se halló una lista de características seleccionables vacía.</value></content>
+<content><country></country><lang>fr</lang><value>Liste de caractéristiques sélectionnables trouvées vide.</value></content>
+<content><country></country><lang>it</lang><value>Lista vuota di caratteristiche selezionabili trovate.</value></content>
+<content><country></country><lang>ro</lang><value>A Gasit o Lista goala de caracteristici selectionabile.</value></content>
+<content><country></country><lang>ru</lang><value>Найден пустой список выбираемых особенностей.</value></content>
+<content><country></country><lang>th</lang><value>พบรายการการเลือกลักษณะสินค้าว่าง</value></content>
+<content><country></country><lang>zh</lang><value>找到了空的可选择特征列表。</value></content>
+<content><country></country><lang>zh_TW</lang><value>找到了空的可選擇特征列表。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Entity error quick add variant data</value></content>
+<content><country></country><lang>it</lang><value>Errore durante la lettura dei dati per l'aggiunta variante veloce.</value></content>
+<content><country></country><lang>zh</lang><value>快速添加多样化产品数据时发生实体错误</value></content>
+<content><country></country><lang>zh_TW</lang><value>快速添加多樣化產品資料時發生實體錯誤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler bei zugeordneter Variante mit ID ${productIdTo}, Fehler war: ${errMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Error finding associated variant with ID ${productIdTo}, error was: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Error buscando una variante asociada con el código ${productIdTo}, el error fue: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur dans la variante associée avec la réf. ${productIdTo}, l'erreur était : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Errore nella ricerca associata alla variante con Codice ${productIdTo}, errore era: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare in cautarea asociata variantei cu Cod ${productIdTo}, eroarea era: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка поиска ассоциированного варианта с кодом ${productIdTo}, ошибка: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดการค้นหากลุ่มการเปลี่ยนแปลงด้วยรหัส ${productIdTo}, ผิดพลาดคือ: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>查找标识为 ${productIdTo} 的关联变型时出错，错误是：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找ID為 ${productIdTo} 的關聯變型時出錯，錯誤是：${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Merkmalgruppierung wurde leer zurückgegeben.</value></content>
+<content><country></country><lang>en</lang><value>Feature grouping came back empty.</value></content>
+<content><country></country><lang>es</lang><value>El grupo de características regresó vacío.</value></content>
+<content><country></country><lang>fr</lang><value>Le groupe de caractéristiques est revenu vide.</value></content>
+<content><country></country><lang>it</lang><value>Raggruppamento Caratteristiche tornano indietro vuote.</value></content>
+<content><country></country><lang>ro</lang><value>Ragrupamentul Caracteristici se intoarce inapoi gol.</value></content>
+<content><country></country><lang>ru</lang><value>Группировка особенностей вернулась пустая.</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มลักษณะสินค้ากลับมาว่าง</value></content>
+<content><country></country><lang>zh</lang><value>特征组返回空。</value></content>
+<content><country></country><lang>zh_TW</lang><value>特征組返回空。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Merkmal Beispiel wurde leer zurückgegeben.</value></content>
+<content><country></country><lang>en</lang><value>Feature sample came back empty.</value></content>
+<content><country></country><lang>es</lang><value>Ejemplo de características regresó vacío.</value></content>
+<content><country></country><lang>fr</lang><value>L'exemple de caractéristique est revenu vide.</value></content>
+<content><country></country><lang>it</lang><value>Caratteristiche esempio torna indietro vuota.</value></content>
+<content><country></country><lang>ro</lang><value>Caracteristici exemplu se intorc inapoi goale.</value></content>
+<content><country></country><lang>ru</lang><value>Пример особенности вернулся пустой.</value></content>
+<content><country></country><lang>th</lang><value>ตัวอย่างลักษณะสินค้ากลับมาว่าง</value></content>
+<content><country></country><lang>zh</lang><value>特征样例返回空。</value></content>
+<content><country></country><lang>zh_TW</lang><value>特征樣例返回空。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ungültige Produkt ID erhalten.</value></content>
+<content><country></country><lang>en</lang><value>Invalid productId passed.</value></content>
+<content><country></country><lang>es</lang><value>Código de producto inválido.</value></content>
+<content><country></country><lang>fr</lang><value>Réf. d'article non valide.</value></content>
+<content><country></country><lang>it</lang><value>Codice Prodotto passato non è valido.</value></content>
+<content><country></country><lang>ro</lang><value>Cod Produs trecut nu este valid.</value></content>
+<content><country></country><lang>ru</lang><value>Передано неверное значение кода продукта.</value></content>
+<content><country></country><lang>th</lang><value>ผ่านรหัสสินค้าใช้ไม่ได้</value></content>
+<content><country></country><lang>zh</lang><value>传递的产品标识无效。</value></content>
+<content><country></country><lang>zh_TW</lang><value>傳遞的產品ID無效。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Problem bei der Produkt Merkmal Entität: ${errMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Problem reading product feature entity: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Problema al leer la entidad de característica de producto: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Problème à la lecture de l'entité des caractéristiques d'article : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Problema leggendo l'entità caratteristiche prodotto: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Problema citind entitatea caracteristicii produs: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Проблема при чтении объекта особенностей продукта: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ปัญหาการอ่านเอนทิตีลักษณะสินค้า: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>读取产品特征实体时发生问题：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>讀取產品特征實體時發生問題：${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Problem beim Lesen der Produktmerkmale.</value></content>
+<content><country></country><lang>en</lang><value>Problem reading product features.</value></content>
+<content><country></country><lang>es</lang><value>Problema al leer características de producto.</value></content>
+<content><country></country><lang>fr</lang><value>Problème à la lecture des caractéristiques d'article.</value></content>
+<content><country></country><lang>it</lang><value>Problema leggendo caratteristiche prodotto.</value></content>
+<content><country></country><lang>ro</lang><value>Problema la citire caracteristici produs.</value></content>
+<content><country></country><lang>ru</lang><value>Проблема при чтении особенностей продукта.</value></content>
+<content><country></country><lang>th</lang><value>ปัญหาการอ่านลักษณะสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>读取产品特征时发生问题。</value></content>
+<content><country></country><lang>zh_TW</lang><value>讀取產品特征時發生問題。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Problem beim Lesen Produktmerkmal: ${errProductFeatures}.</value></content>
+<content><country></country><lang>en</lang><value>Problem reading product features: ${errProductFeatures}.</value></content>
+<content><country></country><lang>es</lang><value>Problema al leer características de producto: ${errProductFeatures}.</value></content>
+<content><country></country><lang>fr</lang><value>Problème à la lecture des caractéristiques d'article : ${errProductFeatures}.</value></content>
+<content><country></country><lang>it</lang><value>Problema leggendo caratteristiche prodotto: ${errProductFeatures}.</value></content>
+<content><country></country><lang>ro</lang><value>Problema la citire caracteristici produs: ${errProductFeatures}.</value></content>
+<content><country></country><lang>ru</lang><value>Проблема при чтении особенностей продукта: ${errProductFeatures}.</value></content>
+<content><country></country><lang>th</lang><value>ปัญหาการอ่านลักษณะสินค้า: ${errProductFeatures}.</value></content>
+<content><country></country><lang>zh</lang><value>读取产品特征时发生问题：${errProductFeatures}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>讀取產品特征時發生問題：${errProductFeatures}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Problem beim Holen der Produkt Entität.</value></content>
+<content><country></country><lang>en</lang><value>Problems getting the product entity.</value></content>
+<content><country></country><lang>es</lang><value>Problemas al obtener la entidad de producto.</value></content>
+<content><country></country><lang>fr</lang><value>Problème à la lecture de l'entité d'article.</value></content>
+<content><country></country><lang>it</lang><value>Problema leggendo entità prodotto.</value></content>
+<content><country></country><lang>ro</lang><value>Problema la citirea entitatii produs.</value></content>
+<content><country></country><lang>ru</lang><value>Проблемы при обращении к объекта продукта.</value></content>
+<content><country></country><lang>th</lang><value>ปัญหาการดึงค่าเอนทิตีสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>获取产品实体时发生问题。</value></content>
+<content><country></country><lang>zh_TW</lang><value>獲取產品實體時發生問題。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Problem bei den Produktverbindungen: ${errMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Problems product association relation: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Problemas de relación de asociaciones de producto: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Problème dans l'association d'article : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Problema leggendo relazione associazione prodotto: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Problema la citirea relatiei asociere produs: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Проблемы с отношениями ассоциаций продукта: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ปัญหาความสัมพันธ์กลุ่มสินค้า: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>产品关联关系出错：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>產品關聯關系出錯：${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Problem beim Lesen der Produkt Entität: ${errMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Problems reading product entity: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Problemas al leer entidad de producto: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Problème à la lecture de l'entité d'article : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Problemi leggendo entità prodotto: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Probleme la citirea entitatii produs: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Проблемы при чтении объекта продукта: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ปัญหาการอ่านเอนทิตีสินค้า: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>读取产品实体时出现问题：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>讀取產品實體時出現問題：${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Product not found with ID</value></content>
+<content><country></country><lang>it</lang><value>Prodotto non trovato per codice</value></content>
+<content><country></country><lang>zh</lang><value>没有找到产品，标识是</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有找到產品ID是</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Keine gültigen Varianten gefunden für virtuelles Produkt mit der ID [${productId}], keinen Merge durchgeführt...</value></content>
+<content><country></country><lang>en</lang><value>Did not find any valid variants for virtual ID [${productId}], not doing merge...</value></content>
+<content><country></country><lang>es</lang><value>No se encontraron variantes válidas para el código de producto virtual [${productId}], no se realiza la unión...</value></content>
+<content><country></country><lang>fr</lang><value>Aucune variante valide pour la réf. virtuelle [${productId}], pas de fusion...</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile trovare qualsiasi variante valida per Codice virtuale [${productId}], non facendo la fusione...</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila gasirea variantei valide pe Cod virtual [${productId}], ne fiind facuta fuziunea...</value></content>
+<content><country></country><lang>ru</lang><value>Не найдены правильные варианты для виртуального кода [${productId}], слияние не выполнено...</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถค้นหาทุก ๆ ค่าที่เปลี่ยนแปลงสำหรับรหัสเกือบทั้งหมด [${productId}], ไม่ทำรวมเข้าด้วยกัน...</value></content>
+<content><country></country><lang>zh</lang><value>没有为虚拟产品标识 [${productId}]找到任何有效变型， 没有做合并...</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有為虛擬產品ID [${productId}]找到任何有效變型， 沒有做合並...</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entitätenfehler beim Ausführen clearAllVirtualProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Entity error running clearAllVirtualProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Error de entidad al correr clearAllVirtualProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur de base de données (entité) lors de l'exécution de clearAllVirtualProductImageNames : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Errore nell'esecuzione Entità clearAllVirtualProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare in executia Entitatii clearAllVirtualProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка объекта при выполнении clearAllVirtualProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>เอนทิตีผิดพลาดการดำเนินการ clearAllVirtualProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>运行 clearAllVirtualProductImageNames 时发生实体错误：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>運行 clearAllVirtualProductImageNames 時發生實體錯誤：${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entitätenfehler beim Ausführen discVirtaulsWithDiscVariants: ${errMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Entity error running discVirtualsWithDiscVariants: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Error de entidad al correr discVirtualsWithDiscVariants: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur de base de données (entité) lors de l'exécution de discVirtualsWithDiscVariants : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Errore nell'esecuzione Entità discVirtualsWithDiscVariants: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare in executie Entitate discVirtualsWithDiscVariants: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка объекта при выполнении discVirtualsWithDiscVariants: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>เอนทิตีผิดพลาดการดำเนินการ discVirtualsWithDiscVariants: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>运行 discVirtualsWithDiscVariants 时发生实体错误：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>運行 discVirtualsWithDiscVariants 時發生實體錯誤：${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entitätenfehler beim Ausführen makeStandAloneFromSingleVariantVirtuals: ${errMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Entity error running makeStandAloneFromSingleVariantVirtuals: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Error de entidad al correr makeStandAloneFromSingleVariantVirtuals: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur de base de données (entité) lors de l'exécution de makeStandAloneFromSingleVariantVirtuals : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Errore nell'esecuzione Entità makeStandAloneFromSingleVariantVirtuals: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare in executie Entitate makeStandAloneFromSingleVariantVirtuals: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка объекта при выполнении makeStandAloneFromSingleVariantVirtuals: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>เอนทิตีผิดพลาดการดำเนินการmakeStandAloneFromSingleVariantVirtuals: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>运行 makeStandAloneFromSingleVariantVirtuals 时发生实体错误：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>運行 makeStandAloneFromSingleVariantVirtuals 時發生實體錯誤：${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entitätenfehler beim Ausführen removeCategoryMembersOfDiscProducts: ${errMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Entity error running removeCategoryMembersOfDiscProducts: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Error de entidad al correr removeCategoryMembersOfDiscProducts: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur de base de données (entité) lors de l'exécution de removeCategoryMembersOfDiscProducts : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Errore nell'esecuzione Entità removeCategoryMembersOfDiscProducts: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare in executie Entitate removeCategoryMembersOfDiscProducts: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка объекта при выполнении removeCategoryMembersOfDiscProducts: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>เอนทิตีผิดพลาดการดำเนินการ removeCategoryMembersOfDiscProducts: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>运行 removeCategoryMembersOfDiscProducts 时发生实体错误：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>運行 removeCategoryMembersOfDiscProducts 時發生實體錯誤：${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entitätenfehler beim Ausführen removeDuplicateOpenEndedCategoryMembers: ${errMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Entity error running removeDuplicateOpenEndedCategoryMembers: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Error de entidad al correr removeDuplicateOpenEndedCategoryMembers: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur de base de données (entité) lors de l'exécution de removeDuplicateOpenEndedCategoryMembers : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Errore nell'esecuzione Entità removeDuplicateOpenEndedCategoryMembers: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare in executie Entitate removeDuplicateOpenEndedCategoryMembers: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка объекта при выполнении removeDuplicateOpenEndedCategoryMembers: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>เอนทิตีผิดพลาดการดำเนินการ removeDuplicateOpenEndedCategoryMembers: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>运行 removeDuplicateOpenEndedCategoryMembers 时发生实体错误：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>運行 removeDuplicateOpenEndedCategoryMembers 時發生實體錯誤：${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entitätenfehler beim Ausführen setAllProductImageNames: ${errMessage}</value></content>
+<content><country></country><lang>en</lang><value>Entity error running setAllProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Error de entidad al correr setAllProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur de base de données (entité) lors de l'exécution de setAllProductImageNames : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Errore nell'esecuzione Entità setAllProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare in executie Entitate setAllProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка объекта при выполнении setAllProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>เอนทิตีผิดพลาดการดำเนินการ setAllProductImageNames: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>运行 setAllProductImageNames 时发生实体错误：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>運行 setAllProductImageNames 時發生實體錯誤：${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler bei attachProductFeaturesToCategory: ${errMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Error in attachProductFeaturesToCategory: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Error al correr attachProductFeaturesToCategory: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur de base de données (entité) lors de l'exécution de attachProductFeaturesToCategory : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Errore in attachProductFeaturesToCategory: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare in attachProductFeaturesToCategory: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка в attachProductFeaturesToCategory: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดใน attachProductFeaturesToCategory: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>在 attachProductFeaturesToCategory 中发生错误：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在 attachProductFeaturesToCategory 中發生錯誤：${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Mehr als eine gültige Variante gefunden für Virtuelles Produkt mit der ID [${productId}], kein Merge durchgeführt.</value></content>
+<content><country></country><lang>en</lang><value>Found more than one valid variant for virtual ID [${productId}], not doing merge...</value></content>
+<content><country></country><lang>es</lang><value>Se encontrarón más de una variante válida para el código de producto virtual [${productId}], no se hace la unión...</value></content>
+<content><country></country><lang>fr</lang><value>Plusieur variantes valides pour la réf. virtuelle [${productId}], pas de fusion...</value></content>
+<content><country></country><lang>it</lang><value>Trovati più di una variante valida per Codice virtuale [${productId}], non facendo la fusione...</value></content>
+<content><country></country><lang>ro</lang><value>Au fost gasite mai multe variante valide pentru Cod virtual [${productId}], ne fiind facuta fuziunea...</value></content>
+<content><country></country><lang>ru</lang><value>Найдено более одного правильного варианта для витруального кода [${productId}], слияние не выполнено...</value></content>
+<content><country></country><lang>th</lang><value>พบมากกว่าหนึ่งการเปลี่ยนแปลงสำหรับรหัสเกือบทั้งหมด [${productId}], ไม่ทำรวมเข้าด้วยกัน...</value></content>
+<content><country></country><lang>zh</lang><value>找到了一个以上虚拟产品标识为 [${productId}]有效变型，没有做合并...</value></content>
+<content><country></country><lang>zh_TW</lang><value>找到了一個以上虛擬產品ID為 [${productId}]有效變型，沒有做合並...</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Null Product entity not valid</value></content>
+<content><country></country><lang>it</lang><value>Entità Product nulla non valida</value></content>
+<content><country></country><lang>zh</lang><value>Null不能作为产品实体</value></content>
+<content><country></country><lang>zh_TW</lang><value>Null不能作為產品實體</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entitätenfehler beim raschen Hinzufügen Variantendaten: ${errMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Entity error quick add variant data: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Error de entidad al añadir rápido datos de variantes: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur de base de données (entité) lors de l'exécution de l'ajout rapide de données variantes : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Errora Entità aggiunta variante data: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare Entitate adaugata varianta data: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка объекта быстрого добавления варианта объекта: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>เอนทิตีผิดพลาดเพิ่มข้อมูลการเปลี่ยนแปลงอย่างรวดเร็ว: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>快速添加变型数据时发生实体错误：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>快速添加變型資料時發生實體錯誤：${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>featureTypeSize ist keine Nummer: ${featureTypeSizeStr}.</value></content>
+<content><country></country><lang>en</lang><value>featureTypeSize is not a number: ${featureTypeSizeStr}.</value></content>
+<content><country></country><lang>es</lang><value>TypeSize de característica no es un número: ${featureTypeSizeStr}.</value></content>
+<content><country></country><lang>fr</lang><value>La caractéristiques TypeSize n'est pas un nombre : ${featureTypeSizeStr}.</value></content>
+<content><country></country><lang>it</lang><value>featureTypeSize non è un numero: ${featureTypeSizeStr}.</value></content>
+<content><country></country><lang>ro</lang><value>featureTypeSize nu este un numar: ${featureTypeSizeStr}.</value></content>
+<content><country></country><lang>ru</lang><value>featureTypeSize не является номером: ${featureTypeSizeStr}.</value></content>
+<content><country></country><lang>th</lang><value>ขนาดประเภทลักษณะไม่ใช่หมายเลข: ${featureTypeSizeStr}.</value></content>
+<content><country></country><lang>zh</lang><value>特征类型大小不是一个数字：${featureTypeSizeStr}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>特征類型大小不是一個數字：${featureTypeSizeStr}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Die Produktmerkmal ID für Merkmaltyp Nummer ${i} wurde nicht gefunden.</value></content>
+<content><country></country><lang>en</lang><value>The productFeatureId for feature type number ${i} was not found.</value></content>
+<content><country></country><lang>es</lang><value>El productFeatureId para número de tipo de característica ${i} no se encontró.</value></content>
+<content><country></country><lang>fr</lang><value>La réf. de caractéristique d'article pour le type de caractéristique ${i} n'a pas été trouvée.</value></content>
+<content><country></country><lang>it</lang><value>La productFeatureId per caratteristica tipo numero ${i} non è stata trovata.</value></content>
+<content><country></country><lang>ro</lang><value>La productFeatureId pentru caracteristica tip numar ${i} nu a fost gasita.</value></content>
+<content><country></country><lang>ru</lang><value>productFeatureId для номера типа особенности ${i} не найден.</value></content>
+<content><country></country><lang>th</lang><value>รหัสลักษณะสินค้าสำหรับหมายเลขประเภทลักษณะ ${i} ไม่พบ.</value></content>
+<content><country></country><lang>zh</lang><value>没有找到特征类型编号为 ${i} 的产品特征标识。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有找到特征類型編號為 ${i} 的產品特徵ID。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt ID wird benötigt fehlt aber.</value></content>
+<content><country></country><lang>en</lang><value>productId is required but missing.</value></content>
+<content><country></country><lang>es</lang><value>Se requiere el código de producto pero no fue especificado.</value></content>
+<content><country></country><lang>fr</lang><value>La réf. d'article est indispensable mais manque.</value></content>
+<content><country></country><lang>it</lang><value>productId è richiesto ma è mancante.</value></content>
+<content><country></country><lang>ro</lang><value>productId este cerut dar lipseste.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует обязательный код продукта.</value></content>
+<content><country></country><lang>th</lang><value>รหัสสินค้าต้องการแต่ซึ่งหาไม่พบ</value></content>
+<content><country></country><lang>zh</lang><value>缺少必须的产品标识。</value></content>
+<content><country></country><lang>zh_TW</lang><value>缺少必須的產品ID。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt nicht gefunden mit der ID: ${productId}.</value></content>
+<content><country></country><lang>en</lang><value>Product not found with ID: ${productId}.</value></content>
+<content><country></country><lang>es</lang><value>No se encontró el producto con el código: ${productId}.</value></content>
+<content><country></country><lang>fr</lang><value>Article avec la réf. ${productId} non trouvé.</value></content>
+<content><country></country><lang>it</lang><value>Prodotto non trovato con Codice: ${productId}.</value></content>
+<content><country></country><lang>ro</lang><value>Produs negasit cu Codul: ${productId}.</value></content>
+<content><country></country><lang>ru</lang><value>Продукт с кодом ${productId} не найден.</value></content>
+<content><country></country><lang>th</lang><value>สินค้าไม่พบด้วยรหัส: ${productId}.</value></content>
+<content><country></country><lang>zh</lang><value>没有找到产品，标识：${productId}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有找到產品ID: ${productId}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produktvariante erfolgreich erstellt mit der ID: ${variantProductId} (enthält Verbindungen und Standart-Merkmale für die Variante).</value></content>
+<content><country></country><lang>en</lang><value>Successfully created variant product with id: ${variantProductId} (includes association, and standard features for the variant).</value></content>
+<content><country></country><lang>es</lang><value>Se creó exitosamente el producto variante con código: ${variantProductId} (incluye asociación, y características estándard para la variante).</value></content>
+<content><country></country><lang>fr</lang><value>Création résussie de la variante d'article : réf. ${variantProductId} (inclut l'association, et les caractéristiques standards pour la variante).</value></content>
+<content><country></country><lang>it</lang><value>Variante prodotto con Codice: ${variantProductId} creato con successo (incluse associazioni, e caratteristiche standard per la variante).</value></content>
+<content><country></country><lang>ro</lang><value>Varianta produs cu Cod: ${variantProductId} creat cu succes (incluse asocieri si caracteristici standard pe varianta).</value></content>
+<content><country></country><lang>ru</lang><value>Вариант продукта с кодом ${variantProductId} успешно создан (включая ассоциацию и стандартные, для вариантов, особенности).</value></content>
+<content><country></country><lang>th</lang><value>ประสบผลสำเร็จสร้างการเปลี่ยนแปลงสินค้าด้วยรหัส: ${variantProductId} (รวมกลุ่ม, และลักษณะพื้นฐานสำหรับการเปลี่ยนแปลง).</value></content>
+<content><country></country><lang>zh</lang><value>成功创建变型产品，标识：${variantProductId} (包括关联，以及变型的表转特征)。</value></content>
+<content><country></country><lang>zh_TW</lang><value>成功創建變型產品ID: ${variantProductId} (包括關聯，以及變型的表轉特征)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Transaktionsfehler beim raschen Hinzufügen Variantendaten: ${errMessage}</value></content>
+<content><country></country><lang>en</lang><value>Transaction error creating quick add variant data: ${errMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Error de transacción creando data al añadir rápido variantes: ${errMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur de transaction pendant l'ajout rapide des données de variante : ${errMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Transazione errore creazione aggiunta veloce variante data: ${errMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare de Tranzactie la crearea adaugarea rapide a variantei data: ${errMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка транзакции создания быстрого добавления варианта продукта: ${errMessage}.</value></content>
+<content><country></country><lang>th</lang><value>รายการผิดพลาดการสร้างการเพิ่มข้อมูลการเปลี่ยนแปลงอย่างรวดเร็ว: ${errMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>创建快速添加变型数据时发生交易错误：${errMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>創建快速添加變型資料時發生交易錯誤: ${errMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>variantProductId wir benötigt fehlt aber, bitte geben Sie eine ID für die neue Produktvariante an.</value></content>
+<content><country></country><lang>en</lang><value>variantProductId is required but missing, please enter an id for the new variant product.</value></content>
+<content><country></country><lang>es</lang><value>Se requiere el código del producto variante, pero no se especificó, por favor ingrese un código para el nuevo producto variante.</value></content>
+<content><country></country><lang>fr</lang><value>La réf. de variante d'article est indispensable mais manque. S'il vous plaît entrez une réf. pour la nouvelle variante d'article.</value></content>
+<content><country></country><lang>it</lang><value>Il codice della variante prodotto è richiesto ma mancante.</value></content>
+<content><country></country><lang>ro</lang><value>variantProductId este cerut dar lipseste, va rugam introduceti un Cod pentru noua Varianta produs.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует необходимый variantProductId, пожалуйста введите код для нового варианта продукта.</value></content>
+<content><country></country><lang>th</lang><value>รหัสการเปลี่ยนแปลงสินค้าต้องการแต่ไม่พบ, กรุณากรอกรหัสสำหรับการเปลี่ยนแปลงสินค้าใหม่.</value></content>
+<content><country></country><lang>zh</lang><value>缺少必须的变型产品标识， 请为新的变型产品输入一个标识。</value></content>
+<content><country></country><lang>zh_TW</lang><value>缺少必須的變型產品ID, 請為新的變型產品輸入一個ID。</value></content>
+</contents></phrase> </phrases>

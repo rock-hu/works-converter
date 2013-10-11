@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="EbayStoreApplication">
+        <value lang="en">eBay Store</value>
+    </property>
+    <property key="EbayCompanyName">
+        <value lang="en">OFBiz</value>
+        <value lang="fr">OFBiz</value>
+        <value lang="it">OFBiz</value>
+        <value lang="th">OFBiz</value>
+    </property>
+    <property key="EbayStoreAccount">
+        <value lang="en">eBay Account</value>
+        <value lang="th">ส่งออกหมวดหมู่สินค้าเข้าคลังสินค้าในอีเบย์</value>
+    </property>
+    <property key="EbayExportAllCategoryToEbayStore">
+        <value lang="en">Export categories to eBay store</value>
+        <value lang="th">ส่งออกหมวดหมู่สินค้าเข้าคลังสินค้าในอีเบย์</value>
+    </property>
+    <property key="EbayStoreCannotDecreaseQuantity">
+        <value lang="en">Can not decrease quantity of product ${parameters.productId} because it already to used created listing.</value>
+        <value lang="it">Non è possibile diminuire la quantità del prodotto ${parameters.productId} perchè è già usato da aste create.</value>
+    </property>
+    <property key="EbayExportToEbayStore">
+        <value lang="en">Export To eBay Store</value>
+        <value lang="th">การส่งออกไปยังคลังสินค้าอีเบย์</value>
+    </property>
+    <property key="EbayExportToEbayStoreFailed">
+        <value lang="en">Fail to export categories to an eBay store ${errorString}</value>
+        <value lang="it">Fallita esportazione delle categorie al negozio eBay ${errorString}</value>
+    </property>
+    <property key="EbayExportToEbayStoreSuccess">
+        <value lang="en">Export categories to ebay store success.</value>
+        <value lang="it">Esportazione delle categorie al negozio eBay avvenuta con successo.</value>
+    </property>
+     <property key="EbaySellingManager">
+        <value lang="en">Selling Manager</value>
+    </property>
+    <property key="EbayStore">
+        <value lang="en">Ebay Store</value>
+        <value lang="th">คลังสินค้าอีเบย์</value>
+    </property>
+    <property key="EbayStoreAddSecondChanceOfferSuccessful">
+        <value lang="en">Add Second Chance Offer Successful.</value>
+        <value lang="it">Aggiunto secondo tentativo offerta con successo.</value>
+    </property>
+    <property key="EbayStoreAutoPrefJobEmpty">
+        <value lang="en">If you add a new job, you have to add service name.</value>
+        <value lang="it">Se tu aggiungi un nuovo job, tu devi aggiungere un nuovo servizio.</value>
+    </property>
+    <property key="EbayStoreErrorFromDeleteContactStatus">
+        <value lang="en">Error from deleteContactAlert service </value>
+        <value lang="it">Errore dal servizio deleteContactAlert </value>
+    </property>
+    <property key="EbayStoreErrorFromListBestOfferIncludeMessage">
+        <value lang="en">Error from listBestOfferIncludeMessage service: </value>
+        <value lang="it">Errore dal servizio listBestOfferIncludeMessage: </value>
+    </property>
+    <property key="EbayStoreErrorFromUpdateContactStatus">
+        <value lang="en">Error from updateContactStatus service </value>
+        <value lang="it">Errore dal servizio updateContactStatus </value>
+    </property>
+    <property key="EbayStores">
+        <value lang="en">Ebay Stores</value>
+        <value lang="th">รายชื่อคลังสินค้าอีเบย์</value>
+    </property>
+    <property key="EbayStoreSetting">
+        <value lang="en">Ebay Store Setting</value>
+        <value lang="th">รายชื่อคลังสินค้าอีเบย์</value>
+    </property>
+    <property key="EbayStoreInventoryStatusUpdated">
+        <value lang="en">Updated inventory status of product ${productId}</value>
+        <value lang="it">Aggiornato stato inventario del prodotto ${productId}</value>
+    </property>
+    <property key="EbayStoreInventoryFolderIdLoaded">
+        <value lang="en">load eBay store folderId ${folderId} success..</value>
+        <value lang="it">Caricamento folderId ${folderId} per il negozio eBay avvenuto con successo..</value>
+    </property>
+    <property key="EbayStoreInventoryFolderIdRequired">
+        <value lang="en">The process was required productStoreId, productId and eBay inventory folderId.</value>
+        <value lang="it">Questo processo richiedere il productStoreId, productId e il folderId inventario eBay.</value>
+    </property>
+    <property key="EbayStoreInventoryFolderIdUpdated">
+        <value lang="en">Updated eBay store inventory in folder ${folderId} success..</value>
+        <value lang="it">Aggiornato inventario negozio eBay del ${folderId} con successo..</value>
+    </property>
+    <property key="EbayStoreInventoryFolderIdUpdatedFailed">
+        <value lang="en">Fail to update eBay store inventory.</value>
+        <value lang="it">Fallito aggiornato dell'inventario negozio eBay.</value>
+    </property>
+    <property key="EbayStoreLoadSuccess">
+        <value lang="en">Load Ebay Store success.</value>
+        <value lang="th">โหลดข้อมูลคลังสินค้าอีเบย์เรียบร้อย</value>
+    </property>
+    <property key="EbayStoreLoadAdvancedThemeSuccess">
+        <value lang="en">load store advanced Theme option data success..</value>
+        <value lang="it">Caricamento opzioni avanzate temi negozio avvenuto con successo..</value>
+    </property>
+    <property key="EbayStoreLoadBasicThemeSuccess">
+        <value lang="en">load store Basic Theme option data success..</value>
+        <value lang="it">Caricamento opzioni base temi negozio avvenuto con successo..</value>
+    </property>
+    <property key="EbayStoreLoadLogoSuccess">
+        <value lang="en">load store logo data success..</value>
+        <value lang="it">Caricamento logo negozio avvenuto con successo..</value>
+    </property>
+    <property key="EbayStorePartyWithoutRoleEbayAccount">
+        <value lang="en">Party ${partyId} no roleTypeId EBAY_ACCOUNT for export categories to ebay store.</value>
+        <value lang="it">Soggetto ${partyId} non ha il ruolo EBAY_ACCOUNT per esportaor export categories to ebay store.</value>
+    </property>
+    <property key="EbayStoreProblemConnectingToEbaySite">
+        <value lang="en">Problems to connect with eBay site message: </value>
+        <value lang="it">Problema durante la connesione con il sito eBay messaggio: </value>
+    </property>
+    <property key="EbayStoreRequiredContactStatusSetting">
+        <value lang="en">Required contactStatus setting.</value>
+        <value lang="it">Richiesto impostazioni stato contatto.</value>
+    </property>
+    <property key="EbayStoreRequiredProductStoreId">
+        <value lang="en">Required productStoreId for get api context to connect with eBay site.</value>
+        <value lang="it">Richiesto productStoreId per ottente il contesto api con il sito eBay.</value>
+    </property>
+    <property key="EbayStoreRequiredUserIdAndItemId">
+        <value lang="en">Required userId and itemId.</value>
+        <value lang="it">Richiesto userId e itemId.</value>
+    </property>
+    <property key="EbayStoreRequiredUserIdAndItemIdAndProductStoreIdAndOfferIdAndContactStatus">
+        <value lang="en">Required userId, itemId, productStoreId, OfferId and contactStatus.</value>
+        <value lang="it">Richiesto userId, itemId, productStoreId, OfferId e contactStatus.</value>
+    </property>
+    <property key="EbayStoreRequiredShippingAddressParameter">
+        <value lang="en">Required shippingAddress parameter.</value>
+        <value lang="it">Richiesto parametro indirizzo di spedizione.</value>
+    </property>
+    <property key="EbayStoreRootCategoryNotFound">
+        <value lang="en">Not found product Category type EBAY_ROOT in catalog ${prodCatalogId}</value>
+        <value lang="it">Tipo categoria EBAY_ROOT non trovata nel catalogo ${prodCatalogId}</value>
+    </property>
+    <property key="EbayStoreSaveSuccess">
+        <value lang="en">Save ebay setting success.</value>
+        <value lang="th">บันทึกข้อมูลคลังสินค้าอีเบย์เรียบร้อย</value>
+    </property>
+    <property key="EbayStoreSetCatalogIdAndProductStoreId">
+        <value lang="en">Please set catalogId and  productStoreId.</value>
+        <value lang="it">Per favore impostare il catalogId e il productStoreId.</value>
+    </property>
+    <property key="EbayStoreStoreName">
+        <value lang="en">Store Name</value>
+        <value lang="th">ชื่อร้านค้า</value>
+    </property>
+    <property key="EbayStoreStoreDesc">
+        <value lang="en">Store Description</value>
+        <value lang="th">รายละเอียดร้านค้า</value>
+    </property>
+    <property key="EbayStoreStoreURL">
+        <value lang="en">Store URL</value>
+        <value lang="th">URL</value>
+    </property>
+    <property key="EbayStoreStoreLogoURL">
+        <value lang="en">Logo URL</value>
+        <value lang="th">โลโก url</value>
+    </property>
+    <property key="EbayStoreStoreAdvancedTheme">
+        <value lang="en">Store Advanced Theme</value>
+        <value lang="th">Theme สำเร็จรูป</value>
+    </property>
+    <property key="EbayStoreStoreAdvancedThemeColor">
+        <value lang="en">Store Advanced Theme Color</value>
+        <value lang="th">เลือกสีของ Theme</value>
+    </property>
+    <property key="EbayStoreStoreBasicTheme">
+        <value lang="en">Store Basic Theme</value>
+        <value lang="th">ธีมแบบธรรมดา</value>
+    </property>
+    <property key="EbayStoreStoreColorTheme">
+        <value lang="en">Change Color</value>
+        <value lang="th">เปลี่ยนสี</value>
+    </property>
+    <property key="EbayStoreStorePrimaryColor">
+        <value lang="en">Primary color</value>
+        <value lang="th">สีหลัก</value>
+    </property>
+    <property key="EbayStoreStoreSecondColor">
+        <value lang="en">Secondary color</value>
+        <value lang="th">สีรอง</value>
+    </property>
+    <property key="EbayStoreStoreSelectTransaction">
+        <value lang="en">Import with single transaction</value>
+    </property>
+    <property key="EbayStoreStoreSelectOrder">
+        <value lang="en">Import with order</value>
+    </property>
+    <property key="EbayStoreStoreAccentColor">
+        <value lang="en">Accent color</value>
+        <value lang="th">Accent color</value>
+    </property>
+    <property key="EbayStoreStoreChangeFont">
+        <value lang="en">Change Fonts</value>
+        <value lang="th">เปลี่ยนตัวอักษร</value>
+    </property>
+    <property key="EbayStoreStoreSectionTitle">
+        <value lang="en">Section title</value>
+        <value lang="th">ส่วนของ title</value>
+    </property>
+    <property key="EbayStoreStoreHeaderDisplay">
+        <value lang="en">Store Header Display</value>
+        <value lang="th">Store header</value>
+    </property>
+    <property key="EbayStoreStoreHeaderStyle">
+        <value lang="en">Store Header Style</value>
+        <value lang="th">Store header Style</value>
+    </property>
+    <property key="EbayStoreStoreItemListDesplay">
+        <value lang="en">Store Item List Display</value>
+        <value lang="th"></value>
+    </property>
+    <property key="EbayStoreStoreItemSortOrder">
+        <value lang="en">Store Item Sort Order</value>
+        <value lang="th"></value>
+    </property>
+    <property key="EbayStoreStoreMerchDisplay">
+        <value lang="en">Store Merch Display</value>
+        <value lang="th"></value>
+    </property>
+    <property key="EbayStoreStoreSubscriptionLevel">
+        <value lang="en">Store Subscription Level</value>
+        <value lang="th"></value>
+    </property>
+    <property key="EbayStoreUpdateItemSuccessfully">
+        <value lang="en">Update Item Successfully.</value>
+        <value lang="it">Aggiornamento asta con successo.</value>
+    </property>
+    <property key="EbayStoreUnableToCreatePostalAddress">
+        <value lang="en">Unable to create postalAddress with input map: </value>
+        <value lang="it">Non è possibile create l'indirizzo postal con l'input: </value>
+    </property>
+    <property key="EbayPersonalInformation">
+        <value lang="en">Personal Information</value>
+    </property>
+    <property key="EbayAccountInformation">
+        <value lang="en">Account Information</value>
+    </property>
+    <property key="EbayUserPreference">
+        <value lang="en">User Preference</value>
+    </property>
+    <property key="EbayAutomationRelistItems">
+        <value lang="en">Automation Re-list Items</value>
+    </property>
+    <property key="EbayAutomatiionDisputeItems">
+        <value lang="en">Automation Dispute Items</value>
+    </property>
+    <property key="EbayBoughtLeaveFeedback">
+        <value lang="en">Bought</value>
+    </property>
+    <property key="EbayFeedback">
+        <value lang="en">Feedback</value>
+        <value lang="th">ผลตอบรับ</value>
+    </property>
+    <property key="EbayFeedbackStore">
+        <value lang="en">Feedback Store</value>
+    </property>
+    <property key="EbayLeaveFeedback">
+        <value lang="en">Leave Feedback</value>
+    </property>
+    <property key="EbaySold">
+        <value lang="en">Sold</value>
+    </property>
+    <property key="EbayBlockItemOutOfStock">
+        <value lang="en">Block items out of stock</value>
+    </property>
+    <!-- ebay inventory -->
+    <property key="EbayReserveProductFrom">
+        <value lang="en">Reserve Product From</value>
+    </property>
+    <property key="EbayReserveProductInventory">
+        <value lang="en">Reserve Product Inventory</value>
+    </property>
+    <property key="EbayUpdateInventory">
+        <value lang="en">Update To Ebay Inventory</value>
+    </property>
+    <property key="EbayUpdateInventoryStatus">
+        <value lang="en">Update Inventory Status</value>
+    </property>
+    <property key="FormFieldTitle_buyItNowPrice">
+        <value lang="en">Buy It Now price</value>
+        <value lang="th">ราคาสุทธิ</value>
+    </property>
+    <property key="FormFieldTitle_webSiteUrl">
+        <value lang="en">Website Url</value>
+    </property>
+    <property key="eBayOnlineAuction">
+        <value lang="en">Online Auction</value>
+    </property>
+    <property key="eBayFixedPrice">
+        <value lang="en">Fixed Price</value>
+    </property>
+    <property key="EbayStoreOpenUnpaidItemDispute">
+        <value lang="en">Open unpaid item dispute</value>
+    </property>
+    <property key="requireEbayInventory">
+        <value lang="en">Require eBay Inventory</value>
+    </property>
+    <!-- Selling Manager preferences -->
+    <property key="EbayAcceptTheBestOffer1">
+        <value lang="en">use this percent value to accept the Best Offer if it is greater or equal</value>
+    </property>
+    <property key="EbayAcceptTheBestOffer2">
+        <value lang="en">% of the above price.</value>
+    </property>
+    <property key="EbayActive">
+        <value lang="en">Active</value>
+    </property>
+    <property key="EbayAddSecondChanceOffer">
+        <value lang="en">Add Second Chance Offer</value>
+    </property>
+    <property key="EbayAfter">
+        <value lang="en">After</value>
+    </property>
+    <property key="EbayAutoBestOfferSetting">
+        <value lang="en">Best Offer (Buy-It-Now Only)</value>
+    </property>
+    <property key="EbayAutomationDispute">
+        <value lang="en">Automation Dispute</value>
+    </property>
+    <property key="EbayAutoPaymentReceviedEmail">
+        <value lang="en">Automatically send email when payment has been received</value>
+    </property>
+    <property key="EbayAutoRelistingItems">
+        <value lang="en">Auto Relisting Items</value>
+    </property>
+    <property key="EbayAutoRelistingItemsDescription">
+        <value lang="en">Auto Relisting Items when they are end item.</value>
+    </property>
+    <property key="EbayAutoSendItemDispatchEmail">
+        <value lang="en">Automatic send item dispatched notification email</value>
+    </property>
+    <property key="EbayAutoSendWinBuyerEmail">
+        <value lang="en">Automatic send notification email to winning buyer on auction items</value>
+    </property>
+    <property key="EbayBasedOn">
+        <value lang="en">Best offer based on Price.</value>
+    </property>
+    <property key="EbayChangeCategory">
+        <value lang="en">Change</value>
+    </property>
+    <property key="EbayCombineOrderSetting">
+        <value lang="en">Combine Orders Setting</value>
+    </property>
+    <property key="EbayContinueListing">
+        <value lang="en">Countinue</value>
+    </property>
+    <property key="EbayDisputeCheckoutNotComplete">
+        <value lang="en">Create Dispute if checkout has not been completed</value>
+    </property>
+    <property key="EbayDisputeNotPay">
+        <value lang="en">Create Dispute if checkout has been completed but no payment has been received</value>
+    </property>
+    <property key="EbayEditEmailTemplate">
+        <value lang="en">Edit Email Template</value>
+    </property>
+    <property key="EbayErrorMessageList">
+        <value lang="en">Error Messages List</value>
+    </property>
+    <property key="EbayEvaluateOn">
+        <value lang="en">Automatically evaluate Best Offers</value>
+    </property>
+    <property key="EbayExplanation">
+        <value lang="en">Explanation</value>
+    </property>
+    <property key="EbayIgnoreTheOffer">
+        <value lang="en">Ignore the offer if the buyer included any message.</value>
+    </property>
+    <property key="EbayIncludeMyDefaultCrossPromotionInThisEmail">
+        <value lang="en">Include my default cross-promotion in this email</value>
+    </property>
+    <property key="EbayIncludePayNowButtonAndAcceptPaymentMethods">
+        <value lang="en">Include the Pay Now button and accepted payment methods</value>
+    </property>
+    <property key="EbayIsAutoPositiveFeedback">
+        <value lang="en">Automatically leave the positive feedback</value>
+    </property>
+    <property key="EbayIsAutoFeedbackReminder">
+        <value lang="en">Automatically send a Feedback Reminder email</value>
+    </property>
+    <property key="EbayIsAutoFeedbackReminderTooltip">
+        <value lang="en">Automatically send a Feedback Reminder email if feedback has not been received</value>
+    </property>
+    <property key="EbayIsAutoSendEmail">
+        <value lang="en">Automatically send email</value>
+    </property>
+    <property key="EbayIsSendCopyEmailTooltip">
+        <value lang="en">How many days after shipping you want this email sent?</value>
+    </property>
+    <property key="EbayIsSendCopyEmailToSeller">
+        <value lang="en">Copy and Send to Seller</value>
+    </property>
+    <property key="EbayListOrderImported">
+        <value lang="en">List Orders Imported</value>
+    </property>
+    <property key="EbayNoOrderImported">
+        <value lang="en">No orders imported found</value>
+    </property>
+    <property key="EbayOpenListings">
+        <value lang="en">Open Listings</value>
+    </property>
+    <property key="EbayReason">
+        <value lang="en">Reason</value>
+    </property>
+    <property key="EbayRejectGreaterRate1">
+        <value lang="en">Reject the offer if it is greater or equal to this percent value.</value>
+    </property>
+    <property key="EbayRejectGreaterRate2">
+        <value lang="en">Reject the offer if it is less than this percent value.</value>
+    </property>
+    <property key="EbayRejectGreaterRate3">
+        <value lang="en">Message:</value>
+    </property>
+    <property key="EbayRejectLessRate1">
+        <value lang="en">Reject the offer if it is less than this percent value.</value>
+    </property>
+    <property key="EbayRejectLessRate2">
+        <value lang="en">Message:</value>
+    </property>
+    <property key="EbayRejectTheOffer">
+        <value lang="en">Reject the offer if it is more than the inventory item's Buy-It-Now Price.</value>
+    </property>
+    <property key="EbaySet">
+        <value lang="en">Set</value>
+    </property>
+    <property key="EbaySituations">
+        <value lang="en">Situations</value>
+    </property>
+    <property key="EbayStoreCategory">
+        <value lang="en">eBay Store Category</value>
+    </property>
+    <property key="EbayTxtAutoPositiveFeedbackBuyer">
+        <value lang="en">Automated Positive Feedback for Buyers</value>
+    </property>
+    <property key="EbayTxtPaymentReceive">
+        <value lang="en">Buyer has paid for this item.</value>
+    </property>
+    <property key="EbayTxtPaymentReceiveAndPositive">
+        <value lang="en">Buyer has paid for this item and left me positive feedback. </value>
+    </property>
+    <property key="EbayWaitingToShipping">
+        <value lang="en">Waiting to shipping</value>
+    </property>
+    <property key="unsold">
+        <value lang="en">unsold</value>
+    </property>
+</resource>

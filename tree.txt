@@ -1,143 +1,276 @@
--Xdebug -Xnoagent -Xms512m -Xmx512m
 [INFO] Scanning for projects...
 [INFO] Searching repository for plugin with prefix: 'dependency'.
 [INFO] ------------------------------------------------------------------------
 [INFO] Building works-converter
 [INFO]    task-segment: [dependency:tree]
 [INFO] ------------------------------------------------------------------------
+[INFO] snapshot org.works:works-common:1.0-SNAPSHOT: checking for updates from nightlabs
+[INFO] snapshot org.works:works-common:1.0-SNAPSHOT: checking for updates from snapshots.jboss.org
+[INFO] snapshot org.works:works-common:1.0-SNAPSHOT: checking for updates from repository.jboss.org
+[WARNING] repository metadata for: 'snapshot org.works:works-common:1.0-SNAPSHOT' could not be retrieved from repository: repository.jboss.org due to an error: Authorization failed: Access denied to: http://repository.jboss.org/maven2/org/works/works-common/1.0-SNAPSHOT/maven-metadata.xml
+[INFO] Repository 'repository.jboss.org' will be blacklisted
+[INFO] snapshot org.works:works-extenal:1.0-SNAPSHOT: checking for updates from nightlabs
+[INFO] snapshot org.works:works-extenal:1.0-SNAPSHOT: checking for updates from snapshots.jboss.org
+[INFO] snapshot org.works:works-extenal:1.0-SNAPSHOT: checking for updates from bht-knabe-repository
+[INFO] snapshot org.works:works-extenal:1.0-SNAPSHOT: checking for updates from codehaus
+[INFO] artifact org.springframework:spring-beans: checking for updates from nightlabs
+[INFO] artifact org.springframework:spring-beans: checking for updates from snapshots.jboss.org
+[INFO] artifact org.springframework:spring-beans: checking for updates from bht-knabe-repository
+[INFO] artifact org.springframework:spring-beans: checking for updates from codehaus
+[INFO] artifact org.springframework:spring-beans: checking for updates from spring-libs-release
+[INFO] artifact org.springframework:spring-beans: checking for updates from central
+[INFO] snapshot org.springframework:spring-beans:4.0.0.BUILD-SNAPSHOT: checking for updates from nightlabs
+[INFO] snapshot org.springframework:spring-beans:4.0.0.BUILD-SNAPSHOT: checking for updates from snapshots.jboss.org
+[INFO] snapshot org.springframework:spring-beans:4.0.0.BUILD-SNAPSHOT: checking for updates from bht-knabe-repository
+[INFO] snapshot org.springframework:spring-beans:4.0.0.BUILD-SNAPSHOT: checking for updates from codehaus
+Downloading: http://dev.nightlabs.org/maven-repository/repo/org/springframework/spring-beans/4.0.0.BUILD-SNAPSHOT/spring-beans-4.0.0.BUILD-20130904.213929-243.pom
+1/1K1K downloaded  (spring-beans-4.0.0.BUILD-20130904.213929-243.pom)
+[INFO] artifact org.springframework:spring-orm: checking for updates from nightlabs
+[INFO] artifact org.springframework:spring-orm: checking for updates from snapshots.jboss.org
+[INFO] artifact org.springframework:spring-orm: checking for updates from bht-knabe-repository
+[INFO] artifact org.springframework:spring-orm: checking for updates from codehaus
+[INFO] artifact org.springframework:spring-orm: checking for updates from central
+[INFO] snapshot org.springframework:spring-orm:4.0.0.BUILD-SNAPSHOT: checking for updates from nightlabs
+[INFO] snapshot org.springframework:spring-orm:4.0.0.BUILD-SNAPSHOT: checking for updates from snapshots.jboss.org
+[INFO] snapshot org.springframework:spring-orm:4.0.0.BUILD-SNAPSHOT: checking for updates from bht-knabe-repository
+[INFO] snapshot org.springframework:spring-orm:4.0.0.BUILD-SNAPSHOT: checking for updates from codehaus
+Downloading: http://dev.nightlabs.org/maven-repository/repo/org/springframework/spring-orm/4.0.0.BUILD-SNAPSHOT/spring-orm-4.0.0.BUILD-20130904.213929-242.pom
+3/5K5/5K5K downloaded  (spring-orm-4.0.0.BUILD-20130904.213929-242.pom)
+[INFO] artifact org.springframework:spring-tx: checking for updates from nightlabs
+[INFO] artifact org.springframework:spring-tx: checking for updates from snapshots.jboss.org
+[INFO] artifact org.springframework:spring-tx: checking for updates from bht-knabe-repository
+[INFO] artifact org.springframework:spring-tx: checking for updates from codehaus
+[INFO] artifact org.springframework:spring-tx: checking for updates from central
+[INFO] snapshot org.springframework:spring-tx:4.0.0.BUILD-SNAPSHOT: checking for updates from nightlabs
+[INFO] snapshot org.springframework:spring-tx:4.0.0.BUILD-SNAPSHOT: checking for updates from snapshots.jboss.org
+[INFO] snapshot org.springframework:spring-tx:4.0.0.BUILD-SNAPSHOT: checking for updates from bht-knabe-repository
+[INFO] snapshot org.springframework:spring-tx:4.0.0.BUILD-SNAPSHOT: checking for updates from codehaus
+Downloading: http://dev.nightlabs.org/maven-repository/repo/org/springframework/spring-tx/4.0.0.BUILD-SNAPSHOT/spring-tx-4.0.0.BUILD-20130904.213929-242.pom
+0/3K2/3K3/3K3K downloaded  (spring-tx-4.0.0.BUILD-20130904.213929-242.pom)
+[INFO] artifact org.springframework:spring-core: checking for updates from nightlabs
+[INFO] artifact org.springframework:spring-core: checking for updates from snapshots.jboss.org
+[INFO] artifact org.springframework:spring-core: checking for updates from bht-knabe-repository
+[INFO] artifact org.springframework:spring-core: checking for updates from codehaus
+[INFO] artifact org.springframework:spring-core: checking for updates from central
+[INFO] snapshot org.springframework:spring-core:4.0.0.BUILD-SNAPSHOT: checking for updates from nightlabs
+[INFO] snapshot org.springframework:spring-core:4.0.0.BUILD-SNAPSHOT: checking for updates from snapshots.jboss.org
+[INFO] snapshot org.springframework:spring-core:4.0.0.BUILD-SNAPSHOT: checking for updates from bht-knabe-repository
+[INFO] snapshot org.springframework:spring-core:4.0.0.BUILD-SNAPSHOT: checking for updates from codehaus
+Downloading: http://dev.nightlabs.org/maven-repository/repo/org/springframework/spring-core/4.0.0.BUILD-SNAPSHOT/spring-core-4.0.0.BUILD-20130904.213929-242.pom
+2/2K2K downloaded  (spring-core-4.0.0.BUILD-20130904.213929-242.pom)
+[INFO] artifact org.springframework:spring-expression: checking for updates from nightlabs
+[INFO] artifact org.springframework:spring-expression: checking for updates from snapshots.jboss.org
+[INFO] artifact org.springframework:spring-expression: checking for updates from bht-knabe-repository
+[INFO] artifact org.springframework:spring-expression: checking for updates from codehaus
+[INFO] artifact org.springframework:spring-expression: checking for updates from central
+[INFO] snapshot org.springframework:spring-expression:4.0.0.BUILD-SNAPSHOT: checking for updates from nightlabs
+[INFO] snapshot org.springframework:spring-expression:4.0.0.BUILD-SNAPSHOT: checking for updates from snapshots.jboss.org
+[INFO] snapshot org.springframework:spring-expression:4.0.0.BUILD-SNAPSHOT: checking for updates from bht-knabe-repository
+[INFO] snapshot org.springframework:spring-expression:4.0.0.BUILD-SNAPSHOT: checking for updates from codehaus
+Downloading: http://dev.nightlabs.org/maven-repository/repo/org/springframework/spring-expression/4.0.0.BUILD-SNAPSHOT/spring-expression-4.0.0.BUILD-20130904.213929-244.pom
+1/1K1K downloaded  (spring-expression-4.0.0.BUILD-20130904.213929-244.pom)
+Downloading: http://dev.nightlabs.org/maven-repository/repo/com/sun/xml/bind/jaxb-api/2.2.7/jaxb-api-2.2.7.pom
+[INFO] Unable to find resource 'com.sun.xml.bind:jaxb-api:pom:2.2.7' in repository nightlabs (http://dev.nightlabs.org/maven-repository/repo)
+Downloading: http://snapshots.jboss.org/maven2/com/sun/xml/bind/jaxb-api/2.2.7/jaxb-api-2.2.7.pom
+[INFO] Unable to find resource 'com.sun.xml.bind:jaxb-api:pom:2.2.7' in repository snapshots.jboss.org (http://snapshots.jboss.org/maven2)
+Downloading: http://public.beuth-hochschule.de/~knabe/mvn-repo//com/sun/xml/bind/jaxb-api/2.2.7/jaxb-api-2.2.7.pom
+[WARNING] Unable to get resource 'com.sun.xml.bind:jaxb-api:pom:2.2.7' from repository bht-knabe-repository (http://public.beuth-hochschule.de/~knabe/mvn-repo/): Authorization failed: Access denied to: http://public.beuth-hochschule.de/~knabe/mvn-repo/com/sun/xml/bind/jaxb-api/2.2.7/jaxb-api-2.2.7.pom
+Downloading: http://repository.codehaus.org/com/sun/xml/bind/jaxb-api/2.2.7/jaxb-api-2.2.7.pom
+[INFO] Unable to find resource 'com.sun.xml.bind:jaxb-api:pom:2.2.7' in repository codehaus (http://repository.codehaus.org)
+Downloading: http://repo1.maven.org/maven2/com/sun/xml/bind/jaxb-api/2.2.7/jaxb-api-2.2.7.pom
+[INFO] Unable to find resource 'com.sun.xml.bind:jaxb-api:pom:2.2.7' in repository central (http://repo1.maven.org/maven2)
+Downloading: http://dev.nightlabs.org/maven-repository/repo/commons-email/commons-email/1.2/commons-email-1.2.pom
+[INFO] Unable to find resource 'commons-email:commons-email:pom:1.2' in repository nightlabs (http://dev.nightlabs.org/maven-repository/repo)
+Downloading: http://snapshots.jboss.org/maven2/commons-email/commons-email/1.2/commons-email-1.2.pom
+[INFO] Unable to find resource 'commons-email:commons-email:pom:1.2' in repository snapshots.jboss.org (http://snapshots.jboss.org/maven2)
+Downloading: http://public.beuth-hochschule.de/~knabe/mvn-repo//commons-email/commons-email/1.2/commons-email-1.2.pom
+[INFO] Unable to find resource 'commons-email:commons-email:pom:1.2' in repository bht-knabe-repository (http://public.beuth-hochschule.de/~knabe/mvn-repo/)
+Downloading: http://repository.codehaus.org/commons-email/commons-email/1.2/commons-email-1.2.pom
+[INFO] Unable to find resource 'commons-email:commons-email:pom:1.2' in repository codehaus (http://repository.codehaus.org)
+Downloading: http://repo1.maven.org/maven2/commons-email/commons-email/1.2/commons-email-1.2.pom
+[INFO] Unable to find resource 'commons-email:commons-email:pom:1.2' in repository central (http://repo1.maven.org/maven2)
+Downloading: http://dev.nightlabs.org/maven-repository/repo/commons-finder/commons-finder/1.0/commons-finder-1.0.pom
+[INFO] Unable to find resource 'commons-finder:commons-finder:pom:1.0' in repository nightlabs (http://dev.nightlabs.org/maven-repository/repo)
+Downloading: http://snapshots.jboss.org/maven2/commons-finder/commons-finder/1.0/commons-finder-1.0.pom
+[INFO] Unable to find resource 'commons-finder:commons-finder:pom:1.0' in repository snapshots.jboss.org (http://snapshots.jboss.org/maven2)
+Downloading: http://public.beuth-hochschule.de/~knabe/mvn-repo//commons-finder/commons-finder/1.0/commons-finder-1.0.pom
+[INFO] Unable to find resource 'commons-finder:commons-finder:pom:1.0' in repository bht-knabe-repository (http://public.beuth-hochschule.de/~knabe/mvn-repo/)
+Downloading: http://repository.codehaus.org/commons-finder/commons-finder/1.0/commons-finder-1.0.pom
+[INFO] Unable to find resource 'commons-finder:commons-finder:pom:1.0' in repository codehaus (http://repository.codehaus.org)
+Downloading: http://repo1.maven.org/maven2/commons-finder/commons-finder/1.0/commons-finder-1.0.pom
+[INFO] Unable to find resource 'commons-finder:commons-finder:pom:1.0' in repository central (http://repo1.maven.org/maven2)
+Downloading: http://dev.nightlabs.org/maven-repository/repo/commons-jexl/commons-jexl/2.1.1/commons-jexl-2.1.1.pom
+[INFO] Unable to find resource 'commons-jexl:commons-jexl:pom:2.1.1' in repository nightlabs (http://dev.nightlabs.org/maven-repository/repo)
+Downloading: http://snapshots.jboss.org/maven2/commons-jexl/commons-jexl/2.1.1/commons-jexl-2.1.1.pom
+[INFO] Unable to find resource 'commons-jexl:commons-jexl:pom:2.1.1' in repository snapshots.jboss.org (http://snapshots.jboss.org/maven2)
+Downloading: http://public.beuth-hochschule.de/~knabe/mvn-repo//commons-jexl/commons-jexl/2.1.1/commons-jexl-2.1.1.pom
+[INFO] Unable to find resource 'commons-jexl:commons-jexl:pom:2.1.1' in repository bht-knabe-repository (http://public.beuth-hochschule.de/~knabe/mvn-repo/)
+Downloading: http://repository.codehaus.org/commons-jexl/commons-jexl/2.1.1/commons-jexl-2.1.1.pom
+[INFO] Unable to find resource 'commons-jexl:commons-jexl:pom:2.1.1' in repository codehaus (http://repository.codehaus.org)
+Downloading: http://repo1.maven.org/maven2/commons-jexl/commons-jexl/2.1.1/commons-jexl-2.1.1.pom
+[INFO] Unable to find resource 'commons-jexl:commons-jexl:pom:2.1.1' in repository central (http://repo1.maven.org/maven2)
 [INFO] [dependency:tree {execution: default-cli}]
 [INFO] org.works:works-converter:jar:1.0-SNAPSHOT
-[INFO] \- org.works:works-common:pom:1.0-SNAPSHOT:compile
-[INFO]    +- org.springframework:spring-oxm:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-orm:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-jms:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-instrument:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-expression:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-core:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-context-support:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-context:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-beans:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-aspects:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-asm:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-aop:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-tx:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework:spring-jdbc:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework.data:spring-data-jpa:jar:1.1.0.RELEASE:compile
-[INFO]    +- org.springframework.data:spring-data-commons-core:jar:1.2.1.RELEASE:compile
-[INFO]    +- org.springframework.data:spring-data-mongodb:jar:1.0.1.RELEASE:compile
-[INFO]    +- org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:1.0.1.Final:compile
-[INFO]    +- org.hibernate:hibernate-entitymanager:jar:4.1.0.Final:compile
-[INFO]    |  +- org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:jar:1.0.0.Final:compile
-[INFO]    |  +- dom4j:dom4j:jar:1.6.1:compile
-[INFO]    |  +- org.jboss.logging:jboss-logging:jar:3.1.0.CR2:compile
-[INFO]    |  \- org.javassist:javassist:jar:3.15.0-GA:compile
-[INFO]    +- org.springframework.security:spring-security-core:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework.security:spring-security-web:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework.security:spring-security-config:jar:3.1.3.RELEASE:compile
-[INFO]    +- org.springframework.security:spring-security-acl:jar:3.1.3.RELEASE:compile
-[INFO]    +- junit:junit:jar:4.10:compile
-[INFO]    |  \- org.hamcrest:hamcrest-core:jar:1.1:compile
-[INFO]    +- aopalliance:aopalliance:jar:1.0:compile
-[INFO]    +- org.springmodules:spring-modules-validation:jar:0.8:compile
-[INFO]    |  \- rhino:js:jar:1.6R2:compile
-[INFO]    +- org.jasypt:jasypt:jar:1.9.0:compile
-[INFO]    +- org.jasypt:jasypt-spring31:jar:1.9.0:compile
-[INFO]    +- org.jasypt:jasypt-hibernate3:jar:1.9.0:compile
-[INFO]    +- org.jasypt:jasypt-springsecurity3:jar:1.9.0:compile
-[INFO]    +- org.slf4j:slf4j-api:jar:1.6.4:compile
-[INFO]    +- org.slf4j:jcl-over-slf4j:jar:1.6.4:compile
-[INFO]    +- org.slf4j:slf4j-log4j12:jar:1.6.4:compile
-[INFO]    +- log4j:log4j:jar:1.2.16:compile
-[INFO]    +- postgresql:postgresql:jar:9.1-901.jdbc4:compile
-[INFO]    +- c3p0:c3p0:jar:0.9.1.2:compile
-[INFO]    +- p6spy:p6spy:jar:1.3:compile
-[INFO]    +- org.aspectj:aspectjrt:jar:1.6.8:compile
-[INFO]    +- org.aspectj:aspectjweaver:jar:1.6.8:compile
-[INFO]    +- cglib:cglib:jar:2.2:compile
-[INFO]    +- javax.mail:mail:jar:1.4.3:compile
-[INFO]    +- javax.activation:activation:jar:1.1.1:compile
-[INFO]    +- org.hibernate:hibernate-core:jar:4.1.0.Final:compile
-[INFO]    |  \- antlr:antlr:jar:2.7.7:compile
-[INFO]    +- javax.persistence:persistence-api:jar:1.0:compile
-[INFO]    +- org.hibernate.common:hibernate-commons-annotations:jar:4.0.1.Final:compile
-[INFO]    +- org.hibernate:hibernate-validator:jar:4.2.0.Final:compile
-[INFO]    +- org.hibernate:hibernate-envers:jar:4.1.0.Final:compile
-[INFO]    +- org.hibernate:hibernate-ehcache:jar:4.1.0.Final:compile
-[INFO]    +- org.mongodb:mongo-java-driver:jar:2.9.1:compile
-[INFO]    +- net.sf.ehcache:ehcache-core:jar:2.4.6:compile
-[INFO]    +- net.sf.oval:oval:jar:1.80:compile
-[INFO]    +- javassist:javassist:jar:3.11.0.GA:compile
-[INFO]    +- org.apache.poi:poi:jar:3.7:compile
-[INFO]    +- org.apache.poi:poi-scratchpad:jar:3.7:compile
-[INFO]    +- org.apache.poi:poi-ooxml:jar:3.7:compile
-[INFO]    |  \- org.apache.poi:poi-ooxml-schemas:jar:3.7:compile
-[INFO]    |     \- org.apache.geronimo.specs:geronimo-stax-api_1.0_spec:jar:1.0:compile
-[INFO]    +- net.sourceforge.jexcelapi:jxl:jar:2.6.12:compile
-[INFO]    +- org.apache.commons:commons-exec:jar:1.0.1:compile
-[INFO]    +- commons-io:commons-io:jar:1.4:compile
-[INFO]    +- commons-logging:commons-logging:jar:1.1:compile
-[INFO]    +- commons-validator:commons-validator:jar:1.3.0:compile
-[INFO]    +- commons-digester:commons-digester:jar:1.7:compile
-[INFO]    +- commons-beanutils:commons-beanutils:jar:1.8.3:compile
-[INFO]    +- commons-lang:commons-lang:jar:2.5:compile
-[INFO]    +- commons-collections:commons-collections:jar:3.2.1:compile
-[INFO]    +- commons-codec:commons-codec:jar:1.4:compile
-[INFO]    +- commons-fileupload:commons-fileupload:jar:1.2.1:compile
-[INFO]    +- commons-email:commons-email:jar:1.2:compile
-[INFO]    +- commons-finder:commons-finder:jar:1.0:compile
-[INFO]    +- commons-el:commons-el:jar:1.0:compile
-[INFO]    +- commons-chain:commons-chain:jar:1.2:compile
-[INFO]    +- commons-compress:commons-compress:jar:1.1:compile
-[INFO]    +- commons-jexl:commons-jexl:jar:2.0.1:compile
-[INFO]    +- commons-jxpath:commons-jxpath:jar:1.3:compile
-[INFO]    +- commons-management:commons-management:jar:1.0:compile
-[INFO]    +- commons-net:commons-net:jar:3.0.1:compile
-[INFO]    +- commons-dbcp:commons-dbcp:jar:1.3:compile
-[INFO]    +- commons-pool:commons-pool:jar:1.5.4:compile
-[INFO]    +- commons-httpclient:commons-httpclient:jar:3.1:compile
-[INFO]    +- commons-cli:commons-cli:jar:1.2:compile
-[INFO]    +- com.google.collections:google-collections:jar:1.0:compile
-[INFO]    +- com.google.guava:guava:jar:12.0:compile
-[INFO]    |  \- com.google.code.findbugs:jsr305:jar:1.3.9:compile
-[INFO]    +- org.apache.geronimo.specs:geronimo-jms_1.1_spec:jar:1.1:compile
-[INFO]    +- joda-time:joda-time:jar:1.6:compile
-[INFO]    +- org.apache.httpcomponents:httpclient:jar:4.0.1:compile
-[INFO]    |  \- org.apache.httpcomponents:httpcore:jar:4.0.1:compile
-[INFO]    +- net.jcip:jcip-annotations:jar:1.0:compile
-[INFO]    +- ognl:ognl:jar:3.0.4:compile
-[INFO]    +- org.apache.velocity:velocity:jar:1.6.4:compile
-[INFO]    |  \- oro:oro:jar:2.0.8:compile
-[INFO]    +- net.sf.dozer:dozer:jar:5.3.2:compile
-[INFO]    +- org.apache.xmlbeans:xmlbeans:jar:2.3.0:compile
-[INFO]    |  \- stax:stax-api:jar:1.0.1:compile
-[INFO]    +- asm:asm:jar:3.1:compile
-[INFO]    +- asm:asm-util:jar:3.1:compile
-[INFO]    |  \- asm:asm-tree:jar:3.1:compile
-[INFO]    +- org.igniterealtime.smack:smack:jar:3.2.1:compile
-[INFO]    +- org.igniterealtime.smack:smackx:jar:3.2.1:compile
-[INFO]    +- org.igniterealtime.smack:smackx-debug:jar:3.2.1:compile
-[INFO]    +- org.igniterealtime.smack:smackx-jingle:jar:3.2.1:compile
-[INFO]    +- javax.validation:validation-api:jar:1.0.0.GA:compile
-[INFO]    +- org.apache.james:apache-mailet:jar:2.4:compile
-[INFO]    +- org.apache.james:apache-mailet-base:jar:1.1:compile
-[INFO]    +- com.thoughtworks.xstream:xstream:jar:1.3:compile
-[INFO]    |  \- xpp3:xpp3_min:jar:1.1.4c:compile
-[INFO]    +- org.jamon:jamon-runtime:jar:2.4.0:compile
-[INFO]    +- org.perf4j:perf4j:jar:0.9.16:compile
-[INFO]    +- javax.inject:javax.inject:jar:1:compile
-[INFO]    +- javax.annotation:jsr250-api:jar:1.0:compile
-[INFO]    +- org.apache.ftpserver:ftplet-api:jar:1.0.6:compile
-[INFO]    +- org.apache.ftpserver:ftpserver-core:jar:1.0.6:compile
-[INFO]    +- org.apache.sshd:sshd-core:jar:0.8:compile
-[INFO]    +- org.apache.sshd:sshd-pam:jar:0.8:compile
-[INFO]    +- xml-apis:xml-apis:jar:1.3.04:compile
-[INFO]    \- xml-apis:xml-apis-ext:jar:1.3.04:compile
+[INFO] +- org.works:works-common:pom:1.0-SNAPSHOT:compile
+[INFO] |  +- org.works:works-extenal:jar:1.0-SNAPSHOT:compile
+[INFO] |  +- org.springframework:spring-oxm:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-orm:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-jms:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-instrument-tomcat:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-instrument:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-expression:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-core:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-context-support:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-context:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-beans:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-aspects:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-aop:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-tx:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-jdbc:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework:spring-test:jar:3.2.1.RELEASE:compile
+[INFO] |  +- org.springframework.data:spring-data-jpa:jar:1.1.0.RELEASE:compile
+[INFO] |  +- org.springframework.data:spring-data-commons-core:jar:1.2.1.RELEASE:compile
+[INFO] |  +- org.springframework.data:spring-data-mongodb:jar:1.0.1.RELEASE:compile
+[INFO] |  |  \- org.mongodb:mongo-java-driver:jar:2.7.1:compile
+[INFO] |  +- org.springframework:spring-web:jar:3.2.1.RELEASE:compile
+[INFO] |  +- javax.transaction:jta:jar:1.1:compile
+[INFO] |  +- org.springframework.security:spring-security-core:jar:3.1.0.RELEASE:compile
+[INFO] |  |  \- org.springframework.security:spring-security-crypto:jar:3.1.0.RELEASE:compile
+[INFO] |  +- org.springframework.security:spring-security-web:jar:3.1.0.RELEASE:compile
+[INFO] |  +- org.springframework.security:spring-security-config:jar:3.1.0.RELEASE:compile
+[INFO] |  +- org.springframework.security:spring-security-ldap:jar:3.1.0.RELEASE:compile
+[INFO] |  |  \- org.springframework.ldap:spring-ldap-core:jar:1.3.1.RELEASE:compile
+[INFO] |  +- org.springframework.security:spring-security-acl:jar:3.1.0.RELEASE:compile
+[INFO] |  +- junit:junit:jar:4.8:compile
+[INFO] |  +- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  +- org.springmodules:spring-modules-validation:jar:0.8:compile
+[INFO] |  |  \- rhino:js:jar:1.6R2:compile
+[INFO] |  +- org.jasypt:jasypt:jar:1.9.0:compile
+[INFO] |  +- org.jasypt:jasypt-spring31:jar:1.9.0:compile
+[INFO] |  +- org.jasypt:jasypt-hibernate3:jar:1.9.0:compile
+[INFO] |  +- org.jasypt:jasypt-springsecurity3:jar:1.9.0:compile
+[INFO] |  +- org.slf4j:slf4j-api:jar:1.6.4:compile
+[INFO] |  +- org.slf4j:jcl-over-slf4j:jar:1.6.4:compile
+[INFO] |  +- org.slf4j:slf4j-log4j12:jar:1.6.4:compile
+[INFO] |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  +- postgresql:postgresql:jar:9.1-901.jdbc4:compile
+[INFO] |  +- c3p0:c3p0:jar:0.9.1.2:compile
+[INFO] |  +- p6spy:p6spy:jar:1.3:compile
+[INFO] |  +- org.aspectj:aspectjrt:jar:1.6.8:compile
+[INFO] |  +- org.aspectj:aspectjweaver:jar:1.6.8:compile
+[INFO] |  +- cglib:cglib:jar:2.2:compile
+[INFO] |  +- javax.mail:mail:jar:1.4.3:compile
+[INFO] |  +- javax.activation:activation:jar:1.1.1:compile
+[INFO] |  +- dom4j:dom4j:jar:1.6.1:compile
+[INFO] |  +- org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:1.0.1.Final:compile
+[INFO] |  +- org.hibernate:hibernate-core:jar:4.1.0.Final:compile
+[INFO] |  |  \- org.javassist:javassist:jar:3.15.0-GA:compile
+[INFO] |  +- org.jboss.logging:jboss-logging:jar:3.1.0.CR2:compile
+[INFO] |  +- javax.persistence:persistence-api:jar:1.0:compile
+[INFO] |  +- org.hibernate.common:hibernate-commons-annotations:jar:4.0.1.Final:compile
+[INFO] |  +- org.hibernate:hibernate-validator:jar:4.2.0.Final:compile
+[INFO] |  +- org.hibernate:hibernate-entitymanager:jar:4.1.0.Final:compile
+[INFO] |  +- org.hibernate:hibernate-envers:jar:4.1.0.Final:compile
+[INFO] |  +- org.hibernate:hibernate-ehcache:jar:4.1.0.Final:compile
+[INFO] |  +- net.sf.ehcache:ehcache-core:jar:2.4.6:compile
+[INFO] |  +- net.sf.oval:oval:jar:1.80:compile
+[INFO] |  +- javassist:javassist:jar:3.11.0.GA:compile
+[INFO] |  +- org.apache.avalon.framework:avalon-framework-api:jar:4.3.1:compile
+[INFO] |  +- org.apache.avalon.framework:avalon-framework-impl:jar:4.3.1:compile
+[INFO] |  +- com.sun.xml.bind:jaxb-api:jar:2.2.7:compile
+[INFO] |  +- com.sun.xml.bind:jaxb-impl:jar:2.2.7:compile
+[INFO] |  |  +- com.sun.xml.bind:jaxb-core:jar:2.2.7:compile
+[INFO] |  |  |  +- javax.xml.bind:jaxb-api:jar:2.2.7:compile
+[INFO] |  |  |  \- com.sun.istack:istack-commons-runtime:jar:2.16:compile
+[INFO] |  |  \- com.sun.xml.fastinfoset:FastInfoset:jar:1.2.12:compile
+[INFO] |  |     \- javax.xml.bind:jsr173_api:jar:1.0:compile
+[INFO] |  +- commons-io:commons-io:jar:2.4:compile
+[INFO] |  +- commons-logging:commons-logging:jar:1.1:compile
+[INFO] |  +- commons-validator:commons-validator:jar:1.3.0:compile
+[INFO] |  +- commons-digester:commons-digester:jar:1.7:compile
+[INFO] |  +- commons-beanutils:commons-beanutils:jar:1.8.3:compile
+[INFO] |  +- org.apache.commons:commons-lang3:jar:3.1:compile
+[INFO] |  +- commons-collections:commons-collections:jar:3.2.1:compile
+[INFO] |  +- commons-codec:commons-codec:jar:1.4:compile
+[INFO] |  +- commons-fileupload:commons-fileupload:jar:1.2.1:compile
+[INFO] |  +- commons-email:commons-email:jar:1.2:compile
+[INFO] |  +- commons-finder:commons-finder:jar:1.0:compile
+[INFO] |  +- commons-el:commons-el:jar:1.0:compile
+[INFO] |  +- commons-configuration:commons-configuration:jar:1.9:compile
+[INFO] |  +- commons-jexl:commons-jexl:jar:2.1.1:compile
+[INFO] |  +- commons-jxpath:commons-jxpath:jar:1.3:compile
+[INFO] |  +- commons-net:commons-net:jar:3.0.1:compile
+[INFO] |  +- commons-pool:commons-pool:jar:1.5.4:compile
+[INFO] |  +- commons-httpclient:commons-httpclient:jar:3.1:compile
+[INFO] |  +- commons-dbutils:commons-dbutils:jar:1.2:compile
+[INFO] |  +- com.google.collections:google-collections:jar:1.0:compile
+[INFO] |  +- com.google.guava:guava:jar:12.0:compile
+[INFO] |  |  \- com.google.code.findbugs:jsr305:jar:1.3.9:compile
+[INFO] |  +- joda-time:joda-time:jar:2.2:compile
+[INFO] |  +- org.apache.httpcomponents:httpclient:jar:4.0.1:compile
+[INFO] |  |  \- org.apache.httpcomponents:httpcore:jar:4.0.1:compile
+[INFO] |  +- net.jcip:jcip-annotations:jar:1.0:compile
+[INFO] |  +- ognl:ognl:jar:3.0.4:compile
+[INFO] |  +- org.apache.velocity:velocity:jar:1.6.4:compile
+[INFO] |  |  \- oro:oro:jar:2.0.8:compile
+[INFO] |  +- net.sf.dozer:dozer:jar:5.3.2:compile
+[INFO] |  +- org.apache.xmlbeans:xmlbeans:jar:2.3.0:compile
+[INFO] |  |  \- stax:stax-api:jar:1.0.1:compile
+[INFO] |  +- asm:asm:jar:3.1:compile
+[INFO] |  +- asm:asm-util:jar:3.1:compile
+[INFO] |  |  \- asm:asm-tree:jar:3.1:compile
+[INFO] |  +- com.icegreen:greenmail:jar:1.3:compile
+[INFO] |  +- javax.validation:validation-api:jar:1.0.0.GA:compile
+[INFO] |  +- com.thoughtworks.xstream:xstream:jar:1.3:compile
+[INFO] |  +- org.jamon:jamon-runtime:jar:2.4.0:compile
+[INFO] |  +- org.perf4j:perf4j:jar:0.9.16:compile
+[INFO] |  +- javax.inject:javax.inject:jar:1:compile
+[INFO] |  +- javax.annotation:jsr250-api:jar:1.0:compile
+[INFO] |  +- xml-apis:xml-apis:jar:1.3.04:compile
+[INFO] |  +- xml-apis:xml-apis-ext:jar:1.3.04:compile
+[INFO] |  +- backport-util-concurrent:backport-util-concurrent:jar:3.1:compile
+[INFO] |  +- org.owasp.esapi:esapi:jar:2.0.1:compile
+[INFO] |  |  \- org.owasp.antisamy:antisamy:jar:1.4.3:compile
+[INFO] |  |     +- org.apache.xmlgraphics:batik-css:jar:1.7:compile
+[INFO] |  |     |  +- org.apache.xmlgraphics:batik-ext:jar:1.7:compile
+[INFO] |  |     |  \- org.apache.xmlgraphics:batik-util:jar:1.7:compile
+[INFO] |  |     \- net.sourceforge.nekohtml:nekohtml:jar:1.9.12:compile
+[INFO] |  +- org.activiti:activiti-cxf:jar:5.9:compile
+[INFO] |  +- org.activiti:activiti-spring:jar:5.9:compile
+[INFO] |  |  \- org.activiti:activiti-engine:jar:5.9:compile
+[INFO] |  |     +- org.apache.commons:commons-email:jar:1.2:compile
+[INFO] |  |     +- org.livetribe:livetribe-jsr223:jar:2.0.6:compile
+[INFO] |  |     \- org.mybatis:mybatis:jar:3.0.6:compile
+[INFO] |  +- org.codehaus.castor:castor-xml:jar:1.3.2:compile
+[INFO] |  +- org.codehaus.castor:castor-core:jar:1.3.2:compile
+[INFO] |  +- org.codehaus.castor:castor-codegen:jar:1.3.2:compile
+[INFO] |  +- org.codehaus.castor:castor-anttasks:jar:1.3.2:compile
+[INFO] |  |  \- org.codehaus.castor:castor-ddlgen:jar:1.3.2:compile
+[INFO] |  \- org.codehaus.castor:castor-xml-schema:jar:1.3.2:compile
+[INFO] +- org.milyn:milyn-smooks-core:jar:1.5.1:compile
+[INFO] |  +- org.milyn:milyn-commons:jar:1.5.1:compile
+[INFO] |  |  \- org.freemarker:freemarker:jar:2.3.15:compile
+[INFO] |  +- dtdparser:dtdparser:jar:1.21:compile
+[INFO] |  \- commons-lang:commons-lang:jar:2.4:compile
+[INFO] +- jaxen:jaxen:jar:1.1.1:compile
+[INFO] |  +- jdom:jdom:jar:1.0:compile
+[INFO] |  +- xerces:xercesImpl:jar:2.6.2:compile
+[INFO] |  \- xom:xom:jar:1.0:compile
+[INFO] |     +- xerces:xmlParserAPIs:jar:2.6.2:compile
+[INFO] |     +- xalan:xalan:jar:2.6.0:compile
+[INFO] |     \- com.ibm.icu:icu4j:jar:2.6.1:compile
+[INFO] +- org.milyn:milyn-smooks-csv:jar:1.5.1:compile
+[INFO] |  +- net.sf.opencsv:opencsv:jar:1.8:compile
+[INFO] |  +- org.milyn:milyn-smooks-flatfile:jar:1.5.1:compile
+[INFO] |  \- org.milyn:milyn-smooks-javabean:jar:1.5.1:compile
+[INFO] +- org.milyn:milyn-smooks-routing:jar:1.5.1:compile
+[INFO] \- org.milyn:milyn-smooks-templating:jar:1.5.1:compile
+[INFO]    +- antlr:stringtemplate:jar:2.2:compile
+[INFO]    \- antlr:antlr:jar:2.7.7:compile
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESSFUL
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 7 minutes 20 seconds
-[INFO] Finished at: Wed Dec 12 21:38:52 CST 2012
-[INFO] Final Memory: 30M/475M
+[INFO] Total time: 14 minutes 43 seconds
+[INFO] Finished at: Fri Sep 06 22:11:23 CST 2013
+[INFO] Final Memory: 36M/231M
 [INFO] ------------------------------------------------------------------------
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            [INFO] Unable to find resource 'commons-jexl:commons-jexl:pom:2.0.1' in repository mvnrepository (http://mvnrepository.com)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

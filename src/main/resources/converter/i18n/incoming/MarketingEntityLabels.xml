@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="ContactListType.description.ANNOUNCEMENT">
+        <value lang="en">Announcement</value>
+        <value lang="es">Anuncio</value>
+        <value lang="fr">Annonce</value>
+        <value lang="it">Annunci</value>
+        <value lang="nl">Aankondiging</value>
+        <value lang="pt_BR">Anúncio</value>
+        <value lang="ro">Anunturi</value>
+        <value lang="th">การประกาศ</value>
+        <value lang="zh">声明</value>
+        <value lang="zh_TW">聲明</value>
+    </property>
+    <property key="ContactListType.description.MARKETING">
+        <value lang="en">Marketing</value>
+        <value lang="es">Marketing</value>
+        <value lang="fr">Marketing</value>
+        <value lang="it">Vendite</value>
+        <value lang="nl">Marketing</value>
+        <value lang="pt_BR">Marketing</value>
+        <value lang="ro">Vanzari</value>
+        <value lang="th">การตลาด</value>
+        <value lang="zh">市场宣传</value>
+        <value lang="zh_TW">行銷</value>
+    </property>
+    <property key="ContactListType.description.NEWSLETTER">
+        <value lang="en">Newsletter</value>
+        <value lang="es">Carta de información</value>
+        <value lang="fr">Lettre d'information</value>
+        <value lang="it">Newsletter</value>
+        <value lang="nl">Nieuwsbrief</value>
+        <value lang="pt_BR">Mala direta</value>
+        <value lang="ro">Noutati</value>
+        <value lang="th">จดหมายข่าว</value>
+        <value lang="zh">新闻</value>
+        <value lang="zh_TW">新聞</value>
+    </property>
+    <property key="SegmentGroupType.description.MARKET_SEGMENT">
+        <value lang="en">Market Segment</value>
+        <value lang="es">Segmento de marketing</value>
+        <value lang="fr">Segment de marché</value>
+        <value lang="it">Segmento di Mercato</value>
+        <value lang="nl">Marktsegment</value>
+        <value lang="pt_BR">Segmento de marketing</value>
+        <value lang="ro">Segment de Piata</value>
+        <value lang="th">ส่วนของการตลาด</value>
+        <value lang="zh">市场分区</value>
+        <value lang="zh_TW">行銷分區</value>
+    </property>
+    <property key="SegmentGroupType.description.SALES_SEGMENT">
+        <value lang="en">Sales Segment</value>
+        <value lang="es">Segmento de ventas</value>
+        <value lang="fr">Segment de vente</value>
+        <value lang="it">Segmento di Vendita</value>
+        <value lang="nl">Salessegment</value>
+        <value lang="pt_BR">Segmento de vendas</value>
+        <value lang="ro">Segment de Vanzare</value>
+        <value lang="th">ส่วนของการขาย</value>
+        <value lang="zh">销售分区</value>
+        <value lang="zh_TW">銷售分區</value>
+    </property>
+    <property key="TrackingCodeType.description.ACCESS">
+        <value lang="en">Access Code</value>
+        <value lang="it">Codice di accesso</value>
+        <value lang="pt_BR">Código de acesso</value>
+        <value lang="zh">访问码</value>
+        <value lang="zh_TW">存取碼</value>
+    </property>
+    <property key="TrackingCodeType.description.EXTERNAL">
+        <value lang="en">External</value>
+        <value lang="es">Externo</value>
+        <value lang="fr">Externe</value>
+        <value lang="it">Esterno</value>
+        <value lang="nl">Extern</value>
+        <value lang="pt_BR">Externo</value>
+        <value lang="ro">Extern</value>
+        <value lang="th">ภายนอก</value>
+        <value lang="zh">外部</value>
+        <value lang="zh_TW">外部</value>
+    </property>
+    <property key="TrackingCodeType.description.INTERNAL">
+        <value lang="en">Internal</value>
+        <value lang="es">Interno</value>
+        <value lang="fr">Interne</value>
+        <value lang="it">Interno</value>
+        <value lang="nl">Intern</value>
+        <value lang="pt_BR">Interno</value>
+        <value lang="ro">Intern</value>
+        <value lang="th">ภายใน</value>
+        <value lang="zh">内部</value>
+        <value lang="zh_TW">內部</value>
+    </property>
+    <property key="TrackingCodeType.description.PARTNER_MGD">
+        <value lang="en">Partner Managed</value>
+        <value lang="es">Partner</value>
+        <value lang="fr">Géré par un tiers</value>
+        <value lang="it">Gestito da un Partner</value>
+        <value lang="nl">Partner</value>
+        <value lang="pt_BR">Parceiro</value>
+        <value lang="ro">Gestit de un Partener</value>
+        <value lang="th">หุ้นส่วนการควบคุม</value>
+        <value lang="zh">已管理的伙伴</value>
+        <value lang="zh_TW">夥伴</value>
+    </property>
+</resource>

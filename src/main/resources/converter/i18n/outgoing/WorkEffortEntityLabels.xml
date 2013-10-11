@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Discounted Hourly Rate</value></content>
+<content><country></country><lang>fr</lang><value>Taux horaire escompté</value></content>
+<content><country></country><lang>it</lang><value>Percentuale oraria scontata</value></content>
+<content><country></country><lang>ro</lang><value>Procent Orar Redus</value></content>
+<content><country></country><lang>ru</lang><value>Сниженные почасовые ставки</value></content>
+<content><country></country><lang>th</lang><value>อัตราลดลงทุก ๆ ชั่วโมง</value></content>
+<content><country></country><lang>zh</lang><value>小时价格折扣</value></content>
+<content><country></country><lang>zh_TW</lang><value>小時價格折扣</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Overtime Hourly Rate</value></content>
+<content><country></country><lang>fr</lang><value>Taux horaire des heures supplémentaires</value></content>
+<content><country></country><lang>it</lang><value>Percentuale oraria straordinaria</value></content>
+<content><country></country><lang>ro</lang><value>Procent Orar Straordinar</value></content>
+<content><country></country><lang>ru</lang><value>Почасовые ставки при переработке</value></content>
+<content><country></country><lang>th</lang><value>อัตราล่วงเวลาทุก ๆ ชั่วโมง</value></content>
+<content><country></country><lang>zh</lang><value>加班小时价格</value></content>
+<content><country></country><lang>zh_TW</lang><value>加班小時價格</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Standard Hourly Rate</value></content>
+<content><country></country><lang>fr</lang><value>Taux horaire standard</value></content>
+<content><country></country><lang>it</lang><value>Percentuale oraria standard</value></content>
+<content><country></country><lang>ro</lang><value>Procent Orar Standard</value></content>
+<content><country></country><lang>ru</lang><value>Стандартные почасовые ставки</value></content>
+<content><country></country><lang>th</lang><value>อัตรามาตรฐานทุก ๆ ชั่วโมง</value></content>
+<content><country></country><lang>zh</lang><value>标准小时价格</value></content>
+<content><country></country><lang>zh_TW</lang><value>標准小時價格</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Routing and Routing Task Association</value></content>
+<content><country></country><lang>fr</lang><value>Routage et association de tâche de routage</value></content>
+<content><country></country><lang>it</lang><value>Associazione rotta e rotta compito</value></content>
+<content><country></country><lang>ru</lang><value>Связи между маршрутизацией и задачами маршрутизации</value></content>
+<content><country></country><lang>th</lang><value>Routing และ Routing กลุ่มภารกิจ</value></content>
+<content><country></country><lang>zh</lang><value>路线与路线任务关联</value></content>
+<content><country></country><lang>zh_TW</lang><value>路線與路線任務關聯</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Breakdown/Detail</value></content>
+<content><country></country><lang>es</lang><value>Descomposición de esfuerzo de trabajo</value></content>
+<content><country></country><lang>fr</lang><value>Détail/Ventilation</value></content>
+<content><country></country><lang>it</lang><value>Interruzione/Dettaglio</value></content>
+<content><country></country><lang>ro</lang><value>Intrerupere/Detaliu</value></content>
+<content><country></country><lang>ru</lang><value>Поломка/Подробно</value></content>
+<content><country></country><lang>th</lang><value>การวิเคราะห์/รายละเอียด</value></content>
+<content><country></country><lang>zh</lang><value>故障/详细</value></content>
+<content><country></country><lang>zh_TW</lang><value>故障/詳細</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Concurrency</value></content>
+<content><country></country><lang>es</lang><value>Concurrencia de esfuerzo de trabajo</value></content>
+<content><country></country><lang>fr</lang><value>Simultanéité</value></content>
+<content><country></country><lang>it</lang><value>Concorrenza</value></content>
+<content><country></country><lang>ro</lang><value>Concurenta</value></content>
+<content><country></country><lang>ru</lang><value>Конкуренция</value></content>
+<content><country></country><lang>th</lang><value>การเกิดขึ้นในเวลาเดียวกัน</value></content>
+<content><country></country><lang>zh</lang><value>并发</value></content>
+<content><country></country><lang>zh_TW</lang><value>並發</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Dependency</value></content>
+<content><country></country><lang>es</lang><value>Dependencia de esfuerzo de trabajo</value></content>
+<content><country></country><lang>fr</lang><value>Dépendance</value></content>
+<content><country></country><lang>it</lang><value>Dipendenza</value></content>
+<content><country></country><lang>ro</lang><value>Dependenta</value></content>
+<content><country></country><lang>ru</lang><value>Зависимость</value></content>
+<content><country></country><lang>th</lang><value>ส่วนเพิ่มเติม</value></content>
+<content><country></country><lang>zh</lang><value>依赖</value></content>
+<content><country></country><lang>zh_TW</lang><value>依賴</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Phase</value></content>
+<content><country></country><lang>es</lang><value>Fase de proyecto de esfuerzo de trabajo</value></content>
+<content><country></country><lang>fr</lang><value>Phase</value></content>
+<content><country></country><lang>it</lang><value>Fase</value></content>
+<content><country></country><lang>th</lang><value>ขั้นตอน</value></content>
+<content><country></country><lang>zh</lang><value>阶段</value></content>
+<content><country></country><lang>zh_TW</lang><value>階段</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Precedency</value></content>
+<content><country></country><lang>es</lang><value>Precedencia de esfuerzo de trabajo</value></content>
+<content><country></country><lang>fr</lang><value>Priorité</value></content>
+<content><country></country><lang>it</lang><value>Precedenza</value></content>
+<content><country></country><lang>ro</lang><value>Precedenta</value></content>
+<content><country></country><lang>ru</lang><value>Преимущество</value></content>
+<content><country></country><lang>th</lang><value>Precedency</value></content>
+<content><country></country><lang>zh</lang><value>优先级</value></content>
+<content><country></country><lang>zh_TW</lang><value>優先級</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Task</value></content>
+<content><country></country><lang>es</lang><value>Tarea de fase de esfuerzo de trabajo</value></content>
+<content><country></country><lang>fr</lang><value>Tâche</value></content>
+<content><country></country><lang>it</lang><value>Compito</value></content>
+<content><country></country><lang>th</lang><value>ภารกิจ</value></content>
+<content><country></country><lang>zh</lang><value>任务</value></content>
+<content><country></country><lang>zh_TW</lang><value>任務</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Template of</value></content>
+<content><country></country><lang>fr</lang><value>Gabarit de</value></content>
+<content><country></country><lang>it</lang><value>Template di</value></content>
+<content><country></country><lang>ro</lang><value>Template de</value></content>
+<content><country></country><lang>ru</lang><value>Шаблон</value></content>
+<content><country></country><lang>th</lang><value>ของเทมเพลต</value></content>
+<content><country></country><lang>zh</lang><value>模板</value></content>
+<content><country></country><lang>zh_TW</lang><value>範本</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Assembling</value></content>
+<content><country></country><lang>fr</lang><value>Assemblage</value></content>
+<content><country></country><lang>it</lang><value>Assemblaggio</value></content>
+<content><country></country><lang>ro</lang><value>Asamblare</value></content>
+<content><country></country><lang>ru</lang><value>Монтаж</value></content>
+<content><country></country><lang>th</lang><value>การรวมกลุ่ม</value></content>
+<content><country></country><lang>zh</lang><value>组装</value></content>
+<content><country></country><lang>zh_TW</lang><value>組裝</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Manufacturing</value></content>
+<content><country></country><lang>fr</lang><value>Fabrication</value></content>
+<content><country></country><lang>it</lang><value>Produzione</value></content>
+<content><country></country><lang>ro</lang><value>Productie</value></content>
+<content><country></country><lang>ru</lang><value>Производство</value></content>
+<content><country></country><lang>th</lang><value>การผลิต</value></content>
+<content><country></country><lang>zh</lang><value>制造</value></content>
+<content><country></country><lang>zh_TW</lang><value>制造</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Sub-contracting</value></content>
+<content><country></country><lang>fr</lang><value>Sous-contractant</value></content>
+<content><country></country><lang>it</lang><value>Sotto-contratto</value></content>
+<content><country></country><lang>ro</lang><value>Sub-contract</value></content>
+<content><country></country><lang>ru</lang><value>Субподряд</value></content>
+<content><country></country><lang>th</lang><value>Sub-contracting</value></content>
+<content><country></country><lang>zh</lang><value>子商</value></content>
+<content><country></country><lang>zh_TW</lang><value>子商</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Deployment</value></content>
+<content><country></country><lang>es</lang><value>Despliegue</value></content>
+<content><country></country><lang>fr</lang><value>Déploiement</value></content>
+<content><country></country><lang>it</lang><value>Distribuzione</value></content>
+<content><country></country><lang>ro</lang><value>Distributie</value></content>
+<content><country></country><lang>ru</lang><value>Развертывание</value></content>
+<content><country></country><lang>th</lang><value>แพร่กระจาย</value></content>
+<content><country></country><lang>zh</lang><value>部署</value></content>
+<content><country></country><lang>zh_TW</lang><value>部署</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Development</value></content>
+<content><country></country><lang>es</lang><value>Desarrollo</value></content>
+<content><country></country><lang>fr</lang><value>Développement</value></content>
+<content><country></country><lang>it</lang><value>Sviluppo</value></content>
+<content><country></country><lang>ro</lang><value>Dezvoltare</value></content>
+<content><country></country><lang>ru</lang><value>Совершенствование</value></content>
+<content><country></country><lang>th</lang><value>การพัฒนา</value></content>
+<content><country></country><lang>zh</lang><value>开发</value></content>
+<content><country></country><lang>zh_TW</lang><value>開發</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Maintenance</value></content>
+<content><country></country><lang>es</lang><value>Mantenimiento</value></content>
+<content><country></country><lang>fr</lang><value>Maintenance</value></content>
+<content><country></country><lang>it</lang><value>Manutenzione</value></content>
+<content><country></country><lang>ro</lang><value>Intretinere</value></content>
+<content><country></country><lang>ru</lang><value>Обслуживание</value></content>
+<content><country></country><lang>th</lang><value>การบำรุงรักษา</value></content>
+<content><country></country><lang>zh</lang><value>维护</value></content>
+<content><country></country><lang>zh_TW</lang><value>維護</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Meeting</value></content>
+<content><country></country><lang>es</lang><value>Reunión</value></content>
+<content><country></country><lang>fr</lang><value>Réunion</value></content>
+<content><country></country><lang>it</lang><value>Incontro</value></content>
+<content><country></country><lang>ro</lang><value>Intalnire</value></content>
+<content><country></country><lang>ru</lang><value>Встреча</value></content>
+<content><country></country><lang>th</lang><value>พบประสังสรรค์</value></content>
+<content><country></country><lang>zh</lang><value>会议</value></content>
+<content><country></country><lang>zh_TW</lang><value>會議</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Phase</value></content>
+<content><country></country><lang>es</lang><value>Fase</value></content>
+<content><country></country><lang>fr</lang><value>Phase</value></content>
+<content><country></country><lang>it</lang><value>Fase</value></content>
+<content><country></country><lang>ro</lang><value>Faze</value></content>
+<content><country></country><lang>ru</lang><value>Этап</value></content>
+<content><country></country><lang>th</lang><value>ขั้นตอน</value></content>
+<content><country></country><lang>zh</lang><value>阶段</value></content>
+<content><country></country><lang>zh_TW</lang><value>階段</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Production Run</value></content>
+<content><country></country><lang>es</lang><value>Orden de producción</value></content>
+<content><country></country><lang>fr</lang><value>Ordre de fabrication</value></content>
+<content><country></country><lang>it</lang><value>Ciclo di produzione</value></content>
+<content><country></country><lang>ro</lang><value>Ciclu Productie</value></content>
+<content><country></country><lang>ru</lang><value>Производственный прогон</value></content>
+<content><country></country><lang>th</lang><value>ดำเนินการผลิต</value></content>
+<content><country></country><lang>zh</lang><value>实际运行</value></content>
+<content><country></country><lang>zh_TW</lang><value>實際運行</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Project</value></content>
+<content><country></country><lang>es</lang><value>Proyecto</value></content>
+<content><country></country><lang>fr</lang><value>Projet</value></content>
+<content><country></country><lang>it</lang><value>Progetto</value></content>
+<content><country></country><lang>ro</lang><value>Proiect</value></content>
+<content><country></country><lang>ru</lang><value>Проект</value></content>
+<content><country></country><lang>th</lang><value>โปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Research</value></content>
+<content><country></country><lang>es</lang><value>Investigación</value></content>
+<content><country></country><lang>fr</lang><value>Recherche</value></content>
+<content><country></country><lang>it</lang><value>Ricerca</value></content>
+<content><country></country><lang>ro</lang><value>Cautare</value></content>
+<content><country></country><lang>ru</lang><value>Исследование</value></content>
+<content><country></country><lang>th</lang><value>งานวิจัย</value></content>
+<content><country></country><lang>zh</lang><value>研究</value></content>
+<content><country></country><lang>zh_TW</lang><value>研究</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Support</value></content>
+<content><country></country><lang>es</lang><value>Soporte</value></content>
+<content><country></country><lang>fr</lang><value>Support</value></content>
+<content><country></country><lang>it</lang><value>Supporto</value></content>
+<content><country></country><lang>ro</lang><value>Suport</value></content>
+<content><country></country><lang>ru</lang><value>Поддержка</value></content>
+<content><country></country><lang>th</lang><value>สนับสนุน</value></content>
+<content><country></country><lang>zh</lang><value>支持</value></content>
+<content><country></country><lang>zh_TW</lang><value>支援</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Email</value></content>
+<content><country></country><lang>es</lang><value>E-mail</value></content>
+<content><country></country><lang>fr</lang><value>Courriel</value></content>
+<content><country></country><lang>it</lang><value>Email</value></content>
+<content><country></country><lang>ro</lang><value>Email</value></content>
+<content><country></country><lang>ru</lang><value>Эл. почта</value></content>
+<content><country></country><lang>th</lang><value>อีเมล</value></content>
+<content><country></country><lang>zh</lang><value>电子邮件</value></content>
+<content><country></country><lang>zh_TW</lang><value>電子郵件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Phone Call</value></content>
+<content><country></country><lang>fr</lang><value>Appel téléphonique</value></content>
+<content><country></country><lang>it</lang><value>Chiamata telefonica</value></content>
+<content><country></country><lang>ro</lang><value>Chemare Telefonica</value></content>
+<content><country></country><lang>ru</lang><value>Телефонный звонок</value></content>
+<content><country></country><lang>th</lang><value>การเรียกโทรศัพท์</value></content>
+<content><country></country><lang>zh</lang><value>电话</value></content>
+<content><country></country><lang>zh_TW</lang><value>電話</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Workflow Activity</value></content>
+<content><country></country><lang>es</lang><value>Actividad</value></content>
+<content><country></country><lang>fr</lang><value>Activité</value></content>
+<content><country></country><lang>it</lang><value>Attività impegno di lavoro</value></content>
+<content><country></country><lang>ro</lang><value>Activitati Sarcini de Lucru</value></content>
+<content><country></country><lang>ru</lang><value>Действие Workflow</value></content>
+<content><country></country><lang>th</lang><value>ขั้นตอนกิจกรรม</value></content>
+<content><country></country><lang>zh</lang><value>工作流活动</value></content>
+<content><country></country><lang>zh_TW</lang><value>工作流活動</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Fixed Asset Usage (rental)</value></content>
+<content><country></country><lang>fr</lang><value>Utilisation d'immobilisation (location)</value></content>
+<content><country></country><lang>it</lang><value>Uso cespite (noleggio)</value></content>
+<content><country></country><lang>ro</lang><value>Folosire Mijloc Fix (inchiriat)</value></content>
+<content><country></country><lang>ru</lang><value>Использование ОС (аренда)</value></content>
+<content><country></country><lang>th</lang><value>การใช้ทรัพย์สินที่ไม่หมุนเวียน (การเช่า)</value></content>
+<content><country></country><lang>zh</lang><value>固定资产使用(租赁)</value></content>
+<content><country></country><lang>zh_TW</lang><value>固定資產使用(租賃)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verfügbar</value></content>
+<content><country></country><lang>en</lang><value>Available</value></content>
+<content><country></country><lang>es</lang><value>Disponible</value></content>
+<content><country></country><lang>fr</lang><value>Disponible</value></content>
+<content><country></country><lang>it</lang><value>Disponibile</value></content>
+<content><country></country><lang>ro</lang><value>Disponibil</value></content>
+<content><country></country><lang>ru</lang><value>Доступный</value></content>
+<content><country></country><lang>th</lang><value>สามารถใช้ประโยชน์ได้</value></content>
+<content><country></country><lang>zh</lang><value>有效</value></content>
+<content><country></country><lang>zh_TW</lang><value>有效</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Business Travel</value></content>
+<content><country></country><lang>fr</lang><value>Voyage professionnel</value></content>
+<content><country></country><lang>it</lang><value>Viaggio di lavoro</value></content>
+<content><country></country><lang>zh</lang><value>商务旅行</value></content>
+<content><country></country><lang>zh_TW</lang><value>商務旅行</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Company Events</value></content>
+<content><country></country><lang>fr</lang><value>Séminaire d'entreprise</value></content>
+<content><country></country><lang>it</lang><value>Eventi aziendali</value></content>
+<content><country></country><lang>zh</lang><value>公司事件</value></content>
+<content><country></country><lang>zh_TW</lang><value>公司事件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Event</value></content>
+<content><country></country><lang>es</lang><value>Evento</value></content>
+<content><country></country><lang>fr</lang><value>Evènement</value></content>
+<content><country></country><lang>it</lang><value>Evento</value></content>
+<content><country></country><lang>ro</lang><value>Eveniment</value></content>
+<content><country></country><lang>ru</lang><value>Событие</value></content>
+<content><country></country><lang>th</lang><value>เหตุการณ์</value></content>
+<content><country></country><lang>zh</lang><value>事件</value></content>
+<content><country></country><lang>zh_TW</lang><value>事件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Meeting</value></content>
+<content><country></country><lang>fr</lang><value>Réunion</value></content>
+<content><country></country><lang>it</lang><value>Incontri</value></content>
+<content><country></country><lang>zh</lang><value>会议</value></content>
+<content><country></country><lang>zh_TW</lang><value>會議</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Milestone</value></content>
+<content><country></country><lang>fr</lang><value>Jalon</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Personal Time Off</value></content>
+<content><country></country><lang>fr</lang><value>Temps libre personnel</value></content>
+<content><country></country><lang>it</lang><value>Tempo libero personale</value></content>
+<content><country></country><lang>zh</lang><value>个人空闲时间</value></content>
+<content><country></country><lang>zh_TW</lang><value>個人空閒時間</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Project Phase</value></content>
+<content><country></country><lang>es</lang><value>Fase</value></content>
+<content><country></country><lang>fr</lang><value>Phase de projet</value></content>
+<content><country></country><lang>it</lang><value>Fase progetto</value></content>
+<content><country></country><lang>ro</lang><value>Faze Proiect</value></content>
+<content><country></country><lang>ru</lang><value>Этап проекта</value></content>
+<content><country></country><lang>th</lang><value>ขั้นตอน</value></content>
+<content><country></country><lang>zh</lang><value>项目阶段</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案階段</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Project Phase Template</value></content>
+<content><country></country><lang>fr</lang><value>Modèle de phase de projet</value></content>
+<content><country></country><lang>it</lang><value>Fase progetto template</value></content>
+<content><country></country><lang>zh</lang><value>项目阶段模板</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案階段範本</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Production Run Header</value></content>
+<content><country></country><lang>fr</lang><value>En-tête d'ordre de fabrication</value></content>
+<content><country></country><lang>it</lang><value>Testata ciclo di produzione</value></content>
+<content><country></country><lang>ro</lang><value>Antet Cliclu Productie</value></content>
+<content><country></country><lang>ru</lang><value>Заголовок произв. прогона</value></content>
+<content><country></country><lang>th</lang><value>หัวข้อดำเนินการการผลิต</value></content>
+<content><country></country><lang>zh</lang><value>实际运行头</value></content>
+<content><country></country><lang>zh_TW</lang><value>實際運行頭</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Production Run Task</value></content>
+<content><country></country><lang>fr</lang><value>Tâche d'ordre de fabrication</value></content>
+<content><country></country><lang>it</lang><value>Compito ciclo di produzione</value></content>
+<content><country></country><lang>ro</lang><value>Tema Ciclu Productie</value></content>
+<content><country></country><lang>ru</lang><value>Задача произв. прогона</value></content>
+<content><country></country><lang>th</lang><value>งานดำเนินการการผลิต</value></content>
+<content><country></country><lang>zh</lang><value>实际运行任务</value></content>
+<content><country></country><lang>zh_TW</lang><value>實際運行任務</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Program</value></content>
+<content><country></country><lang>es</lang><value>Programa</value></content>
+<content><country></country><lang>fr</lang><value>Programme</value></content>
+<content><country></country><lang>it</lang><value>Programma</value></content>
+<content><country></country><lang>ro</lang><value>Program</value></content>
+<content><country></country><lang>ru</lang><value>Программа</value></content>
+<content><country></country><lang>th</lang><value>โปรแกรม</value></content>
+<content><country></country><lang>zh</lang><value>程序</value></content>
+<content><country></country><lang>zh_TW</lang><value>程式</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Project</value></content>
+<content><country></country><lang>es</lang><value>Proyecto</value></content>
+<content><country></country><lang>fr</lang><value>Projet</value></content>
+<content><country></country><lang>it</lang><value>Progetto</value></content>
+<content><country></country><lang>ro</lang><value>Proiect</value></content>
+<content><country></country><lang>ru</lang><value>Проект</value></content>
+<content><country></country><lang>th</lang><value>โปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Project Template</value></content>
+<content><country></country><lang>fr</lang><value>Modèle de projet</value></content>
+<content><country></country><lang>it</lang><value>Progetto template</value></content>
+<content><country></country><lang>zh</lang><value>项目模板</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案範本</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Publish Properties</value></content>
+<content><country></country><lang>fr</lang><value>Propriétés de publication</value></content>
+<content><country></country><lang>it</lang><value>Pubblica properties</value></content>
+<content><country></country><lang>zh</lang><value>发布属性</value></content>
+<content><country></country><lang>zh_TW</lang><value>發布屬性</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Routing</value></content>
+<content><country></country><lang>fr</lang><value>Routage</value></content>
+<content><country></country><lang>it</lang><value>Rotta</value></content>
+<content><country></country><lang>ro</lang><value>Ruta</value></content>
+<content><country></country><lang>ru</lang><value>Маршрутизация</value></content>
+<content><country></country><lang>th</lang><value>Routing</value></content>
+<content><country></country><lang>zh</lang><value>路线</value></content>
+<content><country></country><lang>zh_TW</lang><value>路線</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Routing Task</value></content>
+<content><country></country><lang>fr</lang><value>Tâche de routage</value></content>
+<content><country></country><lang>it</lang><value>Compito rotta</value></content>
+<content><country></country><lang>ro</lang><value>Tema Ruta</value></content>
+<content><country></country><lang>ru</lang><value>Задача маршрутизации</value></content>
+<content><country></country><lang>th</lang><value>งาน Routing </value></content>
+<content><country></country><lang>zh</lang><value>路线任务</value></content>
+<content><country></country><lang>zh_TW</lang><value>路線任務</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Task</value></content>
+<content><country></country><lang>es</lang><value>Tarea</value></content>
+<content><country></country><lang>fr</lang><value>Tâche</value></content>
+<content><country></country><lang>it</lang><value>Compito</value></content>
+<content><country></country><lang>ro</lang><value>Tema</value></content>
+<content><country></country><lang>ru</lang><value>Задача</value></content>
+<content><country></country><lang>th</lang><value>งาน</value></content>
+<content><country></country><lang>zh</lang><value>任务</value></content>
+<content><country></country><lang>zh_TW</lang><value>任務</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Project Task Template</value></content>
+<content><country></country><lang>fr</lang><value>Modèle de tâche de projet</value></content>
+<content><country></country><lang>it</lang><value>Compito progetto template</value></content>
+<content><country></country><lang>zh</lang><value>项目任务模板</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案任務範本</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Template</value></content>
+<content><country></country><lang>fr</lang><value>Modèle</value></content>
+<content><country></country><lang>it</lang><value>Template</value></content>
+<content><country></country><lang>zh</lang><value>模板</value></content>
+<content><country></country><lang>zh_TW</lang><value>範本</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Training</value></content>
+<content><country></country><lang>fr</lang><value>Formation</value></content>
+<content><country></country><lang>it</lang><value>Formazione</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Workflow Process</value></content>
+<content><country></country><lang>es</lang><value>Flujo de trabajo</value></content>
+<content><country></country><lang>fr</lang><value>Processus de flux de travail</value></content>
+<content><country></country><lang>it</lang><value>Processo impegno di lavoro</value></content>
+<content><country></country><lang>ro</lang><value>Proces Sarcini de Lucru</value></content>
+<content><country></country><lang>ru</lang><value>Процесс Workflow</value></content>
+<content><country></country><lang>th</lang><value>วิธีการขั้นตอนการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>工作流流程</value></content>
+<content><country></country><lang>zh_TW</lang><value>工作流流程</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>HUMAN</value></content>
+<content><country></country><lang>es</lang><value>Interacción humana con el sistema a través de una aplicación</value></content>
+<content><country></country><lang>fr</lang><value>Humain</value></content>
+<content><country></country><lang>it</lang><value>Umano</value></content>
+<content><country></country><lang>th</lang><value>เกี่ยวกับคน</value></content>
+<content><country></country><lang>zh</lang><value>人</value></content>
+<content><country></country><lang>zh_TW</lang><value>人</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ORGANIZATIONAL_UNIT</value></content>
+<content><country></country><lang>es</lang><value>Departamento u otra unidad en una organización</value></content>
+<content><country></country><lang>fr</lang><value>Unité d'organisation</value></content>
+<content><country></country><lang>it</lang><value>Unità organizzativa</value></content>
+<content><country></country><lang>th</lang><value>เกี่ยวกับองค์กร</value></content>
+<content><country></country><lang>zh</lang><value>组织机构单位</value></content>
+<content><country></country><lang>zh_TW</lang><value>組織機構單位</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>RESOURCE</value></content>
+<content><country></country><lang>es</lang><value>Un agente específico de recurso</value></content>
+<content><country></country><lang>fr</lang><value>Ressource</value></content>
+<content><country></country><lang>it</lang><value>Risorsa</value></content>
+<content><country></country><lang>th</lang><value>แหล่งข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>资源</value></content>
+<content><country></country><lang>zh_TW</lang><value>資源</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>RESOURCE_SET</value></content>
+<content><country></country><lang>es</lang><value>Un conjunto de recursos</value></content>
+<content><country></country><lang>fr</lang><value>Ensemble de ressources</value></content>
+<content><country></country><lang>it</lang><value>Gruppo risorse</value></content>
+<content><country></country><lang>th</lang><value>ตั้งแหล่งข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>资源集合</value></content>
+<content><country></country><lang>zh_TW</lang><value>資源集合</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ROLE</value></content>
+<content><country></country><lang>es</lang><value>Especifica un rol que se puede asociar a un grupo de personas</value></content>
+<content><country></country><lang>fr</lang><value>Rôle</value></content>
+<content><country></country><lang>it</lang><value>Ruolo</value></content>
+<content><country></country><lang>th</lang><value>สถานะ</value></content>
+<content><country></country><lang>zh</lang><value>角色</value></content>
+<content><country></country><lang>zh_TW</lang><value>角色</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>SYSTEM</value></content>
+<content><country></country><lang>es</lang><value>Un agente automático</value></content>
+<content><country></country><lang>fr</lang><value>Système</value></content>
+<content><country></country><lang>it</lang><value>Sistema</value></content>
+<content><country></country><lang>th</lang><value>ระบบ</value></content>
+<content><country></country><lang>zh</lang><value>系统</value></content>
+<content><country></country><lang>zh_TW</lang><value>系統</value></content>
+</contents></phrase> </phrases>

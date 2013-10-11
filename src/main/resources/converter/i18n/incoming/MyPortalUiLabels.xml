@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="MyPortalAppBar">
+        <value lang="en">My Page App Bar</value>
+        <value lang="fr">Menu des applications</value>
+        <value lang="it">Mia pagina</value>
+        <value lang="th">แอปพริเคชันของฉัน</value>
+        <value lang="zh">我的页面应用程序栏</value>
+        <value lang="zh_TW">個人網頁應用程式列</value>
+    </property>
+    <property key="MyPortalBillToCustomer">
+        <value lang="en">Bill To Customer</value>
+        <value lang="zh_TW">發送帳單給客戶</value>
+    </property>
+    <property key="MyPortalCaptchaMissingError">
+        <value lang="en">Verify code captcha is missing or wrong</value>
+        <value lang="fr">Vérifier le code captcha, il est absent ou erroné</value>
+        <value lang="it">Verifica il codice captcha, è mancante o errato</value>
+        <value lang="th">รหัสตัวเลขที่ท่านกรอกมีข้อผิดพลาด</value>
+        <value lang="zh">缺少验证码或验证码错误</value>
+        <value lang="zh_TW">沒有驗證碼或是錯誤</value>
+    </property>
+    <property key="MyPortalEndUserCustomer">
+        <value lang="en">End User Customer</value>
+        <value lang="zh_TW">最終使用客戶</value>
+    </property>    
+    <property key="MyPortalFirstNameMissing">
+        <value lang="en">Your firstName is missing</value>
+        <value lang="fr">Votre prénom est absent</value>
+        <value lang="it">Nome mancante</value>
+        <value lang="th">กรุณากรอกชื่อของท่าน</value>
+        <value lang="zh">缺少你的名</value>
+        <value lang="zh_TW">缺少名字(Firstname)</value>
+    </property>
+    <property key="MyPortalInformation">
+        <value lang="en">My Information</value>
+        <value lang="fr">Mes informations </value>
+        <value lang="it">Mie informazioni</value>
+        <value lang="th">ข้อมูลของฉัน</value>
+        <value lang="zh">我的信息</value>
+        <value lang="zh_TW">入口網站</value>
+    </property>
+    <property key="MyPortalLastNameMissing">
+        <value lang="en">Your lastname is missing</value>
+        <value lang="fr">Votre nom est absent</value>
+        <value lang="it">Cognome mancante</value>
+        <value lang="th">กรุณากรอกนามสกุลของท่าน</value>
+        <value lang="zh">缺少你的姓</value>
+        <value lang="zh_TW">缺少姓氏(Lastname)</value>
+    </property>
+    <property key="MyPortalMyOrders">
+        <value lang="en">My Orders</value>
+        <value lang="zh_TW">我的訂單</value>
+    </property>
+    <property key="MyPortalNewRegistration">
+        <value lang="en">New Registration </value>
+        <value lang="fr">Nouvel enregistrement</value>
+        <value lang="it">Nuovo utente</value>
+        <value lang="th">ลงทะเบียน </value>
+        <value lang="zh">新注册</value>
+        <value lang="zh_TW">新的註冊</value>
+    </property>
+    <property key="MyPortalPicCaptcha">
+        <value lang="en">Code Captcha</value>
+        <value lang="fr">Code captcha</value>
+        <value lang="it">Codice captcha</value>
+        <value lang="th">รหัสตรวจสอบ</value>
+        <value lang="zh">验证码</value>
+        <value lang="zh_TW">驗證碼</value>
+    </property>
+    <property key="MyPortalPlacingCustomer">
+        <value lang="en">Placing Customer</value>
+        <value lang="zh_TW">安排客戶</value>
+    </property>
+    <property key="MyPortalRegisterComplete">
+        <value lang="en">Register of new person is complete...Please </value>
+        <value lang="fr">L'enregistrement de la nouvelle personne est complet...SVP</value>
+        <value lang="it">Creazione nuovo utente completata...prego </value>
+        <value lang="th">การลงทะเบียนใหม่สำหรับบุคคลได้ทำการเสร็จสิ้นสมบูรณ์แล้ว...สามารถเข้าสู่ระบบได้ </value>
+        <value lang="zh">完成新人员注册...请</value>
+        <value lang="zh_TW">註冊新的使用者完成...請</value>
+    </property>
+    <property key="MyPortalReloadImage">
+        <value lang="en">reload image</value>
+        <value lang="it">Ricarica immagine</value>
+        <value lang="zh">刷新图片</value>
+        <value lang="zh_TW">重載圖片</value>
+    </property>
+    <property key="MyPortalShipToCustomer">
+        <value lang="en">Ship To Customer</value>
+        <value lang="zh_TW">寄送給客戶</value>
+    </property>
+    <property key="MyPortalTaskActEndDate">
+        <value lang="en">Task Act End</value>
+        <value lang="fr">Fin réelle de de la tâche</value>
+        <value lang="it">Fine compito effettiva</value>
+        <value lang="th">เสร็จสิ้นการทำ</value>
+        <value lang="zh">任务操作结束</value>
+        <value lang="zh_TW">任務作業結束</value>
+    </property>
+    <property key="MyPortalTaskActStartDate">
+        <value lang="en">Task Act Start</value>
+        <value lang="fr">Début réel de de la tâche</value>
+        <value lang="it">Inizio compito effettivo</value>
+        <value lang="th">เรื่มต้นการทำ</value>
+        <value lang="zh">任务操作开始</value>
+        <value lang="zh_TW">任務作業開始</value>
+    </property>
+    <property key="MyPortalTaskPlanEndDate">
+        <value lang="en">Task Plan End</value>
+        <value lang="fr">Fin estimée de la tâche</value>
+        <value lang="it">Fine compito pianificata</value>
+        <value lang="th">สิ้นสุดชิ้นงาน</value>
+        <value lang="zh">任务计划结束</value>
+        <value lang="zh_TW">任務計畫結束</value>
+    </property>
+    <property key="MyPortalTaskPlanStartDate">
+        <value lang="en">Task Plan Start</value>
+        <value lang="fr">Début estimé de la tâche</value>
+        <value lang="it">Inizio compito pianificato</value>
+        <value lang="th">เริ่มต้นชิ้นงาน</value>
+        <value lang="zh">任务计划开始</value>
+        <value lang="zh_TW">任務計畫開始</value>
+    </property>
+    <property key="MyPortalTaskStatus">
+        <value lang="en">Task Status</value>
+        <value lang="fr">Status de la tâche</value>
+        <value lang="it">Stato compito</value>
+        <value lang="th">สถานะของงาน</value>
+        <value lang="zh">任务状态</value>
+        <value lang="zh_TW">任務狀態</value>
+    </property>
+    <property key="MyPortalTasks">
+        <value lang="en">My Tasks</value>
+        <value lang="fr">Mes Tâches</value>
+        <value lang="it">Miei compiti</value>
+        <value lang="th">งานของฉัน</value>
+        <value lang="zh">我的任务</value>
+        <value lang="zh_TW">我的任務</value>
+    </property>
+    <property key="MyPortalUserLogin">
+        <value lang="en">User Login</value>
+        <value lang="fr">Identifiant de connexion</value>
+        <value lang="it">Login utente</value>
+        <value lang="th">ข้อมูลการลงทะเบียน</value>
+        <value lang="zh">用户登录</value>
+        <value lang="zh_TW">使用者登入</value>
+    </property>
+    <property key="MyPortalVerifyCaptcha">
+        <value lang="en">Verify captcha code</value>
+        <value lang="fr">Vérifier le code captcha</value>
+        <value lang="it">Verifica codice captcha</value>
+        <value lang="th">ใส่รหัสตามรูป</value>
+        <value lang="zh">验证验证码</value>
+        <value lang="zh_TW">驗證碼</value>
+    </property>
+    <property key="PageTitleFindPortalPage">
+        <value lang="en">Find Portal page</value>
+        <value lang="fr">Rech. page portail</value>
+        <value lang="zh_TW">查找入口網頁</value>
+    </property>
+    <property key="PageTitleMyPortal">
+        <value lang="en">My Portal for : </value>
+        <value lang="fr">Mon portail pour : </value>
+        <value lang="it">Mio portale per : </value>
+        <value lang="th">ส่วนตัวสำหรับ </value>
+        <value lang="zh">我的门户用于：</value>
+        <value lang="zh_TW">入口網站使用者:</value>
+    </property>
+    <property key="PageTitleMyPortalForNoLogin">
+        <value lang="en">My Portal Page</value>
+        <value lang="fr">Ma page de portail</value>
+        <value lang="it">Pagina mio portale</value>
+        <value lang="th">หน้าส่วนตัวของฉัน</value>
+        <value lang="zh">我的门户页面</value>
+        <value lang="zh_TW">入口網頁</value>
+    </property>
+</resource>

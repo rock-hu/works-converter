@@ -1,0 +1,1921 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Account Number</value></content>
+<content><country></country><lang>fr</lang><value>N° de compte</value></content>
+<content><country></country><lang>it</lang><value>Numero Conto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Número de conta</value></content>
+<content><country></country><lang>th</lang><value>หมายเลขบัญชี</value></content>
+<content><country></country><lang>zh</lang><value>用户编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>用戶編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Actual Employer Paid Percent</value></content>
+<content><country></country><lang>fr</lang><value>Pourcentage payé par l'employeur actuel</value></content>
+<content><country></country><lang>it</lang><value>Percentuale Pagata Attualmente all'Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Porcentagem efetivamente paga ao empregado</value></content>
+<content><country></country><lang>th</lang><value>เปอร์เซ็นต์ที่ผู้ว่าจ้างจ่ายจริง</value></content>
+<content><country></country><lang>zh</lang><value>员工支付部分百分比</value></content>
+<content><country></country><lang>zh_TW</lang><value>員工支付部分百分比</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Actual From Date</value></content>
+<content><country></country><lang>fr</lang><value>Date réelle de début</value></content>
+<content><country></country><lang>it</lang><value>Data Inizio Attuale</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data de início real</value></content>
+<content><country></country><lang>th</lang><value>จากวันตามความเป็นจริง</value></content>
+<content><country></country><lang>zh</lang><value>实际起始日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>實際起始日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entlassungsdatum</value></content>
+<content><country></country><lang>en</lang><value>Actual Thru Date</value></content>
+<content><country></country><lang>fr</lang><value>Date réelle de fin</value></content>
+<content><country></country><lang>it</lang><value>Data Fine Attuale</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data final real</value></content>
+<content><country></country><lang>th</lang><value>ถึงวันตามความเป็นจริง</value></content>
+<content><country></country><lang>zh</lang><value>实际结束日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>實際結束日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Bewerbungsdatum</value></content>
+<content><country></country><lang>en</lang><value>Application Date</value></content>
+<content><country></country><lang>fr</lang><value>Date de demande d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Data Applicazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data de requerimento</value></content>
+<content><country></country><lang>th</lang><value>โปรแกรมประยุกต์วันที่</value></content>
+<content><country></country><lang>zh</lang><value>应聘申请日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>應聘申請日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Einsatzgebiet ID</value></content>
+<content><country></country><lang>en</lang><value>Application Id</value></content>
+<content><country></country><lang>fr</lang><value>Demande d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Numero Applicazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do requerimento</value></content>
+<content><country></country><lang>th</lang><value>รหัสโปรแกรมประยุกต์</value></content>
+<content><country></country><lang>zh</lang><value>应聘申请编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>應聘申請編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Anwendungsteilnehmer ID</value></content>
+<content><country></country><lang>en</lang><value>Applying Party Id</value></content>
+<content><country></country><lang>fr</lang><value>Acteur en demande</value></content>
+<content><country></country><lang>it</lang><value>Soggetto Applicato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do requerente</value></content>
+<content><country></country><lang>th</lang><value>รหัสกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>应聘申请人</value></content>
+<content><country></country><lang>zh_TW</lang><value>應聘申請人</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Approver Status</value></content>
+<content><country></country><lang>fr</lang><value>Etat d'approbation</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Approver Party</value></content>
+<content><country></country><lang>fr</lang><value>Approbateur</value></content>
+<content><country></country><lang>pt_BR</lang><value>Participante responsável</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Approver Party</value></content>
+<content><country></country><lang>fr</lang><value>Approbateur</value></content>
+<content><country></country><lang>pt_BR</lang><value>Participante responsável</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Bank Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de la banque</value></content>
+<content><country></country><lang>it</lang><value>Nome Banca</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nome do banco</value></content>
+<content><country></country><lang>th</lang><value>ชื่อธนาคาร</value></content>
+<content><country></country><lang>zh</lang><value>银行名称</value></content>
+<content><country></country><lang>zh_TW</lang><value>銀行名稱</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Benefit Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Type d'avantage</value></content>
+<content><country></country><lang>it</lang><value>Codice Tipo Benefit</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de benefício</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภทผลประโยชน์</value></content>
+<content><country></country><lang>zh</lang><value>福利类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>福利類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Budget Id</value></content>
+<content><country></country><lang>fr</lang><value>Budget</value></content>
+<content><country></country><lang>it</lang><value>Codice Budget</value></content>
+<content><country></country><lang>pt_BR</lang><value>Orçamento</value></content>
+<content><country></country><lang>th</lang><value>รหัสงบประมาณ</value></content>
+<content><country></country><lang>zh</lang><value>预算编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>預算編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Budget Item Seq Id</value></content>
+<content><country></country><lang>fr</lang><value>Ligne budgétaire</value></content>
+<content><country></country><lang>it</lang><value>Numero Seq. Riga Budget</value></content>
+<content><country></country><lang>pt_BR</lang><value>Número do Id de sequência do Item</value></content>
+<content><country></country><lang>th</lang><value>รหัสรายการงบประมาณ</value></content>
+<content><country></country><lang>zh</lang><value>预算项目序号</value></content>
+<content><country></country><lang>zh_TW</lang><value>預算專案序號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Budget Item Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Type de ligne budgétaire</value></content>
+<content><country></country><lang>it</lang><value>Tipo Budget Riga</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de item de orçamento</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภทรายการงบประมาณ</value></content>
+<content><country></country><lang>zh</lang><value>预算项目类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>預算專案類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Budget Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Type de budget</value></content>
+<content><country></country><lang>it</lang><value>Tipo Budget</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de orçamento</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภทงบประมาณ</value></content>
+<content><country></country><lang>zh</lang><value>预算类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>預算類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Communication Date</value></content>
+<content><country></country><lang>it</lang><value>Data comunicazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data de comunicação</value></content>
+<content><country></country><lang>zh</lang><value>沟通日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>溝通日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Company</value></content>
+<content><country></country><lang>it</lang><value>Azienda</value></content>
+<content><country></country><lang>pt_BR</lang><value>Companhia</value></content>
+<content><country></country><lang>zh</lang><value>公司</value></content>
+<content><country></country><lang>zh_TW</lang><value>公司</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Date Modified</value></content>
+<content><country></country><lang>fr</lang><value>Date modifiée</value></content>
+<content><country></country><lang>it</lang><value>Data Modifica</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data de modificação</value></content>
+<content><country></country><lang>th</lang><value>วันที่ปรับปรุง</value></content>
+<content><country></country><lang>zh</lang><value>修改日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>修改日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Deduction Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. dy type de déduction</value></content>
+<content><country></country><lang>it</lang><value>Tipo Deduzione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de dedução</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภทการหักลบ</value></content>
+<content><country></country><lang>zh</lang><value>扣除类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>扣除類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Leave Reason Type</value></content>
+<content><country></country><lang>fr</lang><value>Raison du congé</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipo da razão de licença</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Anstellungspositions-ID</value></content>
+<content><country></country><lang>en</lang><value>Empl Position Id</value></content>
+<content><country></country><lang>fr</lang><value>Position de l'employé</value></content>
+<content><country></country><lang>it</lang><value>Posizione Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id da posição do empregado</value></content>
+<content><country></country><lang>th</lang><value>รหัสตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>雇员职位编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇員職位編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Empl Position Id Managed By</value></content>
+<content><country></country><lang>fr</lang><value>Position de l'employé contrôlé par</value></content>
+<content><country></country><lang>it</lang><value>Codice Posizione Impiegato Gestita Da</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de posição do empregado gerenciado por</value></content>
+<content><country></country><lang>th</lang><value>โดยการจัดการรหัสตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>该职位管理人</value></content>
+<content><country></country><lang>zh_TW</lang><value>該職位管理人</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Empl Position Id Reporting To</value></content>
+<content><country></country><lang>it</lang><value>Posizione impiegato gestito da</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de posição de empregado reportando-se para</value></content>
+<content><country></country><lang>zh</lang><value>该职位上级</value></content>
+<content><country></country><lang>zh_TW</lang><value>該職位上級</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Employee Party Id</value></content>
+<content><country></country><lang>fr</lang><value>Employé</value></content>
+<content><country></country><lang>it</lang><value>Soggetto Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do empregado</value></content>
+<content><country></country><lang>th</lang><value>รหัสกลุ่มพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>雇员编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇員編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Employee Role Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Type de rôle de l'employé</value></content>
+<content><country></country><lang>it</lang><value>Tipo Ruolo Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do tipo de papel do empregado</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภทสถานะพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>雇员角色类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇員角色類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Quelle der Anstellungsanwendungs-ID</value></content>
+<content><country></country><lang>en</lang><value>Employment App Source Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Type d'origine de demande d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Tipo Origine Applicazione Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do tipo fonte de candidatura do emprego</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภทแหล่งที่มาการจ้างงาน</value></content>
+<content><country></country><lang>zh</lang><value>应聘求职信息获取来源</value></content>
+<content><country></country><lang>zh_TW</lang><value>應聘求職資訊獲取來源</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Estimated From Date</value></content>
+<content><country></country><lang>fr</lang><value>Date de début estimée</value></content>
+<content><country></country><lang>it</lang><value>Data Inizio Stimata</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data estimada para o início</value></content>
+<content><country></country><lang>th</lang><value>จากประมาณวันที่</value></content>
+<content><country></country><lang>zh</lang><value>预计起始日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>預計起始日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Estimated Thru Date</value></content>
+<content><country></country><lang>fr</lang><value>Date de fin estimée</value></content>
+<content><country></country><lang>it</lang><value>Data Fine Stimata</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data estimada par ao fim</value></content>
+<content><country></country><lang>th</lang><value>ถึงประมาณวันที่</value></content>
+<content><country></country><lang>zh</lang><value>预计结束日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>預計結束日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exam Type Enum Id</value></content>
+<content><country></country><lang>fr</lang><value>Type d'examen</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exempt Flag</value></content>
+<content><country></country><lang>fr</lang><value>Balise d'exemption</value></content>
+<content><country></country><lang>it</lang><value>Flag Esenzione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Sinal de isenção</value></content>
+<content><country></country><lang>th</lang><value>Exempt Flag</value></content>
+<content><country></country><lang>zh</lang><value>是否免付加班费</value></content>
+<content><country></country><lang>zh_TW</lang><value>是否免付加班費</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Experience in months</value></content>
+<content><country></country><lang>fr</lang><value>Expérience en mois</value></content>
+<content><country></country><lang>it</lang><value>Esperienza in mesi</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Experience in years</value></content>
+<content><country></country><lang>fr</lang><value>Expérience en années</value></content>
+<content><country></country><lang>it</lang><value>Esperienza in anni</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Flat Amount</value></content>
+<content><country></country><lang>fr</lang><value>Montant fixe</value></content>
+<content><country></country><lang>it</lang><value>Importo fisso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Quantia fixa</value></content>
+<content><country></country><lang>th</lang><value>จำนวนระดับ</value></content>
+<content><country></country><lang>zh</lang><value>固定工资</value></content>
+<content><country></country><lang>zh_TW</lang><value>固定工資</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Fulltime Flag</value></content>
+<content><country></country><lang>fr</lang><value>Balise de plein temps</value></content>
+<content><country></country><lang>it</lang><value>Flag tempo pieno</value></content>
+<content><country></country><lang>pt_BR</lang><value>Sinal de período integral</value></content>
+<content><country></country><lang>th</lang><value>เครื่องหมายเต็มเวลา</value></content>
+<content><country></country><lang>zh</lang><value>是否为全职</value></content>
+<content><country></country><lang>zh_TW</lang><value>是否為全職</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Job Location</value></content>
+<content><country></country><lang>fr</lang><value>Lieu de travail</value></content>
+<content><country></country><lang>it</lang><value>Luogo di lavoro</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Job Posting Enum Id</value></content>
+<content><country></country><lang>fr</lang><value>Référence d'offre d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Codice offerta di impiego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Job Posting Type</value></content>
+<content><country></country><lang>fr</lang><value>Type d'offre d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Tipo di offerta di impiego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Job Requisition Id</value></content>
+<content><country></country><lang>fr</lang><value>Demande d'emploi</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de requisição de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Justification</value></content>
+<content><country></country><lang>fr</lang><value>Justification</value></content>
+<content><country></country><lang>it</lang><value>Giustificazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Justificativa</value></content>
+<content><country></country><lang>th</lang><value>การให้เหตุผล</value></content>
+<content><country></country><lang>zh</lang><value>预算用途</value></content>
+<content><country></country><lang>zh_TW</lang><value>預算用途</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Leave Status</value></content>
+<content><country></country><lang>fr</lang><value>Etat de congé</value></content>
+<content><country></country><lang>pt_BR</lang><value>Estado da licença</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Leave Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Type de congé</value></content>
+<content><country></country><lang>it</lang><value>Tipo di licenziamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de licença</value></content>
+<content><country></country><lang>zh</lang><value>请假类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>請假類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Manager Party Id</value></content>
+<content><country></country><lang>fr</lang><value>Directeur</value></content>
+<content><country></country><lang>it</lang><value>Manager</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do Diretor</value></content>
+<content><country></country><lang>th</lang><value>การจัดการรหัสกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>该雇员经理</value></content>
+<content><country></country><lang>zh_TW</lang><value>該雇員經理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Manager Role Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Type de rôle directeur</value></content>
+<content><country></country><lang>it</lang><value>Tipo Ruolo Manager</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de papel de diretor</value></content>
+<content><country></country><lang>th</lang><value>การจัดการประเภทสถานะ</value></content>
+<content><country></country><lang>zh</lang><value>经理角色类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>經理角色類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Party Qual Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Diplôme</value></content>
+<content><country></country><lang>it</lang><value>Tipo qualifica soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo qualificação de participante</value></content>
+<content><country></country><lang>zh</lang><value>会员资质类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員資質類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay Grade Id</value></content>
+<content><country></country><lang>fr</lang><value>Catégorie de salaire</value></content>
+<content><country></country><lang>it</lang><value>Grado Paga</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de degrau salarial</value></content>
+<content><country></country><lang>th</lang><value>รหัสระดับการจ่าย</value></content>
+<content><country></country><lang>zh</lang><value>薪水等级编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水等級編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay Grade Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de catégorie de salaire</value></content>
+<content><country></country><lang>it</lang><value>Nome Grado Paga</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nome do Degrau salarial</value></content>
+<content><country></country><lang>th</lang><value>ชื่อระดับการจ่าย</value></content>
+<content><country></country><lang>zh</lang><value>薪水等级名称</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水等級名稱</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay History From Date</value></content>
+<content><country></country><lang>fr</lang><value>Date de début</value></content>
+<content><country></country><lang>it</lang><value>Storia Data Pagamento Da</value></content>
+<content><country></country><lang>pt_BR</lang><value>Histórico de Data de início</value></content>
+<content><country></country><lang>th</lang><value>จ่ายข้อมูลจากวันที่</value></content>
+<content><country></country><lang>zh</lang><value>历史薪水开始时间</value></content>
+<content><country></country><lang>zh_TW</lang><value>歷史薪水開始時間</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay History Party Id From</value></content>
+<content><country></country><lang>fr</lang><value>Réf. d'acteur depuis</value></content>
+<content><country></country><lang>it</lang><value>Storia Soggetto Pagamento Da</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do Histórico de pagamento do participante de</value></content>
+<content><country></country><lang>th</lang><value>จ่ายรหัสกลุ่มข้อมูลจาก</value></content>
+<content><country></country><lang>zh</lang><value>历史薪水来自（会员）</value></content>
+<content><country></country><lang>zh_TW</lang><value>歷史薪水來自（會員）</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay History Party Id To</value></content>
+<content><country></country><lang>fr</lang><value>Réf. d'acteur vers</value></content>
+<content><country></country><lang>it</lang><value>Storia Soggetto Pagamento A</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do histórico de pagamento do participante para</value></content>
+<content><country></country><lang>th</lang><value>จ่ายรหัสกลุ่มข้อมูลถึง</value></content>
+<content><country></country><lang>zh</lang><value>历史薪水去向（会员）</value></content>
+<content><country></country><lang>zh_TW</lang><value>歷史薪水去向（會員）</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay History Role Type Id From</value></content>
+<content><country></country><lang>fr</lang><value>Type de rôle depuis</value></content>
+<content><country></country><lang>it</lang><value>Storia Tipo Ruolo Pagamento Da</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do papel de histórico de pagamento para</value></content>
+<content><country></country><lang>th</lang><value>จ่ายรหัสประเภทสถานะข้อมูลจาก</value></content>
+<content><country></country><lang>zh</lang><value>历史薪水来自（角色）</value></content>
+<content><country></country><lang>zh_TW</lang><value>歷史薪水來自（角色）</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay History Role Type Id To</value></content>
+<content><country></country><lang>fr</lang><value>Type de rôle vers</value></content>
+<content><country></country><lang>it</lang><value>Storia Tipo Ruolo Pagamento A</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de papel de histórico de pagamento de</value></content>
+<content><country></country><lang>th</lang><value>จ่ายรหัสประเภทสถานะข้อมูลถึง</value></content>
+<content><country></country><lang>zh</lang><value>历史薪水去向（角色）</value></content>
+<content><country></country><lang>zh_TW</lang><value>歷史薪水去向（角色）</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Perf Rating Type Id</value></content>
+<content><country></country><lang>it</lang><value>Tipo percentuale prestazioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de avaliação de desempenho</value></content>
+<content><country></country><lang>zh</lang><value>绩效评级类型标识</value></content>
+<content><country></country><lang>zh_TW</lang><value>績效評級類型ID</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Perf Review Id</value></content>
+<content><country></country><lang>fr</lang><value>Évaluation des performances</value></content>
+<content><country></country><lang>it</lang><value>Rassegna Prestazioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id da avaliação de desempenho</value></content>
+<content><country></country><lang>th</lang><value>Perf Review Id</value></content>
+<content><country></country><lang>zh</lang><value>绩效评定标识</value></content>
+<content><country></country><lang>zh_TW</lang><value>績效評定ID</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Perf Review Item Seq Id</value></content>
+<content><country></country><lang>it</lang><value>Riga rassegna prestazioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de Item de sequência da avaliação de desempenho</value></content>
+<content><country></country><lang>zh</lang><value>绩效评定明细子标识</value></content>
+<content><country></country><lang>zh_TW</lang><value>績效評定明細序列ID</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Perf Review Item Type Id</value></content>
+<content><country></country><lang>it</lang><value>Tipo riga rassegna prestazioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de Item de avaliação de desempenho</value></content>
+<content><country></country><lang>zh</lang><value>绩效评定明细类型标识</value></content>
+<content><country></country><lang>zh_TW</lang><value>績效評定明細類型ID</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Position</value></content>
+<content><country></country><lang>it</lang><value>Posizione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Posição</value></content>
+<content><country></country><lang>zh</lang><value>职位</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Primary Flag</value></content>
+<content><country></country><lang>fr</lang><value>Balise primaire</value></content>
+<content><country></country><lang>it</lang><value>Flag Primario</value></content>
+<content><country></country><lang>pt_BR</lang><value>Sinal primário</value></content>
+<content><country></country><lang>th</lang><value>เครื่องหมายเเรก</value></content>
+<content><country></country><lang>zh</lang><value>是否为直接上级</value></content>
+<content><country></country><lang>zh_TW</lang><value>是否為直接上級</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Purpose</value></content>
+<content><country></country><lang>fr</lang><value>But</value></content>
+<content><country></country><lang>it</lang><value>Funzione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Meta</value></content>
+<content><country></country><lang>th</lang><value>จุดมุ่งหมาย</value></content>
+<content><country></country><lang>zh</lang><value>用途</value></content>
+<content><country></country><lang>zh_TW</lang><value>用途</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Qualification Desc</value></content>
+<content><country></country><lang>fr</lang><value>Desc. compl.</value></content>
+<content><country></country><lang>it</lang><value>Descrizione qualifica</value></content>
+<content><country></country><lang>pt_BR</lang><value>Descrição de qualificação</value></content>
+<content><country></country><lang>zh</lang><value>资质描述</value></content>
+<content><country></country><lang>zh_TW</lang><value>資質描述</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Referred By Party Id</value></content>
+<content><country></country><lang>fr</lang><value>Envoyé par l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Riferito Dal Soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Referido por participante com Id</value></content>
+<content><country></country><lang>th</lang><value>อ้างอิงโดยรหัสกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>推荐人</value></content>
+<content><country></country><lang>zh_TW</lang><value>推薦人</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Responsibility Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Type de responsabilité</value></content>
+<content><country></country><lang>it</lang><value>Tipo Responsibilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de responsabilidade</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภทหน้าที่</value></content>
+<content><country></country><lang>zh</lang><value>责任类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>責任類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Resume Date</value></content>
+<content><country></country><lang>fr</lang><value>Date de CV</value></content>
+<content><country></country><lang>it</lang><value>Data curriculum vitae</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data do currículo</value></content>
+<content><country></country><lang>zh</lang><value>交简历日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>交簡歷日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Resume Id</value></content>
+<content><country></country><lang>fr</lang><value>CV</value></content>
+<content><country></country><lang>it</lang><value>Rif. curriculum vitae</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do currículo</value></content>
+<content><country></country><lang>zh</lang><value>简历编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>簡歷編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Resume Text</value></content>
+<content><country></country><lang>fr</lang><value>Texte de CV</value></content>
+<content><country></country><lang>it</lang><value>Testo curriculum vitae</value></content>
+<content><country></country><lang>pt_BR</lang><value>Texto do currículo</value></content>
+<content><country></country><lang>zh</lang><value>简历正文</value></content>
+<content><country></country><lang>zh_TW</lang><value>簡歷正文</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Routing Number</value></content>
+<content><country></country><lang>fr</lang><value>N° de routage</value></content>
+<content><country></country><lang>it</lang><value>Numero Routing</value></content>
+<content><country></country><lang>pt_BR</lang><value>Número de rota</value></content>
+<content><country></country><lang>th</lang><value>หมายเลข Routing</value></content>
+<content><country></country><lang>zh</lang><value>汇款路线码</value></content>
+<content><country></country><lang>zh_TW</lang><value>匯款路線碼</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Salary</value></content>
+<content><country></country><lang>it</lang><value>Salario</value></content>
+<content><country></country><lang>pt_BR</lang><value>Salário</value></content>
+<content><country></country><lang>zh</lang><value>薪水</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Salary Flag</value></content>
+<content><country></country><lang>fr</lang><value>Balise de salaire</value></content>
+<content><country></country><lang>it</lang><value>Flag Salario</value></content>
+<content><country></country><lang>pt_BR</lang><value>Sinal de salário</value></content>
+<content><country></country><lang>th</lang><value>เครื่องหมายเงินเดือน</value></content>
+<content><country></country><lang>zh</lang><value>是否带薪</value></content>
+<content><country></country><lang>zh_TW</lang><value>是否帶薪</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fähigkeitsniveau</value></content>
+<content><country></country><lang>en</lang><value>Skill Level</value></content>
+<content><country></country><lang>fr</lang><value>Niveau de compétence</value></content>
+<content><country></country><lang>it</lang><value>Livello Abilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nível de habilidade</value></content>
+<content><country></country><lang>th</lang><value>ระดับทักษะ</value></content>
+<content><country></country><lang>zh</lang><value>技能等级</value></content>
+<content><country></country><lang>zh_TW</lang><value>技能等級</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Skill Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Compétence</value></content>
+<content><country></country><lang>it</lang><value>Codice Tipo Abilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de habilidade</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภททักษะ</value></content>
+<content><country></country><lang>zh</lang><value>技能类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>技能類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>erste Nutzung</value></content>
+<content><country></country><lang>en</lang><value>Started Using Date</value></content>
+<content><country></country><lang>fr</lang><value>Débutant depuis</value></content>
+<content><country></country><lang>it</lang><value>Data di Inizio Usata</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data do início do uso</value></content>
+<content><country></country><lang>th</lang><value>เริ่มใช้วันที่</value></content>
+<content><country></country><lang>zh</lang><value>技能掌握日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>技能掌握日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Temporary Flag</value></content>
+<content><country></country><lang>fr</lang><value>Balise temporaire</value></content>
+<content><country></country><lang>it</lang><value>Flag Temporaneo</value></content>
+<content><country></country><lang>pt_BR</lang><value>Sinal de temporário</value></content>
+<content><country></country><lang>th</lang><value>เครื่องหมายชั่วคราว</value></content>
+<content><country></country><lang>zh</lang><value>是否为临时</value></content>
+<content><country></country><lang>zh_TW</lang><value>是否為臨時</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Termination Reason Id</value></content>
+<content><country></country><lang>fr</lang><value>Motif de la fin de contrat</value></content>
+<content><country></country><lang>it</lang><value>Motivazione Licenziamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id da razão de encerramento</value></content>
+<content><country></country><lang>th</lang><value>รหัสขอบเขตเหตุผล</value></content>
+<content><country></country><lang>zh</lang><value>雇佣关系终止原因编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇佣關系終止原因編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Termination Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Type de fin de contrat</value></content>
+<content><country></country><lang>it</lang><value>Tipo Licenziamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de encerramento</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภทขอบเขตเหตุผล</value></content>
+<content><country></country><lang>zh</lang><value>雇佣关系终止类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇佣關系終止類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Title</value></content>
+<content><country></country><lang>fr</lang><value>Titre</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Training Class Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Type de formation</value></content>
+<content><country></country><lang>it</lang><value>Tipo classe corso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de classe de treinamento</value></content>
+<content><country></country><lang>zh</lang><value>培训课程类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>培訓課程類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Training Request Id</value></content>
+<content><country></country><lang>fr</lang><value>Approbation</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unemployment Claim Date</value></content>
+<content><country></country><lang>fr</lang><value>Date de demande du chômage</value></content>
+<content><country></country><lang>it</lang><value>Data Reclamo Disoccupazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data de reivindicação de desemprego</value></content>
+<content><country></country><lang>th</lang><value>จำนวนผู้ว่างงานเรียกร้องวันที่</value></content>
+<content><country></country><lang>zh</lang><value>解除雇佣关系声明日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>解除雇佣關系聲明日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unemployment Claim Id</value></content>
+<content><country></country><lang>fr</lang><value>Date de demande du chômage</value></content>
+<content><country></country><lang>it</lang><value>Reclamo Disoccupazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de reivindicação de desemprego</value></content>
+<content><country></country><lang>th</lang><value>รหัสจำนวนผู้ว่างงานเรียกร้อง</value></content>
+<content><country></country><lang>zh</lang><value>解除雇佣关系声明编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>解除雇佣關系聲明編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Verif Status Id</value></content>
+<content><country></country><lang>fr</lang><value>Verifié</value></content>
+<content><country></country><lang>it</lang><value>Stato verifica</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de estado de verificação</value></content>
+<content><country></country><lang>zh</lang><value>审核状态</value></content>
+<content><country></country><lang>zh_TW</lang><value>審核狀態</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Jahre der Erfahrung</value></content>
+<content><country></country><lang>en</lang><value>Years Experience</value></content>
+<content><country></country><lang>fr</lang><value>Années d'expérience</value></content>
+<content><country></country><lang>it</lang><value>Anni di Esperienza</value></content>
+<content><country></country><lang>pt_BR</lang><value>Anos de experiência</value></content>
+<content><country></country><lang>th</lang><value>ประสบการณ์(ปี)</value></content>
+<content><country></country><lang>zh</lang><value>工作经验（年）</value></content>
+<content><country></country><lang>zh_TW</lang><value>工作經驗（年）</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Employee Leave</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter le congé</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi uscita di un'impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar licença de empregado</value></content>
+<content><country></country><lang>zh</lang><value>新建雇员请假</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建雇員請假</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Employee Leave Reason</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter un type de congé</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar razão para licença de empregado</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add EmplLeave Types</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter un type de congé</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi tipo licenziamento impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar tipos de licença de empregado</value></content>
+<content><country></country><lang>zh</lang><value>新建雇员请假类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建雇員請假類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Position Fulfillment</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter l'acquisition de position</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi posizione soddisfazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar desempenho de posição</value></content>
+<content><country></country><lang>zh</lang><value>新建属于该职位雇员</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建屬于該職位雇員</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Position Responsibility</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter la responsabilité de la position</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi posizione responsabilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar responsabilidade de posição</value></content>
+<content><country></country><lang>zh</lang><value>新建职位职责</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建職位職責</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Job Interview Type</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter un type d'entretien</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar tipo de entrevista de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Party Benefit</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter l'avantage</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi benefit soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar benefício de participante</value></content>
+<content><country></country><lang>zh</lang><value>新建会员福利</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建會員福利</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Party Qualification</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter la qualification</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi qualifica soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar qualificação de participante</value></content>
+<content><country></country><lang>zh</lang><value>添加会员资质</value></content>
+<content><country></country><lang>zh_TW</lang><value>添加會員資質</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Party Skill</value></content>
+<content><country></country><lang>fr</lang><value>Ajoutez la compétence</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi abilità soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar habilidade de participante</value></content>
+<content><country></country><lang>zh</lang><value>添加会员技能</value></content>
+<content><country></country><lang>zh_TW</lang><value>添加會員技能</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Payroll Preference</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter la préférence de registre du personnel</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi preferenze paghe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar preferência de folha de pagamento</value></content>
+<content><country></country><lang>zh</lang><value>新建薪水支付方式</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建薪水支付方式</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Performance Note</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter la note de performance</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi note di valutazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar nota de desempenho</value></content>
+<content><country></country><lang>zh</lang><value>新建绩效注释</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建績效注釋</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add PerfReview Items</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter des lignes d'évaluation de performance</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi righe di valutazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar itens de avaliação de desempenho</value></content>
+<content><country></country><lang>zh</lang><value>新建绩效评定项</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建績效評定項</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Personenschulung hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Person Training</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter la formation de la personne</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi corsi persona</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar treinamento para pessoa</value></content>
+<content><country></country><lang>zh</lang><value>新建个人培训</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建個人培訓</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Empl Position Reporting Struct [Reported To ${parameters.emplPositionId}]</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter le compte-rendu de position [en rapport avec ${parameters.emplPositionId}</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi posizione impiegato per le competenze [competenze di ${parameters.emplPositionId}]</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar estrutura de relatório de posição de empregado [Relatado para ${parameters.emplPositionId}]</value></content>
+<content><country></country><lang>zh</lang><value>新建雇员职位级别结构 [上级为 ${parameters.emplPositionId}]</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建雇員職位級別結構 [上級為 ${parameters.emplPositionId}]</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Empl Position Reporting Struct [${parameters.emplPositionId} Reports To]</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter le compte-rendu de position [${parameters.emplPositionId} qui se rapporte à]</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi posizione impiegato per le competenze [${parameters.emplPositionId} competenze a]</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar estrutura de relatório de posição de empregado [${parameters.emplPositionId} se relata a]</value></content>
+<content><country></country><lang>zh</lang><value>新建雇员职位级别结构 [${parameters.emplPositionId}的上级为]</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建雇員職位級別結構 [${parameters.emplPositionId}的上級為]</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Salary Step</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter l'augmentation de salaire</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi avanzamento di salario</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar aumento salarial</value></content>
+<content><country></country><lang>zh</lang><value>新建薪水等级</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建薪水等級</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Skill Type</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter un type de compétence</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi tipo abilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar tipo de habilidade</value></content>
+<content><country></country><lang>zh</lang><value>新建技能类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建技能類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Termination Reason</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter le motif de la fin de contrat</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi motivazione licenziamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar razão para encerramento</value></content>
+<content><country></country><lang>zh</lang><value>新建雇佣关系终止原因</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建雇佣關系終止原因</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Termination Type</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter un type de fin de contrat</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi tipo terminazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar tipo de encerramento</value></content>
+<content><country></country><lang>zh</lang><value>新建雇佣关系终止类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建雇佣關系終止類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Unemployment Claim</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter la demande de chômage</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi richiesta di disoccupazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar reivindicação de desemprego</value></content>
+<content><country></country><lang>zh</lang><value>新建解除雇佣关系声明</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建解除雇佣關系聲明</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Valid Responsibility</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une responsabilité valable</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi responsibilità valida</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar responsabilidade válida</value></content>
+<content><country></country><lang>zh</lang><value>新建有效责任</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建有效責任</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Agreement Employment Appl</value></content>
+<content><country></country><lang>fr</lang><value>Application d'accord d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Applicazione contratti d'impiego</value></content>
+<content><country></country><lang>pt_BR</lang><value>Candidatura ao acordo empregatício</value></content>
+<content><country></country><lang>zh</lang><value>雇佣合同</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇佣合同</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Einsatzgebiet ID</value></content>
+<content><country></country><lang>en</lang><value>Application Id</value></content>
+<content><country></country><lang>fr</lang><value>Demande d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Codice Applicazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de candidatura</value></content>
+<content><country></country><lang>th</lang><value>รหัสโปรแกรมประยุกต์</value></content>
+<content><country></country><lang>zh</lang><value>应聘申请编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>應聘申請編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Approval</value></content>
+<content><country></country><lang>fr</lang><value>Approbation</value></content>
+<content><country></country><lang>pt_BR</lang><value>Aprovação</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Budget ID</value></content>
+<content><country></country><lang>fr</lang><value>Budget</value></content>
+<content><country></country><lang>it</lang><value>Codice Budget</value></content>
+<content><country></country><lang>pt_BR</lang><value>orçamento</value></content>
+<content><country></country><lang>th</lang><value>รหัสงบประมาณ</value></content>
+<content><country></country><lang>zh</lang><value>预算编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>預算編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Budget Item Id</value></content>
+<content><country></country><lang>fr</lang><value>Ligne budgétaire</value></content>
+<content><country></country><lang>it</lang><value>Riga Budget</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de item de orçamento</value></content>
+<content><country></country><lang>th</lang><value>รหัสรายการงบประมาณ</value></content>
+<content><country></country><lang>zh</lang><value>预算项目编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>預算專案編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OFBiz: Human Resources Manager</value></content>
+<content><country></country><lang>fr</lang><value>OFBiz : gestion de ressources humaines</value></content>
+<content><country></country><lang>it</lang><value>OFBiz: Gestione Risorse Umane</value></content>
+<content><country></country><lang>pt_BR</lang><value>OFBiz: Gestão de recursos humanos</value></content>
+<content><country></country><lang>th</lang><value>OFBiz: การจัดการบุคคล</value></content>
+<content><country></country><lang>zh</lang><value>OFBiz: 人力资源管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>OFBiz: 人力資源管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Part of the Open For Business Family of Open Source Software</value></content>
+<content><country></country><lang>fr</lang><value>Partie de l'ouverture pour la famille d'affaires du logiciel libre</value></content>
+<content><country></country><lang>it</lang><value>Un modulo della famiglia di software open source Open For Business</value></content>
+<content><country></country><lang>pt_BR</lang><value>Parte da Família Open For Business de Software livre</value></content>
+<content><country></country><lang>th</lang><value>เป็นส่วนหนึ่งของธุรกิจแบบครอบครัวที่เป็นซอฟต์แวร์โอเพนซอส</value></content>
+<content><country></country><lang>zh</lang><value>开源软件OFBiz家族的一部分</value></content>
+<content><country></country><lang>zh_TW</lang><value>開源軟件OFBiz家族的一部分</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Current Employment information</value></content>
+<content><country></country><lang>fr</lang><value>Information actuelles sur l'emploi</value></content>
+<content><country></country><lang>it</lang><value>Informazioni attuali sull'impiego</value></content>
+<content><country></country><lang>pt_BR</lang><value>Informação atual de empregado</value></content>
+<content><country></country><lang>zh</lang><value>当前雇佣关系信息</value></content>
+<content><country></country><lang>zh_TW</lang><value>當前雇佣關系資訊</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Agreement Employment Appl</value></content>
+<content><country></country><lang>fr</lang><value>Modifier l'accord d'application d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna applicazione contratto d'impiego</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar acordo de candidatura ao emprego</value></content>
+<content><country></country><lang>zh</lang><value>编辑雇佣合同</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯雇佣合同</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Approval Status</value></content>
+<content><country></country><lang>fr</lang><value>Modifier un status d'approbation</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar estado de aprovação</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Empl Leave</value></content>
+<content><country></country><lang>fr</lang><value>Modifier une demande de congé</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna licenziamento impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar licença de empregado</value></content>
+<content><country></country><lang>zh</lang><value>编辑雇员请假</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯雇員請假</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Empl Leave Type</value></content>
+<content><country></country><lang>fr</lang><value>Modifier un type de congé</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna tipo licenziamento impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar tipo de licença de empregado</value></content>
+<content><country></country><lang>zh</lang><value>编辑雇员请假类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯雇員請假類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Employee Position</value></content>
+<content><country></country><lang>fr</lang><value>Modifier la position de l'employé</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna posizione impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar posição de empregado</value></content>
+<content><country></country><lang>zh</lang><value>编辑雇员职位</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯雇員職位</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit EmplPosition Reporting Structure</value></content>
+<content><country></country><lang>fr</lang><value>Modifier la structure du rapport de position des employés</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Struttura Stampa Posizione Impiegati</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar estrutura de relatórios de posição de empregados</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขโครงสร้างรายงานตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>编辑雇员职位级别结构</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯雇員職位級別結構</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Position Types</value></content>
+<content><country></country><lang>fr</lang><value>Modifier les types de position</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna tipi posizione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar tipos de posição</value></content>
+<content><country></country><lang>zh</lang><value>编辑职位类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯職位類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Employment</value></content>
+<content><country></country><lang>fr</lang><value>Modifier l'emploi</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna impiego</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar emprego</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขการจ้างงาน</value></content>
+<content><country></country><lang>zh</lang><value>编辑雇佣关系</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯雇佣關系</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Employment Application</value></content>
+<content><country></country><lang>fr</lang><value>Modifier la demande d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna la candidatura d'impiego</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar candidatura ao emprego</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขโปรแกรมประยุกต์ใช้การจ้างงาน</value></content>
+<content><country></country><lang>zh</lang><value>编辑雇佣关系申请</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯雇佣關系申請</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Job Interview</value></content>
+<content><country></country><lang>fr</lang><value>Modifier un entretien</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar entrevista de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Job Requisition</value></content>
+<content><country></country><lang>fr</lang><value>Editer une demande de poste</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar requisição de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Leave Approval Status</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar Estado de aprovação de licença</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Party Benefits</value></content>
+<content><country></country><lang>fr</lang><value>Avantages</value></content>
+<content><country></country><lang>it</lang><value>Benefit soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Benefícios do participante</value></content>
+<content><country></country><lang>zh</lang><value>会员福利</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員福利</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit party Qualification</value></content>
+<content><country></country><lang>fr</lang><value>Modifier la qualification de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Qualifica Soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar qualificação de participante</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขกลุ่มคุณสมบัติ</value></content>
+<content><country></country><lang>zh</lang><value>编辑会员资质</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯會員資質</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Party Resume</value></content>
+<content><country></country><lang>fr</lang><value>Modifier le CV de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Riassunto Soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar currículo de participante</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขประวัติย่อ</value></content>
+<content><country></country><lang>zh</lang><value>编辑会员履历</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯會員履歷</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Party Reviews</value></content>
+<content><country></country><lang>fr</lang><value>Evaluations</value></content>
+<content><country></country><lang>it</lang><value>Verifica soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Avaliações de participante</value></content>
+<content><country></country><lang>zh</lang><value>会员评定</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員評定</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit party Skill</value></content>
+<content><country></country><lang>fr</lang><value>Modifier les compétences de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Abilità Soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar habilidade de participante</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขกลุ่มทักษะ</value></content>
+<content><country></country><lang>zh</lang><value>编辑会员技能</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯會員技能</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Pay Grade</value></content>
+<content><country></country><lang>fr</lang><value>Modifier l'échelon de salaire</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna grado paga</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar degrau salarial</value></content>
+<content><country></country><lang>zh</lang><value>编辑薪水等级</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯薪水等級</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay Histories</value></content>
+<content><country></country><lang>fr</lang><value>Historique de salaire</value></content>
+<content><country></country><lang>it</lang><value>Storia paghe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Histórico salarial</value></content>
+<content><country></country><lang>zh</lang><value>编辑薪水历史</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯薪水歷史</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Payroll Preferences</value></content>
+<content><country></country><lang>fr</lang><value>Préférences de registre du personnel</value></content>
+<content><country></country><lang>it</lang><value>Preferenze paghe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Preferências da folha de pagamentos</value></content>
+<content><country></country><lang>zh</lang><value>薪水支付方式</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水支付方式</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PerfReview Items</value></content>
+<content><country></country><lang>fr</lang><value>Lignes d'évaluation des performances</value></content>
+<content><country></country><lang>it</lang><value>Righe performance</value></content>
+<content><country></country><lang>pt_BR</lang><value>Itens de avaliação de desempenho</value></content>
+<content><country></country><lang>zh</lang><value>绩效评定项</value></content>
+<content><country></country><lang>zh_TW</lang><value>績效評定項</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Salary Steps</value></content>
+<content><country></country><lang>fr</lang><value>Augmentations de salaire</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Passi Salario</value></content>
+<content><country></country><lang>pt_BR</lang><value>Degraus salariais</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขขั้นเงินเดือน</value></content>
+<content><country></country><lang>zh</lang><value>薪水浮动</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水浮動</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unemployment Claims</value></content>
+<content><country></country><lang>fr</lang><value>Demandes de chômage</value></content>
+<content><country></country><lang>it</lang><value>Richiesta di disoccupazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Reivindicações de desemprego</value></content>
+<content><country></country><lang>zh</lang><value>解除雇佣关系声明</value></content>
+<content><country></country><lang>zh_TW</lang><value>解除雇佣關系聲明</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entlassungen</value></content>
+<content><country></country><lang>en</lang><value>Leave</value></content>
+<content><country></country><lang>fr</lang><value>Congé</value></content>
+<content><country></country><lang>it</lang><value>Licenziamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Licença</value></content>
+<content><country></country><lang>zh</lang><value>考勤管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>考勤管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kündingungsarten</value></content>
+<content><country></country><lang>en</lang><value>Employee Leave Type</value></content>
+<content><country></country><lang>fr</lang><value>Type de congé des employés</value></content>
+<content><country></country><lang>it</lang><value>Tipo licenziamento impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipo de licença de empregado</value></content>
+<content><country></country><lang>zh</lang><value>雇员请假类型类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇員請假類型類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Not specified</value></content>
+<content><country></country><lang>it</lang><value>Non specificato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não especificado</value></content>
+<content><country></country><lang>zh</lang><value>未指定</value></content>
+<content><country></country><lang>zh_TW</lang><value>未指定</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Employee Position Id</value></content>
+<content><country></country><lang>fr</lang><value>Position des employés</value></content>
+<content><country></country><lang>it</lang><value>Codice Posizione Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de posição de empregado</value></content>
+<content><country></country><lang>th</lang><value>รหัสตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>雇员职位编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇員職位編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>EmplPosition Id ManagedBy</value></content>
+<content><country></country><lang>fr</lang><value>Position "dirigée par"</value></content>
+<content><country></country><lang>it</lang><value>Codice Posizione Impiegato Gestita Da</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de posição de empregado administrada por</value></content>
+<content><country></country><lang>th</lang><value>การจัดการโดยรหัสตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>职位管理人</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位管理人</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>EmplPosition Id ReportingFrom</value></content>
+<content><country></country><lang>fr</lang><value>Position "rapportant depuis"</value></content>
+<content><country></country><lang>it</lang><value>Codice Posizione Impiegato Stampato A</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de Posição de empregado se reportando de</value></content>
+<content><country></country><lang>th</lang><value>รายงานจากรหัสตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>职位下级</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位下級</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>EmplPosition Id ReportingTo</value></content>
+<content><country></country><lang>fr</lang><value>Position "rapportant à"</value></content>
+<content><country></country><lang>it</lang><value>Codice Posizione Impiegato Stampato Da</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de Posição de empregado se reportando a</value></content>
+<content><country></country><lang>th</lang><value>ถึงรายงานรหัสตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>职位上级</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位上級</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Reporting Structure</value></content>
+<content><country></country><lang>fr</lang><value>Structure de rapport</value></content>
+<content><country></country><lang>it</lang><value>Struttura delle competenze</value></content>
+<content><country></country><lang>pt_BR</lang><value>Estrutura de relatórios</value></content>
+<content><country></country><lang>zh</lang><value>级别结构</value></content>
+<content><country></country><lang>zh_TW</lang><value>級別結構</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Responsibilities</value></content>
+<content><country></country><lang>fr</lang><value>Responsabilités</value></content>
+<content><country></country><lang>it</lang><value>Responsibilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Responsabilidades</value></content>
+<content><country></country><lang>zh</lang><value>责任</value></content>
+<content><country></country><lang>zh_TW</lang><value>責任</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Empl Position Summary</value></content>
+<content><country></country><lang>it</lang><value>Sommario posizione impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Resumo da posição do empregado</value></content>
+<content><country></country><lang>zh</lang><value>职位汇总</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位匯總</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Stellenarten</value></content>
+<content><country></country><lang>en</lang><value>Position Types</value></content>
+<content><country></country><lang>fr</lang><value>Types de position</value></content>
+<content><country></country><lang>it</lang><value>Tipi posizione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipos de posição</value></content>
+<content><country></country><lang>zh</lang><value>职位类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Position Type Rate</value></content>
+<content><country></country><lang>fr</lang><value>Taux par type de position</value></content>
+<content><country></country><lang>it</lang><value>Tipo posizione percentuale</value></content>
+<content><country></country><lang>pt_BR</lang><value>Classe de Tipo de posição</value></content>
+<content><country></country><lang>zh</lang><value>职位薪水管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位薪水管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>emplPositionIdReportingTo and emplPositionIdManagedBy must be different</value></content>
+<content><country></country><lang>fr</lang><value>Les positions "rapportant à" et "dirigée par" doivent être différentes</value></content>
+<content><country></country><lang>it</lang><value>emplPositionIdReportingTo e emplPositionIdManagedBy sono differenti</value></content>
+<content><country></country><lang>pt_BR</lang><value>Participante ao qual se reporta e o que gerencia devem ser diferentes</value></content>
+<content><country></country><lang>zh</lang><value>职位上级与职位下级必须不同</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位上級與職位下級必須不同</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>EmplLeave Reason Type</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipo de razão de licença de empregado</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>an employee</value></content>
+<content><country></country><lang>es</lang><value>un empleado</value></content>
+<content><country></country><lang>fr</lang><value>un employé</value></content>
+<content><country></country><lang>it</lang><value>un'impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>um empregado</value></content>
+<content><country></country><lang>zh</lang><value>雇员</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇員</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Employee Leave</value></content>
+<content><country></country><lang>fr</lang><value>Congés d'employés</value></content>
+<content><country></country><lang>pt_BR</lang><value>Licença de empregado</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Leave Type</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipo de Licença</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Employee Party Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. d'acteur de l'employé</value></content>
+<content><country></country><lang>it</lang><value>Codice Soggetto A</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do participante empregado</value></content>
+<content><country></country><lang>th</lang><value>ถึงรหัสกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>雇员系统编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇員系統編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Stellen</value></content>
+<content><country></country><lang>en</lang><value>Employee Positions</value></content>
+<content><country></country><lang>fr</lang><value>Positions d'employé</value></content>
+<content><country></country><lang>it</lang><value>Posizione Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Posição do empregado</value></content>
+<content><country></country><lang>th</lang><value>ตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>职位管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>EmployeePosition Id</value></content>
+<content><country></country><lang>fr</lang><value>Position d'employé</value></content>
+<content><country></country><lang>it</lang><value>Codice Posizione Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id da posição do empregado</value></content>
+<content><country></country><lang>th</lang><value>รหัสตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>职位编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>EmployeePosition Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Type de position d'employé</value></content>
+<content><country></country><lang>it</lang><value>Codice Tipo Posizione Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de posição do empregado</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภทตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>职位类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Reason Type</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipo de razão</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Angestellte</value></content>
+<content><country></country><lang>en</lang><value>Employees</value></content>
+<content><country></country><lang>es</lang><value>Empleados</value></content>
+<content><country></country><lang>fr</lang><value>Employés</value></content>
+<content><country></country><lang>it</lang><value>Impiegati</value></content>
+<content><country></country><lang>pt_BR</lang><value>Empregados</value></content>
+<content><country></country><lang>zh</lang><value>人事管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>人事管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Anstellungen</value></content>
+<content><country></country><lang>en</lang><value>Employments</value></content>
+<content><country></country><lang>fr</lang><value>Emplois</value></content>
+<content><country></country><lang>it</lang><value>Impieghi</value></content>
+<content><country></country><lang>pt_BR</lang><value>Empregos</value></content>
+<content><country></country><lang>th</lang><value>การจ้างงาน</value></content>
+<content><country></country><lang>zh</lang><value>部门管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>部門管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Einstellungsmöglichkeiten</value></content>
+<content><country></country><lang>en</lang><value>Employment Applications</value></content>
+<content><country></country><lang>es</lang><value>Aplicaciones de Empleo</value></content>
+<content><country></country><lang>fr</lang><value>Demandes d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Candidature d'impiego</value></content>
+<content><country></country><lang>pt_BR</lang><value>Candidaturas a emprego</value></content>
+<content><country></country><lang>th</lang><value>โปรแกรมประยุกต์ใช้การจ้างงาน</value></content>
+<content><country></country><lang>zh</lang><value>应聘管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>應聘管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Internal Organization</value></content>
+<content><country></country><lang>fr</lang><value>Organisation interne</value></content>
+<content><country></country><lang>it</lang><value>Organizzazione interna</value></content>
+<content><country></country><lang>pt_BR</lang><value>Organização interna</value></content>
+<content><country></country><lang>th</lang><value>จากรหัสกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>组织机构</value></content>
+<content><country></country><lang>zh_TW</lang><value>組織機構</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Internal Organization Employee works in</value></content>
+<content><country></country><lang>fr</lang><value>Organisation interne où l'employé travaille</value></content>
+<content><country></country><lang>it</lang><value>Organizzazione interna per cui lavora l'impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Organização interna para a qual o empregado trabalha</value></content>
+<content><country></country><lang>zh</lang><value>雇员工作的内部组织</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇員工作的內部組織</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Estimated FromDate</value></content>
+<content><country></country><lang>fr</lang><value>Date de début estimée</value></content>
+<content><country></country><lang>it</lang><value>Data Inizio Stimata</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data estimada de início</value></content>
+<content><country></country><lang>th</lang><value>จากประมาณวันที่</value></content>
+<content><country></country><lang>zh</lang><value>预计起始日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>預計起始日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entlassungssuche</value></content>
+<content><country></country><lang>en</lang><value>Find Employee Leave</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher un congé de l'employé</value></content>
+<content><country></country><lang>it</lang><value>Ricerca licenziamenti impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar licença de empregado</value></content>
+<content><country></country><lang>zh</lang><value>查找雇员请假</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找雇員請假</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Stelle suchen</value></content>
+<content><country></country><lang>en</lang><value>Find Employee Position</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher la position de l'employé</value></content>
+<content><country></country><lang>it</lang><value>Ricerca posizioni impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar posição de empregado</value></content>
+<content><country></country><lang>zh</lang><value>查找雇员职位</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找雇員職位</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Einstellung finden</value></content>
+<content><country></country><lang>en</lang><value>Find Employment</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher un emploi</value></content>
+<content><country></country><lang>it</lang><value>Ricerca impieghi</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar emprego</value></content>
+<content><country></country><lang>zh</lang><value>查找雇佣关系</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找雇佣關系</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Bewerbungssuche</value></content>
+<content><country></country><lang>en</lang><value>Find Employment Application</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher la demande d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Ricerca candidature d'impiego</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar candidatura a emprego</value></content>
+<content><country></country><lang>zh</lang><value>查找求职应聘申请</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找求職應聘申請</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Qualifikationssuche</value></content>
+<content><country></country><lang>en</lang><value>Find Party Qualification</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher la qualification de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Ricerca qualifica soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar qualificação do participante</value></content>
+<content><country></country><lang>zh</lang><value>查找会员资质</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找會員資質</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Lebenslaufsuche</value></content>
+<content><country></country><lang>en</lang><value>Find Party Resume</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher le CV de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Ricerca riassunto soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar currículo do participante</value></content>
+<content><country></country><lang>zh</lang><value>查找会员履历</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找會員履歷</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kompetenzsuche</value></content>
+<content><country></country><lang>en</lang><value>Find Party Skills</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher les compétences de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Ricerca abilità soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar habilidades do participante</value></content>
+<content><country></country><lang>zh</lang><value>查找会员技能</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找會員技能</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Gehaltsklassensuche</value></content>
+<content><country></country><lang>en</lang><value>Find Pay Grade</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher l'échelon de salaire</value></content>
+<content><country></country><lang>it</lang><value>Ricerca grado paga</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar degrau salarial</value></content>
+<content><country></country><lang>zh</lang><value>查找薪水等级</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找薪水等級</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Leistungbewertungssuche</value></content>
+<content><country></country><lang>en</lang><value>Find Performance Review</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher l'évaluation de performance</value></content>
+<content><country></country><lang>it</lang><value>Ricerca verifica performance</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar avaliação de desempenho</value></content>
+<content><country></country><lang>zh</lang><value>查找绩效</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找績效</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ausbildungssuche</value></content>
+<content><country></country><lang>en</lang><value>Find Person Training</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher la formation de la personne</value></content>
+<content><country></country><lang>it</lang><value>Ricerca corsi persona</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar treinamento de pessoa</value></content>
+<content><country></country><lang>zh</lang><value>查找个人培训</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找個人培訓</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Position Types</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher les types de position</value></content>
+<content><country></country><lang>it</lang><value>Ricerca tipi posizione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar tipos de posição</value></content>
+<content><country></country><lang>zh</lang><value>查找职位类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找職位類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Globale Personaleinstellungen</value></content>
+<content><country></country><lang>en</lang><value>Global HR Settings</value></content>
+<content><country></country><lang>fr</lang><value>Configuration globales des ressources humaines</value></content>
+<content><country></country><lang>it</lang><value>Impostazioni globali risorse umane</value></content>
+<content><country></country><lang>pt_BR</lang><value>Configurações globais de recursos humanos</value></content>
+<content><country></country><lang>zh</lang><value>参数设置</value></content>
+<content><country></country><lang>zh_TW</lang><value>參數設置</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>IJP Status</value></content>
+<content><country></country><lang>pt_BR</lang><value>Estado de IJP</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Internal Job Posting</value></content>
+<content><country></country><lang>fr</lang><value>Offre d'emploi interne</value></content>
+<content><country></country><lang>pt_BR</lang><value>Oferta interna de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Job Interview</value></content>
+<content><country></country><lang>fr</lang><value>Entretien</value></content>
+<content><country></country><lang>pt_BR</lang><value>Entrevista de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Job Interview Type</value></content>
+<content><country></country><lang>fr</lang><value>Type d'entretien</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipo de entrevista de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Job Requisition</value></content>
+<content><country></country><lang>fr</lang><value>Demande de poste</value></content>
+<content><country></country><lang>pt_BR</lang><value>Petição de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Leave Approval</value></content>
+<content><country></country><lang>fr</lang><value>Approbation de congés</value></content>
+<content><country></country><lang>pt_BR</lang><value>Aprovação de licença</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Leave</value></content>
+<content><country></country><lang>pt_BR</lang><value>Licença</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List Employment</value></content>
+<content><country></country><lang>fr</lang><value>Liste d'emplois</value></content>
+<content><country></country><lang>it</lang><value>Lista impieghi</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar empregos</value></content>
+<content><country></country><lang>th</lang><value>รายการการจ้างงาน</value></content>
+<content><country></country><lang>zh</lang><value>雇佣关系列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇佣關系列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List Party Benefits</value></content>
+<content><country></country><lang>fr</lang><value>Liste d'avantages de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Lista Benefits Soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar benefícios de participante</value></content>
+<content><country></country><lang>th</lang><value>รายการกลุ่มผลประโยชน์</value></content>
+<content><country></country><lang>zh</lang><value>会员福利列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員福利列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List Pay Histories</value></content>
+<content><country></country><lang>fr</lang><value>Liste d'historique de salaires</value></content>
+<content><country></country><lang>it</lang><value>Lista Storia Paghe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar histórico de pagamentos</value></content>
+<content><country></country><lang>th</lang><value>รายการจ่ายข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>薪水历史列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水歷史列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List Payroll Preferences</value></content>
+<content><country></country><lang>fr</lang><value>Liste des préférences de registre du personnel</value></content>
+<content><country></country><lang>it</lang><value>Lista Preferenze Paghe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar preferências de folha de pagamento</value></content>
+<content><country></country><lang>th</lang><value>รายการอ้างอิงเงินเดือน</value></content>
+<content><country></country><lang>zh</lang><value>薪水支付方式列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水支付方式列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List Skill Types</value></content>
+<content><country></country><lang>fr</lang><value>Liste de types de compétence</value></content>
+<content><country></country><lang>it</lang><value>Lista tipi abilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar tipos de habilidades</value></content>
+<content><country></country><lang>th</lang><value>รายการประเภททักษะ</value></content>
+<content><country></country><lang>zh</lang><value>技能类型列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>技能類型列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List Valid Responsibility</value></content>
+<content><country></country><lang>fr</lang><value>Liste de responsabilité valide</value></content>
+<content><country></country><lang>it</lang><value>Lista Validità Responsibilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar responsabilidades válidas</value></content>
+<content><country></country><lang>th</lang><value>รายการหน้าที่รับผิดชอบ</value></content>
+<content><country></country><lang>zh</lang><value>有效责任列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>有效責任列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup Agreement</value></content>
+<content><country></country><lang>fr</lang><value>Consultation d'accord</value></content>
+<content><country></country><lang>it</lang><value>Ricerca contratto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar por acordos</value></content>
+<content><country></country><lang>zh</lang><value>合同查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>合同查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup AgreementEmploymentAppl</value></content>
+<content><country></country><lang>fr</lang><value>Consultation d'accord sur demande d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Ricerca contratti d'impiego</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar acordo de candidatura ao emprego</value></content>
+<content><country></country><lang>zh</lang><value>雇佣合同查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇佣合同查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup AgreementId</value></content>
+<content><country></country><lang>fr</lang><value>Consultation d'accord</value></content>
+<content><country></country><lang>it</lang><value>Ricerca contratto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar de Id de acordo</value></content>
+<content><country></country><lang>zh</lang><value>合同编号查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>合同編號查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup AgreementItemSeqId</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de ligne séq. d'accord</value></content>
+<content><country></country><lang>it</lang><value>Ricerca riga contratto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar por Id de sequencia de acordo</value></content>
+<content><country></country><lang>zh</lang><value>合同项序号查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>合同項序號查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup ApplicationId</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de réf. d'application</value></content>
+<content><country></country><lang>it</lang><value>Ricerca applicazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar por Id de candidatura</value></content>
+<content><country></country><lang>zh</lang><value>应聘求职编号查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>應聘求職編號查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup Budget by Name</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de budget par nom</value></content>
+<content><country></country><lang>it</lang><value>Ricerca Budget per Nome</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar orçamento por nome</value></content>
+<content><country></country><lang>th</lang><value>ค้นหางบประมาณโดยชื่อ</value></content>
+<content><country></country><lang>zh</lang><value>按名称的预算查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>按名稱的預算查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup Budget Item by Name</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de ligne budgétaire par nom</value></content>
+<content><country></country><lang>it</lang><value>Ricerca Riga Budget per Nome</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar item de orçamento por nome</value></content>
+<content><country></country><lang>th</lang><value>ค้นหารายการงบประมาณโดยชื่อ</value></content>
+<content><country></country><lang>zh</lang><value>按名称的预算项查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>按名稱的預算項查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup EmplPosition by Name</value></content>
+<content><country></country><lang>fr</lang><value>Consultation des positions par nom</value></content>
+<content><country></country><lang>it</lang><value>Ricerca Posizione Impiegato per Nome</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar posição por nome</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาตำแหน่งพนักงานโดยชื่อ</value></content>
+<content><country></country><lang>zh</lang><value>按名称的雇员职位查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>按名稱的雇員職位查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup EmploymentApp</value></content>
+<content><country></country><lang>fr</lang><value>Consultation des demandes d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Ricerca candidature d'impiego</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar candidatura de emprego</value></content>
+<content><country></country><lang>zh</lang><value>雇佣关系申请查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇佣關系申請查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup PartyResume</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de CV</value></content>
+<content><country></country><lang>it</lang><value>Ricerca riassunto soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar currículo de participante</value></content>
+<content><country></country><lang>zh</lang><value>会员履历查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員履歷查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup PayGrade</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de catégorie de salaire</value></content>
+<content><country></country><lang>it</lang><value>Ricerca Grado Paga</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar degrau salarial</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาการจ่ายข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>薪水等级查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水等級查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup PayGrade Id</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de catégorie de salaire</value></content>
+<content><country></country><lang>it</lang><value>Ricerca Codice Grado Paga</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar Id de degrau salarial</value></content>
+<content><country></country><lang>th</lang><value>ค้นหารหัสการจ่ายข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>薪水等级编号查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水等級編號查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup PayRollPreference</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de préférence de registre du personnel</value></content>
+<content><country></country><lang>it</lang><value>Ricerca preferenza paghe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar configuração de folha de pagamento</value></content>
+<content><country></country><lang>zh</lang><value>薪水支付方式查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水支付方式查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup PayrollPreferenceSeqId</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de préférence séq. de registre du personnel</value></content>
+<content><country></country><lang>it</lang><value>Ricerca preferenza riga paghe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar Id de Sequência de configuração de folha de pagamento</value></content>
+<content><country></country><lang>zh</lang><value>薪水支付方式序号查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水支付方式序號查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup PerfReview</value></content>
+<content><country></country><lang>fr</lang><value>Consultation d'évaluation de performance</value></content>
+<content><country></country><lang>it</lang><value>Ricerca verifica performance</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar avaliação de desempenho</value></content>
+<content><country></country><lang>zh</lang><value>绩效查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>績效查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup PerfReviewId</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de réf. d'évaluation de performance</value></content>
+<content><country></country><lang>it</lang><value>Ricerca verifica performance</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar Id de avaliação de desempenho</value></content>
+<content><country></country><lang>zh</lang><value>绩效评定编号查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>績效評定編號查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup ResumeId</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de CV</value></content>
+<content><country></country><lang>it</lang><value>Ricerca riassunto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar por de currículo</value></content>
+<content><country></country><lang>zh</lang><value>履历编号查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>履歷編號查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup Salary StepSeq Id</value></content>
+<content><country></country><lang>fr</lang><value>Consultation des augmentations de salaire</value></content>
+<content><country></country><lang>it</lang><value>Ricerca Sequenza Passo Salario</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar por Id de aumentos salariais</value></content>
+<content><country></country><lang>th</lang><value>ค้นหารหัสรายการขั้นเงินเดือน</value></content>
+<content><country></country><lang>zh</lang><value>薪水浮动编号查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水浮動編號查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup Termination Reason</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de motif de fin de contrat</value></content>
+<content><country></country><lang>it</lang><value>Ricerca Motivazioni Licenziamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar razão de encerramento</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาขอบเขตเหตุผล</value></content>
+<content><country></country><lang>zh</lang><value>雇佣关系终止原因查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇佣關系終止原因查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup UnemploymentClaim</value></content>
+<content><country></country><lang>fr</lang><value>Consultation des demandes de chômage</value></content>
+<content><country></country><lang>it</lang><value>Ricerca richiesta di disoccupazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar por reivindicação de desemprego</value></content>
+<content><country></country><lang>zh</lang><value>解除雇佣关系声明查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>解除雇佣關系聲明查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup UnemploymentClaimId</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de demande de chômage</value></content>
+<content><country></country><lang>it</lang><value>Ricerca richiesta di disoccupazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar por Id de reivindicação de desemprego</value></content>
+<content><country></country><lang>zh</lang><value>解除雇佣关系声明编号查询</value></content>
+<content><country></country><lang>zh_TW</lang><value>解除雇佣關系聲明編號查詢</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Personalverwaltung</value></content>
+<content><country></country><lang>en</lang><value>Human Resources</value></content>
+<content><country></country><lang>fr</lang><value>Application de gestion des ressources humaines</value></content>
+<content><country></country><lang>it</lang><value>Gestione risorse umane</value></content>
+<content><country></country><lang>pt_BR</lang><value>Recursos Humanos</value></content>
+<content><country></country><lang>th</lang><value>โปรแกรมประยุกต์ใช้การจัดการบุคคล</value></content>
+<content><country></country><lang>zh</lang><value>人力资源管理系统</value></content>
+<content><country></country><lang>zh_TW</lang><value>人力資源管理系統</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Personalverwaltung</value></content>
+<content><country></country><lang>en</lang><value>Human Resources Application</value></content>
+<content><country></country><lang>fr</lang><value>Application de gestion des ressources humaines</value></content>
+<content><country></country><lang>it</lang><value>Applicazione Gestione Risorse Umane</value></content>
+<content><country></country><lang>pt_BR</lang><value>Aplicativo de recursos humanos</value></content>
+<content><country></country><lang>th</lang><value>โปรแกรมประยุกต์ใช้การจัดการบุคคล</value></content>
+<content><country></country><lang>zh</lang><value>人力资源管理系统</value></content>
+<content><country></country><lang>zh_TW</lang><value>人力資源管理系統</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Stelle anlegen</value></content>
+<content><country></country><lang>en</lang><value>New Employee Position</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle position d'employé</value></content>
+<content><country></country><lang>it</lang><value>Nuova Posizione Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova posição de empregado</value></content>
+<content><country></country><lang>th</lang><value>ตำแหน่งพนักงานใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建雇员职位</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建雇員職位</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Employee Position Fulfillment</value></content>
+<content><country></country><lang>fr</lang><value>Nouveau pourvoiement de position d'employé</value></content>
+<content><country></country><lang>it</lang><value>Nuova Posizione Impiegato Adempimento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo Preenchimento de posição de empregado</value></content>
+<content><country></country><lang>th</lang><value>ตำแหน่งพนักงานที่ปฏิบัติภารกิจใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建该职位雇员</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建該職位雇員</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New EmplPositionReportingStruct</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle Structure de rapport de position d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Nuova Posizione Impiegato Struttura Stampa</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova estrutura de relatórios de posições de empregados</value></content>
+<content><country></country><lang>th</lang><value>รายงานโครงสร้างตำแหน่งพนักงานใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建职位级别结构</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建職位級別結構</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New EmplPosition Responsibility</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle responsabilité de position d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Nuova Posizione Responsabilità Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova responsabilidade para posição de empregado</value></content>
+<content><country></country><lang>th</lang><value>ตำแหน่งหน้าที่รับผิดชอบพนักงานใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建职位职责</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建職位職責</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Position Type</value></content>
+<content><country></country><lang>fr</lang><value>Nouveau type de position</value></content>
+<content><country></country><lang>it</lang><value>Nuovo tipo posizione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo tipo de posição</value></content>
+<content><country></country><lang>zh</lang><value>新建职位类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建職位類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Employee</value></content>
+<content><country></country><lang>fr</lang><value>Nouvel employé</value></content>
+<content><country></country><lang>it</lang><value>Nuovo impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo empregado</value></content>
+<content><country></country><lang>zh</lang><value>新建雇员</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建雇員</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Einstellung</value></content>
+<content><country></country><lang>en</lang><value>New Employment</value></content>
+<content><country></country><lang>fr</lang><value>Nouvel emploi</value></content>
+<content><country></country><lang>it</lang><value>Nuovo impiego</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo emprego</value></content>
+<content><country></country><lang>th</lang><value>การจ้างงานใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建部门人员</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建部門人員</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neue Bewerbung</value></content>
+<content><country></country><lang>en</lang><value>New Employment Application</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle demande d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Nuova candidatura d'impiego</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova candidatura a emprego</value></content>
+<content><country></country><lang>th</lang><value>โปรแกรมประยุกต์ใช้การจ้างงานใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建应聘求职申请</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建應聘求職申請</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Internal Job Posting</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle offre d'emploi interne</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova oferta interna de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Job Interview</value></content>
+<content><country></country><lang>fr</lang><value>Nouvel entretien</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova entrevista de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Job Requisition</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle demande de poste</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova petição de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Leave</value></content>
+<content><country></country><lang>fr</lang><value>Nouveau congé</value></content>
+<content><country></country><lang>it</lang><value>Nuovo licenziamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova licença</value></content>
+<content><country></country><lang>zh</lang><value>新建请假</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建請假</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Party Benefit</value></content>
+<content><country></country><lang>fr</lang><value>Nouvel d'avantage d'acteur</value></content>
+<content><country></country><lang>it</lang><value>Nuovo Benefit Soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo benefício de participante</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มผลประโยชน์ใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建会员福利</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建會員福利</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neue Qualifikation</value></content>
+<content><country></country><lang>en</lang><value>New Party Qualification</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle qualification d'acteur</value></content>
+<content><country></country><lang>it</lang><value>Nuova Qualifica Soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova qualificação de participante</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มคุณสมบัติใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建会员资质</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建會員資質</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neuer Lebenslauf</value></content>
+<content><country></country><lang>en</lang><value>New Party Resume</value></content>
+<content><country></country><lang>fr</lang><value>Nouveau CV d'acteur</value></content>
+<content><country></country><lang>it</lang><value>Nuovo Riassunto Soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo currículo de participante</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มประวัติย่อใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建会员履历</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建會員履歷</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neue Leistungsbewertung</value></content>
+<content><country></country><lang>en</lang><value>New PerfReview</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle évaluation de performances</value></content>
+<content><country></country><lang>it</lang><value>Nuova Rassegna Prestazioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova avaliação de desempenho</value></content>
+<content><country></country><lang>th</lang><value>การตรวจสอบสิทธิพิเศษใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建绩效</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建績效</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create/Update PerfReview</value></content>
+<content><country></country><lang>fr</lang><value>Création/Màj d'une évaluation de performances</value></content>
+<content><country></country><lang>it</lang><value>Crea/Aggiorna Rassegna Prestazioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Criar/Atualizar avaliação de desempenho</value></content>
+<content><country></country><lang>th</lang><value>สร้าง/แก้ไข การตรวจสอบสิทธิพิเศษ</value></content>
+<content><country></country><lang>zh</lang><value>新建/修改绩效</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建/修改績效</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New PerfReviewItem</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle ligne d'évaluation de performances</value></content>
+<content><country></country><lang>it</lang><value>Nuova Riga Rassegna Prestazioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo item de avaliação de desempenho</value></content>
+<content><country></country><lang>th</lang><value>รายการการตวจสอบสิทธิพิเศษใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建绩效评定项</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建績效評定項</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create/Update PerfReviewItem</value></content>
+<content><country></country><lang>fr</lang><value>Création/Màj d'une ligne d'évaluation de performances</value></content>
+<content><country></country><lang>it</lang><value>Crea/Aggiorna Riga Rassegna Prestazioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Criar/Atualizar Item de avaliação de desempenho</value></content>
+<content><country></country><lang>th</lang><value>สร้าง/แก้ไข รายการการตรวจสอบสิทธิพิเศษ</value></content>
+<content><country></country><lang>zh</lang><value>新建/修改绩效评定项</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建/修改績效評定項</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Party Skill</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle compétence de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Nuova Abilità Soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova habilidade de participante</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มทักษะใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建会员技能</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建會員技能</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Interne Organisation</value></content>
+<content><country></country><lang>en</lang><value>New Pay Grade</value></content>
+<content><country></country><lang>fr</lang><value>Nouvel échelon de salaire</value></content>
+<content><country></country><lang>it</lang><value>Nuovo Grado Paga</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo degrau salarial</value></content>
+<content><country></country><lang>th</lang><value>ระดับการจ่ายใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建薪水等级</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建薪水等級</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Pay History</value></content>
+<content><country></country><lang>fr</lang><value>Nouvel historique de salaire</value></content>
+<content><country></country><lang>it</lang><value>Nuovo Storia Paghe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo histórico de pagamentos</value></content>
+<content><country></country><lang>th</lang><value>การจ่ายข้อมูลใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建薪水历史</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建薪水歷史</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Payroll Preferences</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelles préférences de registre du personnel</value></content>
+<content><country></country><lang>it</lang><value>Nuove Preferenze Paghe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novas preferências de folha de pagamento</value></content>
+<content><country></country><lang>th</lang><value>เงินเดือนสิทธิพิเศษใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建薪水支付方式</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建薪水支付方式</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neue Ausbildung</value></content>
+<content><country></country><lang>en</lang><value>New Person Training</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle formation</value></content>
+<content><country></country><lang>it</lang><value>Nuovo corso persona</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo treinamento de pessoal</value></content>
+<content><country></country><lang>zh</lang><value>新建个人培训</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建個人培訓</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Salary Step</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle augmentation de salaire</value></content>
+<content><country></country><lang>it</lang><value>Nuova argomentazione salario</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo aumento salarial</value></content>
+<content><country></country><lang>th</lang><value>ขั้นเงินเดือนใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建薪水浮动</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建薪水浮動</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Skill Type</value></content>
+<content><country></country><lang>fr</lang><value>Nouveau type de compétence</value></content>
+<content><country></country><lang>it</lang><value>Nuovo Tipo Abilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo tipo de habilidade</value></content>
+<content><country></country><lang>th</lang><value>ประเภททักษะใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建技能类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建技能類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Termination Reason</value></content>
+<content><country></country><lang>fr</lang><value>Nouveau motif de fin de contrat</value></content>
+<content><country></country><lang>it</lang><value>Nuova Motivazione Licenziamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova razão de encerramento</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตเหตุผลใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建雇佣关系终止原因</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建雇佣關系終止原因</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Unemployment Claim</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle demande de chômage</value></content>
+<content><country></country><lang>it</lang><value>Nuovo Reclamo Disoccupazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova reivindicação de desemprego</value></content>
+<content><country></country><lang>th</lang><value>จำนวนผู้ว่างงานเรียกร้องใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建解除雇佣关系声明</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建解除雇佣關系聲明</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Party Benifit</value></content>
+<content><country></country><lang>fr</lang><value>Avantage de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Benifit Soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Benefício de participante</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มผลประโยชน์</value></content>
+<content><country></country><lang>zh</lang><value>会员福利</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員福利</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Party Id From</value></content>
+<content><country></country><lang>fr</lang><value>Acteur de</value></content>
+<content><country></country><lang>it</lang><value>Codice Soggetto Da</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de participante remetente</value></content>
+<content><country></country><lang>th</lang><value>จากรหัสกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员编号（来自）</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員編號（來自）</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Party Id To</value></content>
+<content><country></country><lang>fr</lang><value>Acteur à</value></content>
+<content><country></country><lang>it</lang><value>Codice Soggetto A</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do participante destinatário</value></content>
+<content><country></country><lang>th</lang><value>ถึงรหัสกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员编号（去往）</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員編號（去往）</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Qualifikationen</value></content>
+<content><country></country><lang>en</lang><value>Qualifications</value></content>
+<content><country></country><lang>fr</lang><value>Qualifications</value></content>
+<content><country></country><lang>it</lang><value>Qualifiche</value></content>
+<content><country></country><lang>pt_BR</lang><value>Qualificações</value></content>
+<content><country></country><lang>zh</lang><value>资质管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>資質管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Lebenslauf</value></content>
+<content><country></country><lang>en</lang><value>Resumes</value></content>
+<content><country></country><lang>es</lang><value>Resúmenes</value></content>
+<content><country></country><lang>fr</lang><value>CV</value></content>
+<content><country></country><lang>it</lang><value>Curriculum vitae</value></content>
+<content><country></country><lang>pt_BR</lang><value>Currículos</value></content>
+<content><country></country><lang>zh</lang><value>履历管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>履歷管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Party Review</value></content>
+<content><country></country><lang>fr</lang><value>évaluation de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Rassegna Soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Avaliação de participante</value></content>
+<content><country></country><lang>th</lang><value>การตรวจสอบกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员评定</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員評定</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Party Skills</value></content>
+<content><country></country><lang>fr</lang><value>Compétences de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Abilità soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Habilidades do participante</value></content>
+<content><country></country><lang>zh</lang><value>会员技能</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員技能</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Record with the selected combination already exists.Please try with Other combination.</value></content>
+<content><country></country><lang>it</lang><value>Un record con la combinazione selezionata esiste già.Per favore provare con altre combinazioni.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Lohnstufen</value></content>
+<content><country></country><lang>en</lang><value>Pay Grades</value></content>
+<content><country></country><lang>fr</lang><value>Echelon de salaire</value></content>
+<content><country></country><lang>it</lang><value>Grado Paga</value></content>
+<content><country></country><lang>pt_BR</lang><value>Degrau salarial</value></content>
+<content><country></country><lang>th</lang><value>ระดับการจ่าย</value></content>
+<content><country></country><lang>zh</lang><value>薪水等级</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水等級</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay GradeID</value></content>
+<content><country></country><lang>fr</lang><value>Réf. d'échelon de salaire</value></content>
+<content><country></country><lang>it</lang><value>Codice Grado Paga</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de grau salarial</value></content>
+<content><country></country><lang>th</lang><value>รหัสระดับการจ่าย</value></content>
+<content><country></country><lang>zh</lang><value>薪水等级编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水等級編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay Histories</value></content>
+<content><country></country><lang>fr</lang><value>Historiques des salaires</value></content>
+<content><country></country><lang>it</lang><value>Storia Paghe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Históricos de pagamentos</value></content>
+<content><country></country><lang>th</lang><value>การจ่ายข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>薪水历史</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水歷史</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay History</value></content>
+<content><country></country><lang>fr</lang><value>Historique de salaire</value></content>
+<content><country></country><lang>it</lang><value>Storia Paga</value></content>
+<content><country></country><lang>pt_BR</lang><value>Histórico de pagamento</value></content>
+<content><country></country><lang>th</lang><value>การจ่ายข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>薪水历史</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水歷史</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PayRoll Preferences</value></content>
+<content><country></country><lang>fr</lang><value>Préférences de registre du personnel</value></content>
+<content><country></country><lang>it</lang><value>Preferenze Paghe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Preferências da folha de pagamento</value></content>
+<content><country></country><lang>th</lang><value>เงินเดือนสิทธิพิเศษ</value></content>
+<content><country></country><lang>zh</lang><value>薪水支付方式</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水支付方式</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Payroll Preference SequenceId</value></content>
+<content><country></country><lang>fr</lang><value>Réf. séq. de préférence de registre du personnel</value></content>
+<content><country></country><lang>it</lang><value>Sequenza Preferenze Paghe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de sequência de preferência de folha de pagamento</value></content>
+<content><country></country><lang>th</lang><value>รหัสรายการเงินเดือนสิทธิพิเศษ</value></content>
+<content><country></country><lang>zh</lang><value>薪水支付方式序号</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水支付方式序號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Performance Note</value></content>
+<content><country></country><lang>fr</lang><value>Note de performance</value></content>
+<content><country></country><lang>it</lang><value>Nota performance</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nota de desempenho</value></content>
+<content><country></country><lang>zh</lang><value>绩效注释</value></content>
+<content><country></country><lang>zh_TW</lang><value>績效注釋</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Leistungsbewertungen</value></content>
+<content><country></country><lang>en</lang><value>Performance Review</value></content>
+<content><country></country><lang>fr</lang><value>Évaluation des performances</value></content>
+<content><country></country><lang>it</lang><value>Verifica performance</value></content>
+<content><country></country><lang>pt_BR</lang><value>Avaliação de desempenho</value></content>
+<content><country></country><lang>zh</lang><value>绩效评定</value></content>
+<content><country></country><lang>zh_TW</lang><value>績效評定</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Fulfillments</value></content>
+<content><country></country><lang>fr</lang><value>"Pourvoiements"</value></content>
+<content><country></country><lang>it</lang><value>Adempimento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Execuções</value></content>
+<content><country></country><lang>zh</lang><value>职责</value></content>
+<content><country></country><lang>zh_TW</lang><value>職責</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pre Requisite Skill</value></content>
+<content><country></country><lang>pt_BR</lang><value>Pré-requisitos de habilidade</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Recruitment</value></content>
+<content><country></country><lang>fr</lang><value>Recrutement</value></content>
+<content><country></country><lang>it</lang><value>Reclutamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Recrutamento</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Relocation</value></content>
+<content><country></country><lang>pt_BR</lang><value>Realocação</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ReportedTo</value></content>
+<content><country></country><lang>fr</lang><value>Rapporté à</value></content>
+<content><country></country><lang>it</lang><value>a cui riportare</value></content>
+<content><country></country><lang>pt_BR</lang><value>Relatado a</value></content>
+<content><country></country><lang>zh</lang><value>接受汇报</value></content>
+<content><country></country><lang>zh_TW</lang><value>接受匯報</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ReportsTo</value></content>
+<content><country></country><lang>fr</lang><value>Rapports à</value></content>
+<content><country></country><lang>it</lang><value>Riporta a</value></content>
+<content><country></country><lang>pt_BR</lang><value>Relata-se a</value></content>
+<content><country></country><lang>zh</lang><value>汇报给</value></content>
+<content><country></country><lang>zh_TW</lang><value>匯報給</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verantwortungsarten</value></content>
+<content><country></country><lang>en</lang><value>Responsibility Types</value></content>
+<content><country></country><lang>fr</lang><value>Types de responsabilité</value></content>
+<content><country></country><lang>it</lang><value>Tipi responsabilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipos de responsabilidade</value></content>
+<content><country></country><lang>zh</lang><value>职责类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>職責類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Responsibility TypeId</value></content>
+<content><country></country><lang>fr</lang><value>Type de responsabilité</value></content>
+<content><country></country><lang>it</lang><value>Tipo Responsabilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de responsabilidade</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภทหน้าที่ที่ต้องรับผิดชอบ</value></content>
+<content><country></country><lang>zh</lang><value>职责类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>職責類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Lebenslauf ID</value></content>
+<content><country></country><lang>en</lang><value>Resume Id</value></content>
+<content><country></country><lang>fr</lang><value>CV</value></content>
+<content><country></country><lang>it</lang><value>Verifica</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id do currículo</value></content>
+<content><country></country><lang>zh</lang><value>简历编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>簡歷編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Salary Step Sequence Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. séq. d'augmentation de salaire</value></content>
+<content><country></country><lang>it</lang><value>Sequenza Passo Salario</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de sequência de passo salarial</value></content>
+<content><country></country><lang>th</lang><value>รหัสรายการขั้นเงินเดือน</value></content>
+<content><country></country><lang>zh</lang><value>薪水等级序号</value></content>
+<content><country></country><lang>zh_TW</lang><value>薪水等級序號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Could not create education entry, it already exists</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear la entidad educación, dado que ya existe</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer l'entrée d'éducation, elle existe déjà</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare voce educazione, questo è già esistente</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível criar a entrada de educação, ela já existe</value></content>
+<content><country></country><lang>ro</lang><value>Nu se poate crea entitatea educatie, pentru ca deja exista</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างการกรอกข้อมูลการศึกษา  , มันมีอยู่แล้ว</value></content>
+<content><country></country><lang>zh</lang><value>无法创建教育记录，它已经存在了</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法創建教育記錄，它已經存在了</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Could not create education entry, data source error</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear la entidad educación, error de base de datos</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer l'entrée d'éducation, erreur de base de données</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare voce educazione, errore sorgente dati</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível criar a entrada de educação, erro na fonte dos dados</value></content>
+<content><country></country><lang>ro</lang><value>Nu se poate crea entitatea educatie,eroare de baza de date</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างการกรอกข้อมูลการศึกษา  , แหล่งข้อมูลผิดพลาด</value></content>
+<content><country></country><lang>zh</lang><value>无法创建教育记录，数据源出错</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法創建教育記錄，資料源出錯</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Could not create education entry, ID creation failed</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear la entidad educación, la creación del id fallo</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer l'entrée d'éducation, la création d'identifiant a échoué</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare voce educazione, creazione ID fallita</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível criar entrada de educação, criação de Id falhou</value></content>
+<content><country></country><lang>ro</lang><value>Nu se poate crea entitatea educatie, creaie Id Falita</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างการกรอกข้อมูลการศึกษา  , การสร้างรหัสล้มเหลว</value></content>
+<content><country></country><lang>zh</lang><value>无法创建教育记录，创建标识时失败。</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法創建教育記錄，創建ID時失敗。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Could not create education entry, ID starts with digit</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear la entidad educación, el id empieza con un digito</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer l'entrée d'éducation, l'identifiant commence par un chiffre</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare voce educazione, ID inizia con un numero</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível criar entrada de educação, Id deve começar com um dígito</value></content>
+<content><country></country><lang>ro</lang><value>Nu se poate crea entitatea educatie, Id starts with digit</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างการกรอกข้อมูลการศึกษา  , รหัสเริ่มต้นด้วยตัวเลข</value></content>
+<content><country></country><lang>zh</lang><value>无法创建教育记录，标识以数字开头</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法創建教育記錄，ID以數字開頭</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Could not create education entry, one or more input entity does not exist</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear la entidad educación, uno o más entidades asociadas no existen</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer l'entrée d'éducation, une ou plusieurs entrée d'entités n'existent pas</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare voce educazione, uno o più entità non esistono</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível criar entrada de educação, uma ou mais entidades não existem</value></content>
+<content><country></country><lang>ro</lang><value>Nu se poate crea entitatea educatie,unul sau mai multi parametri nu exista</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างการกรอกข้อมูลการศึกษา  , ไม่มีค่าที่กรอกลงไป</value></content>
+<content><country></country><lang>zh</lang><value>无法创建教育记录，一个或多个输入的实体不存在</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法創建教育記錄，一個或多個輸入的實體不存在</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Could not create education entry, required parameters missing</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear la entidad educación, faltan parametros</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer l'entrée d'éducation, il manque des paramètres</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare voce educazione, parametro richiesto mancante</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível criar entrada de educação, parâmetros obrigatórios faltando</value></content>
+<content><country></country><lang>ro</lang><value>Nu se poate crea entitatea educatie, lipsesc parametric.</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างการกรอกข้อมูลการศึกษา  , ต้องการตัวแปรที่หายไป</value></content>
+<content><country></country><lang>zh</lang><value>无法创建教育记录，缺少所需的参数</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法創建教育記錄，缺少所需的參數</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fähigkeitenarten</value></content>
+<content><country></country><lang>en</lang><value>Skill Types</value></content>
+<content><country></country><lang>fr</lang><value>Types de compétence</value></content>
+<content><country></country><lang>it</lang><value>Tipo Abilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipos de habilidade</value></content>
+<content><country></country><lang>th</lang><value>ประเภททักษะ</value></content>
+<content><country></country><lang>zh</lang><value>技能类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>技能類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fähigkeitsart ID</value></content>
+<content><country></country><lang>en</lang><value>Skill Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Compétence</value></content>
+<content><country></country><lang>it</lang><value>Codice Tipo Abilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de habilidade</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภททักษะ</value></content>
+<content><country></country><lang>zh</lang><value>技能类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>技能類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Skills</value></content>
+<content><country></country><lang>fr</lang><value>Compétences</value></content>
+<content><country></country><lang>it</lang><value>Abilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Habilidades</value></content>
+<content><country></country><lang>zh</lang><value>技能管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>技能管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entlassungsgründe</value></content>
+<content><country></country><lang>en</lang><value>Termination Reasons</value></content>
+<content><country></country><lang>fr</lang><value>Raisons de fin de contrat</value></content>
+<content><country></country><lang>it</lang><value>Motivazione Licenziamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Razões do encerramento</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตเหตุผล</value></content>
+<content><country></country><lang>zh</lang><value>雇佣关系终止原因</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇佣關系終止原因</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Termination Reason Id</value></content>
+<content><country></country><lang>fr</lang><value>Raisons de fin de contrat</value></content>
+<content><country></country><lang>it</lang><value>Codice Motivazione Licenziamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id da razão do encerramento</value></content>
+<content><country></country><lang>th</lang><value>รหัสขอบเขตเหตุผล</value></content>
+<content><country></country><lang>zh</lang><value>雇佣关系终止原因编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇佣關系終止原因編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entlassungsart</value></content>
+<content><country></country><lang>en</lang><value>Termination Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Types de fin de contrat</value></content>
+<content><country></country><lang>it</lang><value>Tipo Licenziamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de tipo de encerramento</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเภทขอบเขตเหตุผล</value></content>
+<content><country></country><lang>zh</lang><value>雇佣关系终止类型编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇佣關系終止類型編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entlassungsarten</value></content>
+<content><country></country><lang>en</lang><value>Termination Types</value></content>
+<content><country></country><lang>fr</lang><value>Types de fin de contrat</value></content>
+<content><country></country><lang>it</lang><value>Tipi di termine rapporto di lavoro</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipos de encerramento</value></content>
+<content><country></country><lang>zh</lang><value>雇佣关系终止类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>雇佣關系終止類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Schulungen</value></content>
+<content><country></country><lang>en</lang><value>Training</value></content>
+<content><country></country><lang>es</lang><value>Entrenamiento</value></content>
+<content><country></country><lang>fr</lang><value>Formation</value></content>
+<content><country></country><lang>it</lang><value>Corsi</value></content>
+<content><country></country><lang>pt_BR</lang><value>Treinamento</value></content>
+<content><country></country><lang>zh</lang><value>培训管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>訓練</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Training Approvals</value></content>
+<content><country></country><lang>fr</lang><value>Accords de formation</value></content>
+<content><country></country><lang>pt_BR</lang><value>Aprovações de treinamento</value></content>
+<content><country></country><lang>zh_TW</lang><value>訓練核准</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Training Class Type</value></content>
+<content><country></country><lang>fr</lang><value>Catégorie de formation</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipo de aula de treinamento</value></content>
+<content><country></country><lang>zh_TW</lang><value>訓練類別型態</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Training Status</value></content>
+<content><country></country><lang>fr</lang><value>Etat de la formation</value></content>
+<content><country></country><lang>pt_BR</lang><value>Estado do treinamento</value></content>
+<content><country></country><lang>zh_TW</lang><value>訓練狀態</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Training Types</value></content>
+<content><country></country><lang>fr</lang><value>Types de formation</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipos de treinamento</value></content>
+<content><country></country><lang>zh_TW</lang><value>訓練型態</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Training</value></content>
+<content><country></country><lang>fr</lang><value>Formation</value></content>
+<content><country></country><lang>pt_BR</lang><value>Treinamento</value></content>
+<content><country></country><lang>zh_TW</lang><value>訓練</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View Permission Error</value></content>
+<content><country></country><lang>fr</lang><value>Erreur d'autorisation de visualisation</value></content>
+<content><country></country><lang>it</lang><value>Errore Permesso di Visualizzazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ver erros de permissão</value></content>
+<content><country></country><lang>th</lang><value>แสดงการอนุญาติผิดพลาด</value></content>
+<content><country></country><lang>zh</lang><value>查看权限错误</value></content>
+<content><country></country><lang>zh_TW</lang><value>查看權限錯誤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>LookUp Job Interview</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher un entretien d'embauche</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar por entrevista de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>LookUp Job Requisition</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher une demande d'emploi</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar pro petição de emrpego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Approval Status</value></content>
+<content><country></country><lang>fr</lang><value>Modifier les approbations</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar estado de aprovação</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Empl Position</value></content>
+<content><country></country><lang>fr</lang><value>Modifier la position d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Posizione Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar posição de empregado</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>编辑职位</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯職位</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Internal JobPosting</value></content>
+<content><country></country><lang>fr</lang><value>Modifier une offre de travail interne</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar oferta interna de emprego</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯內部工作告示</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Interview</value></content>
+<content><country></country><lang>fr</lang><value>Modifier un entretien</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar entrevista</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯面試</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Job Interview Type</value></content>
+<content><country></country><lang>fr</lang><value>Modifier les types d'entretiens</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar tipo de entrevista de emprego</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯工作面試型態</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit JobRequisition</value></content>
+<content><country></country><lang>fr</lang><value>Modifier une demande de poste</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar petição de emprego</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯工作申請</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit PerfReview</value></content>
+<content><country></country><lang>fr</lang><value>Modifier l'évaluation des performances</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Rassegna Prestazioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar avaliações de desempenho</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขการตรวจสอบสิทธิพิเศษ</value></content>
+<content><country></country><lang>zh</lang><value>编辑绩效评定</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯績效評定</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit PerfReviewItem</value></content>
+<content><country></country><lang>fr</lang><value>Modifier la ligne d'évaluation de performances</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Riga Rassegna Prestazioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar item de avaliação de desempenho</value></content>
+<content><country></country><lang>th</lang><value>=แก้ไขรายการการตรวจสอบสิทธิพิเศษ</value></content>
+<content><country></country><lang>zh</lang><value>编辑绩效评定项</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯績效評定項</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Responsibility Type</value></content>
+<content><country></country><lang>fr</lang><value>Modifier le type de responsabilité</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna tipo responsibilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar tipo de responsabilidade</value></content>
+<content><country></country><lang>zh</lang><value>编辑职责类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯職責類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Skill Type</value></content>
+<content><country></country><lang>fr</lang><value>Modifier le type de compétence</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Tipo Abilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar tipo de habilidade</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขประเภททักษะ</value></content>
+<content><country></country><lang>zh</lang><value>编辑技能类别</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯技能類別</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Training Types</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar tipos de treinamento</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit ValidResponsibility</value></content>
+<content><country></country><lang>fr</lang><value>Modifier la validité de responsabilité</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Validità Responsibilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar validade da responsabilidade</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขหน้าที่รับผิดชอบ</value></content>
+<content><country></country><lang>zh</lang><value>编辑有效职责</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯有效職責</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Approvals</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher des approbations</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar aprovações</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Internal Job Posting</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher des offres d'emploi internes</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar oferta interna de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Interview Details</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher des détails d'entretiens</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar detalhes de entrevista</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Job Requisition</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher une demande de poste</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar petição de emprego</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Relocation Details</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar detalhes de realocação</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Responsibility Type</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher le type de responsabilité</value></content>
+<content><country></country><lang>it</lang><value>Ricerca tipo responsibilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar tipo de responsabilidade</value></content>
+<content><country></country><lang>zh</lang><value>查找职责类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找職責類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Training Approvals</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher des accords de formation</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar aprovações de treinamento</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Training Status</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher les états de formation</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar estados de treinamento</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List EmplPosition</value></content>
+<content><country></country><lang>fr</lang><value>Liste de positions</value></content>
+<content><country></country><lang>it</lang><value>Lista Posizione Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar Posições de empregado</value></content>
+<content><country></country><lang>th</lang><value>รายการตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>职位列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List EmplPosition Fulfillments</value></content>
+<content><country></country><lang>fr</lang><value>Liste des "pourvoiements" de position</value></content>
+<content><country></country><lang>it</lang><value>Lista Posizione Impiegato Adempimenti</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar preenchimento de posições de empregado</value></content>
+<content><country></country><lang>th</lang><value>รายการตำแหน่งพนักงานที่ปฏิบัติภารกิจ</value></content>
+<content><country></country><lang>zh</lang><value>该职位雇员列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>該職位雇員列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List EmplPosition Reporting Structs</value></content>
+<content><country></country><lang>fr</lang><value>Liste des structures de rapport de position d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Lista Posizione Impiegato Struttura Stampe</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar estrutura de relatórios de posições de empregados</value></content>
+<content><country></country><lang>th</lang><value>แสดงรายงานโครงสร้างตำแหน่งพนักงาน</value></content>
+<content><country></country><lang>zh</lang><value>职位级别结构列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位級別結構列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List EmplPosition Responsibilities</value></content>
+<content><country></country><lang>fr</lang><value>Liste des responsabilités de position d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Lista Posizione Responsabilità Impiegato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar responsabilidades de posição de empregado</value></content>
+<content><country></country><lang>th</lang><value>รายการตำแหน่งพนักงานที่มีหน้าที่รับผิดชอบ</value></content>
+<content><country></country><lang>zh</lang><value>职位职责列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>職位職責列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List PerfReview</value></content>
+<content><country></country><lang>fr</lang><value>Liste des évaluations de performances</value></content>
+<content><country></country><lang>it</lang><value>Lista Rassegna Prestazioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar avaliações de desempenho</value></content>
+<content><country></country><lang>th</lang><value>รายการตรวจสอบสิทธิพิเศษ</value></content>
+<content><country></country><lang>zh</lang><value>绩效列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>績效列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List PerfReviewItem</value></content>
+<content><country></country><lang>fr</lang><value>Liste d'article d'évaluations de performances</value></content>
+<content><country></country><lang>it</lang><value>Lista Riga Rassegna Prestazioni</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar itens de avaliação de desempenho</value></content>
+<content><country></country><lang>th</lang><value>รายการรายการตรวจสอบสิทธิพิเศษ</value></content>
+<content><country></country><lang>zh</lang><value>绩效评定项列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>績效評定項列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List Skill Types</value></content>
+<content><country></country><lang>fr</lang><value>Liste de types de compétence</value></content>
+<content><country></country><lang>it</lang><value>Lista Tipi Abilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar tipos de habilidades</value></content>
+<content><country></country><lang>th</lang><value>รายการประเภททักษะ</value></content>
+<content><country></country><lang>zh</lang><value>技能类型列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>技能類型列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List ValidResponsibilities</value></content>
+<content><country></country><lang>fr</lang><value>Liste de validité des responsabilités</value></content>
+<content><country></country><lang>it</lang><value>Lista Validità Responsibilità</value></content>
+<content><country></country><lang>pt_BR</lang><value>Listar validades de responsabilidades</value></content>
+<content><country></country><lang>th</lang><value>รายการหน้าที่รับผิดชอบ</value></content>
+<content><country></country><lang>zh</lang><value>有效职责列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>有效職責列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View Employment App</value></content>
+<content><country></country><lang>fr</lang><value>Voir les demandes d'emploi</value></content>
+<content><country></country><lang>it</lang><value>Mostra candidature d'impiego</value></content>
+<content><country></country><lang>pt_BR</lang><value>Visualizar candidatura de emprego</value></content>
+<content><country></country><lang>zh</lang><value>查看应聘求职申请</value></content>
+<content><country></country><lang>zh_TW</lang><value>查看應聘求職申請</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View Party Skill</value></content>
+<content><country></country><lang>fr</lang><value>Voir les compétences de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Mostra abilità soggetto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Visualizar habilidade de participante</value></content>
+<content><country></country><lang>zh</lang><value>查看会员技能</value></content>
+<content><country></country><lang>zh_TW</lang><value>查看會員技能</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View Person Training</value></content>
+<content><country></country><lang>fr</lang><value>Voir l'expérience de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Mostra corsi persona</value></content>
+<content><country></country><lang>pt_BR</lang><value>Visualizar treinamento de pessoa</value></content>
+<content><country></country><lang>zh</lang><value>查看个人培训</value></content>
+<content><country></country><lang>zh_TW</lang><value>查看個人培訓</value></content>
+</contents></phrase> </phrases>

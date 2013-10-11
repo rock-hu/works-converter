@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="ExampleFeatureApplType.description.DESIRED">
+        <value lang="en">Desired</value>
+        <value lang="fr">Désiré</value>
+        <value lang="it">Desiderato</value>
+        <value lang="th">ความต้องการ</value>
+        <value lang="zh">期望的</value>
+    </property>
+    <property key="ExampleFeatureApplType.description.NOT_ALLOWED">
+        <value lang="en">Not Allowed</value>
+        <value lang="fr">Non laissé</value>
+        <value lang="it">Non Permesso</value>
+        <value lang="th">ไม่อนุญาต</value>
+        <value lang="zh">不允许</value>
+    </property>
+    <property key="ExampleFeatureApplType.description.REQUIRED">
+        <value lang="en">Required</value>
+        <value lang="fr">Requis</value>
+        <value lang="it">Richiesto</value>
+        <value lang="th">ความต้องการ</value>
+        <value lang="zh">必须的</value>
+    </property>
+    <property key="ExampleType.description.CONTRIVED">
+        <value lang="en">Contrived</value>
+        <value lang="fr">Arrangé</value>
+        <value lang="it">Inventato</value>
+        <value lang="th">เป็นไปตามที่วางแผนไว้</value>
+        <value lang="zh">人为的</value>
+    </property>
+    <property key="ExampleType.description.INSPIRED">
+        <value lang="en">Inspired</value>
+        <value lang="fr">Inspiré</value>
+        <value lang="it">Ispirato</value>
+        <value lang="th">ยอดเยี่ยม</value>
+        <value lang="zh">受启发的</value>
+    </property>
+    <property key="ExampleType.description.MADE_UP">
+        <value lang="en">Made Up</value>
+        <value lang="fr">Composé</value>
+        <value lang="it">Composto</value>
+        <value lang="th">ทำขึ้น</value>
+        <value lang="zh">制定</value>
+    </property>
+    <!-- Example entity labels -->
+    <property key="ExampleType.description.REAL_WORLD">
+        <value lang="en">Real World</value>
+        <value lang="fr">Monde réel</value>
+        <value lang="it">Mondo Reale</value>
+        <value lang="th">สภาพที่เป็นจริง</value>
+        <value lang="zh">真实世界</value>
+    </property>
+
+    <!-- Entity descriptions. The Web Tools component will use these properties
+        for online documentation. Entity description property keys have the form:
+        EntityDescription.[entityname].
+    -->
+    <property key="EntityDescription.Example">
+        <value lang="en">Example Entity</value>
+    </property>
+
+    <!-- Entity field descriptions. The Web Tools component will use these properties
+        for online documentation. Field description property keys have two forms:
+        FieldDescription.[fieldname] - will be used for all fields of that name
+        FieldDescription.[entityname].[fieldname] - will be used for the specified
+        entity field
+    -->
+
+    <property key="FieldDescription.Example.exampleId">
+        <value lang="en">A unique Example ID. If you don't assign an ID, one will be generated automatically</value>
+        <value lang="fr">Une réf. unique d'exemple. Si vous n'entrez pas de réf., elle sera générée automatiquement</value>
+        <value lang="it">Un codice esempio univoco. Se tu non assegni un codice, uno verrà generato automaticamente</value>
+        <value lang="th">รหัสตัวอย่าง ถ้าไม่มีการกำหนดรหัส จะต้องมีการสร้างขึ้นอัตโมัติ</value>
+        <value lang="zh">一个唯一的样例表示。如果你没有指定一个标识，那么会自动生成一个</value>
+    </property>
+    <property key="FieldDescription.ExampleItem.exampleItemSeqId">
+        <value lang="en">A unique Example Item sequence ID. If you don't assign an ID, one will be generated automatically</value>
+        <value lang="fr">Une réf. unique d'article exemple. Si vous n'entrez pas de réf., elle sera générée automatiquement</value>
+        <value lang="it">Un codice riga esempio univoco. Se tu non assegni un codice, uno verrà generato automaticamente</value>
+        <value lang="th">รหัสตัวอย่างสินค้า ถ้าไม่มีการกำหนดรหัส จะต้องมีการสร้างขึ้นอัตโมัติ</value>
+        <value lang="zh">一个唯一的样例明细序号。如果你没有指定一个标识，那么会自动生成一个</value>
+    </property>
+    <property key="FieldDescription.ExampleType.exampleTypeId">
+        <value lang="en">A unique Example Type ID. If you don't assign an ID, one will be generated automatically</value>
+        <value lang="fr">Une réf. unique de type exemple. Si vous n'entrez pas de réf., elle sera générée automatiquement</value>
+        <value lang="it">Un tipo esempio univoco. Se tu non assegni un codice, uno verrà generato automaticamente</value>
+        <value lang="th">รหัสตัวอย่างประเภท ถ้าไม่มีการกำหนดรหัส จะต้องมีการสร้างขึ้นอัตโมัติ</value>
+        <value lang="zh">一个唯一的样例类型序号。如果你没有指定一个标识，那么会自动生成一个</value>
+    </property>
+    <property key="FieldDescription.Example.exampleTypeId">
+        <value lang="en">The type of Example.</value>
+        <value lang="fr">Le type de l'exemple.</value>
+    </property>
+    <property key="FieldDescription.amount">
+        <value lang="de">Betrag</value>
+        <value lang="en">Amount</value>
+        <value lang="fr">Montant</value>
+        <value lang="it">Importo</value>
+        <value lang="ro">Import</value>
+        <value lang="th">จำนวน</value>
+        <value lang="zh">金额</value>
+    </property>
+    <property key="FieldDescription.anotherDate">
+        <value lang="en">Another Date</value>
+        <value lang="fr">Une autre date</value>
+        <value lang="it">Altra Data</value>
+        <value lang="th">วันที่อื่น ๆ</value>
+        <value lang="zh">另一个日期</value>
+    </property>
+    <property key="FieldDescription.anotherText">
+        <value lang="en">Another Text</value>
+        <value lang="fr">Une autre texte</value>
+        <value lang="it">Altro Testo</value>
+        <value lang="th">ตัวอักษรอื่น ๆ</value>
+        <value lang="zh">另一个文本</value>
+    </property>
+    <property key="FieldDescription.comments">
+        <value lang="de">Kommentare</value>
+        <value lang="en">Comments</value>
+        <value lang="fr">Commentaires</value>
+        <value lang="it">Commenti</value>
+        <value lang="ro">Comentarii</value>
+        <value lang="th">ความคิดเห็น</value>
+        <value lang="zh">评论</value>
+    </property>
+    <property key="FieldDescription.exampleDate">
+        <value lang="en">Example Date</value>
+        <value lang="fr">Exemple de date</value>
+        <value lang="it">Esempio Data</value>
+        <value lang="ro">Data Exemplu</value>
+        <value lang="th">ตัวอย่างวันที่</value>
+        <value lang="zh">样例日期</value>
+    </property>
+    <property key="FieldDescription.exampleId">
+        <value lang="en">Example ID</value>
+        <value lang="fr">Réf. d'exemple</value>
+        <value lang="it">Codice Esempio</value>
+        <value lang="ro">Cod Exemplu</value>
+        <value lang="th">รหัสตัวอย่าง</value>
+        <value lang="zh">样例标识</value>
+    </property>
+    <property key="FieldDescription.exampleItemSeqId">
+        <value lang="en">Example Item sequence ID</value>
+        <value lang="fr">Réf. de séquence exemple d'article</value>
+        <value lang="it">Riga esempio</value>
+        <value lang="th">รหัสลำดับตัวอย่างสินค้า</value>
+        <value lang="zh">样例明细序号</value>
+    </property>
+    <property key="FieldDescription.exampleName">
+        <value lang="en">Example Name</value>
+        <value lang="fr">Nom d'exemple</value>
+        <value lang="it">Nome Esempio</value>
+        <value lang="ro">Nume Exemplu</value>
+        <value lang="th">ชื่อตัวอย่าง</value>
+        <value lang="zh">样例名称</value>
+    </property>
+    <property key="FieldDescription.exampleSize">
+        <value lang="en">Example Size</value>
+        <value lang="fr">Exemple de taille</value>
+        <value lang="it">Esempio Taglia</value>
+        <value lang="ro">Marime-size Exemplu</value>
+        <value lang="th">ขนาดตัวอย่าง</value>
+        <value lang="zh">样例尺寸</value>
+    </property>
+    <property key="FieldDescription.exampleTypeId">
+        <value lang="en">Example Type ID</value>
+        <value lang="fr">Réf. de type d'exemple</value>
+        <value lang="it">Tipo esempio</value>
+        <value lang="th">รหัสประเภทตัวอย่าง</value>
+        <value lang="zh">样例类型标识</value>
+    </property>
+    <property key="FieldDescription.longDescription">
+        <value lang="en">Long Description</value>
+        <value lang="fr">Longue description</value>
+        <value lang="it">Descrizione Lunga</value>
+        <value lang="ro">Descriere Lunga</value>
+        <value lang="th">รายละเอียด</value>
+        <value lang="zh">详细描述</value>
+    </property>
+</resource>

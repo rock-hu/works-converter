@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Announcement</value></content>
+<content><country></country><lang>es</lang><value>Anuncio</value></content>
+<content><country></country><lang>fr</lang><value>Annonce</value></content>
+<content><country></country><lang>it</lang><value>Annunci</value></content>
+<content><country></country><lang>nl</lang><value>Aankondiging</value></content>
+<content><country></country><lang>pt_BR</lang><value>Anúncio</value></content>
+<content><country></country><lang>ro</lang><value>Anunturi</value></content>
+<content><country></country><lang>th</lang><value>การประกาศ</value></content>
+<content><country></country><lang>zh</lang><value>声明</value></content>
+<content><country></country><lang>zh_TW</lang><value>聲明</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Marketing</value></content>
+<content><country></country><lang>es</lang><value>Marketing</value></content>
+<content><country></country><lang>fr</lang><value>Marketing</value></content>
+<content><country></country><lang>it</lang><value>Vendite</value></content>
+<content><country></country><lang>nl</lang><value>Marketing</value></content>
+<content><country></country><lang>pt_BR</lang><value>Marketing</value></content>
+<content><country></country><lang>ro</lang><value>Vanzari</value></content>
+<content><country></country><lang>th</lang><value>การตลาด</value></content>
+<content><country></country><lang>zh</lang><value>市场宣传</value></content>
+<content><country></country><lang>zh_TW</lang><value>行銷</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Newsletter</value></content>
+<content><country></country><lang>es</lang><value>Carta de información</value></content>
+<content><country></country><lang>fr</lang><value>Lettre d'information</value></content>
+<content><country></country><lang>it</lang><value>Newsletter</value></content>
+<content><country></country><lang>nl</lang><value>Nieuwsbrief</value></content>
+<content><country></country><lang>pt_BR</lang><value>Mala direta</value></content>
+<content><country></country><lang>ro</lang><value>Noutati</value></content>
+<content><country></country><lang>th</lang><value>จดหมายข่าว</value></content>
+<content><country></country><lang>zh</lang><value>新闻</value></content>
+<content><country></country><lang>zh_TW</lang><value>新聞</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Market Segment</value></content>
+<content><country></country><lang>es</lang><value>Segmento de marketing</value></content>
+<content><country></country><lang>fr</lang><value>Segment de marché</value></content>
+<content><country></country><lang>it</lang><value>Segmento di Mercato</value></content>
+<content><country></country><lang>nl</lang><value>Marktsegment</value></content>
+<content><country></country><lang>pt_BR</lang><value>Segmento de marketing</value></content>
+<content><country></country><lang>ro</lang><value>Segment de Piata</value></content>
+<content><country></country><lang>th</lang><value>ส่วนของการตลาด</value></content>
+<content><country></country><lang>zh</lang><value>市场分区</value></content>
+<content><country></country><lang>zh_TW</lang><value>行銷分區</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Sales Segment</value></content>
+<content><country></country><lang>es</lang><value>Segmento de ventas</value></content>
+<content><country></country><lang>fr</lang><value>Segment de vente</value></content>
+<content><country></country><lang>it</lang><value>Segmento di Vendita</value></content>
+<content><country></country><lang>nl</lang><value>Salessegment</value></content>
+<content><country></country><lang>pt_BR</lang><value>Segmento de vendas</value></content>
+<content><country></country><lang>ro</lang><value>Segment de Vanzare</value></content>
+<content><country></country><lang>th</lang><value>ส่วนของการขาย</value></content>
+<content><country></country><lang>zh</lang><value>销售分区</value></content>
+<content><country></country><lang>zh_TW</lang><value>銷售分區</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Access Code</value></content>
+<content><country></country><lang>it</lang><value>Codice di accesso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Código de acesso</value></content>
+<content><country></country><lang>zh</lang><value>访问码</value></content>
+<content><country></country><lang>zh_TW</lang><value>存取碼</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>External</value></content>
+<content><country></country><lang>es</lang><value>Externo</value></content>
+<content><country></country><lang>fr</lang><value>Externe</value></content>
+<content><country></country><lang>it</lang><value>Esterno</value></content>
+<content><country></country><lang>nl</lang><value>Extern</value></content>
+<content><country></country><lang>pt_BR</lang><value>Externo</value></content>
+<content><country></country><lang>ro</lang><value>Extern</value></content>
+<content><country></country><lang>th</lang><value>ภายนอก</value></content>
+<content><country></country><lang>zh</lang><value>外部</value></content>
+<content><country></country><lang>zh_TW</lang><value>外部</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Internal</value></content>
+<content><country></country><lang>es</lang><value>Interno</value></content>
+<content><country></country><lang>fr</lang><value>Interne</value></content>
+<content><country></country><lang>it</lang><value>Interno</value></content>
+<content><country></country><lang>nl</lang><value>Intern</value></content>
+<content><country></country><lang>pt_BR</lang><value>Interno</value></content>
+<content><country></country><lang>ro</lang><value>Intern</value></content>
+<content><country></country><lang>th</lang><value>ภายใน</value></content>
+<content><country></country><lang>zh</lang><value>内部</value></content>
+<content><country></country><lang>zh_TW</lang><value>內部</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Partner Managed</value></content>
+<content><country></country><lang>es</lang><value>Partner</value></content>
+<content><country></country><lang>fr</lang><value>Géré par un tiers</value></content>
+<content><country></country><lang>it</lang><value>Gestito da un Partner</value></content>
+<content><country></country><lang>nl</lang><value>Partner</value></content>
+<content><country></country><lang>pt_BR</lang><value>Parceiro</value></content>
+<content><country></country><lang>ro</lang><value>Gestit de un Partener</value></content>
+<content><country></country><lang>th</lang><value>หุ้นส่วนการควบคุม</value></content>
+<content><country></country><lang>zh</lang><value>已管理的伙伴</value></content>
+<content><country></country><lang>zh_TW</lang><value>夥伴</value></content>
+</contents></phrase> </phrases>

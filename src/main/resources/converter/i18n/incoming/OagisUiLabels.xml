@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="FormFieldTitle_authId">
+        <value lang="en">Auth Id</value>
+        <value lang="it">Codice autorizzazione</value>
+        <value lang="zh">认证标识</value>
+    </property>
+    <property key="FormFieldTitle_bsrNoun">
+        <value lang="en">bsr Noun</value>
+        <value lang="it">Nome bsr</value>
+        <value lang="zh">商务服务请求名词</value>
+    </property>
+    <property key="FormFieldTitle_bsrRevision">
+        <value lang="en">bsr Revision</value>
+        <value lang="it">Revisione bsr</value>
+        <value lang="zh">商务服务请求修正</value>
+    </property>
+    <property key="FormFieldTitle_bsrVerb">
+        <value lang="en">bsr Verb</value>
+        <value lang="it">Verbo bsr</value>
+        <value lang="zh">商务服务请求动词</value>
+    </property>
+    <property key="FormFieldTitle_component">
+        <value lang="en">Component</value>
+        <value lang="it">Componente</value>
+        <value lang="zh">组件</value>
+    </property>
+    <property key="FormFieldTitle_confirmation">
+        <value lang="en">Confirmation</value>
+        <value lang="it">Conferma</value>
+        <value lang="zh">确认</value>
+    </property>
+    <property key="FormFieldTitle_errorSeqId">
+        <value lang="en">Error Seq Id</value>
+        <value lang="it">Seq. errore</value>
+        <value lang="zh">序号错误</value>
+    </property>
+    <property key="FormFieldTitle_fullMessageXml">
+        <value lang="en">Full Message Xml</value>
+        <value lang="it">Messaggio xml completo</value>
+        <value lang="zh">完整信息XML</value>
+    </property>
+    <property key="FormFieldTitle_logicalId">
+        <value lang="en">Logical Id</value>
+        <value lang="it">Logico</value>
+        <value lang="zh">逻辑标识</value>
+    </property>
+    <property key="FormFieldTitle_origRef">
+        <value lang="en">Orig Ref</value>
+        <value lang="it">Rif. origine</value>
+        <value lang="zh">原引用</value>
+    </property>
+    <property key="FormFieldTitle_outgoingMessage">
+        <value lang="en">Outgoing Message</value>
+        <value lang="it">Messaggio in uscita</value>
+        <value lang="zh">输出消息</value>
+    </property>
+    <property key="FormFieldTitle_processingStatusId">
+        <value lang="en">Processing Status Id</value>
+        <value lang="it">Stato esecuzione</value>
+        <value lang="zh">处理状态标识</value>
+    </property>
+    <property key="FormFieldTitle_reasonCode">
+        <value lang="en">Reason Code</value>
+        <value lang="it">Codice motivazione</value>
+        <value lang="zh">原因代码</value>
+    </property>
+    <property key="FormFieldTitle_receivedDate">
+        <value lang="en">Received Date</value>
+        <value lang="it">Data di ricezione</value>
+        <value lang="zh">接收日期</value>
+    </property>
+    <property key="FormFieldTitle_referenceId">
+        <value lang="en">Reference Id</value>
+        <value lang="it">Riferimento</value>
+        <value lang="zh">引用标识</value>
+    </property>
+    <property key="FormFieldTitle_sentDate">
+        <value lang="en">Sent Date</value>
+        <value lang="it">Data di spedizione</value>
+        <value lang="zh">发送日期</value>
+    </property>
+    <property key="FormFieldTitle_task">
+        <value lang="en">Task</value>
+        <value lang="it">Compito</value>
+        <value lang="zh">任务</value>
+    </property>
+    <property key="OagisApplication">
+        <value lang="en">Oagis Implementation</value>
+        <value lang="fr">Implémentation Oagis</value>
+        <value lang="it">Implementazione Oagis</value>
+        <value lang="th">Oagis Implementation</value>
+        <value lang="zh">Oagis实现</value>
+    </property>
+    <property key="OagisCompanyName">
+        <value lang="en">OFBiz: Oagis</value>
+        <value lang="fr">OFBiz: Oagis</value>
+        <value lang="it">OFBiz: Oagis</value>
+        <value lang="th">OFBiz: การรวมภาษาทางธุรกิจ</value>
+    </property>
+    <property key="OagisCompanySubtitle">
+        <!--value lang="ar">جزء من عائلة أوفبيز للبرمجيات الحرة</value-->
+        <value lang="ar">جزء من عائلة أوفبيز للتطبيقات الحرة للتسيير</value>
+        <value lang="de">Teil der Open For Business Familie von Open Source Software</value>
+        <value lang="en">Part of the Open For Business Family of Open Source Software</value>
+        <!--value lang="es">Parte de la familia "Open for Bussiness" de Software Libre</value-->
+        <value lang="es">Parte de la familia de software Open For Business de código abierto</value>
+        <value lang="fr">Un module de la famille Open For Business, logiciel libre de gestion d'entreprise.</value>
+        <value lang="it">Un modulo della famiglia di software open source Open For Business</value>
+        <!--value lang="nl">Onderdeel van de Open For Business'-suite</value-->
+        <value lang="nl">Deel van de Open For Business-suite van Open Source Software</value>
+        <value lang="pt_BR">Parte da família OfBiz de software de fonte aberta</value>
+        <!--value lang="pt_PT">Parte do Software de Fonte Aberta para Grupos Abertos Para o Negócio</value-->
+        <value lang="pt_PT">Parte da família OfBiz de software de fonte aberta</value>
+        <!--value lang="ro">Parte accesibila pentru Business Family of Open Source Software</value-->
+        <!--value lang="ro">Parte din Open for Business Family of Open Source Software</value-->
+        <value lang="ro">Partea de Deschidere Pentru Afaceri Familiale din Open Source Software</value>
+        <!--value lang="ru">Часть семейства ПО Open For Business</value-->
+        <!--value lang="ru">Часть семейства "Open For Business Family" программных продуктов Open Source </value-->
+        <value lang="ru">Входит в состав семейства Open For Business</value>
+        <!--value lang="th">เป็นส่วนหนึ่งของธุรกิจแบบครอบครัวที่เป็นซอฟต์แวร์โอเพนซอส</value-->
+        <value lang="th">ส่วนหนึ่งของธุรกิจแบบครอบครัวที่เป็นซอฟต์แวร์โอเพนซอส</value>
+        <!--value lang="zh">开源软件OFBiz的组成部分</value-->
+        <!--value lang="zh">开源软件OFBiz的组成部分</value-->
+        <value lang="zh">开源软件OFBiz家族的一部分</value>
+        <value lang="zh_CN">OFBiz的一部分</value>
+    </property>
+    <property key="OagisEditMessageErrorInfo">
+        <value lang="en">Edit Message Error Info</value>
+        <value lang="fr">Modifier l'information du message d'erreur</value>
+        <value lang="it">Aggiorna Informazioni sui Messaggi di Errore</value>
+        <value lang="th">แก้ไขข้อมูลของข้อความผิดพลาด</value>
+        <value lang="zh">编辑消息错误信息</value>
+    </property>
+    <property key="OagisEditMessageInfo">
+        <value lang="en">Edit Message Info</value>
+        <value lang="fr">Modifier l'information du message</value>
+        <value lang="it">Aggiorna Informazioni sui Messaggi</value>
+        <value lang="th">แก้ไขข้อมูลของข้อความ</value>
+        <value lang="zh">编辑消息信息</value>
+    </property>
+    <property key="OagisErrorBusinessLevel">
+        <value lang="en">Found business level errors in message processing, not saving those changes but saving error messages; first error is: ${errorString}</value>
+        <value lang="it">Trovato livello di business errori nel messaggio, non salvati questi cambiamenti ma salvando trovati messaggi di errore; prima errore è: ${errorString}</value>
+    </property>
+    <property key="OagisErrorFindOagisMessageInfo">
+        <value lang="en">Could not find OagisMessageInfo record with key ${oagisMessageInfoKey}, not returning message.</value>
+        <value lang="it">Non è possibile trovare il record di OagisMessageInfo con la chiave ${oagisMessageInfoKey}, non restituito messaggio.</value>
+    </property>
+    <property key="OagisErrorMessageAlreadyProcessed">
+        <value lang="en">Message received for shipmentId ${shipmentId} message ID ${omiPkMap} was already partially processed but is not in a system error state, needs manual review; message ID: ${omiPkMap}</value>
+        <value lang="it">Messaggio ricevuto per la spedizione ${shipmentId} messagggio ID ${omiPkMap} era già parzialmente eseguito ma non è in uno stato di errore di sistema, necessaria revisione manuale; messaggio ID: ${omiPkMap}</value>
+    </property>
+    <property key="OagisErrorNotFoundFullMessageXml">
+        <value lang="en">There was no fullMessageXml text in OagisMessageInfo record with key ${oagisMessageInfoKey}, not returning message.</value>
+        <value lang="it">Non c'è nessun testo fullMessageXml nel record di OagisMessageInfo con la chiave ${oagisMessageInfoKey}, non restituito messaggio.</value>
+    </property>
+    <property key="OagisErrorDeliveryMessage">
+        <value lang="en">For Acknowledge Delivery message could not determine if it is for a PO or RMA or Status Change. DOCTYPE from message is ${docType}, DISPOSITN is ${disposition}</value>
+        <value lang="it">Per il messaggio Acknowledge Delivery non è possibile determinare se questo è dovuto ad un PO o RMA o ad un cambio di stato. DOCTYPE dal messaggio è ${docType}, DISPOSITN è ${disposition}</value>
+    </property>
+    <property key="OagisErrorDeliveryMessagePO">
+        <value lang="en">System Error processing Acknowledge Delivery PO message for message ${omiPkMap}: </value>
+        <value lang="it">System Error processing Acknowledge Delivery PO message for message ${omiPkMap}: </value>
+    </property>
+    <property key="OagisErrorParsingMessage">
+        <value lang="en">Unable to parse received message</value>
+        <value lang="it">Non è possibile fare il parsing del messaggio ricevuto</value>
+    </property>
+    <property key="OagisErrorParsingXMLMessage">
+        <value lang="en">Was able to receive and parse the XML message, but BSR->NOUN ${bsrNoun} and/or BSR->VERB ${bsrVerb} are empty</value>
+        <value lang="it">E' possibile ricevere e parsing il messaggio XML, ma BSR->NOUN ${bsrNoun} e/o BSR->VERB ${bsrVerb} sono vuoti</value>
+    </property>
+    <property key="OagisErrorPostingMessage">
+        <value lang="en">Error posting message to server with URL ${sendToUrl}: ${errorString}</value>
+        <value lang="it">Errore durante il post del messaggio al server con URL ${sendToUrl}: ${errorString}</value>
+    </property>
+    <property key="OagisErrorReceivingAgainMessage">
+        <value lang="en">Error trying to re-receive message with ID ${oagisMessageInfoKey}</value>
+        <value lang="it">Errore tentando di ricevere nuovamente il messaggio con ID ${oagisMessageInfoKey}</value>
+    </property>
+    <property key="OagisErrorSavingMessage">
+        <value lang="en">Error saving message to file ${saveToFilename}: ${errorString}</value>
+        <value lang="it">Errore durante il salvataggio del messaggio sul file ${saveToFilename}: ${errorString}</value>
+    </property>
+    <property key="OagisErrorSendingInformations">
+        <value lang="en">No send to information pass (url, file, or out stream)</value>
+        <value lang="it">Nessuna informazione da inviare passa (url, file, o out stream)</value>
+    </property>
+    <property key="OagisErrorOagisSendProcessShipment">
+        <value lang="en">Error calling oagisSendProcessShipment service for orders with items no longer on backorder: ${errorString}</value>
+        <value lang="it">Errore durante l'esecuzione del servizio oagisSendProcessShipment per gli ordini con righe non più in backorder: ${errorString}</value>
+    </property>
+    <property key="OagisErrorMessageShowShipment">
+        <value lang="en">System Error processing Show Shipment message for shipmentId ${shipmentId} message ${omiPkMap}: </value>
+        <value lang="it">Errore di sistema eseguendo il messaggio Show Shipment per la spedizione ${shipmentId} messaggio ${omiPkMap}: </value>
+    </property>
+    <property key="OagisErrorProcessShipment">
+        <value lang="en">System Error doing Process Shipment message for orderId ${orderId} shipmentId ${shipmentId} message ${omiPkMap}: </value>
+        <value lang="it">Errore di sistema eseguendo il messaggio Process Shipment per l'ordine ${orderId} spedizione ${shipmentId} messaggio ${omiPkMap}: </value>
+    </property>
+    <property key="OagisErrorUnknownMessageType">
+        <value lang="en">Unknown Message Type Received, verb/noun combination not supported: verb=${bsrVerb}, noun=${bsrNoun}</value>
+        <value lang="it">Tipo messaggio ricevuto sconosciuto, verb/noun combinazione non supportata: verb=${bsrVerb}, noun=${bsrNoun}</value>
+    </property>
+    <property key="OagisErrorWritingMessage">
+        <value lang="en">Error writing message to output stream: ${errorString}</value>
+        <value lang="it">Errore scrivendo messaggio sullo stream di output: ${errorString}</value>
+    </property>
+    <property key="OagisErrorInCreatingDataForOagisMessageInfoEntity">
+        <value lang="en">Error in creating data for OagisMessageInfo Entity</value>
+        <value lang="fr">Erreur à la création de la date pour l'entité OagisMessageInfo</value>
+        <value lang="it">Errore nella creazioni dei dati per Entità OagisMessageInfo</value>
+        <value lang="th">ผิดพลาดในการสร้างข้อมูลสำหรับเอนทิตีข้อมูลของข้อความการรวมภาษาทางธุรกิจ</value>
+        <value lang="zh">为Oagis消息信息实体创建数据时出错</value>
+    </property>
+    <property key="OagisErrorInExportingMessageFromScreen">
+        <value lang="en">Error in exporting message from screen</value>
+        <value lang="fr">Erreur en exportant le message depuis l'écran</value>
+        <value lang="it">Errore nell'esportazione del messaggio sullo schermo</value>
+        <value lang="th">ผิดพลาดในการส่งออกข้อความจากหน้าจอ</value>
+        <value lang="zh">从屏幕导出消息时出错</value>
+    </property>
+    <property key="OagisErrorLookupByReferenceError">
+        <value lang="en">Looked up by referenceId because logicalId, component, or task were not passed in but found more than one ${messageSize} record with referenceId ${referenceId}</value>
+        <value lang="it">Ricerca per referenceId perchè logicalId, componente, o compito non passato ma trovato più di ${messageSize} record con referenceId ${referenceId}</value>
+    </property>
+    <property key="OagisErrorMessage">
+        <value lang="en">Error rendering message: ${errorString}</value>
+        <value lang="it">Errore rendering messaggio: ${errorString}</value>
+    </property>
+    <property key="OagisErrorProcessingConfirmBOD">
+        <value lang="en">System Error processing Confirm BOD message: ${errorString}</value>
+        <value lang="it">Errore di sistema eseguendo la conferma BOD messaggio: ${errorString}</value>
+    </property>
+    <property key="OagisErrorProcessingMessage">
+        <value lang="en">Errors found processing message; information saved and return error sent back</value>
+        <value lang="it">Errori trovati eseguendo il messaggio; informazione salvata ed errore restituito indietro</value>
+    </property>
+    <property key="OagisErrorProcessingSyncInventory">
+        <value lang="en">System Error processing Sync Inventory message: ${errorString}</value>
+        <value lang="it">Errore di sistema processando il messaggio di Sync Inventory message: ${errorString}</value>
+    </property>
+    <property key="OagisErrorReceivingDeliveryMessageReturn">
+        <value lang="en">System Error doing Receive Delivery message for returnId ${returnId} orderId ${orderId} message ${omiPkMap}: </value>
+        <value lang="it">Errore di sistema durante la ricezione messaggio di consegna per il reso ${returnId} ordine ${orderId} messaggio ${omiPkMap}: </value>
+    </property>
+    <property key="OagisFoundExistingMessage">
+        <value lang="en">Found existing message info(s) in OAGMP_OGEN_SUCCESS, so not sending Process Shipment message for order ${orderId} existing message(s) are: </value>
+        <value lang="it">Trovati informazioni messaggi esistenti in OAGMP_OGEN_SUCCESS, così nessun messaggio inviato Process Shipment message per l'ordine ${orderId} messaggi esistenti sono: </value>
+    </property>
+    <property key="OagisFoundExistingMessageSent">
+        <value lang="en">Found existing message info(s) in OAGMP_SENT status, so not sending Process Shipment message for order ${orderId} existing message(s) are: </value>
+        <value lang="it">Trovati informazioni messaggi esistenti in stato OAGMP_SENT, così nessun messaggio inviato Process Shipment message per l'ordine ${orderId} messaggi esistenti sono: </value>
+    </property>
+    <property key="OagisFoundExistingMessageForReturn">
+        <value lang="en">Found existing message info(s) in OAGMP_OGEN_SUCCESS, so not sending Receive Delivery message for return ${returnId} existing message(s) are: </value>
+        <value lang="it">Trovati informazioni messaggi esistenti in stato OAGMP_OGEN_SUCCESS, così nessun invio di messaggio Receive Delivery per il reso ${returnId} messaggi esistenti sono: </value>
+    </property>
+    <property key="OagisFoundExistingMessageForReturnSent">
+        <value lang="en">Found existing message info(s) in OAGMP_SENT, so not sending Receive Delivery message for return ${returnId} existing message(s) are: </value>
+        <value lang="it">Trovati informazioni messaggi esistenti in stato OAGMP_SENT, così nessun invio di messaggio Receive Delivery per il reso ${returnId} messaggi esistenti sono: </value>
+    </property>
+    <property key="OagisInventoryDescription">
+        <value lang="en">Inventory Description</value>
+        <value lang="fr">Description de stock</value>
+        <value lang="it">Descrizione Inventario</value>
+        <value lang="th">รายละเอียดสินค้าคงเหลือ</value>
+        <value lang="zh">库存描述</value>
+    </property>
+    <property key="OagisInventoryLevelDateTime">
+        <value lang="en">date/time</value>
+        <value lang="fr">date/heure</value>
+        <value lang="it">data/ora</value>
+        <value lang="th">วันที่/เวลา</value>
+        <value lang="zh">日期/时间</value>
+    </property>
+    <property key="OagisListMessageErrorInfo">
+        <value lang="en">Message Error Infos</value>
+        <value lang="fr">Informations du message d'erreur</value>
+        <value lang="it">Informazioni sui Messaggi di Errore</value>
+        <value lang="th">ข้อมูลความผิดพลาดของข้อความ</value>
+        <value lang="zh">消息错误信息</value>
+    </property>
+    <property key="OagisListMessageInfo">
+        <value lang="en">Message Infos</value>
+        <value lang="fr">Informations du message</value>
+        <value lang="it">Informazioni sui Messaggi</value>
+        <value lang="th">ข้อมูลของข้อความ</value>
+        <value lang="zh">消息信息</value>
+    </property>
+    <property key="OagisMessageAlreadyReceived">
+        <value lang="en"> This message was already received, ie we have a duplicate combined ID for the message: ${newEntity}</value>
+        <value lang="it"> Questo messaggio è già stato ricevuto, c'è un duplicato ID per il messaggio: ${newEntity}</value>
+    </property>
+    <property key="OagisMessageDataFileUpload">
+        <value lang="en">Oagis Message DataFile Upload</value>
+        <value lang="fr">Téléchargement du message Oagis par fichier de données vers le serveur</value>
+        <value lang="it">Oagis Carica File Dati Messaggi</value>
+        <value lang="th">อัพโหลดไฟล์ข้อมูลข้อความการรวมภาษาทางธุรกิจ</value>
+        <value lang="zh">Oagis消息数据文件上传</value>
+    </property>
+    <property key="OagisMessageErrorInfo">
+        <value lang="en">Message Error Info</value>
+        <value lang="fr">Information du message d'erreur</value>
+        <value lang="it">Informazioni sui Messaggi di Errore</value>
+        <value lang="th">ข้อมูลความผิดพลาดของข้อความ</value>
+        <value lang="zh">消息错误信息</value>
+    </property>
+    <property key="OagisMessageInfo">
+        <value lang="en">Message Info</value>
+        <value lang="fr">Informations du message</value>
+        <value lang="it">Informazioni sui Messaggi</value>
+        <value lang="th">ข้อมูลของข้อความ</value>
+        <value lang="zh">消息信息</value>
+    </property>
+    <property key="OagisMessageUpload">
+        <value lang="en">Upload Oagis Message</value>
+        <value lang="fr">Téléchargement du message Oagis vers le serveur</value>
+        <value lang="it">Carica Messaggio Oagis</value>
+        <value lang="th">อัพโหลดข้อความการรวมภาษาทางธุรกิจ</value>
+        <value lang="zh">上传Oagis消息</value>
+    </property>
+    <property key="OagisNewMessageErrorInfo">
+        <value lang="en">New Message Error Info</value>
+        <value lang="fr">Nouvelle information du message d'erreur</value>
+        <value lang="it">Nuove Informazioni sui Messaggi Errori</value>
+        <value lang="th">ข้อมูลความผิดพลาดของข้อความใหม่</value>
+        <value lang="zh">新建消息错误信息</value>
+    </property>
+    <property key="OagisNewMessageInfo">
+        <value lang="en">New Message Info</value>
+        <value lang="fr">Nouvelle information du message</value>
+        <value lang="it">Nuove Informazioni sui Messaggi</value>
+        <value lang="th">ข้อมูลของข้อความใหม่</value>
+        <value lang="zh">新建消息信息</value>
+    </property>
+    <property key="OagisOrderIdNotASalesOrder">
+        <value lang="en">OrderHeader not a sales order (SALES_ORDER) with ID ${orderId}</value>
+        <value lang="it">Testata ordine non è un'ordine di vendita (SALES_ORDER) ${orderId}</value>
+    </property>
+    <property key="OagisOrderIdNotFound">
+        <value lang="en">Could not find OrderHeader with ID ${orderId}</value>
+        <value lang="it">Non è possibile trovare la testata ordine ${orderId}</value>
+    </property>
+    <property key="OagisOrderIdNotInApprovedStatus">
+        <value lang="en">OrderHeader not in the approved status (ORDER_APPROVED) with ID ${orderId}, is in the ${orderStatusId} status</value>
+        <value lang="it">Testata ordine non in stato approvato (ORDER_APPROVED) ${orderId}, è in stato ${orderStatusId}</value>
+    </property>
+    <property key="OagisOrderIdNotTelecomNumberFound">
+        <value lang="en">In Send ProcessShipment Telecom number not found for orderId ${orderId}</value>
+        <value lang="it">Nell'invio di ProcessShipment il numero di telefono non è stato trovato per l'ordine ${orderId}</value>
+    </property>
+    <property key="OagisOrderIdNotValidStore">
+        <value lang="en">Order ${orderId} placed is not for valid Store(s)</value>
+        <value lang="it">Ordine ${orderId} non è valido per il negozio</value>
+    </property>
+    <property key="OagisOrderIdPaymentNotAuthorized">
+        <value lang="en">No authorized payment available, not sending Process Shipment</value>
+        <value lang="it">Nessun pagamento disponibile autorizzato, non inviato Process Shipment</value>
+    </property>
+    <property key="OagisOrderIdWithShipment">
+        <value lang="en">Not sending Process Shipment message because found Shipment that is already being processed, is in status ${statusId}</value>
+        <value lang="it">Non inviato messaggio Process Shipment perchè trovata spedizione che è già stata eseguita, è in stato ${statusId}</value>
+    </property>
+    <property key="OagisOrderIdWithoutShippingAddress">
+        <value lang="en">Cannot send Process Shipment for order ${orderId}, it has no shipping address.</value>
+        <value lang="it">Non è possibile inviare Process Shipment per l'ordine ${orderId}, questo non ha un'indirizzo di spedizione.</value>
+    </property>
+    <property key="OagisReturnIdNotFound">
+        <value lang="en">Could not find Return with ID ${returnId}</value>
+        <value lang="it">Non è possibile trovare la testata reso ${returnId}</value>
+    </property>
+    <property key="OagisReturnIdNotValid">
+        <value lang="en">No valid Order with ${orderId} found, cannot process Return</value>
+        <value lang="it">Nessun ordine valido ${orderId} trovato, non è possibile eseguire il reso</value>
+    </property>
+    <property key="OagisReturnIdNotInAcceptedStatus">
+        <value lang="en">Return with ID ${returnId} no in accepted status (RETURN_ACCEPTED)</value>
+        <value lang="it">Reso ${returnId} non è in stato accettato (RETURN_ACCEPTED)</value>
+    </property>
+    <property key="OagisServiceCompletedSuccessfully">
+        <value lang="en">Service Completed Successfully</value>
+        <value lang="it">Servizio completato con successo</value>
+    </property>
+    <property key="OagisQuantityDiff">
+        <value lang="en">Qty Difference</value>
+        <value lang="fr">Différence en Qté </value>
+        <value lang="it">Differenza Qnt</value>
+        <value lang="th">จำนวนที่แตกต่าง</value>
+        <value lang="zh">数量差异</value>
+    </property>
+    <property key="PageTitleOagisInventoryMismatchNotice">
+        <value lang="en">Inventory Mismatch Notice</value>
+        <value lang="fr">Notice de disparité de stock</value>
+        <value lang="it">Notizia Non Corrispondenza di Inventario</value>
+        <value lang="th">ข้อสังเกตการจับคู่ผิดของสินค้าคงเหลือ</value>
+        <value lang="zh">库存不一致通知</value>
+    </property>
+</resource>

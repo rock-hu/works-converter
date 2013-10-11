@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Duplikat</value></content>
+<content><country></country><lang>en</lang><value>Duplicate</value></content>
+<content><country></country><lang>es</lang><value>Duplicado</value></content>
+<content><country></country><lang>fr</lang><value>Dupliquée</value></content>
+<content><country></country><lang>it</lang><value>Duplicato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Duplicata</value></content>
+<content><country></country><lang>ro</lang><value>Duplicat</value></content>
+<content><country></country><lang>ru</lang><value>Повторное</value></content>
+<content><country></country><lang>th</lang><value>จำลอง</value></content>
+<content><country></country><lang>zh</lang><value>重复</value></content>
+<content><country></country><lang>zh_TW</lang><value>重複</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Gelöst</value></content>
+<content><country></country><lang>en</lang><value>Fixed</value></content>
+<content><country></country><lang>es</lang><value>Resuelto</value></content>
+<content><country></country><lang>fr</lang><value>Corrigée</value></content>
+<content><country></country><lang>it</lang><value>Risolto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Resolvido</value></content>
+<content><country></country><lang>ro</lang><value>Solutionat</value></content>
+<content><country></country><lang>ru</lang><value>Исправлено</value></content>
+<content><country></country><lang>th</lang><value>แก้ไข</value></content>
+<content><country></country><lang>zh</lang><value>已改正</value></content>
+<content><country></country><lang>zh_TW</lang><value>已改正</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Umgesetzt</value></content>
+<content><country></country><lang>en</lang><value>Implemented</value></content>
+<content><country></country><lang>es</lang><value>Implementado</value></content>
+<content><country></country><lang>fr</lang><value>Implémentée</value></content>
+<content><country></country><lang>it</lang><value>Implementato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Implementado</value></content>
+<content><country></country><lang>ro</lang><value>Implementat</value></content>
+<content><country></country><lang>ru</lang><value>Реализовано</value></content>
+<content><country></country><lang>th</lang><value>ทำให้เห็นผล</value></content>
+<content><country></country><lang>zh</lang><value>已实现</value></content>
+<content><country></country><lang>zh_TW</lang><value>已實現</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Abgelehnt</value></content>
+<content><country></country><lang>en</lang><value>Rejected</value></content>
+<content><country></country><lang>es</lang><value>Rechazado</value></content>
+<content><country></country><lang>fr</lang><value>Rejetée</value></content>
+<content><country></country><lang>it</lang><value>Rifiutato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Recusado</value></content>
+<content><country></country><lang>ro</lang><value>Refuzat</value></content>
+<content><country></country><lang>ru</lang><value>Отказано</value></content>
+<content><country></country><lang>th</lang><value>ปฏิเสธ</value></content>
+<content><country></country><lang>zh</lang><value>拒绝</value></content>
+<content><country></country><lang>zh_TW</lang><value>拒絕</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Wird nicht behoben</value></content>
+<content><country></country><lang>en</lang><value>Won't Fix</value></content>
+<content><country></country><lang>es</lang><value>No se resuelve</value></content>
+<content><country></country><lang>fr</lang><value>Non corrigée</value></content>
+<content><country></country><lang>it</lang><value>Non verra fissato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não se resolve</value></content>
+<content><country></country><lang>ro</lang><value>Nu Va fi Fixat</value></content>
+<content><country></country><lang>ru</lang><value>Не исправлено</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถแก้ไขได้</value></content>
+<content><country></country><lang>zh</lang><value>不改正</value></content>
+<content><country></country><lang>zh_TW</lang><value>不改正</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Funktioniert bei mir</value></content>
+<content><country></country><lang>en</lang><value>Works For Me</value></content>
+<content><country></country><lang>es</lang><value>Me funciona</value></content>
+<content><country></country><lang>fr</lang><value>Fonctionne pour moi</value></content>
+<content><country></country><lang>it</lang><value>Per me funziona</value></content>
+<content><country></country><lang>pt_BR</lang><value>Funciona para mim</value></content>
+<content><country></country><lang>ro</lang><value>Cred ca Functioneaza</value></content>
+<content><country></country><lang>ru</lang><value>Для нас работает</value></content>
+<content><country></country><lang>th</lang><value>งานสำหรับฉัน</value></content>
+<content><country></country><lang>zh</lang><value>对我是正确的</value></content>
+<content><country></country><lang>zh_TW</lang><value>對我是正確的</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehlerkorrektur verlangt</value></content>
+<content><country></country><lang>en</lang><value>Request For Bug Fix</value></content>
+<content><country></country><lang>es</lang><value>Petición de corregir error</value></content>
+<content><country></country><lang>fr</lang><value>Correction d'erreur</value></content>
+<content><country></country><lang>it</lang><value>Richiesta di bug fix</value></content>
+<content><country></country><lang>pt_BR</lang><value>Requisição para conserto de Bug</value></content>
+<content><country></country><lang>ro</lang><value>Cerere De Bug Fix</value></content>
+<content><country></country><lang>ru</lang><value>Запрос на исправление ошибки</value></content>
+<content><country></country><lang>th</lang><value>คำขอร้องสำหรับการแก้บัค</value></content>
+<content><country></country><lang>zh</lang><value>除错请求</value></content>
+<content><country></country><lang>zh_TW</lang><value>除錯請求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Katalog verlangt</value></content>
+<content><country></country><lang>en</lang><value>Request For Catalog</value></content>
+<content><country></country><lang>es</lang><value>Petición de catálogo</value></content>
+<content><country></country><lang>fr</lang><value>Demande catalogue</value></content>
+<content><country></country><lang>it</lang><value>Richiesta di catalogo</value></content>
+<content><country></country><lang>pt_BR</lang><value>Requisição para catálogo</value></content>
+<content><country></country><lang>ro</lang><value>Cerere De Catalog</value></content>
+<content><country></country><lang>ru</lang><value>Запрос каталога</value></content>
+<content><country></country><lang>th</lang><value>คำขอร้องสำหรับหมวดหมู่</value></content>
+<content><country></country><lang>zh</lang><value>目录请求</value></content>
+<content><country></country><lang>zh_TW</lang><value>目錄請求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produktmerkmal verlangt</value></content>
+<content><country></country><lang>en</lang><value>Request For Feature</value></content>
+<content><country></country><lang>es</lang><value>Petición de característica</value></content>
+<content><country></country><lang>fr</lang><value>Demande de caractéristique</value></content>
+<content><country></country><lang>it</lang><value>Richiesta di caratteristica</value></content>
+<content><country></country><lang>pt_BR</lang><value>Requisição por característica</value></content>
+<content><country></country><lang>ro</lang><value>Cerere Caracteristica</value></content>
+<content><country></country><lang>ru</lang><value>Запрос особенности</value></content>
+<content><country></country><lang>th</lang><value>คำขอร้องสำหรับลักษณะ</value></content>
+<content><country></country><lang>zh</lang><value>特性请求</value></content>
+<content><country></country><lang>zh_TW</lang><value>特性請求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Informationen verlangt</value></content>
+<content><country></country><lang>en</lang><value>Request For Information</value></content>
+<content><country></country><lang>es</lang><value>Petición de información</value></content>
+<content><country></country><lang>fr</lang><value>Demande d'information</value></content>
+<content><country></country><lang>it</lang><value>Richiesta di informazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Requisição por informação</value></content>
+<content><country></country><lang>ro</lang><value>Cerere Informatie</value></content>
+<content><country></country><lang>ru</lang><value>Запрос информации</value></content>
+<content><country></country><lang>th</lang><value>คำขอร้องสำหรับข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>信息请求</value></content>
+<content><country></country><lang>zh_TW</lang><value>資訊請求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Vorschlag verlangt</value></content>
+<content><country></country><lang>en</lang><value>Request For Proposal</value></content>
+<content><country></country><lang>es</lang><value>Petición de propuesta</value></content>
+<content><country></country><lang>fr</lang><value>Proposition</value></content>
+<content><country></country><lang>it</lang><value>Richiesta di proposta</value></content>
+<content><country></country><lang>pt_BR</lang><value>Requisição por proposta</value></content>
+<content><country></country><lang>ro</lang><value>Cerere De Propunere</value></content>
+<content><country></country><lang>ru</lang><value>Запрос предложения</value></content>
+<content><country></country><lang>th</lang><value>คำขอร้องสำหรับข้อเสนอ</value></content>
+<content><country></country><lang>zh</lang><value>建议请求</value></content>
+<content><country></country><lang>zh_TW</lang><value>建議請求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Beschaffungsofferte verlangt</value></content>
+<content><country></country><lang>de_DE</lang><value>Einkaufsangebot angefordert</value></content>
+<content><country></country><lang>en</lang><value>Request For Purchase Quote</value></content>
+<content><country></country><lang>es</lang><value>Petición de presupuesto de compra</value></content>
+<content><country></country><lang>fr</lang><value>Demande de devis pour achat</value></content>
+<content><country></country><lang>it</lang><value>Richiesta Di Preventivo Acquisto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Requisição por cotação para compra</value></content>
+<content><country></country><lang>ru</lang><value>Запрос закупочных цен</value></content>
+<content><country></country><lang>th</lang><value>คำขอร้องสำหรับการอ้างอิงการสั่งซื้อ</value></content>
+<content><country></country><lang>zh</lang><value>采购询价</value></content>
+<content><country></country><lang>zh_TW</lang><value>採購詢價</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Offerte verlangt</value></content>
+<content><country></country><lang>de_DE</lang><value>Angebot angefordert</value></content>
+<content><country></country><lang>en</lang><value>Request For Quote</value></content>
+<content><country></country><lang>es</lang><value>Petición de presupuesto</value></content>
+<content><country></country><lang>fr</lang><value>Demande de devis</value></content>
+<content><country></country><lang>it</lang><value>Richiesta di preventivo</value></content>
+<content><country></country><lang>pt_BR</lang><value>Requisição por cotação</value></content>
+<content><country></country><lang>ro</lang><value>Cerere De Oferta</value></content>
+<content><country></country><lang>ru</lang><value>Запрос цены</value></content>
+<content><country></country><lang>th</lang><value>คำขอร้องสำหรับการอ้างอิง</value></content>
+<content><country></country><lang>zh</lang><value>询价请求</value></content>
+<content><country></country><lang>zh_TW</lang><value>詢價請求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Support verlangt</value></content>
+<content><country></country><lang>en</lang><value>Request For Support</value></content>
+<content><country></country><lang>es</lang><value>Petición de ayuda</value></content>
+<content><country></country><lang>fr</lang><value>Demande de support</value></content>
+<content><country></country><lang>it</lang><value>Richiesta di supporto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Requisição por suporte</value></content>
+<content><country></country><lang>ro</lang><value>Cerere De Suport</value></content>
+<content><country></country><lang>ru</lang><value>Запрос поддержки</value></content>
+<content><country></country><lang>th</lang><value>คำขอร้องสำหรับการสนับสนุน</value></content>
+<content><country></country><lang>zh</lang><value>支持请求</value></content>
+<content><country></country><lang>zh_TW</lang><value>支援請求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zusätzliches Merkmal</value></content>
+<content><country></country><lang>en</lang><value>Additional Feature</value></content>
+<content><country></country><lang>es</lang><value>Característica adicional</value></content>
+<content><country></country><lang>fr</lang><value>Caractéristique additionnelle</value></content>
+<content><country></country><lang>it</lang><value>Caratteristica aggiuntiva</value></content>
+<content><country></country><lang>pt_BR</lang><value>Característica adicional</value></content>
+<content><country></country><lang>ro</lang><value>Caracteristica Suplimentara</value></content>
+<content><country></country><lang>ru</lang><value>Дополнительная возможность</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มเติมลักษณะ</value></content>
+<content><country></country><lang>zh</lang><value>附加特性</value></content>
+<content><country></country><lang>zh_TW</lang><value>附加特性</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Rabatt</value></content>
+<content><country></country><lang>en</lang><value>Discount</value></content>
+<content><country></country><lang>es</lang><value>Descuento</value></content>
+<content><country></country><lang>fr</lang><value>Remise</value></content>
+<content><country></country><lang>it</lang><value>Sconto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Desconto</value></content>
+<content><country></country><lang>ro</lang><value>Scont</value></content>
+<content><country></country><lang>ru</lang><value>Скидка</value></content>
+<content><country></country><lang>th</lang><value>ส่วนลด</value></content>
+<content><country></country><lang>zh</lang><value>折扣</value></content>
+<content><country></country><lang>zh_TW</lang><value>折扣</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Gebühr</value></content>
+<content><country></country><lang>en</lang><value>Fee</value></content>
+<content><country></country><lang>es</lang><value>Tasa</value></content>
+<content><country></country><lang>fr</lang><value>Honoraires</value></content>
+<content><country></country><lang>it</lang><value>Tassa</value></content>
+<content><country></country><lang>pt_BR</lang><value>Taxa</value></content>
+<content><country></country><lang>ro</lang><value>Taxa</value></content>
+<content><country></country><lang>ru</lang><value>Сбор</value></content>
+<content><country></country><lang>th</lang><value>ค่าธรรมเนียม</value></content>
+<content><country></country><lang>zh</lang><value>费用</value></content>
+<content><country></country><lang>zh_TW</lang><value>費用</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sonstige Gebühren</value></content>
+<content><country></country><lang>en</lang><value>Miscellaneous Charges</value></content>
+<content><country></country><lang>es</lang><value>Gastos diversos</value></content>
+<content><country></country><lang>fr</lang><value>Frais divers</value></content>
+<content><country></country><lang>it</lang><value>Ricarico vario</value></content>
+<content><country></country><lang>pt_BR</lang><value>Gastos diversos</value></content>
+<content><country></country><lang>ro</lang><value>Incarcare mixta</value></content>
+<content><country></country><lang>ru</lang><value>Различные расходы</value></content>
+<content><country></country><lang>th</lang><value>ค่าธรรมเนียมเบ็ดเตล็ด</value></content>
+<content><country></country><lang>zh</lang><value>其它费用</value></content>
+<content><country></country><lang>zh_TW</lang><value>其他費用</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Marketingpaket Anpassung</value></content>
+<content><country></country><lang>en</lang><value>Marketing Package Adjustment</value></content>
+<content><country></country><lang>es</lang><value>Ajuste de paquete de marketing</value></content>
+<content><country></country><lang>fr</lang><value>Offre marketing (ajustement)</value></content>
+<content><country></country><lang>it</lang><value>Aggiustamento paccho di vendita</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ajuste de pacote de marketing</value></content>
+<content><country></country><lang>ro</lang><value>Adaptare Pachet Vanzare</value></content>
+<content><country></country><lang>ru</lang><value>Настройка маркетингового пакета</value></content>
+<content><country></country><lang>th</lang><value>การปรับปรุงรายการทางการตลาด</value></content>
+<content><country></country><lang>zh</lang><value>调整市场促销方案</value></content>
+<content><country></country><lang>zh_TW</lang><value>調整市場促銷方案</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aktion</value></content>
+<content><country></country><lang>en</lang><value>Promotion</value></content>
+<content><country></country><lang>es</lang><value>Promoción</value></content>
+<content><country></country><lang>fr</lang><value>Promotion</value></content>
+<content><country></country><lang>it</lang><value>Promozione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Promoção</value></content>
+<content><country></country><lang>ro</lang><value>Promotie</value></content>
+<content><country></country><lang>ru</lang><value>Акция</value></content>
+<content><country></country><lang>th</lang><value>โปรโมชัน</value></content>
+<content><country></country><lang>zh</lang><value>促销</value></content>
+<content><country></country><lang>zh_TW</lang><value>促銷</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ersatz</value></content>
+<content><country></country><lang>en</lang><value>Replacement</value></content>
+<content><country></country><lang>es</lang><value>Reemplazo</value></content>
+<content><country></country><lang>fr</lang><value>Remplacement</value></content>
+<content><country></country><lang>it</lang><value>Sostituzione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Reposição</value></content>
+<content><country></country><lang>ro</lang><value>Substituire</value></content>
+<content><country></country><lang>ru</lang><value>Замена</value></content>
+<content><country></country><lang>th</lang><value>จากการเปลี่ยนแปลง</value></content>
+<content><country></country><lang>zh</lang><value>替换</value></content>
+<content><country></country><lang>zh_TW</lang><value>替換</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verkaufssteuer</value></content>
+<content><country></country><lang>en</lang><value>Sales Tax</value></content>
+<content><country></country><lang>es</lang><value>Impuestos de venta</value></content>
+<content><country></country><lang>fr</lang><value>Taxes de vente</value></content>
+<content><country></country><lang>it</lang><value>Tassa di vendita</value></content>
+<content><country></country><lang>pt_BR</lang><value>Taxas de venda</value></content>
+<content><country></country><lang>ro</lang><value>Taxa Vanzare</value></content>
+<content><country></country><lang>ru</lang><value>Налог с продаж</value></content>
+<content><country></country><lang>th</lang><value>ภาษีการขาย</value></content>
+<content><country></country><lang>zh</lang><value>营业税</value></content>
+<content><country></country><lang>zh_TW</lang><value>營業稅</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Versandkosten</value></content>
+<content><country></country><lang>en</lang><value>Shipping and Handling</value></content>
+<content><country></country><lang>es</lang><value>Envío y seguimiento</value></content>
+<content><country></country><lang>fr</lang><value>Port et emballage</value></content>
+<content><country></country><lang>it</lang><value>Spesa di spedizione e imballaggio</value></content>
+<content><country></country><lang>pt_BR</lang><value>Envio e manuseio</value></content>
+<content><country></country><lang>ro</lang><value>Cheltueli cu Expedierea si Ambalarea</value></content>
+<content><country></country><lang>ru</lang><value>Поставка и обработка</value></content>
+<content><country></country><lang>th</lang><value>การขนส่งและการควบคุม</value></content>
+<content><country></country><lang>zh</lang><value>运输和包装</value></content>
+<content><country></country><lang>zh_TW</lang><value>運輸和包裝</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zuschlag</value></content>
+<content><country></country><lang>en</lang><value>Surcharge</value></content>
+<content><country></country><lang>es</lang><value>Recargo</value></content>
+<content><country></country><lang>fr</lang><value>Supplément</value></content>
+<content><country></country><lang>it</lang><value>Sovraccarico</value></content>
+<content><country></country><lang>pt_BR</lang><value>Sobretaxa</value></content>
+<content><country></country><lang>ro</lang><value>Supraincarcare</value></content>
+<content><country></country><lang>ru</lang><value>Надбавка</value></content>
+<content><country></country><lang>th</lang><value>การคิดเงินเพิ่ม</value></content>
+<content><country></country><lang>zh</lang><value>额外费用</value></content>
+<content><country></country><lang>zh_TW</lang><value>額外費用</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Garantie</value></content>
+<content><country></country><lang>en</lang><value>Warranty</value></content>
+<content><country></country><lang>es</lang><value>Garantía</value></content>
+<content><country></country><lang>fr</lang><value>Garantie</value></content>
+<content><country></country><lang>it</lang><value>Garanzia</value></content>
+<content><country></country><lang>pt_BR</lang><value>Garantia</value></content>
+<content><country></country><lang>ro</lang><value>Garantie</value></content>
+<content><country></country><lang>ru</lang><value>Гарантия</value></content>
+<content><country></country><lang>th</lang><value>การรับประกัน</value></content>
+<content><country></country><lang>zh</lang><value>保修</value></content>
+<content><country></country><lang>zh_TW</lang><value>保修</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Blackliste Adressen</value></content>
+<content><country></country><lang>en</lang><value>Blacklist Address</value></content>
+<content><country></country><lang>es</lang><value>Dirección bloqueada</value></content>
+<content><country></country><lang>fr</lang><value>Mettre l'adresse en liste noire</value></content>
+<content><country></country><lang>it</lang><value>Indirizzo blacklist</value></content>
+<content><country></country><lang>pt_BR</lang><value>Lista negra de endereços</value></content>
+<content><country></country><lang>th</lang><value>ที่อยู่</value></content>
+<content><country></country><lang>zh</lang><value>地址黑名单</value></content>
+<content><country></country><lang>zh_TW</lang><value>位址黑名單</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Blackliste Kreditkarte</value></content>
+<content><country></country><lang>en</lang><value>Blacklist Credit Card</value></content>
+<content><country></country><lang>es</lang><value>Tarjeta de crédito bloqueada</value></content>
+<content><country></country><lang>fr</lang><value>Mettre la carte de crédit en liste noire</value></content>
+<content><country></country><lang>it</lang><value>Blacklist carta di credito</value></content>
+<content><country></country><lang>pt_BR</lang><value>Lista negra de cartões de crédito</value></content>
+<content><country></country><lang>th</lang><value>บัตรเครดิต</value></content>
+<content><country></country><lang>zh</lang><value>信用卡黑名单</value></content>
+<content><country></country><lang>zh_TW</lang><value>信用卡黑名單</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Blackliste E-Mail</value></content>
+<content><country></country><lang>en</lang><value>Blacklist Email</value></content>
+<content><country></country><lang>es</lang><value>Email bloqueado</value></content>
+<content><country></country><lang>fr</lang><value>Mettre l'addresse de courriel en liste noire</value></content>
+<content><country></country><lang>it</lang><value>Email blacklist</value></content>
+<content><country></country><lang>pt_BR</lang><value>Lista negra de e-mails</value></content>
+<content><country></country><lang>th</lang><value>อีเมล</value></content>
+<content><country></country><lang>zh</lang><value>电子邮件黑名单</value></content>
+<content><country></country><lang>zh_TW</lang><value>電子郵件黑名單</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Blackliste Telefon</value></content>
+<content><country></country><lang>en</lang><value>Blacklist Phone</value></content>
+<content><country></country><lang>es</lang><value>Teléfono bloqueado</value></content>
+<content><country></country><lang>fr</lang><value>Mettre le n° de téléphone en liste noire</value></content>
+<content><country></country><lang>it</lang><value>Telefono blacklist</value></content>
+<content><country></country><lang>pt_BR</lang><value>Lista negra de telefones</value></content>
+<content><country></country><lang>th</lang><value>หมายเลขโทรศัพท์</value></content>
+<content><country></country><lang>zh</lang><value>电话黑名单</value></content>
+<content><country></country><lang>zh_TW</lang><value>電話黑名單</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Bild URL</value></content>
+<content><country></country><lang>en</lang><value>Image URL</value></content>
+<content><country></country><lang>es</lang><value>URL de Imagen</value></content>
+<content><country></country><lang>fr</lang><value>URL d'image</value></content>
+<content><country></country><lang>it</lang><value>URL immagine</value></content>
+<content><country></country><lang>pt_BR</lang><value>URL de imagem</value></content>
+<content><country></country><lang>th</lang><value>รูปภาพ</value></content>
+<content><country></country><lang>zh</lang><value>图像网址</value></content>
+<content><country></country><lang>zh_TW</lang><value>圖像網址</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Grossauftrag Element</value></content>
+<content><country></country><lang>en</lang><value>BULK_ORDER_ITEM</value></content>
+<content><country></country><lang>es</lang><value>Ítem a granel</value></content>
+<content><country></country><lang>fr</lang><value>Vrac</value></content>
+<content><country></country><lang>it</lang><value>Riga ordine bulk</value></content>
+<content><country></country><lang>pt_BR</lang><value>Item no atacado</value></content>
+<content><country></country><lang>th</lang><value>รายการความจุ</value></content>
+<content><country></country><lang>zh</lang><value>大宗订单明细</value></content>
+<content><country></country><lang>zh_TW</lang><value>大宗訂單明細</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt</value></content>
+<content><country></country><lang>en</lang><value>PRODUCT_ORDER_ITEM</value></content>
+<content><country></country><lang>es</lang><value>Ítem de pedido</value></content>
+<content><country></country><lang>fr</lang><value>Article</value></content>
+<content><country></country><lang>it</lang><value>Prodotto riga ordine</value></content>
+<content><country></country><lang>pt_BR</lang><value>Item de pedido</value></content>
+<content><country></country><lang>th</lang><value>รายการ</value></content>
+<content><country></country><lang>zh</lang><value>产品订单明细</value></content>
+<content><country></country><lang>zh_TW</lang><value>產品訂單明細</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Miete</value></content>
+<content><country></country><lang>en</lang><value>RENTAL_ORDER_ITEM</value></content>
+<content><country></country><lang>es</lang><value>Ítem de alquiler</value></content>
+<content><country></country><lang>fr</lang><value>Location</value></content>
+<content><country></country><lang>it</lang><value>Riga ordine di affitto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Item de aluguel</value></content>
+<content><country></country><lang>th</lang><value>รายการการเช่า</value></content>
+<content><country></country><lang>zh</lang><value>租赁订单明细</value></content>
+<content><country></country><lang>zh_TW</lang><value>租賃訂單明細</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Arbeit</value></content>
+<content><country></country><lang>en</lang><value>WORK_ORDER_ITEM</value></content>
+<content><country></country><lang>es</lang><value>Ítem de trabajo</value></content>
+<content><country></country><lang>fr</lang><value>Tâche</value></content>
+<content><country></country><lang>it</lang><value>Riga ordine di lavoro</value></content>
+<content><country></country><lang>pt_BR</lang><value>Item de trabalho</value></content>
+<content><country></country><lang>th</lang><value>รายการงาน</value></content>
+<content><country></country><lang>zh</lang><value>派工单明细</value></content>
+<content><country></country><lang>zh_TW</lang><value>派工單明細</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Beschaffungsauftrag</value></content>
+<content><country></country><lang>en</lang><value>Purchase Order</value></content>
+<content><country></country><lang>es</lang><value>Pedido de Compra</value></content>
+<content><country></country><lang>fr</lang><value>Achats</value></content>
+<content><country></country><lang>it</lang><value>Ordine di acquisto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Pedido de compra</value></content>
+<content><country></country><lang>ro</lang><value>Cumparare</value></content>
+<content><country></country><lang>ru</lang><value>Закупка</value></content>
+<content><country></country><lang>th</lang><value>รายการการสั่งซื้อ</value></content>
+<content><country></country><lang>zh</lang><value>采购订单</value></content>
+<content><country></country><lang>zh_TW</lang><value>採購訂單</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kundenauftrag</value></content>
+<content><country></country><lang>en</lang><value>Sales Order</value></content>
+<content><country></country><lang>es</lang><value>Pedido de Venta</value></content>
+<content><country></country><lang>fr</lang><value>Ventes</value></content>
+<content><country></country><lang>it</lang><value>Ordine di vendita</value></content>
+<content><country></country><lang>nl</lang><value>Verkoopbestelling</value></content>
+<content><country></country><lang>pt_BR</lang><value>Pedido de vendas</value></content>
+<content><country></country><lang>ro</lang><value>Vanzare</value></content>
+<content><country></country><lang>ru</lang><value>Продажи</value></content>
+<content><country></country><lang>th</lang><value>รายการขาย</value></content>
+<content><country></country><lang>zh</lang><value>销售订单</value></content>
+<content><country></country><lang>zh_TW</lang><value>銷售訂單</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Arbeitsauftrag</value></content>
+<content><country></country><lang>en</lang><value>WORK_ORDER</value></content>
+<content><country></country><lang>es</lang><value>Pedido de Trabajo</value></content>
+<content><country></country><lang>fr</lang><value>Tâche</value></content>
+<content><country></country><lang>it</lang><value>Ordine di lavoro</value></content>
+<content><country></country><lang>pt_BR</lang><value>Pedido de trabalho</value></content>
+<content><country></country><lang>th</lang><value>งาน</value></content>
+<content><country></country><lang>zh</lang><value>派工单</value></content>
+<content><country></country><lang>zh_TW</lang><value>派工單</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Andere</value></content>
+<content><country></country><lang>en</lang><value>Other</value></content>
+<content><country></country><lang>es</lang><value>Otros</value></content>
+<content><country></country><lang>fr</lang><value>Autres</value></content>
+<content><country></country><lang>it</lang><value>Altro</value></content>
+<content><country></country><lang>pt_BR</lang><value>Outros</value></content>
+<content><country></country><lang>ro</lang><value>Alte</value></content>
+<content><country></country><lang>ru</lang><value>Другие</value></content>
+<content><country></country><lang>th</lang><value>อื่น ๆ</value></content>
+<content><country></country><lang>zh</lang><value>其它</value></content>
+<content><country></country><lang>zh_TW</lang><value>其他</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt</value></content>
+<content><country></country><lang>en</lang><value>Product</value></content>
+<content><country></country><lang>es</lang><value>Producto</value></content>
+<content><country></country><lang>fr</lang><value>Produit</value></content>
+<content><country></country><lang>it</lang><value>Prodotto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Produto</value></content>
+<content><country></country><lang>ro</lang><value>Produs</value></content>
+<content><country></country><lang>ru</lang><value>Цены на продукцию</value></content>
+<content><country></country><lang>th</lang><value>สินค้า</value></content>
+<content><country></country><lang>zh</lang><value>产品</value></content>
+<content><country></country><lang>zh_TW</lang><value>產品</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Vorschlag</value></content>
+<content><country></country><lang>en</lang><value>Proposal</value></content>
+<content><country></country><lang>es</lang><value>Propuesta</value></content>
+<content><country></country><lang>fr</lang><value>Proposition</value></content>
+<content><country></country><lang>it</lang><value>Proposta</value></content>
+<content><country></country><lang>pt_BR</lang><value>Proposta</value></content>
+<content><country></country><lang>ro</lang><value>Propunere</value></content>
+<content><country></country><lang>ru</lang><value>Предложение</value></content>
+<content><country></country><lang>th</lang><value>ข้อเสนอ</value></content>
+<content><country></country><lang>zh</lang><value>建议</value></content>
+<content><country></country><lang>zh_TW</lang><value>建議</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Vorschlag Beschaffung</value></content>
+<content><country></country><lang>en</lang><value>PROPOSAL_PURCHASE</value></content>
+<content><country></country><lang>es</lang><value>Propuesta de compra</value></content>
+<content><country></country><lang>fr</lang><value>Proposition d'achat</value></content>
+<content><country></country><lang>it</lang><value>Proposta di acquisto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Proposta de compra</value></content>
+<content><country></country><lang>th</lang><value>ข้อเสนอการซื้อ</value></content>
+<content><country></country><lang>zh</lang><value>采购建议</value></content>
+<content><country></country><lang>zh_TW</lang><value>採購建議</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt Beschaffung</value></content>
+<content><country></country><lang>en</lang><value>Product Purchase</value></content>
+<content><country></country><lang>es</lang><value>Presupuesto Compra de producto</value></content>
+<content><country></country><lang>fr</lang><value>Achat</value></content>
+<content><country></country><lang>it</lang><value>Prodotto acquistato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Compra de produto</value></content>
+<content><country></country><lang>ro</lang><value>Produs Cumparat</value></content>
+<content><country></country><lang>ru</lang><value>Закупочное предложение</value></content>
+<content><country></country><lang>th</lang><value>การสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>产品采购</value></content>
+<content><country></country><lang>zh_TW</lang><value>產品採購</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kunde Bedarf</value></content>
+<content><country></country><lang>en</lang><value>Customer Requirement</value></content>
+<content><country></country><lang>es</lang><value>Requisito de cliente</value></content>
+<content><country></country><lang>fr</lang><value>Besoin client</value></content>
+<content><country></country><lang>it</lang><value>Fabbisogno cliente</value></content>
+<content><country></country><lang>pt_BR</lang><value>Exigência de cliente</value></content>
+<content><country></country><lang>ro</lang><value>Necesar Cliente</value></content>
+<content><country></country><lang>ru</lang><value>Требование заказчика</value></content>
+<content><country></country><lang>th</lang><value>ความต้องการของลูกค้า</value></content>
+<content><country></country><lang>zh</lang><value>客户需求</value></content>
+<content><country></country><lang>zh_TW</lang><value>客戶需求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Interner Bedarf</value></content>
+<content><country></country><lang>en</lang><value>Internal Requirement</value></content>
+<content><country></country><lang>es</lang><value>Requisito interno</value></content>
+<content><country></country><lang>fr</lang><value>Besoin interne</value></content>
+<content><country></country><lang>it</lang><value>Fabbisogno interno</value></content>
+<content><country></country><lang>pt_BR</lang><value>Exigência interna</value></content>
+<content><country></country><lang>ro</lang><value>Necesar Intern</value></content>
+<content><country></country><lang>ru</lang><value>Внутреннее требование</value></content>
+<content><country></country><lang>th</lang><value>ความต้องการภายใน</value></content>
+<content><country></country><lang>zh</lang><value>内部需求</value></content>
+<content><country></country><lang>zh_TW</lang><value>內部需求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Bedarf gemäss Produktionsplanung MRP</value></content>
+<content><country></country><lang>en</lang><value>MRP_PRO_PROD_ORDER</value></content>
+<content><country></country><lang>es</lang><value>Requisito de producción según MRP</value></content>
+<content><country></country><lang>fr</lang><value>Besoins du cycle de production proposé au processus MRP</value></content>
+<content><country></country><lang>it</lang><value>Fabbisogno ciclo produzione proposto dal processo MRP</value></content>
+<content><country></country><lang>pt_BR</lang><value>Pedido de produção segundo MRP</value></content>
+<content><country></country><lang>ro</lang><value>Necesar Ciclu Productie propus de procesul MRP</value></content>
+<content><country></country><lang>th</lang><value>MRP_PRO_PROD_ORDER</value></content>
+<content><country></country><lang>zh</lang><value>MRP中产品订单的物料需求</value></content>
+<content><country></country><lang>zh_TW</lang><value>MRP中產品訂單的物料需求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Einkaufsbedarf gemäss Produktionsplanung MRP</value></content>
+<content><country></country><lang>en</lang><value>MRP_PRO_PURCH_ORDER</value></content>
+<content><country></country><lang>es</lang><value>Requisito de compra según MRP</value></content>
+<content><country></country><lang>fr</lang><value>Besoins d'achat proposé au processus MRP</value></content>
+<content><country></country><lang>it</lang><value>Fabbisogno ordine acquisto proposto dal processo MRP</value></content>
+<content><country></country><lang>pt_BR</lang><value>Pedido de compra segundo MRP</value></content>
+<content><country></country><lang>ro</lang><value>Necesar Comanda Comparare propusa de procesul MRP</value></content>
+<content><country></country><lang>th</lang><value>MRP_PRO_PURCH_ORDER</value></content>
+<content><country></country><lang>zh</lang><value>MRP中采购订单的物料需求</value></content>
+<content><country></country><lang>zh_TW</lang><value>MRP中採購訂單的物料需求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Produkt Bedarf</value></content>
+<content><country></country><lang>en</lang><value>Product Requirement</value></content>
+<content><country></country><lang>es</lang><value>Requisito de producto</value></content>
+<content><country></country><lang>fr</lang><value>Besoin en produit</value></content>
+<content><country></country><lang>it</lang><value>Fabbisogno prodotto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Requisito de produto</value></content>
+<content><country></country><lang>ro</lang><value>Necesar Produs</value></content>
+<content><country></country><lang>ru</lang><value>Требование продукции</value></content>
+<content><country></country><lang>th</lang><value>ความต้องการสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>产品需求</value></content>
+<content><country></country><lang>zh_TW</lang><value>產品需求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Arbeitsbedarf</value></content>
+<content><country></country><lang>en</lang><value>Work Requirement</value></content>
+<content><country></country><lang>es</lang><value>Requisito de trabajo</value></content>
+<content><country></country><lang>fr</lang><value>Besoin de production</value></content>
+<content><country></country><lang>it</lang><value>Fabbisogno lavoro</value></content>
+<content><country></country><lang>pt_BR</lang><value>Requisito de trabalho</value></content>
+<content><country></country><lang>ro</lang><value>Necesar de Lucru</value></content>
+<content><country></country><lang>ru</lang><value>Требование работ</value></content>
+<content><country></country><lang>th</lang><value>ความต้องการงาน</value></content>
+<content><country></country><lang>zh</lang><value>作业需求</value></content>
+<content><country></country><lang>zh_TW</lang><value>作業需求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return Additional Feature</value></content>
+<content><country></country><lang>it</lang><value>Caratteristiche aggiuntive sul reso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Devolução de funcionalidade adicional</value></content>
+<content><country></country><lang>zh</lang><value>退货的附加特征</value></content>
+<content><country></country><lang>zh_TW</lang><value>退貨的附加特征</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return Discount</value></content>
+<content><country></country><lang>it</lang><value>Sconto sul reso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Desconto por devolução</value></content>
+<content><country></country><lang>zh</lang><value>退货的折扣</value></content>
+<content><country></country><lang>zh_TW</lang><value>退貨的折扣</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return Fee</value></content>
+<content><country></country><lang>it</lang><value>Commissioni sul reso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Taxa de devolução</value></content>
+<content><country></country><lang>zh</lang><value>退货的费用</value></content>
+<content><country></country><lang>zh_TW</lang><value>退貨的費用</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return Manual Adjustment</value></content>
+<content><country></country><lang>it</lang><value>Aggiustamento manuale sul reso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ajuste manual sobre devolução</value></content>
+<content><country></country><lang>zh</lang><value>退货的手册调整</value></content>
+<content><country></country><lang>zh_TW</lang><value>退貨的手冊調整</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return Miscellaneous Charges</value></content>
+<content><country></country><lang>it</lang><value>Ricarichi vari sul reso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Taxas diversas sobre devolução</value></content>
+<content><country></country><lang>zh</lang><value>退货的杂费</value></content>
+<content><country></country><lang>zh_TW</lang><value>退貨的雜費</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return Marketing Package Adjustment</value></content>
+<content><country></country><lang>it</lang><value>Aggiustamento pacco di vendita sul reso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ajuste sobre a a devolução de pacote de marketing</value></content>
+<content><country></country><lang>zh</lang><value>退货的行销包装调整</value></content>
+<content><country></country><lang>zh_TW</lang><value>退貨的行銷包裝調整</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return Promotion</value></content>
+<content><country></country><lang>it</lang><value>Promozione reso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Promoção devolução</value></content>
+<content><country></country><lang>zh</lang><value>退货的促销</value></content>
+<content><country></country><lang>zh_TW</lang><value>退貨的促銷</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return Replacement</value></content>
+<content><country></country><lang>it</lang><value>Reso in sostituzione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Devolução de reposição</value></content>
+<content><country></country><lang>zh</lang><value>退货的替代</value></content>
+<content><country></country><lang>zh_TW</lang><value>退貨的替代</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return Sales Tax</value></content>
+<content><country></country><lang>it</lang><value>Tasse di vendita sul reso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Taxa de devolução de venda</value></content>
+<content><country></country><lang>zh</lang><value>退货的营业税</value></content>
+<content><country></country><lang>zh_TW</lang><value>退貨的營業稅</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return Shipping and Handling</value></content>
+<content><country></country><lang>it</lang><value>Spese di trasporto sul reso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Devolução de envio e manuseio</value></content>
+<content><country></country><lang>zh</lang><value>退货的装运费</value></content>
+<content><country></country><lang>zh_TW</lang><value>退貨的裝運費</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return Surcharge</value></content>
+<content><country></country><lang>it</lang><value>Spese supplementari sul reso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Devolução de sobretaxa</value></content>
+<content><country></country><lang>zh</lang><value>退货的附加费</value></content>
+<content><country></country><lang>zh_TW</lang><value>退貨的附加費</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return Warranty</value></content>
+<content><country></country><lang>it</lang><value>Garanzia sul reso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Devolução de garantia</value></content>
+<content><country></country><lang>zh</lang><value>退货的保证条款</value></content>
+<content><country></country><lang>zh_TW</lang><value>退貨的保証條款</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Vereinbarte Zahlung bei Lieferung abgeleht</value></content>
+<content><country></country><lang>en</lang><value>COD Payment Rejected</value></content>
+<content><country></country><lang>es</lang><value>Pago acordado rechazado a la entrega</value></content>
+<content><country></country><lang>fr</lang><value>COD paiement rejeté</value></content>
+<content><country></country><lang>it</lang><value>Pagmento contrassegno rifiutato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Pagamento mediante recebimento rejeitado</value></content>
+<content><country></country><lang>ru</lang><value>COD платеж не принят</value></content>
+<content><country></country><lang>th</lang><value>ปฏิเสธการชำระเงินด่วน</value></content>
+<content><country></country><lang>zh</lang><value>货到付款被拒绝了</value></content>
+<content><country></country><lang>zh_TW</lang><value>貨到付款被拒絕了</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Defektes Element</value></content>
+<content><country></country><lang>en</lang><value>Defective Item</value></content>
+<content><country></country><lang>es</lang><value>Producto defectuoso</value></content>
+<content><country></country><lang>fr</lang><value>Défectueux</value></content>
+<content><country></country><lang>it</lang><value>Prodotto difettoso</value></content>
+<content><country></country><lang>pt_BR</lang><value>Produto defeituoso</value></content>
+<content><country></country><lang>ro</lang><value>Produs Defectuos</value></content>
+<content><country></country><lang>ru</lang><value>Дефектное изделие</value></content>
+<content><country></country><lang>th</lang><value>รายการมีตำหนิ</value></content>
+<content><country></country><lang>zh</lang><value>有缺陷的明细</value></content>
+<content><country></country><lang>zh_TW</lang><value>有缺陷的明細</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Elektronische Auslieferung fehlgeschlagen</value></content>
+<content><country></country><lang>en</lang><value>Digital Fulfillment Failed</value></content>
+<content><country></country><lang>es</lang><value>Error de entrega via electrónica</value></content>
+<content><country></country><lang>fr</lang><value>Erreur de chargement de fichier </value></content>
+<content><country></country><lang>it</lang><value>Soddisfazione digitale fallita</value></content>
+<content><country></country><lang>pt_BR</lang><value>Falha no processamento eletrônico</value></content>
+<content><country></country><lang>ro</lang><value>Satisfactie Digitala Falita</value></content>
+<content><country></country><lang>ru</lang><value>Выполнение поставки цифр. продукта не удалось</value></content>
+<content><country></country><lang>th</lang><value>การปฏิบัติการของดิจิตอลล้มเหลว</value></content>
+<content><country></country><lang>zh</lang><value>数字执行失败</value></content>
+<content><country></country><lang>zh_TW</lang><value>數字執行失敗</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Falsch versandtes Element</value></content>
+<content><country></country><lang>en</lang><value>Mis-Shipped Item</value></content>
+<content><country></country><lang>es</lang><value>Ítem mal enviado</value></content>
+<content><country></country><lang>fr</lang><value>Ligne d'expédition manquante</value></content>
+<content><country></country><lang>it</lang><value>Prodotto non-spedito</value></content>
+<content><country></country><lang>pt_BR</lang><value>Item enviado errado</value></content>
+<content><country></country><lang>ro</lang><value>Produs Ne-Expediat</value></content>
+<content><country></country><lang>ru</lang><value>Ошибочная поставка</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีรายการขนส่ง</value></content>
+<content><country></country><lang>zh</lang><value>送错的明细</value></content>
+<content><country></country><lang>zh_TW</lang><value>送錯的明細</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Element nicht verlangt</value></content>
+<content><country></country><lang>en</lang><value>Did Not Want Item</value></content>
+<content><country></country><lang>es</lang><value>No quiere el ítem</value></content>
+<content><country></country><lang>fr</lang><value>Non demandé</value></content>
+<content><country></country><lang>it</lang><value>Prodotto non voluto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não quis o item</value></content>
+<content><country></country><lang>ro</lang><value>Produs Non Volut</value></content>
+<content><country></country><lang>ru</lang><value>Ненужная позиция</value></content>
+<content><country></country><lang>th</lang><value>ไม่ต้องการรายการ</value></content>
+<content><country></country><lang>zh</lang><value>不需要明细</value></content>
+<content><country></country><lang>zh_TW</lang><value>不需要明細</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Size Exchange</value></content>
+<content><country></country><lang>it</lang><value>Cambio taglia</value></content>
+<content><country></country><lang>pt_BR</lang><value>Troca de tamanho</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Guthaben</value></content>
+<content><country></country><lang>en</lang><value>Store Credit</value></content>
+<content><country></country><lang>es</lang><value>Crédito de la tienda</value></content>
+<content><country></country><lang>fr</lang><value>Avoir</value></content>
+<content><country></country><lang>it</lang><value>Credito negozio</value></content>
+<content><country></country><lang>pt_BR</lang><value>Crédito da loja</value></content>
+<content><country></country><lang>ro</lang><value>Credit Magazin</value></content>
+<content><country></country><lang>ru</lang><value>Торговый кредит</value></content>
+<content><country></country><lang>th</lang><value>สะสมเครดิต</value></content>
+<content><country></country><lang>zh</lang><value>存储信用</value></content>
+<content><country></country><lang>zh_TW</lang><value>存儲信用</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Austausch bei Lieferung</value></content>
+<content><country></country><lang>en</lang><value>Cross-Ship Replacement</value></content>
+<content><country></country><lang>es</lang><value>Reemplazo en la entrega</value></content>
+<content><country></country><lang>fr</lang><value>Remplacement à la livraison </value></content>
+<content><country></country><lang>it</lang><value>Sostituzione cross-ship</value></content>
+<content><country></country><lang>pt_BR</lang><value>Troca mediante outro pagamento</value></content>
+<content><country></country><lang>ro</lang><value>Substitutie Cross-Ship</value></content>
+<content><country></country><lang>ru</lang><value>Замена на другой продукт</value></content>
+<content><country></country><lang>th</lang><value>Cross-Ship Replacement</value></content>
+<content><country></country><lang>zh</lang><value>邮寄换货</value></content>
+<content><country></country><lang>zh_TW</lang><value>郵寄換貨</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Rückerstattung</value></content>
+<content><country></country><lang>en</lang><value>Refund</value></content>
+<content><country></country><lang>es</lang><value>Reembolso/Devolución</value></content>
+<content><country></country><lang>fr</lang><value>Remboursement</value></content>
+<content><country></country><lang>it</lang><value>Rimborsato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Reembolso</value></content>
+<content><country></country><lang>ro</lang><value>Rambursat</value></content>
+<content><country></country><lang>ru</lang><value>Возмещение</value></content>
+<content><country></country><lang>th</lang><value>การคืนเงิน</value></content>
+<content><country></country><lang>zh</lang><value>退款</value></content>
+<content><country></country><lang>zh_TW</lang><value>退款</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Reparatur Ersatz</value></content>
+<content><country></country><lang>en</lang><value>Repair Replacement</value></content>
+<content><country></country><lang>es</lang><value>Reemplazo de reparación</value></content>
+<content><country></country><lang>fr</lang><value>Réparation</value></content>
+<content><country></country><lang>it</lang><value>Riparato sostituito</value></content>
+<content><country></country><lang>pt_BR</lang><value>Produto sobressalente</value></content>
+<content><country></country><lang>ru</lang><value>Замена при ремонте</value></content>
+<content><country></country><lang>th</lang><value>ชดเชยการทดแทน</value></content>
+<content><country></country><lang>zh</lang><value>修理替换</value></content>
+<content><country></country><lang>zh_TW</lang><value>修理替換</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ersatz</value></content>
+<content><country></country><lang>en</lang><value>Replacement</value></content>
+<content><country></country><lang>es</lang><value>Reemplazo</value></content>
+<content><country></country><lang>fr</lang><value>Remplacement</value></content>
+<content><country></country><lang>it</lang><value>Sostituito</value></content>
+<content><country></country><lang>pt_BR</lang><value>Substituto</value></content>
+<content><country></country><lang>ro</lang><value>Substituit</value></content>
+<content><country></country><lang>ru</lang><value>Замена</value></content>
+<content><country></country><lang>th</lang><value>การทดแทน</value></content>
+<content><country></country><lang>zh</lang><value>替换</value></content>
+<content><country></country><lang>zh_TW</lang><value>替換</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Automatischer Auftrag</value></content>
+<content><country></country><lang>en</lang><value>Automatic Re-Orders</value></content>
+<content><country></country><lang>es</lang><value>Volver a pedir automáticamente</value></content>
+<content><country></country><lang>fr</lang><value>Commander automatiquement un produit déjà commandé  </value></content>
+<content><country></country><lang>it</lang><value>Ri-ordini automatici</value></content>
+<content><country></country><lang>pt_BR</lang><value>Refazer pedido automaticamente</value></content>
+<content><country></country><lang>ro</lang><value>Comenzi reordinate Automatic</value></content>
+<content><country></country><lang>ru</lang><value>Автоматический повторный заказ</value></content>
+<content><country></country><lang>th</lang><value>สั่งใหม่โดยอัตโนมัติ</value></content>
+<content><country></country><lang>zh</lang><value>自动重新下订单</value></content>
+<content><country></country><lang>zh_TW</lang><value>自動重新下訂單</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Häufige Einkäufe</value></content>
+<content><country></country><lang>en</lang><value>Frequent Purchases</value></content>
+<content><country></country><lang>es</lang><value>Compras frecuentes</value></content>
+<content><country></country><lang>fr</lang><value>Achats fréquents</value></content>
+<content><country></country><lang>it</lang><value>Acquisti frequenti</value></content>
+<content><country></country><lang>pt_BR</lang><value>Compras frequentes</value></content>
+<content><country></country><lang>ro</lang><value>Cumparari Frecvente</value></content>
+<content><country></country><lang>ru</lang><value>Частые покупки</value></content>
+<content><country></country><lang>th</lang><value>การสั่งซื้อเป็นประจำ</value></content>
+<content><country></country><lang>zh</lang><value>经常购买</value></content>
+<content><country></country><lang>zh_TW</lang><value>經常購買</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Geschenkliste</value></content>
+<content><country></country><lang>en</lang><value>Gift Registry</value></content>
+<content><country></country><lang>es</lang><value>Lista de regalos</value></content>
+<content><country></country><lang>fr</lang><value>Liste de cadeaux</value></content>
+<content><country></country><lang>it</lang><value>Registro omaggi</value></content>
+<content><country></country><lang>pt_BR</lang><value>Lista de presentes</value></content>
+<content><country></country><lang>ro</lang><value>Registru Omagiu</value></content>
+<content><country></country><lang>ru</lang><value>Реестр подарков</value></content>
+<content><country></country><lang>th</lang><value>การจดทะเบียนของขวัญ</value></content>
+<content><country></country><lang>zh</lang><value>礼品注册</value></content>
+<content><country></country><lang>zh_TW</lang><value>禮品注冊</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Spezialfälle</value></content>
+<content><country></country><lang>en</lang><value>Special Purpose</value></content>
+<content><country></country><lang>es</lang><value>Casos especiales</value></content>
+<content><country></country><lang>fr</lang><value>Occasions spéciales</value></content>
+<content><country></country><lang>it</lang><value>Funzione speciale</value></content>
+<content><country></country><lang>pt_BR</lang><value>Propósito especial</value></content>
+<content><country></country><lang>ro</lang><value>Functie Speciala</value></content>
+<content><country></country><lang>ru</lang><value>Специальное назначение</value></content>
+<content><country></country><lang>th</lang><value>เป้าหมายพิเศษ</value></content>
+<content><country></country><lang>zh</lang><value>特别目的</value></content>
+<content><country></country><lang>zh_TW</lang><value>特別目的</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Wunschliste</value></content>
+<content><country></country><lang>en</lang><value>Wish List</value></content>
+<content><country></country><lang>es</lang><value>Lista de deseos</value></content>
+<content><country></country><lang>fr</lang><value>Liste de souhaits</value></content>
+<content><country></country><lang>it</lang><value>Lista dei desideri</value></content>
+<content><country></country><lang>pt_BR</lang><value>Lista de desejos</value></content>
+<content><country></country><lang>ro</lang><value>Lista Dorintelor</value></content>
+<content><country></country><lang>ru</lang><value>Список пожеланий</value></content>
+<content><country></country><lang>th</lang><value>รายการความต้องการ</value></content>
+<content><country></country><lang>zh</lang><value>期望列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>期望列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liefert</value></content>
+<content><country></country><lang>en</lang><value>Delivers</value></content>
+<content><country></country><lang>es</lang><value>Entrega</value></content>
+<content><country></country><lang>fr</lang><value>Livraisons</value></content>
+<content><country></country><lang>it</lang><value>Consegna</value></content>
+<content><country></country><lang>pt_BR</lang><value>Entrega</value></content>
+<content><country></country><lang>ro</lang><value>Livreaza</value></content>
+<content><country></country><lang>ru</lang><value>Доставка</value></content>
+<content><country></country><lang>th</lang><value>ประกาศ</value></content>
+<content><country></country><lang>zh</lang><value>交付</value></content>
+<content><country></country><lang>zh_TW</lang><value>交付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Einrichten</value></content>
+<content><country></country><lang>en</lang><value>Deploys</value></content>
+<content><country></country><lang>es</lang><value>Utiliza</value></content>
+<content><country></country><lang>fr</lang><value>Déployements</value></content>
+<content><country></country><lang>it</lang><value>Distribuisci</value></content>
+<content><country></country><lang>pt_BR</lang><value>Utiliza</value></content>
+<content><country></country><lang>ro</lang><value>Distribuie</value></content>
+<content><country></country><lang>ru</lang><value>Развертывание</value></content>
+<content><country></country><lang>th</lang><value>กระจาย</value></content>
+<content><country></country><lang>zh</lang><value>部署</value></content>
+<content><country></country><lang>zh_TW</lang><value>部署</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Korrigiert</value></content>
+<content><country></country><lang>en</lang><value>Fixes</value></content>
+<content><country></country><lang>es</lang><value>Arregla</value></content>
+<content><country></country><lang>fr</lang><value>Corrections</value></content>
+<content><country></country><lang>it</lang><value>Fissa</value></content>
+<content><country></country><lang>pt_BR</lang><value>Conserta</value></content>
+<content><country></country><lang>ro</lang><value>Fixeaza</value></content>
+<content><country></country><lang>ru</lang><value>Исправления</value></content>
+<content><country></country><lang>th</lang><value>แก้ไข</value></content>
+<content><country></country><lang>zh</lang><value>改正</value></content>
+<content><country></country><lang>zh_TW</lang><value>改正</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Implementiert</value></content>
+<content><country></country><lang>en</lang><value>Implements</value></content>
+<content><country></country><lang>es</lang><value>Implementa</value></content>
+<content><country></country><lang>fr</lang><value>Implémentations</value></content>
+<content><country></country><lang>it</lang><value>Implementa</value></content>
+<content><country></country><lang>pt_BR</lang><value>Implementa</value></content>
+<content><country></country><lang>ro</lang><value>Implementeaza</value></content>
+<content><country></country><lang>ru</lang><value>Реализация</value></content>
+<content><country></country><lang>th</lang><value>ทำให้ได้ผล</value></content>
+<content><country></country><lang>zh</lang><value>完成</value></content>
+<content><country></country><lang>zh_TW</lang><value>完成</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>führt Test durch</value></content>
+<content><country></country><lang>en</lang><value>Tests</value></content>
+<content><country></country><lang>es</lang><value>Prueba</value></content>
+<content><country></country><lang>fr</lang><value>Tests</value></content>
+<content><country></country><lang>it</lang><value>Testa</value></content>
+<content><country></country><lang>pt_BR</lang><value>Testa</value></content>
+<content><country></country><lang>ro</lang><value>Testeaza</value></content>
+<content><country></country><lang>ru</lang><value>Тестирование</value></content>
+<content><country></country><lang>th</lang><value>ทดสอบ</value></content>
+<content><country></country><lang>zh</lang><value>测试</value></content>
+<content><country></country><lang>zh_TW</lang><value>測試</value></content>
+</contents></phrase> </phrases>

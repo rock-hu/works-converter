@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Vermögensverwaltungsanwendung</value></content>
+<content><country></country><lang>en</lang><value>Asset Maintenance Application</value></content>
+<content><country></country><lang>fr</lang><value>Application de maintenance des biens</value></content>
+<content><country></country><lang>it</lang><value>Applicazione manutenzione cespiti</value></content>
+<content><country></country><lang>th</lang><value>บำรุงรักษาโปรแกรม</value></content>
+<content><country></country><lang>zh</lang><value>资产维护应用程序</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OFBiz: Asset Maintenance</value></content>
+<content><country></country><lang>fr</lang><value>OFBiz : maintenance des biens</value></content>
+<content><country></country><lang>it</lang><value>OFBiz: Manutenzione cespiti</value></content>
+<content><country></country><lang>th</lang><value>OFBiz: การบำรุงรักษา</value></content>
+<content><country></country><lang>zh</lang><value>OFBiz：资产维护</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Maintenance Department</value></content>
+<content><country></country><lang>fr</lang><value>Service de maintenance</value></content>
+<content><country></country><lang>it</lang><value>Servizio manutenzione</value></content>
+<content><country></country><lang>th</lang><value>แผนกการดูแลรักษา</value></content>
+<content><country></country><lang>zh</lang><value>维护部门</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>"Part Id ${productId} provided is invalid please check and try again"</value></content>
+<content><country></country><lang>fr</lang><value>"La réf. de piéce ${productId} fournie n'est pas valable, SVP recommencez"</value></content>
+<content><country></country><lang>it</lang><value>"Il Codice parte ${productId} fornito non è valido. Per favore controllare e riprovare"</value></content>
+<content><country></country><lang>th</lang><value>รหัสส่วน ${productId} ใช้ไม่ได้ กรุณาตรวจสอบและลองอีกครั้ง</value></content>
+<content><country></country><lang>zh</lang><value>"提供的零部件标识${productId}无效，请检查重试"</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Parts</value></content>
+<content><country></country><lang>fr</lang><value>Pièces</value></content>
+<content><country></country><lang>it</lang><value>Parti</value></content>
+<content><country></country><lang>th</lang><value>ส่วนหนึ่ง</value></content>
+<content><country></country><lang>zh</lang><value>零部件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>"Available Inventory level for ${productId} is ${quantity}"</value></content>
+<content><country></country><lang>fr</lang><value>"Le niveau de stock disponible pour ${productId} est ${quantity"</value></content>
+<content><country></country><lang>it</lang><value>"La quantità disponibile a magazzino per ${productId} è ${quantity}"</value></content>
+<content><country></country><lang>th</lang><value>รดับสินค้าคงเหลือของ ${productId} คือ ${quantity}</value></content>
+<content><country></country><lang>zh</lang><value>"${productId}的有效的库存级别是${quantity}"</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Vermögensverwaltungsanwendung</value></content>
+<content><country></country><lang>en</lang><value>Asset Maintenance</value></content>
+<content><country></country><lang>fr</lang><value>Application de maintenance des biens</value></content>
+<content><country></country><lang>it</lang><value>Manutenzione cespiti</value></content>
+<content><country></country><lang>th</lang><value>บำรุงรักษาโปรแกรม</value></content>
+<content><country></country><lang>zh</lang><value>资产维护应用程序</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Parent Work Effort</value></content>
+<content><country></country><lang>fr</lang><value>"Tâche parente"</value></content>
+<content><country></country><lang>it</lang><value>Impegno di lavoro padre</value></content>
+<content><country></country><lang>zh</lang><value>上级人工服务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Part Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de la pièce</value></content>
+<content><country></country><lang>it</lang><value>Codice parte</value></content>
+<content><country></country><lang>zh</lang><value>零部件标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problem in calling service issueInventoryItemToFixedAssetMaint</value></content>
+<content><country></country><lang>it</lang><value>Problema durante la chiamata al servizio issueInventoryItemToFixedAssetMaint</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problem in getting Inventory level for </value></content>
+<content><country></country><lang>it</lang><value>Problema ad ottenere il livello di inventario per </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Product Maint</value></content>
+<content><country></country><lang>fr</lang><value>Maintenance</value></content>
+<content><country></country><lang>it</lang><value>Manutenzione</value></content>
+<content><country></country><lang>zh</lang><value>产品维护</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View Permission Error</value></content>
+<content><country></country><lang>fr</lang><value>Afficher l'erreur d'autorisation</value></content>
+<content><country></country><lang>it</lang><value>Mostra errore di autorizzazione</value></content>
+<content><country></country><lang>th</lang><value>แสดงข้อผิดพลาดในการอนุญาต</value></content>
+<content><country></country><lang>zh</lang><value>浏览权限错误</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Item Issuance</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une émission d'article</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi prelievo articolo</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มรายการที่ออกมา</value></content>
+<content><country></country><lang>zh</lang><value>添加交付明细</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Task Breakdown</value></content>
+<content><country></country><lang>fr</lang><value>Décomposition de tâche</value></content>
+<content><country></country><lang>it</lang><value>Scoposizione compito</value></content>
+<content><country></country><lang>th</lang><value>งานหยุด</value></content>
+<content><country></country><lang>zh</lang><value>任务分解</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verwaltungen finden</value></content>
+<content><country></country><lang>en</lang><value>Find Maintenances</value></content>
+<content><country></country><lang>fr</lang><value>Chercher des maintenances</value></content>
+<content><country></country><lang>it</lang><value>Ricerca manutenzioni</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาการบำรุงรักษา</value></content>
+<content><country></country><lang>zh</lang><value>查找维修保养</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Equipments</value></content>
+<content><country></country><lang>fr</lang><value>Chercher des équipements</value></content>
+<content><country></country><lang>it</lang><value>Ricerca cespite</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาเครื่องมือ</value></content>
+<content><country></country><lang>zh</lang><value>查找设备</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Parts List</value></content>
+<content><country></country><lang>fr</lang><value>Liste des pièces</value></content>
+<content><country></country><lang>it</lang><value>Lista parti</value></content>
+<content><country></country><lang>th</lang><value>ส่วนหนึ่งของรายการ</value></content>
+<content><country></country><lang>zh</lang><value>零部件列表</value></content>
+</contents></phrase> </phrases>

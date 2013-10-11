@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+--><resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="hour.plural">
+        <value lang="de">Stunden</value>
+        <value lang="en">hours</value>
+        <value lang="es">horas</value>
+        <value lang="fr">Heures</value>
+        <value lang="it">ore</value>
+        <value lang="pt">horas</value>
+        <value lang="ru">часы</value>
+        <value lang="th">ชั่วโมง</value>
+        <value lang="zh">小时</value>
+        <value lang="zh_TW">小時</value>
+    </property>
+    <property key="hour.singular">
+        <value lang="de">Stunde</value>
+        <value lang="en">hour</value>
+        <value lang="es">hora</value>
+        <value lang="fr">Heure</value>
+        <value lang="it">ora</value>
+        <value lang="pt">hora</value>
+        <value lang="ru">час</value>
+        <value lang="th">ชั่วโมง</value>
+        <value lang="zh">小时</value>
+        <value lang="zh_TW">小時</value>
+    </property>
+    <property key="millisecond.plural">
+        <value lang="de">Millisekunden</value>
+        <value lang="en">millliseconds</value>
+        <value lang="es">milisegundos</value>
+        <value lang="fr">Milllisecondes</value>
+        <value lang="it">millisecondi</value>
+        <value lang="pt">milisegundos</value>
+        <value lang="ru">миллисекунды</value>
+        <value lang="th">หนึ่งในพันของหนึ่งวินาที</value>
+        <value lang="zh">毫秒</value>
+        <value lang="zh_TW">毫秒</value>
+    </property>
+    <property key="millisecond.singular">
+        <value lang="de">Millisekunde</value>
+        <value lang="en">milllisecond</value>
+        <value lang="es">milisegundo</value>
+        <value lang="fr">Millliseconde</value>
+        <value lang="it">millisecondo</value>
+        <value lang="pt">milisegundo</value>
+        <value lang="ru">миллисекунда</value>
+        <value lang="th">หนึ่งในพันของหนึ่งวินาที</value>
+        <value lang="zh">毫秒</value>
+        <value lang="zh_TW">毫秒</value>
+    </property>
+    <property key="minute.plural">
+        <value lang="de">Minuten</value>
+        <value lang="en">minutes</value>
+        <value lang="es">minutos</value>
+        <value lang="fr">Minutes</value>
+        <value lang="it">minuti</value>
+        <value lang="pt">minutos</value>
+        <value lang="ru">минуты</value>
+        <value lang="th">นาที</value>
+        <value lang="zh">分钟</value>
+        <value lang="zh_TW">分鐘</value>
+    </property>
+    <property key="minute.singular">
+        <value lang="de">Minute</value>
+        <value lang="en">minute</value>
+        <value lang="es">minuto</value>
+        <value lang="fr">Minute</value>
+        <value lang="it">minuto</value>
+        <value lang="pt">minuto</value>
+        <value lang="ru">минута</value>
+        <value lang="th">นาที</value>
+        <value lang="zh">分钟</value>
+        <value lang="zh_TW">分鐘</value>
+    </property>
+    <property key="second.plural">
+        <value lang="de">Sekunden</value>
+        <value lang="en">seconds</value>
+        <value lang="es">segundos</value>
+        <value lang="fr">Secondes</value>
+        <value lang="it">secondi</value>
+        <value lang="pt">segundos</value>
+        <value lang="ru">секунды</value>
+        <value lang="th">วินาที</value>
+        <value lang="zh">秒</value>
+        <value lang="zh_TW">秒</value>
+    </property>
+    <property key="second.singular">
+        <value lang="de">Sekunde</value>
+        <value lang="en">second</value>
+        <value lang="es">segundo</value>
+        <value lang="fr">seconde</value>
+        <value lang="it">secondo</value>
+        <value lang="pt">segundo</value>
+        <value lang="ru">секунда</value>
+        <value lang="th">วินาที</value>
+        <value lang="zh">秒</value>
+        <value lang="zh_TW">秒</value>
+    </property>
+    <property key="week.plural">
+        <value lang="de">Wochen</value>
+        <value lang="en">weeks</value>
+        <value lang="es">semanas</value>
+        <value lang="fr">Semaines</value>
+        <value lang="it">settimane</value>
+        <value lang="pt">semanas</value>
+        <value lang="ru">недели</value>
+        <value lang="th">สัปดาห์</value>
+        <value lang="zh">周</value>
+        <value lang="zh_TW">周</value>
+    </property>
+    <property key="week.singular">
+        <value lang="de">Woche</value>
+        <value lang="en">week</value>
+        <value lang="es">semana</value>
+        <value lang="fr">Semaine</value>
+        <value lang="it">settimana</value>
+        <value lang="pt">semana</value>
+        <value lang="ru">неделя</value>
+        <value lang="th">สัปดาห์</value>
+        <value lang="zh">周</value>
+        <value lang="zh_TW">周</value>
+    </property>
+</resource>

@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="WebPosAdjustments">
+        <value lang="en">Adjustments</value>
+        <value lang="fr">Ajustements</value>
+        <value lang="it">Aggiustamenti</value>
+        <value lang="zh">调整</value>
+    </property>
+    <property key="WebPosButtonCloseTerminal">
+        <value lang="en">CLOSE TERMINAL</value>
+        <value lang="fr">FERMER CAISSE</value>
+        <value lang="it">CHIUDI TERMINALE</value>
+        <value lang="zh">关闭终端</value>
+    </property>
+    <property key="WebPosButtonLogin">
+        <value lang="en">LOGIN</value>
+        <value lang="fr">CONNEXION</value>
+        <value lang="it">LOGIN</value>
+        <value lang="zh">登录</value>
+    </property>
+    <property key="WebPosButtonLogout">
+        <value lang="en">LOGOUT</value>
+        <value lang="fr">DECONNEXION</value>
+        <value lang="it">LOGOUT</value>
+        <value lang="zh">注销</value>
+    </property>
+    <property key="WebPosButtonMain">
+        <value lang="en">MAIN</value>
+        <value lang="fr">VENTE</value>
+        <value lang="it">INIZIO</value>
+        <value lang="zh">首页</value>
+    </property>
+    <property key="WebPosButtonManager">
+        <value lang="en">MANAGER</value>
+        <value lang="fr">RESP.</value>
+        <value lang="it">RESP.</value>
+        <value lang="zh">经理</value>
+    </property>
+    <property key="WebPosButtonModifyPrice">
+        <value lang="en">MODIFY PRICE</value>
+        <value lang="fr">MODIFIER PRIX</value>
+        <value lang="it">MODIF. PREZZO</value>
+        <value lang="zh">修改价格</value>
+    </property>
+    <property key="WebPosButtonOpenTerminal">
+        <value lang="en">OPEN TERMINAL</value>
+        <value lang="fr">OUVRIR CAISSE</value>
+        <value lang="it">APRI TERMINALE</value>
+        <value lang="zh">打开终端</value>
+    </property>
+    <property key="WebPosButtonPaidIn">
+        <value lang="en">PAID IN</value>
+        <value lang="fr">APPORT</value>
+        <value lang="it">PAGAM. ING.</value>
+        <value lang="zh">收款</value>
+    </property>
+    <property key="WebPosButtonPaidOut">
+        <value lang="en">PAID OUT</value>
+        <value lang="fr">RETRAIT</value>
+        <value lang="it">PAGAM. USC.</value>
+        <value lang="zh">找零</value>
+    </property>
+    <property key="WebPosButtonPayCash">
+        <value lang="en">PAY CASH</value>
+        <value lang="fr">PAIEMENT ESPECES</value>
+        <value lang="it">PAGAM. CONTANTI</value>
+        <value lang="zh">现金支付</value>
+    </property>
+    <property key="WebPosButtonPayCheck">
+        <value lang="en">PAY CHECK</value>
+        <value lang="fr">PAIEMENT CHEQUE</value>
+        <value lang="it">PAGAM. ASSEGNO</value>
+        <value lang="zh">支票支付</value>
+    </property>
+    <property key="WebPosButtonPayClear">
+        <value lang="en">CLEAR PAYMENT</value>
+        <value lang="fr">ANNULER PAIEMENT</value>
+        <value lang="it">CANC. PAGAM.</value>
+        <value lang="zh">清除支付</value>
+    </property>
+    <property key="WebPosButtonPayClearAll">
+        <value lang="en">CLEAR ALL PAYMENT</value>
+        <value lang="fr">ANNULER TOUS LES PAIEMENTS</value>
+        <value lang="it">CANC. TUTTI PAGAM.</value>
+        <value lang="zh">清除全部支付</value>
+    </property>
+    <property key="WebPosButtonPayCreditCard">
+        <value lang="en">PAY CREDIT CARD</value>
+        <value lang="fr">PAIEMENT CARTE BANCAIRE</value>
+        <value lang="it">PAGAM. CARTA CREDITO</value>
+        <value lang="zh">信用卡支付</value>
+    </property>
+    <property key="WebPosButtonPayFinish">
+        <value lang="en">PAY FINISH</value>
+        <value lang="fr">FINALISER PAIEMENT</value>
+        <value lang="it">TERMINA PAGAM.</value>
+        <value lang="zh">完成支付</value>
+    </property>
+    <property key="WebPosButtonPayGiftCard">
+        <value lang="en">PAY GIFT CARD</value>
+        <value lang="fr">PAIEMENT BON D'ACHAT</value>
+        <value lang="it">PAGAM. CARTA REGALO</value>
+        <value lang="zh">礼品卡支付</value>
+    </property>
+    <property key="WebPosButtonPaySetRef">
+        <value lang="en">PAYMENT SET REF.</value>
+        <value lang="fr">DEFINIR REF. PAIEMENT</value>
+        <value lang="it">IMPOSTA RIF. PAGAM.</value>
+        <value lang="zh">为支付设置引用</value>
+    </property>
+    <property key="WebPosButtonPayment">
+        <value lang="en">PAYMENT</value>
+        <value lang="fr">PAIEMENT</value>
+        <value lang="it">PAGAM.</value>
+        <value lang="zh">支付</value>
+    </property>
+    <property key="WebPosButtonPromo">
+        <value lang="en">PROMO</value>
+        <value lang="fr">PROMOTION</value>
+        <value lang="it">PROMOZ.</value>
+        <value lang="zh">促销</value>
+    </property>
+    <property key="WebPosButtonPromoCode">
+        <value lang="en">PROMO CODE</value>
+        <value lang="fr">CODE PROMOTION</value>
+        <value lang="it">COD. PROMOZ.</value>
+        <value lang="zh">促销代码</value>
+    </property>
+    <property key="WebPosButtonReturn">
+        <value lang="en">RETURN</value>
+        <value lang="fr">RETOUR</value>
+        <value lang="it">INVIO</value>
+        <value lang="zh">退货</value>
+    </property>
+    <property key="WebPosButtonShutdown">
+        <value lang="en">SHUTDOWN</value>
+        <value lang="fr">ETEINDRE</value>
+        <value lang="it">CHIUDI</value>
+        <value lang="zh">关机</value>
+    </property>
+    <property key="WebPosButtonSku">
+        <value lang="en">SKU</value>
+        <value lang="fr">CODE</value>
+        <value lang="it">CODICE PRODOTTO</value>
+        <value lang="zh">产品统一编号</value>
+    </property>
+    <property key="WebPosButtonVoidOrder">
+        <value lang="en">VOID ORDER</value>
+        <value lang="fr">ANNULER COMMANDE</value>
+        <value lang="it">RESO ORDINE</value>
+        <value lang="zh">空订单</value>
+    </property>
+    <property key="WebPosCart">
+        <value lang="en">POS Cart</value>
+        <value lang="fr">Panier du Point de vente</value>
+        <value lang="it">Carrello POS</value>
+        <value lang="zh">收银机购物车</value>
+    </property>
+    <property key="WebPosCartTotal">
+        <value lang="en">Cart Total</value>
+        <value lang="fr">Total du panier</value>
+        <value lang="it">Totale carrello</value>
+        <value lang="zh">购物车合计</value>
+    </property>
+    <property key="WebPosChooseTerminal">
+        <value lang="en">Choose Terminal</value>
+        <value lang="fr">Choisir la caisse</value>
+        <value lang="it">Scegli Terminale</value>
+        <value lang="zh">选择终端</value>
+    </property>
+    <property key="WebPosCompleteSale">
+        <value lang="en">Press Finish To Complete Sale</value>
+        <value lang="fr">Choisir Finaliser pour terminer la vente</value>
+        <value lang="it">Premere TERMINA per completare la vendita</value>
+        <value lang="zh">按结束完成销售</value>
+    </property>
+    <property key="WebPosDrawer">
+        <value lang="en">Till</value>
+        <value lang="fr">Caisse</value>
+        <value lang="it">Cassa</value>
+        <value lang="zh">备用金</value>
+    </property>
+    <property key="WebPosEmployee">
+        <value lang="en">Employee</value>
+        <value lang="fr">Employé</value>
+        <value lang="it">Impiegato</value>
+        <value lang="zh">雇员</value>
+    </property>
+    <property key="WebPosEmptyCart">
+        <value lang="en">EMPTY CART</value>
+        <value lang="fr">VIDER LE PANIER</value>
+        <value lang="it">SVUOTA CARRELLO</value>
+        <value lang="zh">空的购物车</value>
+    </property>
+    <property key="WebPosItemTotal">
+        <value lang="en">Item Total</value>
+        <value lang="fr">Total ligne</value>
+        <value lang="it">Totale riga</value>
+        <value lang="zh">明细合计</value>
+    </property>
+    <property key="WebPosManagerCloseTerminalCashAmount">
+        <value lang="en">Enter Cash Amount:</value>
+        <value lang="fr">Saisir le montant en espèces :</value>
+        <value lang="it">Inserire Importo in Contanti:</value>
+        <value lang="zh">输入现金金额：</value>
+    </property>
+    <property key="WebPosManagerCloseTerminalCashAmountNotValid">
+        <value lang="en">Enter a valid cash amount:</value>
+        <value lang="fr">Saisir un montant valide pour les espèces :</value>
+        <value lang="it">Inserire un'importo in contanti valido:</value>
+        <value lang="zh">输入一个有效的现金金额：</value>
+    </property>
+    <property key="WebPosManagerCloseTerminalCcAmount">
+        <value lang="en">Enter Credit Card Amount:</value>
+        <value lang="fr">Saisir le montant en carte bancaire :</value>
+        <value lang="it">Inserire Importo con Carte di Credito:</value>
+        <value lang="zh">输入信用卡金额：</value>
+    </property>
+    <property key="WebPosManagerCloseTerminalCcAmountNotValid">
+        <value lang="en">Enter a valid credit card amount:</value>
+        <value lang="fr">Saisir un montant valide pour les cartes bancaires :</value>
+        <value lang="it">Inserire un'importo con carte di credito valido:</value>
+        <value lang="zh">输入一个有效的信用卡金额：</value>
+    </property>
+    <property key="WebPosManagerCloseTerminalCheckAmount">
+        <value lang="en">Enter Check Amount:</value>
+        <value lang="fr">Saisir le montant en chèque :</value>
+        <value lang="it">Inserire Importo in Assegni:</value>
+        <value lang="zh">输入支票金额：</value>
+    </property>
+    <property key="WebPosManagerCloseTerminalCheckAmountNotValid">
+        <value lang="en">Enter a valid check amount:</value>
+        <value lang="fr">Saisir un montant valide pour les chèques :</value>
+        <value lang="it">Inserire un'importo in assegni valido:</value>
+        <value lang="zh">输入一个有效的支票金额：</value>
+    </property>
+    <property key="WebPosManagerCloseTerminalGcAmounNotValidt">
+        <value lang="en">Enter a valid gift card amount:</value>
+        <value lang="fr">Saisir un montant valide pour les bons d'achat :</value>
+        <value lang="it">Inserire un'importo con carte regalo valido:</value>
+        <value lang="zh">输入一个有效的礼品卡金额：</value>
+    </property>
+    <property key="WebPosManagerCloseTerminalGcAmount">
+        <value lang="en">Enter Gift Card Amount:</value>
+        <value lang="fr">Saisir le montant en bon d'achat :</value>
+        <value lang="it">Inserire Importo con Carte Regalo:</value>
+        <value lang="zh">输入礼品卡金额：</value>
+    </property>
+    <property key="WebPosManagerCloseTerminalOtherAmount">
+        <value lang="en">Enter Other Payment Amount:</value>
+        <value lang="fr">Saisir le montant avec un autre moyen de paiement :</value>
+        <value lang="it">Inserire Importo con Altri Pagamenti:</value>
+        <value lang="zh">输入其它支付金额：</value>
+    </property>
+    <property key="WebPosManagerCloseTerminalOtherAmountNotValid">
+        <value lang="en">Enter a valid other payment amount:</value>
+        <value lang="fr">Saisir un montant valide pour les autres moyens de paiements :</value>
+        <value lang="it">Inserire un'importo con altri pagamenti valido:</value>
+        <value lang="zh">输入一个有效的其它支付金额：</value>
+    </property>
+    <property key="WebPosManagerModifyPriceNewPrice">
+        <value lang="en">Enter new price</value>
+        <value lang="fr">Saisir le nouveau prix</value>
+        <value lang="it">Inserire il nuovo prezzo</value>
+        <value lang="zh">输入新价格</value>
+    </property>
+    <property key="WebPosManagerModifyPriceNotValidPrice">
+        <value lang="en">Enter a new valid price</value>
+        <value lang="fr">Saisir un nouveau prix valide</value>
+        <value lang="it">Inserire un nuovo prezzo valido</value>
+        <value lang="zh">输入一个新的有效价格</value>
+    </property>
+    <property key="WebPosManagerModifyPriceSku">
+        <value lang="en">Enter sku</value>
+        <value lang="fr">Saisir l'unité de stock</value>
+        <value lang="it">Inserire il codice prodotto</value>
+        <value lang="zh">输入产品统一编号</value>
+    </property>
+    <property key="WebPosManagerOpenTerminalDrawingAmount">
+        <value lang="en">Starting Drawer Amount:</value>
+        <value lang="fr">Apport dans la caisse :</value>
+        <value lang="it">Importo Iniziale Cassa:</value>
+        <value lang="zh">起始钱箱金额：</value>
+    </property>
+    <property key="WebPosManagerOpenTerminalDrawingAmountNotValid">
+        <value lang="en">Insert a valid starting drawer amount:</value>
+        <value lang="fr">Saisir un montant d'apport valide :</value>
+        <value lang="it">Inserire un'importo iniziale cassa valido:</value>
+        <value lang="zh">插入一个有效的起始钱箱金额：</value>
+    </property>
+    <property key="WebPosManagerPaidInAmount">
+        <value lang="en">Enter amount to paid in</value>
+        <value lang="fr">Saisir un apport valide</value>
+        <value lang="it">Inserire l'importo del pagamento in ingresso</value>
+        <value lang="zh">输入收取的金额</value>
+    </property>
+    <property key="WebPosManagerPaidOutAmount">
+        <value lang="en">Enter amount to withdraw</value>
+        <value lang="fr">Saisir un montant à retirer</value>
+        <value lang="it">Inserire l'importo del pagamento in uscita</value>
+        <value lang="zh">输入撤销的金额</value>
+    </property>
+    <property key="WebPosManagerPaidOutAndInWithoutOpenedTransaction">
+        <value lang="en">Cannot Paid Out and In without an opened transaction</value>
+        <value lang="fr">Il n'est pas possible d'ajouter ou retirer sans une transaction ouverte</value>
+        <value lang="it">Non è possibile pagare in ingresso o uscita senza una transazione aperta</value>
+        <value lang="zh">没有一个开放的交易，不能收钱和找零</value>
+    </property>
+    <property key="WebPosManagerPaidOutAndIndAmountNotValid">
+        <value lang="en">Enter a valid amount</value>
+        <value lang="fr">Saisir un montant valide</value>
+        <value lang="it">Inserire un'importo valido</value>
+        <value lang="zh">输入一个有效的金额</value>
+    </property>
+    <property key="WebPosManagerPaidOutAndIndReason">
+        <value lang="en">You have to choose a reason</value>
+        <value lang="fr">Vous devez choisir une raison</value>
+        <value lang="it">Tu devi scegliere la motivazione</value>
+        <value lang="zh">你必须选择一个原因</value>
+    </property>
+    <property key="WebPosManagerPaidOutAndIndReasonComment">
+        <value lang="en">You can insert a comment</value>
+        <value lang="fr">Vous pouvez ajouter un commentaire</value>
+        <value lang="it">Tu puoi inserire un commento</value>
+        <value lang="zh">你能插入一个评论</value>
+    </property>
+    <property key="WebPosManagerTerminalAlreadyClosed">
+        <value lang="en">Terminal already closed</value>
+        <value lang="fr">Caisse déjà fermée</value>
+        <value lang="it">Terminale già chiuso</value>
+        <value lang="zh">终端已关闭</value>
+    </property>
+    <property key="WebPosManagerTerminalAlreadyOpened">
+        <value lang="en">Terminal already opened</value>
+        <value lang="fr">Caisse déjà ouverte</value>
+        <value lang="it">Terminale già aperto</value>
+        <value lang="zh">终端已打开</value>
+    </property>
+    <property key="WebPosManagerVoidOrder">
+        <value lang="en">Enter Order Number To Void:</value>
+        <value lang="fr">Saisr le n° de commande à annuler</value>
+        <value lang="it">Inserire Numero Ordine per Reso:</value>
+        <value lang="zh">输入订单编号无效：</value>
+    </property>
+    <property key="WebPosManagerVoidOrderNotValidDate">
+        <value lang="en">Order ${parameters.orderId} has a date ${orderDate} that is before ${openDate}</value>
+        <value lang="fr">La commande ${parameters.orderId} a une date ${orderDate} inférieure à ${openDate}</value>
+        <value lang="it">L'ordine ${parameters.orderId} ha una data ${orderDate} che è prima del ${openDate}</value>
+        <value lang="zh">订单${parameters.orderId}有一个日期${orderDate}早于${openDate}</value>
+    </property>
+    <property key="WebPosManagerVoidOrderNotValidOrderId">
+        <value lang="en">Order ${parameters.orderId} not found</value>
+        <value lang="fr">Commande ${parameters.orderId} non trouvée</value>
+        <value lang="it">L'ordine ${parameters.orderId} non trovato</value>
+        <value lang="zh">没有找到订单${parameters.orderId}</value>
+    </property>
+    <property key="WebPosManagerVoidOrderTerminalNotOpened">
+        <value lang="en">Terminal is not opened</value>
+        <value lang="fr">La caisse est fermée</value>
+        <value lang="it">Il terminale non è aperto</value>
+        <value lang="zh">终端没有打开</value>
+    </property>
+    <property key="WebPosNotLoggedIn">
+        <value lang="en">You must be logged in</value>
+        <value lang="fr">Vous devez être connecté</value>
+        <value lang="it">Tu devi essere autenticato</value>
+        <value lang="zh">你必须登录</value>
+    </property>
+    <property key="WebPosNotManagerLoggedIn">
+        <value lang="en">To open terminal is mandatory that a manager is logged in</value>
+        <value lang="fr">Pour ouvrir la caisse, il est obligatoire qu'un reponsable se connecte</value>
+        <value lang="it">Per aprire il terminale e' obbligatorio autenticarsi con un manager</value>
+        <value lang="zh">要打开终端，必须经理登录</value>
+    </property>
+    <property key="WebPosPageTitleCloseTerminal">
+        <value lang="en">Close Terminal</value>
+        <value lang="fr">Fermer la caisse</value>
+        <value lang="it">Chiudi Terminale</value>
+        <value lang="zh">关闭终端</value>
+    </property>
+    <property key="WebPosPageTitleModifyPrice">
+        <value lang="en">Modify Price</value>
+        <value lang="fr">Modifier un prix</value>
+        <value lang="it">Modifica Prezzo</value>
+        <value lang="zh">修改价格</value>
+    </property>
+    <property key="WebPosPageTitleOpenTerminal">
+        <value lang="en">Open Terminal</value>
+        <value lang="fr">Ouvrir la caisse</value>
+        <value lang="it">Apri Terminale</value>
+        <value lang="zh">打开终端</value>
+    </property>
+    <property key="WebPosPageTitlePaidOutAndIn">
+        <value lang="en">Paid Out And In</value>
+        <value lang="fr">Mouvements de caisse</value>
+        <value lang="it">Pagamento in Uscita o in Entrata</value>
+        <value lang="zh">收钱和找零</value>
+    </property>
+    <property key="WebPosPageTitlePayCash">
+        <value lang="en">Pay Cash</value>
+        <value lang="fr">Payer en espèces</value>
+        <value lang="it">Pagamento in Contanti</value>
+        <value lang="zh">现金支付</value>
+    </property>
+    <property key="WebPosPageTitlePayCheck">
+        <value lang="de">Lohnzahlung</value>
+        <value lang="en">Pay Check</value>
+        <value lang="fr">Payer en chèque</value>
+        <value lang="it">Pagamento con Assegno</value>
+        <value lang="zh">支票支付</value>
+    </property>
+    <property key="WebPosPageTitlePayClear">
+        <value lang="en">Clear Payment</value>
+        <value lang="fr">Annuler le paiement</value>
+        <value lang="it">Rimuovi Pagamento</value>
+        <value lang="zh">清除支付</value>
+    </property>
+    <property key="WebPosPageTitlePayCreditCard">
+        <value lang="en">Pay Credit Card</value>
+        <value lang="fr">Payer en carte bancaire</value>
+        <value lang="it">Pagamento con Carta di Credito</value>
+        <value lang="zh">信用卡支付</value>
+    </property>
+    <property key="WebPosPageTitlePayGiftCard">
+        <value lang="en">Pay Gift Card</value>
+        <value lang="fr">Payer en bon d'achat</value>
+        <value lang="it">Pagamento con Carta Regalo</value>
+        <value lang="zh">礼品卡支付</value>
+    </property>
+    <property key="WebPosPageTitlePaySetRef">
+        <value lang="en">Pay Set Reference</value>
+        <value lang="fr">Réf. de paiement</value>
+        <value lang="it">Imposta Riferimento Pagamento</value>
+        <value lang="zh">为支付设置引用</value>
+    </property>
+    <property key="WebPosPageTitlePromoCode">
+        <value lang="en">Promo Code</value>
+        <value lang="fr">Code promotion</value>
+        <value lang="it">Codice Promozione</value>
+        <value lang="zh">促销代码</value>
+    </property>
+    <property key="WebPosPageTitleVoidOrder">
+        <value lang="en">Void Order</value>
+        <value lang="fr">Annuler une commande</value>
+        <value lang="it">Reso Ordine</value>
+        <value lang="zh">空订单</value>
+    </property>
+    <property key="WebPosPayCash">
+        <value lang="en">Cash amount</value>
+        <value lang="fr">Montant espèces</value>
+        <value lang="it">Importo in Contanti</value>
+        <value lang="zh">现金金额</value>
+    </property>
+    <property key="WebPosPayCashNotValidAmount">
+        <value lang="en">Insert a valid cash amount</value>
+        <value lang="fr">Saisir un montant en espèces valide</value>
+        <value lang="it">Inserire un'importo in contanti valido</value>
+        <value lang="zh">插入一个有效的现金金额</value>
+    </property>
+    <property key="WebPosPayCheck">
+        <value lang="en">Check amount</value>
+        <value lang="fr">Valeur chèque</value>
+        <value lang="it">Importo con Assegno</value>
+        <value lang="zh">支票金额</value>
+    </property>
+    <property key="WebPosPayCheckNotValidAmount">
+        <value lang="en">Insert a valid check amount</value>
+        <value lang="fr">Saisir une valeur de chèque valide</value>
+        <value lang="it">Inserire un'importo con assegni valido</value>
+        <value lang="zh">插入一个有效的支票金额</value>
+    </property>
+    <property key="WebPosPayCheckRefNum">
+        <value lang="en">Check ref. num .</value>
+        <value lang="fr">Réf. du chèque</value>
+        <value lang="it">Rif. Num. Assegno</value>
+        <value lang="zh">支票引用号</value>
+    </property>
+    <property key="WebPosPayCreditCard">
+        <value lang="en">Credit card amount</value>
+        <value lang="fr">Montant carte bancaire</value>
+        <value lang="it">Importo con carta di credito</value>
+        <value lang="zh">信用卡金额</value>
+    </property>
+    <property key="WebPosPayCreditCardExp">
+        <value lang="en">Credit card expiring</value>
+        <value lang="fr">Date d'expiration de la carte bancaire</value>
+        <value lang="it">Scadenza carta di credito</value>
+        <value lang="zh">信用卡过期</value>
+    </property>
+    <property key="WebPosPayCreditCardFirstName">
+        <value lang="en">First Name</value>
+        <value lang="fr">Prénom</value>
+        <value lang="it">Nome</value>
+        <value lang="zh">名</value>
+    </property>
+    <property key="WebPosPayCreditCardLastName">
+        <value lang="en">Last Name</value>
+        <value lang="fr">Nom</value>
+        <value lang="it">Cognome</value>
+        <value lang="zh">姓</value>
+    </property>
+    <property key="WebPosPayCreditCardNotValidAmount">
+        <value lang="en">Insert a valid credit card amount</value>
+        <value lang="fr">Saisir un montant de carte bancaire valide</value>
+        <value lang="it">Inserire un'importo con carta di credito valido</value>
+        <value lang="zh">插入一个有效的信用卡金额</value>
+    </property>
+    <property key="WebPosPayCreditCardNum">
+        <value lang="en">Credit card number</value>
+        <value lang="fr">N° de carte bancaire</value>
+        <value lang="it">Numero di carta di credito</value>
+        <value lang="zh">信用卡号</value>
+    </property>
+    <property key="WebPosPayCreditCardRefNum">
+        <value lang="en">Credit card ref. num .</value>
+        <value lang="fr">Réf. carte bancaire</value>
+        <value lang="it">Rif. Num. Carta di Credito</value>
+        <value lang="zh">信用卡引用号</value>
+    </property>
+    <property key="WebPosPayCreditCardSecurityCode">
+        <value lang="en">Credit card security code</value>
+        <value lang="fr">Code de sécurité de la carte bancaire</value>
+        <value lang="it">Codice di sicurezza della carta di credito</value>
+        <value lang="zh">信用卡安全码</value>
+    </property>
+    <property key="WebPosPayGiftCard">
+        <value lang="en">Gift card amount</value>
+        <value lang="fr">Montant du bon d'achat</value>
+        <value lang="it">Importo con carta regalo</value>
+        <value lang="zh">礼品卡金额</value>
+    </property>
+    <property key="WebPosPayGiftCardNotValidAmount">
+        <value lang="en">Insert a valid gift card amount</value>
+        <value lang="fr">Saisir une valeur de bon d'achat valide</value>
+        <value lang="it">Inserire un'importo con carta regalo valido</value>
+        <value lang="zh">插入一个有效的礼品卡金额</value>
+    </property>
+    <property key="WebPosPayGiftCardRefNum">
+        <value lang="en">Gift card ref. num .</value>
+        <value lang="fr">Réf. bon d'achat</value>
+        <value lang="it">Rif. Num. Carta Regalo</value>
+        <value lang="zh">礼品卡引用号</value>
+    </property>
+    <property key="WebPosPaymentCheckInternal">
+        <value lang="en">Payment Check Internal not yet supported</value>
+        <value lang="fr">Le paiement par chèques n'est pas pris en charge</value>
+        <value lang="it">Pagemento Assegno Interno non ancora supportato</value>
+        <value lang="zh">还不支持内部支票支付</value>
+    </property>
+    <property key="WebPosPaymentCheckMissingRefNum">
+        <value lang="en">You must specify the reference number of the payment check</value>
+        <value lang="fr">Vous devez indiquer un n° de réf. pour une paiement par chèque</value>
+        <value lang="it">Tu devi specificare il numero di riferimento del pagamento assegno</value>
+        <value lang="zh">你必须为支票支付指定一个引用号</value>
+    </property>
+    <property key="WebPosPaymentCredictCardInvalid">
+        <value lang="en">You must specify a valid credit card number</value>
+        <value lang="fr">Vous devez indiquer un n° de carte bancaire valide</value>
+        <value lang="it">Tu devi specificare un numero di carta di credito valida</value>
+        <value lang="zh">你必须指定一个有效的信用卡号</value>
+    </property>
+    <property key="WebPosPaymentCredictCardInvalidExpiringDate">
+        <value lang="en">You must specify a not expired credit card</value>
+        <value lang="fr">Vous devez indiquer une carte bancaire avec une date non expirée</value>
+        <value lang="it">Tu devi specificare una carta di credito non scaduta</value>
+        <value lang="zh">你必须指定一个没有过期的信用卡</value>
+    </property>
+    <property key="WebPosPaymentCredictCardInvalidSecurityCode">
+        <value lang="en">You must specify a valid security code</value>
+        <value lang="fr">Vous devez indiquer un code de sécurité valide</value>
+        <value lang="it">Tu devi specificare un pin valido</value>
+        <value lang="zh">你必须指定一个有效的安全码</value>
+    </property>
+    <property key="WebPosPaymentCredictCardMissingRefNum">
+        <value lang="en">You must specify the reference number of the payment credit card</value>
+        <value lang="fr">Vous devez indiquer un n° de réf. pour le paiement par carte bancaire</value>
+        <value lang="it">Tu devi specificare il numero di riferimento del pagamento carta di credito</value>
+        <value lang="zh">你必须为信用卡支付指定引用号</value>
+    </property>
+    <property key="WebPosPaymentGiftCardInternal">
+        <value lang="en">Payment Gift Card Internal not yet supported</value>
+        <value lang="fr">Le paiement par bons d'achat n'est pas pris en charge</value>
+        <value lang="it">Pagemento Carta Regalo Interna non ancora supportato</value>
+        <value lang="zh">还不支持内部礼品卡支付</value>
+    </property>
+    <property key="WebPosPaymentGiftCardMissingRefNum">
+        <value lang="en">You must specify the reference number of the payment gift card</value>
+        <value lang="fr">Vous devez indiquer un n° de réf. valide pour le paiement par bon d'achat</value>
+        <value lang="it">Tu devi specificare il numero di riferimento del pagamento carta regalo</value>
+        <value lang="zh">你必须为礼品卡支付指定引用号</value>
+    </property>
+    <property key="WebPosPaymentSetRef">
+        <value lang="en">Set payment reference</value>
+        <value lang="fr">Indiquer une réf. de paiement</value>
+        <value lang="it">Imposta rif. pagamento</value>
+        <value lang="zh">设置支付引用</value>
+    </property>
+    <property key="WebPosPromoCode">
+        <value lang="en">Enter Promo Code:</value>
+        <value lang="fr">Saisir un code promotion</value>
+        <value lang="it">Inserire Codice Promozione:</value>
+        <value lang="zh">输入促销代码：</value>
+    </property>
+    <property key="WebPosPromoCodeTerminalNotOpened">
+        <value lang="en">Terminal must be opened for promo</value>
+        <value lang="fr">La caisse doit être ouverte pour les promotions</value>
+        <value lang="it">Terminale deve essere aperto per utilizzare le promozioni</value>
+        <value lang="zh">终端必须为促销打开</value>
+    </property>
+    <property key="WebPosRecalculateCart">
+        <value lang="en">RECALCULATE CART</value>
+        <value lang="fr">RECALCULER LE PANIER</value>
+        <value lang="it">RICALCOLA CARRELLO</value>
+        <value lang="zh">购物车重计算</value>
+    </property>
+    <property key="WebPosRemoveSelected">
+        <value lang="en">REMOVE SELECTED</value>
+        <value lang="fr">SUPPRIMER LA SELECTION</value>
+        <value lang="it">RIMUOVI SELEZIONI</value>
+        <value lang="zh">删除选择的</value>
+    </property>
+    <property key="WebPosSearchBy">
+        <value lang="en">Search By</value>
+        <value lang="fr">Rechercher par</value>
+        <value lang="it">Ricerca per</value>
+        <value lang="zh">搜索</value>
+    </property>
+    <property key="WebPosTransactionDate">
+        <value lang="en">Date</value>
+        <value lang="fr">Date</value>
+        <value lang="it">Data</value>
+        <value lang="zh">日期</value>
+    </property>
+    <property key="WebPosTransactionDateFormat">
+        <value lang="en">EEE MMM dd</value>
+        <value lang="fr">EEE MMM dd</value>
+        <value lang="it">EEE MMM dd</value>
+    </property>
+    <property key="WebPosTransactionId">
+        <value lang="en">Transaction Id</value>
+        <value lang="fr">N° de transaction</value>
+        <value lang="it">Transazione</value>
+        <value lang="zh">交易标识</value>
+    </property>
+    <property key="WebPosTransactionTotalDue">
+        <value lang="en">Total Due</value>
+        <value lang="fr">Montant dû</value>
+        <value lang="it">Totale Dovuto</value>
+        <value lang="zh">全部应付</value>
+    </property>
+    <property key="WebPosUnableToLogIn">
+        <value lang="en">Unable To Log In</value>
+        <value lang="it">Non è stato possibile autenticarsi</value>
+        <value lang="zh">不能登录</value>
+    </property>
+    <property key="WebPosUnitPrice">
+        <value lang="en">Unit Price</value>
+        <value lang="fr">Prix unitaire</value>
+        <value lang="it">Prezzo unitario</value>
+        <value lang="zh">单价</value>
+    </property>
+    <property key="WebPosUserLoginNotValid">
+        <value lang="en">User Login Not Valid</value>
+        <value lang="it">Utente non valido</value>
+        <value lang="zh">用户登录无效</value>
+    </property>
+</resource>

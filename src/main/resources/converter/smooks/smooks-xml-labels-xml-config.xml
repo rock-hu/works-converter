@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<smooks-resource-list xmlns="http://www.milyn.org/xsd/smooks-1.1.xsd"
+	xmlns:core="http://www.milyn.org/xsd/smooks/smooks-core-1.4.xsd"
+	xmlns:jb="http://www.milyn.org/xsd/smooks/javabean-1.4.xsd" 
+	xmlns:frag="http://www.milyn.org/xsd/smooks/fragment-routing-1.4.xsd"
+	xmlns:jms="http://www.milyn.org/xsd/smooks/jms-routing-1.2.xsd"
+	xmlns:ftl="http://www.milyn.org/xsd/smooks/freemarker-1.1.xsd">
+	<core:filterSettings type="SAX" defaultSerialization="false" />
+	<params>
+		<param name="stream.filter.type">SAX</param>
+		<param name="default.serialization.on">false</param>
+	</params>
+	
+	<!-- 
+	<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	    <property key="AcctgTransType.description.AMORTIZATION">
+	        <value lang="en">Amortization</value>
+	        <value lang="fr">Amortissements</value>
+	        <value lang="hi_IN">परिशोधन</value>
+	        <value lang="it">Ammortamento</value>
+	        <value lang="pt_BR">Amortização</value>
+	        <value lang="ro">Amortizare</value>
+	        <value lang="ru">Амортизация</value>
+	        <value lang="th">การตัดบัญชี</value>
+	        <value lang="zh">贷款摊还</value>
+	        <value lang="zh_TW">貸款攤還</value>
+	    </property>
+	    
+	    ...
+	    
+	</resource>
+	 -->
+	<!--
+	<?xml version="1.0" encoding="UTF-8"?>
+	<phrases>
+		<phrase>
+			<basename>AccountingErrorUi</basename>
+			<key>AccountingDeleteRateAmount</key>
+			<contents>
+				<content>
+					<country></country>
+					<lang></lang>
+					<value>Could not find RateAmount record to be deleted</value>
+				</content>
+				...
+			</contents>
+		</phrase>
+	</phrases>
+	-->
+	
+	<resource-config selector="resource,property,value">
+		<resource>org.milyn.delivery.DomModelCreator</resource>
+	</resource-config>
+	<ftl:freemarker applyOnElement="resource">
+		<ftl:template><!--<?xml version="1.0" encoding="UTF-8"?><phrases><?TEMPLATE-SPLIT-PI?></phrases>--></ftl:template>
+	</ftl:freemarker>
+	
+	<ftl:freemarker applyOnElement="property">
+		<ftl:template><!--<phrase><basename></basename><key></key><contents><?TEMPLATE-SPLIT-PI?></contents></phrase> --></ftl:template>
+	</ftl:freemarker>
+	<ftl:freemarker applyOnElement="value">
+		<ftl:template><!--<content><country></country><lang>${.vars["value"].@lang}</lang><value>${.vars["value"]}</value></content>-->
+	</ftl:template>
+	</ftl:freemarker>
+	
+	
+	
+	
+</smooks-resource-list>

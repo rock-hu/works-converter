@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ist-Stunden</value></content>
+<content><country></country><lang>en</lang><value>Actual Hours</value></content>
+<content><country></country><lang>fr</lang><value>Heures réelles</value></content>
+<content><country></country><lang>it</lang><value>Ore attuali</value></content>
+<content><country></country><lang>nl</lang><value>Werk. uren</value></content>
+<content><country></country><lang>zh</lang><value>实际工时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Nicht fakturierte Ist-Stunden</value></content>
+<content><country></country><lang>en</lang><value>Actual Non Billed Hours</value></content>
+<content><country></country><lang>fr</lang><value>Heures réelles non facturées</value></content>
+<content><country></country><lang>it</lang><value>Ore attuali non fatturate</value></content>
+<content><country></country><lang>nl</lang><value>Werk. uren - niet gefakt.</value></content>
+<content><country></country><lang>zh</lang><value>实际非记账工时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kunden Rechnungsadresse</value></content>
+<content><country></country><lang>en</lang><value>Client Billing Party Id</value></content>
+<content><country></country><lang>fr</lang><value>Client facturé</value></content>
+<content><country></country><lang>it</lang><value>Soggetto fatturazione</value></content>
+<content><country></country><lang>nl</lang><value>Klant ID</value></content>
+<content><country></country><lang>zh</lang><value>客户账单会员标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Vollständig</value></content>
+<content><country></country><lang>en</lang><value>Complete</value></content>
+<content><country></country><lang>fr</lang><value>Terminé</value></content>
+<content><country></country><lang>it</lang><value>Completo</value></content>
+<content><country></country><lang>nl</lang><value>Compleet</value></content>
+<content><country></country><lang>zh</lang><value>完成</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Erstellungsdatum</value></content>
+<content><country></country><lang>en</lang><value>Created Stamp</value></content>
+<content><country></country><lang>fr</lang><value>Estampille créée</value></content>
+<content><country></country><lang>it</lang><value>Data creazione</value></content>
+<content><country></country><lang>nl</lang><value>Datum aanmaken</value></content>
+<content><country></country><lang>zh</lang><value>创建时间</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>First Resource</value></content>
+<content><country></country><lang>fr</lang><value>1ère ressource</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Mailing List E-Mail</value></content>
+<content><country></country><lang>en</lang><value>Mailing List E-mail</value></content>
+<content><country></country><lang>fr</lang><value>Adresse de la liste de diffusion</value></content>
+<content><country></country><lang>nl</lang><value>Mailinglijst E-mail</value></content>
+<content><country></country><lang>th</lang><value>E-mail สำหรับ Mailing List</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neue Zeiterfassungs ID</value></content>
+<content><country></country><lang>en</lang><value>New Timesheet Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de nouvelle feuille d'activité</value></content>
+<content><country></country><lang>it</lang><value>Nuova timbratura</value></content>
+<content><country></country><lang>nl</lang><value>Nieuwe urenstaat ID</value></content>
+<content><country></country><lang>zh</lang><value>新的时间表Id</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Nicht fakturierte Stunden</value></content>
+<content><country></country><lang>en</lang><value>Non Billed Hours</value></content>
+<content><country></country><lang>fr</lang><value>Heures non facturées</value></content>
+<content><country></country><lang>it</lang><value>Ore non fatturate</value></content>
+<content><country></country><lang>nl</lang><value>Niet gefakt. uren</value></content>
+<content><country></country><lang>zh</lang><value>非记账工时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ursprüngliche Ist-Stunden</value></content>
+<content><country></country><lang>en</lang><value>Original Actual Hours</value></content>
+<content><country></country><lang>it</lang><value>Ore attuali originali</value></content>
+<content><country></country><lang>nl</lang><value>Originele werk. uren</value></content>
+<content><country></country><lang>zh</lang><value>原始实际工时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Name des übergeordneten Projektes</value></content>
+<content><country></country><lang>en</lang><value>Parent Project Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom du projet parent</value></content>
+<content><country></country><lang>it</lang><value>Nome progetto padre</value></content>
+<content><country></country><lang>nl</lang><value>Naam parentproject</value></content>
+<content><country></country><lang>zh</lang><value>上级项目名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Phase</value></content>
+<content><country></country><lang>en</lang><value>Phase</value></content>
+<content><country></country><lang>fr</lang><value>Phase</value></content>
+<content><country></country><lang>it</lang><value>Fase</value></content>
+<content><country></country><lang>nl</lang><value>Fase</value></content>
+<content><country></country><lang>zh</lang><value>项目阶段</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Phase ID</value></content>
+<content><country></country><lang>en</lang><value>Phase Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de phase</value></content>
+<content><country></country><lang>it</lang><value>Fase</value></content>
+<content><country></country><lang>nl</lang><value>ID</value></content>
+<content><country></country><lang>zh</lang><value>阶段标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Phasenname</value></content>
+<content><country></country><lang>en</lang><value>Phase Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de phase</value></content>
+<content><country></country><lang>it</lang><value>Nome fase</value></content>
+<content><country></country><lang>nl</lang><value>Naam</value></content>
+<content><country></country><lang>zh</lang><value>阶段名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Geplante Stunden</value></content>
+<content><country></country><lang>en</lang><value>Planned Hours</value></content>
+<content><country></country><lang>fr</lang><value>Heures planifiées</value></content>
+<content><country></country><lang>it</lang><value>Orari pianificati</value></content>
+<content><country></country><lang>nl</lang><value>Geplande uren</value></content>
+<content><country></country><lang>zh</lang><value>计划工时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projektname</value></content>
+<content><country></country><lang>en</lang><value>Project Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de projet</value></content>
+<content><country></country><lang>it</lang><value>Nome progetto</value></content>
+<content><country></country><lang>nl</lang><value>Naam project</value></content>
+<content><country></country><lang>zh</lang><value>项目名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verwandte Aufgaben</value></content>
+<content><country></country><lang>en</lang><value>Related Tasks</value></content>
+<content><country></country><lang>fr</lang><value>Tâches associées</value></content>
+<content><country></country><lang>it</lang><value>Compiti relativi</value></content>
+<content><country></country><lang>nl</lang><value>Gerelateerde taken</value></content>
+<content><country></country><lang>zh</lang><value>相关任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabe</value></content>
+<content><country></country><lang>en</lang><value>Task</value></content>
+<content><country></country><lang>fr</lang><value>Tâche</value></content>
+<content><country></country><lang>it</lang><value>Compito</value></content>
+<content><country></country><lang>nl</lang><value>Taak</value></content>
+<content><country></country><lang>zh</lang><value>任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Milestone</value></content>
+<content><country></country><lang>fr</lang><value>Jalon</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabenname</value></content>
+<content><country></country><lang>en</lang><value>Task Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de tâche</value></content>
+<content><country></country><lang>it</lang><value>Nome compito</value></content>
+<content><country></country><lang>nl</lang><value>Naam taak</value></content>
+<content><country></country><lang>zh</lang><value>任务名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Vorlage ID</value></content>
+<content><country></country><lang>en</lang><value>Template Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de modèle</value></content>
+<content><country></country><lang>it</lang><value>Template</value></content>
+<content><country></country><lang>nl</lang><value>Template ID</value></content>
+<content><country></country><lang>zh</lang><value>模板Id</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Associated to</value></content>
+<content><country></country><lang>fr</lang><value>Associée à</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neue wöchentliche Zeiterfassung hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add a new weekly Timesheet</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une nouvelle feuille d'activité hebdomadaire</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi una nuova timbratura settimanale</value></content>
+<content><country></country><lang>nl</lang><value>Nieuwe urenstaat toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มตารางเวลารายสัปดาห์ใหม่</value></content>
+<content><country></country><lang>zh</lang><value>增加新的周时间表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Abhängigkeit nach aktueller Aufgabe hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Dependency After the current Task</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une dépendance après la tâche courante</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi dipendenza dopo l'attuale compito</value></content>
+<content><country></country><lang>nl</lang><value>Afhankelijkheid na huidige taak toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มความสัมพันธ์หลังจากงานเป็นที่ยอมรับ</value></content>
+<content><country></country><lang>zh</lang><value>在当前任务后增加依赖</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Abhängigkeit vor aktueller Aufgabe hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Dependency before the current Task</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une dépendance avant la tâche courante</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi dipendenza prima del compito</value></content>
+<content><country></country><lang>nl</lang><value>Voorlooptaak voor huidige taak toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มความสัมพันธ์ก่อนงานเป็นที่ยอมรับ</value></content>
+<content><country></country><lang>zh</lang><value>在当前任务前增加依赖</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabe für Ressource hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Resource Assignment</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une ressource à la tâche</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi assegnazione risorsa</value></content>
+<content><country></country><lang>nl</lang><value>Resource opnemen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มการกำหนดแหล่งข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>增加资源分配</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Phase hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Phase</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une phase</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi fase</value></content>
+<content><country></country><lang>nl</lang><value>Fase toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มขั้นตอนการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>增加项目阶段</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projekt hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Project</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter un projet</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi progetto</value></content>
+<content><country></country><lang>nl</lang><value>Project toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>增加项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projektinhalt hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Project Content</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter un contenu au projet</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi contenuto progetto</value></content>
+<content><country></country><lang>nl</lang><value>Projectcontent toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มหัวข้อโปรเจ็ค</value></content>
+<content><country></country><lang>zh</lang><value>添加项目内容</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projektnotizen hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Project Notes</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter des notes au projet</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi note progetto</value></content>
+<content><country></country><lang>nl</lang><value>Notities toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มข้อความโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>增加项目备注</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Füge alle gemeldeten/genehmigten Aufgabenzeiten einer neuen Abrechnung hinzu</value></content>
+<content><country></country><lang>en</lang><value>Add all reported/approved task time to a new invoice</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter tout le temps de la tâche rapporté/approuvé à une nouvelle facture/</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi tutte le timbrature approvate ad una nuova fattura</value></content>
+<content><country></country><lang>nl</lang><value>Alle gerapporteerde/goedgekeurde uren toevoegen aan nieuwe faktuur</value></content>
+<content><country></country><lang>zh</lang><value>把全部已报告/已批准的任务时间添加到一个新的发票</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neue Ressource hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add a Resource</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une ressource</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi una risorsa</value></content>
+<content><country></country><lang>nl</lang><value>Resource toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มแหล่งที่มา</value></content>
+<content><country></country><lang>zh</lang><value>增加资源</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Anforderung hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Requirement</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter un besoin</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi abilità</value></content>
+<content><country></country><lang>nl</lang><value>Requirement toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มความต้องการ</value></content>
+<content><country></country><lang>zh</lang><value>增加需求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Teilprojekt hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Sub Project</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter un sous-projet</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi sotto-progetto</value></content>
+<content><country></country><lang>nl</lang><value>Subproject toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มโปรเจคย่อย</value></content>
+<content><country></country><lang>zh</lang><value>增加子项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Teilaufgabe hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Sub Task</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une sous-tâche</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi sotto-compito</value></content>
+<content><country></country><lang>nl</lang><value>Subtaak toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มงานย่อย</value></content>
+<content><country></country><lang>zh</lang><value>增加子任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabe hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Task</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une tâche</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi compito</value></content>
+<content><country></country><lang>nl</lang><value>Taak toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มงาน</value></content>
+<content><country></country><lang>zh</lang><value>增加任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabeninhalt hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Task Content</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter un contenu à la tâche</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi contenuto compito</value></content>
+<content><country></country><lang>nl</lang><value>Content toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มหัวข้องาน </value></content>
+<content><country></country><lang>zh</lang><value>增加项目内容</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabennotiz hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Task Notes</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter des notes à la tâche</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi note compito</value></content>
+<content><country></country><lang>nl</lang><value>Notitie toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มข้อความงาน</value></content>
+<content><country></country><lang>zh</lang><value>增加任务备注</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zeiterfassungsbuchung hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Timesheet Entry</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une feuille d'activité</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi voce timbratura</value></content>
+<content><country></country><lang>nl</lang><value>Urenregel toevoegen</value></content>
+<content><country></country><lang>zh</lang><value>添加工时单记录</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zeiterfassungsfunktion hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Timesheet role</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter un rôle de feuille d'activité</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi ruolo timbratura</value></content>
+<content><country></country><lang>nl</lang><value>Rol urenstaat toevoegen</value></content>
+<content><country></country><lang>zh</lang><value>添加工时单角色</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Eine neue Aufgabe für diese Anfrage erstellen</value></content>
+<content><country></country><lang>en</lang><value>Create a new Task for this Request</value></content>
+<content><country></country><lang>fr</lang><value>Créer une nouvelle tâche pour cette demande</value></content>
+<content><country></country><lang>it</lang><value>Creare un nuovo compito per questa richiesta</value></content>
+<content><country></country><lang>nl</lang><value>Nieuwe taak voor dit request aanmaken</value></content>
+<content><country></country><lang>th</lang><value>สร้างงานใหม่สำหรับคำร้องขอ</value></content>
+<content><country></country><lang>zh</lang><value>为该请求创建新的任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aktuelle Zeiterfassung</value></content>
+<content><country></country><lang>en</lang><value>Current Timesheet</value></content>
+<content><country></country><lang>fr</lang><value>Feuille d'activité courante</value></content>
+<content><country></country><lang>it</lang><value>Timbrature attuali</value></content>
+<content><country></country><lang>nl</lang><value>Huidige urenstaat</value></content>
+<content><country></country><lang>th</lang><value>ตารางเวลาที่ใช้กันอยู่ในปัจจุบัน</value></content>
+<content><country></country><lang>zh</lang><value>当前时间表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabenabhängigkeiten</value></content>
+<content><country></country><lang>en</lang><value>Task dependencies</value></content>
+<content><country></country><lang>fr</lang><value>Dépendances de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Dipendenze compiti</value></content>
+<content><country></country><lang>nl</lang><value>Afhankelijkheden</value></content>
+<content><country></country><lang>th</lang><value>ความสัมพันธ์ของงาน</value></content>
+<content><country></country><lang>zh</lang><value>任务间从属关系</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aktuelle Zeiterfassung bearbeiten</value></content>
+<content><country></country><lang>en</lang><value>Edit current timesheet</value></content>
+<content><country></country><lang>fr</lang><value>Modifier la feuille d'activité courante</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna timbratura attuali</value></content>
+<content><country></country><lang>nl</lang><value>Huidige urenstaat wijzigen</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขตารางเวลาที่ใช้อยู่ในปัจจุบัน</value></content>
+<content><country></country><lang>zh</lang><value>编辑当前时间表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Phase editieren</value></content>
+<content><country></country><lang>en</lang><value>Edit Phase</value></content>
+<content><country></country><lang>fr</lang><value>Modifier la phase</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna fase</value></content>
+<content><country></country><lang>nl</lang><value>Fase wijzigen</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขขั้นตอนการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>编辑项目阶段</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projekt editieren</value></content>
+<content><country></country><lang>en</lang><value>Edit Project</value></content>
+<content><country></country><lang>fr</lang><value>Modifier le projet</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna progetto</value></content>
+<content><country></country><lang>nl</lang><value>Project wijzigen</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>编辑项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projektbestellung editieren</value></content>
+<content><country></country><lang>en</lang><value>Edit Project Order</value></content>
+<content><country></country><lang>fr</lang><value>Modifier les commandes associées au projet</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna progetto ordine</value></content>
+<content><country></country><lang>nl</lang><value>Order wijzigen</value></content>
+<content><country></country><lang>zh</lang><value>编辑项目角色</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Bedarf editieren</value></content>
+<content><country></country><lang>en</lang><value>Edit Requirement</value></content>
+<content><country></country><lang>fr</lang><value>Modifier le besoin</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna abilità</value></content>
+<content><country></country><lang>nl</lang><value>Requirement wijzigen</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขความต้องการ</value></content>
+<content><country></country><lang>zh</lang><value>编辑需求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Teilprojekt editieren</value></content>
+<content><country></country><lang>en</lang><value>Edit Sub Project</value></content>
+<content><country></country><lang>fr</lang><value>Modifier le sous-projet</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna sotto-progetto</value></content>
+<content><country></country><lang>nl</lang><value>Subproject wijzigen</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขโปรเจคย่อย</value></content>
+<content><country></country><lang>zh</lang><value>编辑子项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Teilaufgabe editieren</value></content>
+<content><country></country><lang>en</lang><value>Edit Sub Task</value></content>
+<content><country></country><lang>fr</lang><value>Modifier la sous-tâche</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna sotto-compito</value></content>
+<content><country></country><lang>nl</lang><value>Subtaak wijzigen</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขงานย่อย</value></content>
+<content><country></country><lang>zh</lang><value>编辑子任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabe editieren</value></content>
+<content><country></country><lang>en</lang><value>Edit Task</value></content>
+<content><country></country><lang>fr</lang><value>Modifier la tâche</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna compito</value></content>
+<content><country></country><lang>nl</lang><value>Taak wijzigen</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขงาน</value></content>
+<content><country></country><lang>zh</lang><value>编辑任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Mailing-List suchen</value></content>
+<content><country></country><lang>en</lang><value>Find Mailing List</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher une liste de diffusion</value></content>
+<content><country></country><lang>nl</lang><value>Mailinglijst zoeken</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาจดหมาย</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Phase suchen</value></content>
+<content><country></country><lang>en</lang><value>Find Phase</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher la phase</value></content>
+<content><country></country><lang>it</lang><value>Ricerca fase</value></content>
+<content><country></country><lang>nl</lang><value>Fase zoeken</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาขั้นตอนการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>查找项目阶段</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projekt suchen</value></content>
+<content><country></country><lang>en</lang><value>Find Project</value></content>
+<content><country></country><lang>fr</lang><value>Recherche de projet(s)</value></content>
+<content><country></country><lang>it</lang><value>Ricerca progetto</value></content>
+<content><country></country><lang>nl</lang><value>Project zoeken</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>查找项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projektergebnisse suchen</value></content>
+<content><country></country><lang>en</lang><value>Find Project Results</value></content>
+<content><country></country><lang>fr</lang><value>Voir les résultats du projet</value></content>
+<content><country></country><lang>it</lang><value>Risultati ricerca progetto</value></content>
+<content><country></country><lang>nl</lang><value>Projectresultaten zoeken</value></content>
+<content><country></country><lang>th</lang><value>ผลลัพธ์ที่ได้จากการค้นหาโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>查找项目情况</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ressourcen suchen</value></content>
+<content><country></country><lang>en</lang><value>Find Resource</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher la ressource</value></content>
+<content><country></country><lang>it</lang><value>Ricerca risorsa</value></content>
+<content><country></country><lang>nl</lang><value>Resource zoeken</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาแหล่งที่มา</value></content>
+<content><country></country><lang>zh</lang><value>查找资源</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Teilprojekte suchen</value></content>
+<content><country></country><lang>en</lang><value>Find Sub Project</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher le sous-projet</value></content>
+<content><country></country><lang>it</lang><value>Ricerca sotto-progetto</value></content>
+<content><country></country><lang>nl</lang><value>Subproject zoeken</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาโปรเจคย่อย</value></content>
+<content><country></country><lang>zh</lang><value>查找子项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Teilaufgaben suchen</value></content>
+<content><country></country><lang>en</lang><value>Find Sub Task</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher la sous-tâche</value></content>
+<content><country></country><lang>it</lang><value>Ricerca sotto-compito</value></content>
+<content><country></country><lang>nl</lang><value>Subtaak zoeken</value></content>
+<content><country></country><lang>th</lang><value>ค้นหางานย่อย</value></content>
+<content><country></country><lang>zh</lang><value>查找子任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabe suchen</value></content>
+<content><country></country><lang>en</lang><value>Find Task</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher la tâche</value></content>
+<content><country></country><lang>it</lang><value>Ricerca compito</value></content>
+<content><country></country><lang>nl</lang><value>Taak zoeken</value></content>
+<content><country></country><lang>th</lang><value>ค้นหางาน</value></content>
+<content><country></country><lang>zh</lang><value>查找任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zeiterfassungsbogen suchen</value></content>
+<content><country></country><lang>en</lang><value>Find TimeSheet</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher une feuille d'activité</value></content>
+<content><country></country><lang>it</lang><value>Ricerca timbratura</value></content>
+<content><country></country><lang>nl</lang><value>Urenstaat zoeken</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาตารางเวลา</value></content>
+<content><country></country><lang>zh</lang><value>查找时间表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Noch nicht fakturierte Stunden</value></content>
+<content><country></country><lang>en</lang><value>Hours not yet billed</value></content>
+<content><country></country><lang>fr</lang><value>Heures non encore facturées</value></content>
+<content><country></country><lang>it</lang><value>Ore che non sono ancora fatturate</value></content>
+<content><country></country><lang>nl</lang><value>Ongefakt. uren</value></content>
+<content><country></country><lang>th</lang><value>ชั่วโมงที่ทำรายการไม่เสร็จ</value></content>
+<content><country></country><lang>zh</lang><value>未开账单的工时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste fakturierter Stunden auf</value></content>
+<content><country></country><lang>en</lang><value>List Billing Hours</value></content>
+<content><country></country><lang>fr</lang><value>Voir les heures facturées</value></content>
+<content><country></country><lang>it</lang><value>Lista ore da fatturare</value></content>
+<content><country></country><lang>nl</lang><value>Gefakt. uren tonen</value></content>
+<content><country></country><lang>zh</lang><value>记账工时列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste Projekte pro Akteur auf</value></content>
+<content><country></country><lang>en</lang><value>List Project by Party</value></content>
+<content><country></country><lang>fr</lang><value>Voir les projets par acteur</value></content>
+<content><country></country><lang>it</lang><value>Lista progetti per soggetto</value></content>
+<content><country></country><lang>nl</lang><value>Projecten per actor tonen</value></content>
+<content><country></country><lang>th</lang><value>แสดงรายการโปรเจคโดยกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>按会员列出项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste Projektnotizen auf</value></content>
+<content><country></country><lang>en</lang><value>List Project Notes</value></content>
+<content><country></country><lang>fr</lang><value>Voir les notes du projet</value></content>
+<content><country></country><lang>it</lang><value>Lista note progetto</value></content>
+<content><country></country><lang>nl</lang><value>Notities tonen</value></content>
+<content><country></country><lang>th</lang><value>แสดงรายการข้อความโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>列出项目备注</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ressourcen</value></content>
+<content><country></country><lang>en</lang><value>Resources</value></content>
+<content><country></country><lang>fr</lang><value>Ressources</value></content>
+<content><country></country><lang>it</lang><value>Risorse</value></content>
+<content><country></country><lang>nl</lang><value>Resources</value></content>
+<content><country></country><lang>th</lang><value>แหล่งที่มา</value></content>
+<content><country></country><lang>zh</lang><value>资源</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste Aufgaben pro Akteur auf</value></content>
+<content><country></country><lang>en</lang><value>List Task by Party</value></content>
+<content><country></country><lang>fr</lang><value>Voir les tâches par acteur</value></content>
+<content><country></country><lang>it</lang><value>Lista compito per soggetto</value></content>
+<content><country></country><lang>nl</lang><value>Taken per actor tonen</value></content>
+<content><country></country><lang>th</lang><value>แสดงรายการงานโดยกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>按会员列出任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste Aufgabeninhaltselemente aud</value></content>
+<content><country></country><lang>en</lang><value>List Task Content Items</value></content>
+<content><country></country><lang>fr</lang><value>Voir les élements de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Lista righe contenuto compito</value></content>
+<content><country></country><lang>nl</lang><value>Contentitems tonen</value></content>
+<content><country></country><lang>zh</lang><value>任务内容明细列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste Aufgabennotizen auf</value></content>
+<content><country></country><lang>en</lang><value>List Task Notes</value></content>
+<content><country></country><lang>fr</lang><value>Voir les notes de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Lista note compito</value></content>
+<content><country></country><lang>nl</lang><value>Notities tonen</value></content>
+<content><country></country><lang>th</lang><value>แสดงรายการข้อความงาน</value></content>
+<content><country></country><lang>zh</lang><value>任务备注列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabensuchergebnisse</value></content>
+<content><country></country><lang>en</lang><value>Task search results</value></content>
+<content><country></country><lang>fr</lang><value>Résultats de recherche de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Risulatai ricerca compito</value></content>
+<content><country></country><lang>nl</lang><value>Gevonden taken</value></content>
+<content><country></country><lang>th</lang><value>ผลลัพธ์ที่ได้จากการค้นหางาน</value></content>
+<content><country></country><lang>zh</lang><value>任务查找结果</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste Zeiteinträge auf für</value></content>
+<content><country></country><lang>en</lang><value>List Time Entries for</value></content>
+<content><country></country><lang>fr</lang><value>Voir les échéances pour</value></content>
+<content><country></country><lang>it</lang><value>Lista voci orari per</value></content>
+<content><country></country><lang>nl</lang><value>Toon urenstaten voor</value></content>
+<content><country></country><lang>th</lang><value>แสดงรายการตารางเวลาสำหรับ</value></content>
+<content><country></country><lang>zh</lang><value>列出时间条目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projekt Fakturierung</value></content>
+<content><country></country><lang>en</lang><value>Project Billing</value></content>
+<content><country></country><lang>fr</lang><value>Facturation du projet</value></content>
+<content><country></country><lang>it</lang><value>Fatturazione progetto</value></content>
+<content><country></country><lang>nl</lang><value>Fakturering</value></content>
+<content><country></country><lang>th</lang><value>Project Billing</value></content>
+<content><country></country><lang>zh</lang><value>项目账单</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projekt Gantt Chart</value></content>
+<content><country></country><lang>en</lang><value>Project Gantt Chart</value></content>
+<content><country></country><lang>fr</lang><value>Graphe Gantt du projet</value></content>
+<content><country></country><lang>it</lang><value>Progetto grafico gantt</value></content>
+<content><country></country><lang>nl</lang><value>Gant chart</value></content>
+<content><country></country><lang>th</lang><value>แผนผังคุมการกำหนดโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目甘特图</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projektinformationen</value></content>
+<content><country></country><lang>en</lang><value>Project Information</value></content>
+<content><country></country><lang>fr</lang><value>Informations du projet</value></content>
+<content><country></country><lang>it</lang><value>Informazione progetto</value></content>
+<content><country></country><lang>nl</lang><value>Informatie</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目信息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Anfragenliste</value></content>
+<content><country></country><lang>en</lang><value>Request List</value></content>
+<content><country></country><lang>fr</lang><value>Liste de besoins</value></content>
+<content><country></country><lang>it</lang><value>Lista richiesta</value></content>
+<content><country></country><lang>nl</lang><value>Overzicht verzoeken</value></content>
+<content><country></country><lang>th</lang><value>รายการคำร้อง</value></content>
+<content><country></country><lang>zh</lang><value>请求列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Öffne die mir zugeordneten Aufgaben</value></content>
+<content><country></country><lang>en</lang><value>Open Tasks Assigned to me.</value></content>
+<content><country></country><lang>fr</lang><value>Ouvrir les tâches qui me sont affectées</value></content>
+<content><country></country><lang>it</lang><value>Compiti aperti assegnati a me.</value></content>
+<content><country></country><lang>nl</lang><value>Openstaande taken voor mij</value></content>
+<content><country></country><lang>th</lang><value>งานที่มอบหมายให้ฉัน</value></content>
+<content><country></country><lang>zh</lang><value>打开分配给我的任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabeninformationen</value></content>
+<content><country></country><lang>en</lang><value>Task information</value></content>
+<content><country></country><lang>fr</lang><value>Information sur la tâche</value></content>
+<content><country></country><lang>it</lang><value>Informazione compito</value></content>
+<content><country></country><lang>nl</lang><value>Informatie</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลงาน</value></content>
+<content><country></country><lang>zh</lang><value>任务信息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgaben die nach der aktuellen Aufgabe ausgeführt werden müssen</value></content>
+<content><country></country><lang>en</lang><value>Tasks to be executed after the current task</value></content>
+<content><country></country><lang>fr</lang><value>Tâches à exécuter après la tâche courante</value></content>
+<content><country></country><lang>it</lang><value>Compiti che saranno eseguiti dopo il compito attuale</value></content>
+<content><country></country><lang>nl</lang><value>Taken die na de huidige taak uitgevoerd moeten.</value></content>
+<content><country></country><lang>th</lang><value>งานที่ทำให้สำเร็จหลังจากงานเป็นที่ยอมรับ</value></content>
+<content><country></country><lang>zh</lang><value>当前任务完成后才执行的任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgaben die vor der aktuellen Aufgabe ausgeführt werden müssen</value></content>
+<content><country></country><lang>en</lang><value>Tasks to be executed before the current task</value></content>
+<content><country></country><lang>fr</lang><value>Tâches à exécuter avant la tâche courante</value></content>
+<content><country></country><lang>it</lang><value>Compiti che saranno eseguiti prima del compito attuale</value></content>
+<content><country></country><lang>nl</lang><value>Taken die voor de huidige taak uitgevoerd moeten worden</value></content>
+<content><country></country><lang>th</lang><value>งานที่ทำให้สำเร็จก่อนงานเป็นที่ยอมรับ</value></content>
+<content><country></country><lang>zh</lang><value>当前任务执行前要执行的任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zeiterfassung</value></content>
+<content><country></country><lang>en</lang><value>Timesheet</value></content>
+<content><country></country><lang>fr</lang><value>Feuille d'activité</value></content>
+<content><country></country><lang>it</lang><value>Timbratura</value></content>
+<content><country></country><lang>th</lang><value>ตารางเวลา</value></content>
+<content><country></country><lang>zh</lang><value>时间表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zeiterfassungsliste</value></content>
+<content><country></country><lang>en</lang><value>Timesheet list</value></content>
+<content><country></country><lang>fr</lang><value>Liste des feuilles d'activité</value></content>
+<content><country></country><lang>it</lang><value>Lista Timbrature</value></content>
+<content><country></country><lang>nl</lang><value>Overzicht urenstaten</value></content>
+<content><country></country><lang>th</lang><value>แสดงรายการตารางเวลา</value></content>
+<content><country></country><lang>zh</lang><value>时间表列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Nicht zugeordnete Aufgaben</value></content>
+<content><country></country><lang>en</lang><value>Unassigned Task</value></content>
+<content><country></country><lang>fr</lang><value>Tâches non affectées</value></content>
+<content><country></country><lang>it</lang><value>Compito non assegnato</value></content>
+<content><country></country><lang>nl</lang><value>Niet toegewezen taken</value></content>
+<content><country></country><lang>th</lang><value>ไม่กำหนดงาน</value></content>
+<content><country></country><lang>zh</lang><value>未分配任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zeige Mailing-Liste</value></content>
+<content><country></country><lang>en</lang><value>View Mailing List</value></content>
+<content><country></country><lang>fr</lang><value>Afficher la liste de diffusion</value></content>
+<content><country></country><lang>nl</lang><value>Mailinglijst tonen</value></content>
+<content><country></country><lang>th</lang><value>แสดงจดหมาย</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projektmanager</value></content>
+<content><country></country><lang>en</lang><value>Project Manager</value></content>
+<content><country></country><lang>fr</lang><value>Application de gestion de projet</value></content>
+<content><country></country><lang>it</lang><value>Gestione progetti</value></content>
+<content><country></country><lang>nl</lang><value>Projectmanager</value></content>
+<content><country></country><lang>th</lang><value>โปรแกรมประยุกต์ใช้การจัดการโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目管理应用程序</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Angenommene Kundenanfragen </value></content>
+<content><country></country><lang>en</lang><value>Accepted Customer Request list</value></content>
+<content><country></country><lang>fr</lang><value>Liste des demandes client acceptées</value></content>
+<content><country></country><lang>it</lang><value>Lista richieste accettate dai clienti</value></content>
+<content><country></country><lang>nl</lang><value>Geaccepteerde verzoeken</value></content>
+<content><country></country><lang>zh</lang><value>已接受的客户请求列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ist-Stunden</value></content>
+<content><country></country><lang>en</lang><value>Actual Hours</value></content>
+<content><country></country><lang>fr</lang><value>Heures réelles</value></content>
+<content><country></country><lang>it</lang><value>Ore attuali</value></content>
+<content><country></country><lang>nl</lang><value>Werk. uren</value></content>
+<content><country></country><lang>th</lang><value>ชั่วโมงจริง</value></content>
+<content><country></country><lang>zh</lang><value>实际工时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ist-Stunden gesamt</value></content>
+<content><country></country><lang>en</lang><value>Act Total</value></content>
+<content><country></country><lang>fr</lang><value>Total réel</value></content>
+<content><country></country><lang>it</lang><value>Totale attuale</value></content>
+<content><country></country><lang>nl</lang><value>Werk. totaal</value></content>
+<content><country></country><lang>zh</lang><value>实际总时间</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Eine neue Aufgabe zu einem meiner Projekte hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add a new task to one of my projects.</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une nouvelle tâches à mes projets</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi un nuovo compito ad uno dei miei progetti.</value></content>
+<content><country></country><lang>nl</lang><value>Nieuwe taak toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มงานใหม่ไปยังส่วนหนึ่งของโปรเจคของฉัน</value></content>
+<content><country></country><lang>zh</lang><value>为我的一个项目增加新任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zeitbuchung hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Time Entry</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une échéance</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi voce tempo</value></content>
+<content><country></country><lang>nl</lang><value>Urenregel toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มตารางเวลา</value></content>
+<content><country></country><lang>zh</lang><value>增加时间条目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projektmanager Anwendung</value></content>
+<content><country></country><lang>en</lang><value>Project Manager Application</value></content>
+<content><country></country><lang>fr</lang><value>Application de gestion de projet</value></content>
+<content><country></country><lang>it</lang><value>Applicazione gestione progetti</value></content>
+<content><country></country><lang>nl</lang><value>Project Mgt</value></content>
+<content><country></country><lang>th</lang><value>โปรแกรมประยุกต์ใช้การจัดการโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目管理应用程序</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Weise mir eine vorhandene Aufgabe zu.</value></content>
+<content><country></country><lang>en</lang><value>Assign an existing Task to me.</value></content>
+<content><country></country><lang>fr</lang><value>M'affecter une tâche existante</value></content>
+<content><country></country><lang>it</lang><value>Assegna un compito esistente a me.</value></content>
+<content><country></country><lang>nl</lang><value>Taak aan mijzelf toewijzen</value></content>
+<content><country></country><lang>th</lang><value>กำหนดงานที่มีอยู่ให้ฉัน</value></content>
+<content><country></country><lang>zh</lang><value>给我分配一个已有的任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Meine Aufgaben jemanden andere zuweisen.</value></content>
+<content><country></country><lang>en</lang><value>Assign My Task To Somebody Else.</value></content>
+<content><country></country><lang>fr</lang><value>Affecter ma tâche à quelqu'un d'autre</value></content>
+<content><country></country><lang>it</lang><value>Assegna un mio compito a qualcun'altro.</value></content>
+<content><country></country><lang>nl</lang><value>Taak aan een ander toewijzen</value></content>
+<content><country></country><lang>th</lang><value>กำหนดงานของฉันให้คนอื่น</value></content>
+<content><country></country><lang>zh</lang><value>把我的任务分配给别人</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fakturierung</value></content>
+<content><country></country><lang>en</lang><value>Billing</value></content>
+<content><country></country><lang>fr</lang><value>Facturation</value></content>
+<content><country></country><lang>it</lang><value>Fatturazione</value></content>
+<content><country></country><lang>nl</lang><value>Fakturering</value></content>
+<content><country></country><lang>th</lang><value>Billing</value></content>
+<content><country></country><lang>zh</lang><value>账单</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cannot add to timesheet ${timesheet.timesheetId} because the status does not allow additions or modifications.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile aggiungerlo alla timbratura ${timesheet.timesheetId} perchè lo stato non permette aggiunte o modifiche.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Invoice with ID ${parameters.invoiceId}, has the wrong status, not adding Timesheet Entries to it.</value></content>
+<content><country></country><lang>it</lang><value>Fattura con ID ${parameters.invoiceId}, ha lo stato errato, non aggiungerlo alla riga timbratura.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Markieren wenn Fertiggestellt</value></content>
+<content><country></country><lang>en</lang><value>Check Complete</value></content>
+<content><country></country><lang>fr</lang><value>Marqué(e) comme terminé(e)</value></content>
+<content><country></country><lang>it</lang><value>Controllo completato</value></content>
+<content><country></country><lang>nl</lang><value>Voor compleet markeren</value></content>
+<content><country></country><lang>zh</lang><value>是否完成</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kundenkontakt</value></content>
+<content><country></country><lang>en</lang><value>Client Contacts</value></content>
+<content><country></country><lang>fr</lang><value>Contacts de client</value></content>
+<content><country></country><lang>it</lang><value>Contatti cliente</value></content>
+<content><country></country><lang>nl</lang><value>Klantcontact</value></content>
+<content><country></country><lang>zh</lang><value>客户联系</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Firmen</value></content>
+<content><country></country><lang>en</lang><value>Companies</value></content>
+<content><country></country><lang>fr</lang><value>Compagnie</value></content>
+<content><country></country><lang>it</lang><value>Aziende</value></content>
+<content><country></country><lang>nl</lang><value>Firma's</value></content>
+<content><country></country><lang>zh</lang><value>公司</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>OFBiz: Projekt</value></content>
+<content><country></country><lang>en</lang><value>OFBiz: Project</value></content>
+<content><country></country><lang>fr</lang><value>OFBiz : projet</value></content>
+<content><country></country><lang>it</lang><value>OFBiz: Progetti</value></content>
+<content><country></country><lang>nl</lang><value>OfBiz: Project Mgt</value></content>
+<content><country></country><lang>th</lang><value>OFBiz: โปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>OFBIZ: 项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projekt</value></content>
+<content><country></country><lang>en</lang><value>Project</value></content>
+<content><country></country><lang>fr</lang><value>Projet</value></content>
+<content><country></country><lang>it</lang><value>Progetti</value></content>
+<content><country></country><lang>nl</lang><value>Project</value></content>
+<content><country></country><lang>th</lang><value>โปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projektinhaltsliste</value></content>
+<content><country></country><lang>en</lang><value>Project Content List</value></content>
+<content><country></country><lang>fr</lang><value>Liste des contenus du projet</value></content>
+<content><country></country><lang>it</lang><value>Lsista contenuti progetto</value></content>
+<content><country></country><lang>nl</lang><value>Content</value></content>
+<content><country></country><lang>zh</lang><value>项目内容列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projekt kopieren</value></content>
+<content><country></country><lang>en</lang><value>Copy Project</value></content>
+<content><country></country><lang>fr</lang><value>Copier le projet</value></content>
+<content><country></country><lang>it</lang><value>Copia progetto</value></content>
+<content><country></country><lang>nl</lang><value>Project kopieren</value></content>
+<content><country></country><lang>th</lang><value>คัดลอกโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>复制项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Mit einer existierenden Aufgabe verbinden</value></content>
+<content><country></country><lang>en</lang><value>Link to an existing Task</value></content>
+<content><country></country><lang>fr</lang><value>Lien à une tâche existante</value></content>
+<content><country></country><lang>it</lang><value>Link ad un compito esistente</value></content>
+<content><country></country><lang>nl</lang><value>Aan bestaande taak koppelen</value></content>
+<content><country></country><lang>th</lang><value>เชื่อมต่อไปยังงานที่มีอยู่แล้ว</value></content>
+<content><country></country><lang>zh</lang><value>链接到已存在的任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabe aus Anfrage erstellen</value></content>
+<content><country></country><lang>en</lang><value>Create Task From Request</value></content>
+<content><country></country><lang>fr</lang><value>Créer une tâche depuis une demande</value></content>
+<content><country></country><lang>it</lang><value>Creare compito dalla richiesta</value></content>
+<content><country></country><lang>nl</lang><value>Taak aanmaken</value></content>
+<content><country></country><lang>th</lang><value>สร้างงานจากคำร้อง</value></content>
+<content><country></country><lang>zh</lang><value>为请求创建任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kategorie ID der Kundenanfrage</value></content>
+<content><country></country><lang>en</lang><value>Cust Request Category Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de catégorie de demande client</value></content>
+<content><country></country><lang>it</lang><value>Categoria richiesta cliente</value></content>
+<content><country></country><lang>nl</lang><value>ID categorie</value></content>
+<content><country></country><lang>zh</lang><value>请求分类标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>CustRequest WorkEffort</value></content>
+<content><country></country><lang>fr</lang><value>Créer une tâche depuis une demande client</value></content>
+<content><country></country><lang>it</lang><value>Impegno di lavoro richiesta</value></content>
+<content><country></country><lang>th</lang><value>งานคำร้องของลูกค้า</value></content>
+<content><country></country><lang>zh</lang><value>客户请求的工作任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste der Kundenanfragen des Projektes</value></content>
+<content><country></country><lang>en</lang><value>Project Customer Request list</value></content>
+<content><country></country><lang>fr</lang><value>Liste des demandes client</value></content>
+<content><country></country><lang>it</lang><value>Lista richieste cliente</value></content>
+<content><country></country><lang>nl</lang><value>Overzicht verzoeken</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Abhängigkeiten</value></content>
+<content><country></country><lang>en</lang><value>Dependencies</value></content>
+<content><country></country><lang>fr</lang><value>Dépendances</value></content>
+<content><country></country><lang>it</lang><value>Dipendenze</value></content>
+<content><country></country><lang>nl</lang><value>Afhankelijkheden</value></content>
+<content><country></country><lang>th</lang><value>ความสัมพันธ์</value></content>
+<content><country></country><lang>zh</lang><value>依赖</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Bearbeiten</value></content>
+<content><country></country><lang>en</lang><value>Edit</value></content>
+<content><country></country><lang>fr</lang><value>Modifier</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna</value></content>
+<content><country></country><lang>nl</lang><value>Wijzigen</value></content>
+<content><country></country><lang>th</lang><value>แก้ไข</value></content>
+<content><country></country><lang>zh</lang><value>编辑</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verbindung bearbeiten</value></content>
+<content><country></country><lang>en</lang><value>Edit Assoc</value></content>
+<content><country></country><lang>fr</lang><value>Modifier l'association</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna associazione</value></content>
+<content><country></country><lang>nl</lang><value>Associatie wijzigen</value></content>
+<content><country></country><lang>zh</lang><value>编辑关联</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verbindungsdetail bearbeiten</value></content>
+<content><country></country><lang>en</lang><value>Edit Assoc Detail</value></content>
+<content><country></country><lang>fr</lang><value>Modifier le détail de l'association</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna dettagli associazione</value></content>
+<content><country></country><lang>nl</lang><value>Details wijzigen</value></content>
+<content><country></country><lang>zh</lang><value>编辑关联详细信息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Bearbeite Qualifikation des Akteurs</value></content>
+<content><country></country><lang>en</lang><value>Edit PartySkill</value></content>
+<content><country></country><lang>fr</lang><value>Modifier les compétences de l'acteur</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna abilità soggetto</value></content>
+<content><country></country><lang>nl</lang><value>Competentie wijzigen</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขทักษะกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>编辑会员技能</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projekt bearbeiten</value></content>
+<content><country></country><lang>en</lang><value>Edit Project</value></content>
+<content><country></country><lang>fr</lang><value>Modifier le projet</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna progetto</value></content>
+<content><country></country><lang>nl</lang><value>Project wijzigen</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>编辑项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabe bearbeiten</value></content>
+<content><country></country><lang>en</lang><value>Edit Task</value></content>
+<content><country></country><lang>fr</lang><value>Modifier la tâche</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna compito</value></content>
+<content><country></country><lang>nl</lang><value>Taak wijzigen</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขงาน</value></content>
+<content><country></country><lang>zh</lang><value>编辑任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Project: ${parameters.projectId} not found</value></content>
+<content><country></country><lang>it</lang><value>Progetto: ${parameters.projectId} non trovato</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kundenanfrage: ${parameters.custRequestId} wurde nicht gefunden</value></content>
+<content><country></country><lang>en</lang><value>Customer Request: ${parameters.custRequestId} not found</value></content>
+<content><country></country><lang>fr</lang><value>Demande client : ${parameters.custRequestId} non trouvée</value></content>
+<content><country></country><lang>it</lang><value>Richiesta cliente: ${parameters.custRequestId} non trovato</value></content>
+<content><country></country><lang>nl</lang><value>Request ${parameters.custRequestId} niet gevonden</value></content>
+<content><country></country><lang>zh</lang><value>客户请求：${parameters.custRequestId}没有找到</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kundenanfrage: ${parameters.custRequestId} hat einen flaschen Status, erwartet wurde 'Akzeptiert' gefunden wurde ${status.description}</value></content>
+<content><country></country><lang>en</lang><value>Customer Request: ${parameters.custRequestId} has the wrong status, should be 'Accepted' but it is ${status.description}</value></content>
+<content><country></country><lang>fr</lang><value>Demande client : ${parameters.custRequestId} a un statut erroné, devrait être 'Accepté' mais est ${status.description}</value></content>
+<content><country></country><lang>it</lang><value>Richiesta cliente: ${parameters.custRequestId} ha uno stato errato, dovrebbe essere 'Accettato' ma questo è ${status.description}</value></content>
+<content><country></country><lang>nl</lang><value>Request ${parameters.custRequestId} heef de verkeerde status.Accepted werd verwacht, gevonden werd ${status.description}</value></content>
+<content><country></country><lang>zh</lang><value>客户请求：${parameters.custRequestId}状态错误，应该是‘已接受’，但是是${status.description}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabe: ${parameters.workEffortId} nicht gefunden</value></content>
+<content><country></country><lang>en</lang><value>Task: ${parameters.workEffortId} not found</value></content>
+<content><country></country><lang>fr</lang><value>Tâche : ${parameters.workEffortId} non trouvée</value></content>
+<content><country></country><lang>it</lang><value>Compito: ${parameters.workEffortId} non trovato</value></content>
+<content><country></country><lang>nl</lang><value>Taak ${parameters.workEffortId} werd niet gevonden</value></content>
+<content><country></country><lang>zh</lang><value>任务：${parameters.workEffortId}没有找到</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabe: ${parameters.workEffortId} wird nicht bearbeitet, es kann keine Anfrage hinzugefügt werden</value></content>
+<content><country></country><lang>en</lang><value>Task: ${parameters.workEffortId} is not in progress, no request can be added</value></content>
+<content><country></country><lang>fr</lang><value>Tâche : ${parameters.workEffortId} n'est pas en cours, aucune demande ne peut être ajoutée</value></content>
+<content><country></country><lang>it</lang><value>Compito: ${parameters.workEffortId} non è in corso, nessuna richiesta può essere aggiunta</value></content>
+<content><country></country><lang>nl</lang><value>Taak ${parameters.workEffortId} is nog niet begonnen. Verzoeken kunnen worden toegevoegd</value></content>
+<content><country></country><lang>zh</lang><value>任务：${parameters.workEffortId}没有进展，没有添加请求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Soll-Kosten</value></content>
+<content><country></country><lang>en</lang><value>Estimated Cost</value></content>
+<content><country></country><lang>fr</lang><value>Coût estimé</value></content>
+<content><country></country><lang>it</lang><value>Costo stimato</value></content>
+<content><country></country><lang>nl</lang><value>Geschatte kosten</value></content>
+<content><country></country><lang>th</lang><value>ราคาโดยประมาณ</value></content>
+<content><country></country><lang>zh</lang><value>评估费用</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Soll-Dauer</value></content>
+<content><country></country><lang>en</lang><value>Estimated Duration</value></content>
+<content><country></country><lang>fr</lang><value>Durée estimée</value></content>
+<content><country></country><lang>it</lang><value>Durata stimata</value></content>
+<content><country></country><lang>nl</lang><value>Geschatte duur</value></content>
+<content><country></country><lang>th</lang><value>ช่วงเวลาโดยประมาณ</value></content>
+<content><country></country><lang>zh</lang><value>评估周期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Soll-Stunden</value></content>
+<content><country></country><lang>en</lang><value>Estimated Hours</value></content>
+<content><country></country><lang>fr</lang><value>Heures estimées</value></content>
+<content><country></country><lang>it</lang><value>Ore stimate</value></content>
+<content><country></country><lang>nl</lang><value>Geschatte uren</value></content>
+<content><country></country><lang>th</lang><value>ชั่วโมงโดยประมาณ</value></content>
+<content><country></country><lang>zh</lang><value>评估工时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Soll-Personal</value></content>
+<content><country></country><lang>en</lang><value>Estimated People</value></content>
+<content><country></country><lang>fr</lang><value>Nombre de personnes estimé</value></content>
+<content><country></country><lang>it</lang><value>Persone stimate</value></content>
+<content><country></country><lang>nl</lang><value>Verwacht aantal mensen</value></content>
+<content><country></country><lang>th</lang><value>บุคคลโดยประมาณ</value></content>
+<content><country></country><lang>zh</lang><value>评估人力</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Act.Compl.</value></content>
+<content><country></country><lang>fr</lang><value>Date fin réelle</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Est.Compl.</value></content>
+<content><country></country><lang>fr</lang><value>Date fin est.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Filter aktivieren</value></content>
+<content><country></country><lang>en</lang><value>Filter on</value></content>
+<content><country></country><lang>fr</lang><value>Filtre actif</value></content>
+<content><country></country><lang>it</lang><value>Filtra su</value></content>
+<content><country></country><lang>nl</lang><value>Filteren op</value></content>
+<content><country></country><lang>th</lang><value>Filter on</value></content>
+<content><country></country><lang>zh</lang><value>过滤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fr</value></content>
+<content><country></country><lang>en</lang><value>Fri</value></content>
+<content><country></country><lang>fr</lang><value>ven</value></content>
+<content><country></country><lang>it</lang><value>Ven</value></content>
+<content><country></country><lang>nl</lang><value>Vr</value></content>
+<content><country></country><lang>zh</lang><value>周五</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Gantt Chart</value></content>
+<content><country></country><lang>en</lang><value>Gantt Chart</value></content>
+<content><country></country><lang>fr</lang><value>Diagramme de Gantt</value></content>
+<content><country></country><lang>it</lang><value>Grafico gantt</value></content>
+<content><country></country><lang>nl</lang><value>GANT chart</value></content>
+<content><country></country><lang>th</lang><value>แผนผังคุมการกำหนดงาน</value></content>
+<content><country></country><lang>zh</lang><value>甘特图</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste Mailing-List auf</value></content>
+<content><country></country><lang>en</lang><value>List Mailing List</value></content>
+<content><country></country><lang>fr</lang><value>Liste des listes de diffusion</value></content>
+<content><country></country><lang>nl</lang><value>Overzicht mailinlijsten</value></content>
+<content><country></country><lang>th</lang><value>รายการจดหมาย</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste Bestellungen auf</value></content>
+<content><country></country><lang>en</lang><value>List Order</value></content>
+<content><country></country><lang>fr</lang><value>Liste des commandes</value></content>
+<content><country></country><lang>it</lang><value>Lista Ordini</value></content>
+<content><country></country><lang>nl</lang><value>Orders</value></content>
+<content><country></country><lang>zh</lang><value>订单列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Mailing-List</value></content>
+<content><country></country><lang>en</lang><value>Mailing List</value></content>
+<content><country></country><lang>fr</lang><value>Liste de diffusion</value></content>
+<content><country></country><lang>nl</lang><value>Mailinglijst</value></content>
+<content><country></country><lang>th</lang><value>จดหมาย</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Mo</value></content>
+<content><country></country><lang>en</lang><value>Mon</value></content>
+<content><country></country><lang>fr</lang><value>lun</value></content>
+<content><country></country><lang>it</lang><value>Lun</value></content>
+<content><country></country><lang>nl</lang><value>Ma</value></content>
+<content><country></country><lang>zh</lang><value>周一</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Meine Funktion für diese Aufgabe</value></content>
+<content><country></country><lang>en</lang><value>My Role For This Task</value></content>
+<content><country></country><lang>fr</lang><value>Mon rôle pour cette tâches</value></content>
+<content><country></country><lang>it</lang><value>Mio ruolo per questo compito</value></content>
+<content><country></country><lang>nl</lang><value>Mijn rol</value></content>
+<content><country></country><lang>th</lang><value>สถานะของฉันสำหรับงานนี้</value></content>
+<content><country></country><lang>zh</lang><value>在这个任务中我的角色</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neues Projekt</value></content>
+<content><country></country><lang>en</lang><value>New Project</value></content>
+<content><country></country><lang>fr</lang><value>Nouveau projet</value></content>
+<content><country></country><lang>it</lang><value>Nuovo progetto</value></content>
+<content><country></country><lang>nl</lang><value>Nieuw project</value></content>
+<content><country></country><lang>th</lang><value>โปรเจคใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neues Teilprojekt</value></content>
+<content><country></country><lang>en</lang><value>New Sub Project</value></content>
+<content><country></country><lang>fr</lang><value>Nouveau sous-projet</value></content>
+<content><country></country><lang>it</lang><value>Nuovo sotto-progetto</value></content>
+<content><country></country><lang>nl</lang><value>Nieuw subproject</value></content>
+<content><country></country><lang>th</lang><value>โปรเจคย่อยใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新子项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neue Teilaufgabe </value></content>
+<content><country></country><lang>en</lang><value>New Sub Task</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle sous-tâche</value></content>
+<content><country></country><lang>it</lang><value>Nuovo sotto-compito</value></content>
+<content><country></country><lang>nl</lang><value>Nieuwe subtaak</value></content>
+<content><country></country><lang>th</lang><value>งานย่อยใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新子任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neue Aufgabe</value></content>
+<content><country></country><lang>en</lang><value>New Task</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle tâche</value></content>
+<content><country></country><lang>it</lang><value>Nuovo compito</value></content>
+<content><country></country><lang>nl</lang><value>Nieuwe taak</value></content>
+<content><country></country><lang>th</lang><value>งานใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Keine Berechtigung für das Projekt#: ${projectId}</value></content>
+<content><country></country><lang>en</lang><value>You have no access to the project#: ${projectId}</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'avez pas accès au projet n° ${projectId}</value></content>
+<content><country></country><lang>it</lang><value>Tu non hai accesso al progetto#: ${projectId}</value></content>
+<content><country></country><lang>nl</lang><value>Geen toegang tot project ${projectId}</value></content>
+<content><country></country><lang>th</lang><value>คุณไม่มีสิทธิ์ในการเข้าใช้ถึงโปรเจค#: ${projectId}</value></content>
+<content><country></country><lang>zh</lang><value>你没有访问该项目的权限：${projectId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Keine Berechtigung für die Aufgabe#: ${taskId} oder Projekt#: ${projectId}</value></content>
+<content><country></country><lang>en</lang><value>You have no access to the taskId: ${taskId} or projectId: ${projectId}</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'avez pas accès à la tâche n° ${taskId} ou au projet n° ${projectId}</value></content>
+<content><country></country><lang>it</lang><value>Tu non hai accesso al compito#: ${taskId}</value></content>
+<content><country></country><lang>nl</lang><value>Geen toegang tot taak ${taskId} of project ${projectId}</value></content>
+<content><country></country><lang>th</lang><value>คุณไม่มีสิทธิ์ในการเข้าถึงงาน#: ${taskId}</value></content>
+<content><country></country><lang>zh</lang><value>你没有访问该任务的权限：${taskId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Keine Berechtigung für die Stundenerfassung#: ${timesheetId}</value></content>
+<content><country></country><lang>en</lang><value>You have no access to the timesheet#: ${timesheetId}</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'avez pas accès à la feuille d'activité n° ${timesheetId}</value></content>
+<content><country></country><lang>it</lang><value>Tu non hai accesso alla timbratura#: ${timesheetId}</value></content>
+<content><country></country><lang>nl</lang><value>Geen toegang tot urenstaat#: ${timesheetId}</value></content>
+<content><country></country><lang>th</lang><value>คุณไม่มีสิทธิ์ในการเข้าถึงตารางเวลา#: ${timesheetId}</value></content>
+<content><country></country><lang>zh</lang><value>你没有访问该时间表的权限：${timesheetId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Es wurde noch keine Phase erstellt, Aufgaben können nicht ohne eine übergeordnete Phase exitieren, Phase muss zuerst erstellt werden</value></content>
+<content><country></country><lang>en</lang><value>No phases have been created yet, tasks can not exist without a phase as parent, so create a phase first</value></content>
+<content><country></country><lang>fr</lang><value>Aucune phase n'a encore été créée, une tâche ne peut exister sans une phase comme ancêtre, veuillez créer une phase d'abord</value></content>
+<content><country></country><lang>it</lang><value>Nessuna fase è ancora stata creata, compito non può esistere senza una fase come padre, quindi creare prima una fase</value></content>
+<content><country></country><lang>nl</lang><value>Er zijn geen fases. Taken kunnen niet aangemaakt worden zonder fase. Maak eerst een fase aan.</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีขั้นตอนการทำงานที่สร้างเสร็จแล้ว , งานไม่สามารถมีอยู่โดยปราศจากขั้นตอนการทำงานเหมือนกลุ่ม , ดังนั้นสร้างขั้นตอนการทำงานเป็นอันดับแรก</value></content>
+<content><country></country><lang>zh</lang><value>该项目有没有创建任何的阶段，请先创建项目阶段，任务必须以项目阶段为父节点</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Keine Projekte gefunden</value></content>
+<content><country></country><lang>en</lang><value>no projects found</value></content>
+<content><country></country><lang>fr</lang><value>Aucun projet trouvé</value></content>
+<content><country></country><lang>it</lang><value>Tu non hai l'accesso a queste informazioni</value></content>
+<content><country></country><lang>nl</lang><value>Geen project(en) gevonden</value></content>
+<content><country></country><lang>zh</lang><value>没有找到项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ist-Stunden sind nicht fakturiert</value></content>
+<content><country></country><lang>en</lang><value>Act Hrs not billed</value></content>
+<content><country></country><lang>fr</lang><value>Heures réelles non facturées</value></content>
+<content><country></country><lang>it</lang><value>Ore attuali non fatturate</value></content>
+<content><country></country><lang>nl</lang><value>Werk. uren niet gefakt.</value></content>
+<content><country></country><lang>zh</lang><value>实际工时没有记账</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neu erstellen</value></content>
+<content><country></country><lang>en</lang><value>Create New</value></content>
+<content><country></country><lang>fr</lang><value>Créer une nouvelle note</value></content>
+<content><country></country><lang>it</lang><value>Creare nuovo</value></content>
+<content><country></country><lang>nl</lang><value>Nieuwe aanmaken</value></content>
+<content><country></country><lang>th</lang><value>สร้างใหม่</value></content>
+<content><country></country><lang>zh</lang><value>创建新的</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No timeentry items found</value></content>
+<content><country></country><lang>it</lang><value>Nessuna riga timbratura trovata</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Name des übergeordneten Projektes</value></content>
+<content><country></country><lang>en</lang><value>Parent Project Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom du projet parent</value></content>
+<content><country></country><lang>it</lang><value>Nome progetto padre</value></content>
+<content><country></country><lang>nl</lang><value>Naam parentproject</value></content>
+<content><country></country><lang>th</lang><value>ชื่อกลุ่มโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>上级项目的名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Akteure</value></content>
+<content><country></country><lang>en</lang><value>Parties</value></content>
+<content><country></country><lang>fr</lang><value>Acteurs</value></content>
+<content><country></country><lang>it</lang><value>Soggetti</value></content>
+<content><country></country><lang>nl</lang><value>Actors</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste der Akteure</value></content>
+<content><country></country><lang>en</lang><value>List of Parties</value></content>
+<content><country></country><lang>fr</lang><value>Liste des acteurs</value></content>
+<content><country></country><lang>it</lang><value>Lista di soggetti</value></content>
+<content><country></country><lang>nl</lang><value>Overzicht actors</value></content>
+<content><country></country><lang>th</lang><value>รายการของกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Funktionstyp ID</value></content>
+<content><country></country><lang>en</lang><value>Role Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Rôle</value></content>
+<content><country></country><lang>it</lang><value>Tipo ruolo</value></content>
+<content><country></country><lang>nl</lang><value>ID roltype</value></content>
+<content><country></country><lang>th</lang><value>รหัสสถานะประเภท</value></content>
+<content><country></country><lang>zh</lang><value>角色类型Id</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Phasen Details unten hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Enter the Phase Details below</value></content>
+<content><country></country><lang>fr</lang><value>Saisissez les détails de la phase ci-dessous</value></content>
+<content><country></country><lang>it</lang><value>Inserire i dettagli della fase qui sotto</value></content>
+<content><country></country><lang>nl</lang><value>Details fase toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เข้าสู่รายละเอียดขั้นตอนการทำงานข้างล่าง</value></content>
+<content><country></country><lang>zh</lang><value>在下面熟悉项目阶段的明细</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste der Projektphasen</value></content>
+<content><country></country><lang>en</lang><value>List of project Phases</value></content>
+<content><country></country><lang>fr</lang><value>Liste des phases du projet</value></content>
+<content><country></country><lang>it</lang><value>Lista delle fasi progetto</value></content>
+<content><country></country><lang>nl</lang><value>Overzicht fases</value></content>
+<content><country></country><lang>th</lang><value>รายการของขั้นตอนการทำงานของโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目阶段列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Phasenname</value></content>
+<content><country></country><lang>en</lang><value>Phase Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de la phase</value></content>
+<content><country></country><lang>it</lang><value>Nome fase</value></content>
+<content><country></country><lang>nl</lang><value>Naam</value></content>
+<content><country></country><lang>th</lang><value>ชื่อขั้นตอนการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>项目阶段名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste der Phasen und Aufgaben</value></content>
+<content><country></country><lang>en</lang><value>List of Phases and Tasks</value></content>
+<content><country></country><lang>fr</lang><value>Liste des phases et tâches</value></content>
+<content><country></country><lang>it</lang><value>Lista delle fasi e compiti</value></content>
+<content><country></country><lang>nl</lang><value>Overzicht fases en taken</value></content>
+<content><country></country><lang>th</lang><value>รายการของขั้นตอนการทำงานและงาน</value></content>
+<content><country></country><lang>zh</lang><value>项目阶段和任务列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Phasen</value></content>
+<content><country></country><lang>en</lang><value>Phases</value></content>
+<content><country></country><lang>fr</lang><value>Phases</value></content>
+<content><country></country><lang>it</lang><value>Fasi</value></content>
+<content><country></country><lang>nl</lang><value>Fases</value></content>
+<content><country></country><lang>th</lang><value>ขั้นตอนการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>项目阶段</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Geplante Stunden</value></content>
+<content><country></country><lang>en</lang><value>Plan Hours</value></content>
+<content><country></country><lang>fr</lang><value>Heures planifiées</value></content>
+<content><country></country><lang>it</lang><value>Ore da piano</value></content>
+<content><country></country><lang>nl</lang><value>Uren plannen</value></content>
+<content><country></country><lang>zh</lang><value>计划时间</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Geplante Stunden</value></content>
+<content><country></country><lang>en</lang><value>Planned Hours</value></content>
+<content><country></country><lang>fr</lang><value>Heures planifiées</value></content>
+<content><country></country><lang>it</lang><value>Ore pianificate</value></content>
+<content><country></country><lang>nl</lang><value>Gepl. uren</value></content>
+<content><country></country><lang>th</lang><value>ชั่วโมงที่วางแผน</value></content>
+<content><country></country><lang>zh</lang><value>已计划工时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Druckbare Notiz</value></content>
+<content><country></country><lang>en</lang><value>Printable Note</value></content>
+<content><country></country><lang>fr</lang><value>Note imprimable</value></content>
+<content><country></country><lang>it</lang><value>Nota stampabile</value></content>
+<content><country></country><lang>nl</lang><value>Printbare notitie</value></content>
+<content><country></country><lang>zh</lang><value>可打印的便笺</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Prio.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Privat/Öffentlich</value></content>
+<content><country></country><lang>en</lang><value>Private/Public</value></content>
+<content><country></country><lang>fr</lang><value>Privé/Public</value></content>
+<content><country></country><lang>it</lang><value>Privato/Pubblico</value></content>
+<content><country></country><lang>nl</lang><value>Prive/Publiek</value></content>
+<content><country></country><lang>zh</lang><value>私人/公开</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projekt- und Phasenname</value></content>
+<content><country></country><lang>en</lang><value>Project and Phase Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom du projet et de la phase</value></content>
+<content><country></country><lang>it</lang><value>Progetto e nome fase</value></content>
+<content><country></country><lang>nl</lang><value>Naam project en fase</value></content>
+<content><country></country><lang>th</lang><value>โปรเจคและชื่อขั้นตอนการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>项目和阶段名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aktuelles Projekt</value></content>
+<content><country></country><lang>en</lang><value>Current Project</value></content>
+<content><country></country><lang>fr</lang><value>Projet courant</value></content>
+<content><country></country><lang>it</lang><value>Progetto attuale</value></content>
+<content><country></country><lang>nl</lang><value>Huidig project</value></content>
+<content><country></country><lang>th</lang><value>โปรเจคที่ใช้กันในปัจจุบัน</value></content>
+<content><country></country><lang>zh</lang><value>当前项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projekt ID</value></content>
+<content><country></country><lang>en</lang><value>Project Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de projet</value></content>
+<content><country></country><lang>it</lang><value>Progetto</value></content>
+<content><country></country><lang>nl</lang><value>ID</value></content>
+<content><country></country><lang>th</lang><value>รหัสโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目Id</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projektname</value></content>
+<content><country></country><lang>en</lang><value>Project Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom du projet</value></content>
+<content><country></country><lang>it</lang><value>Nome progetto</value></content>
+<content><country></country><lang>nl</lang><value>Naam</value></content>
+<content><country></country><lang>th</lang><value>ชื่อโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Keine Notizen für dieses Projekt</value></content>
+<content><country></country><lang>en</lang><value>No Notes for this Project</value></content>
+<content><country></country><lang>fr</lang><value>Aucune note pour ce projet</value></content>
+<content><country></country><lang>it</lang><value>Nessuna nota per questo progetto</value></content>
+<content><country></country><lang>nl</lang><value>Geen notities voor dit project</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีข้อความสำหรับโปรเจคนี้</value></content>
+<content><country></country><lang>zh</lang><value>该项目没有注释</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projektzusammenfassung</value></content>
+<content><country></country><lang>en</lang><value>Project Summary</value></content>
+<content><country></country><lang>fr</lang><value>Résumé du projet</value></content>
+<content><country></country><lang>it</lang><value>Sommario progetto</value></content>
+<content><country></country><lang>nl</lang><value>Samenvatting</value></content>
+<content><country></country><lang>th</lang><value>สรุปโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目总览</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projektteam</value></content>
+<content><country></country><lang>en</lang><value>Project Team</value></content>
+<content><country></country><lang>fr</lang><value>Equipe du projet</value></content>
+<content><country></country><lang>it</lang><value>Gruppo progetto</value></content>
+<content><country></country><lang>nl</lang><value>Projectteam</value></content>
+<content><country></country><lang>th</lang><value>ทีมโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目团队</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Projekte</value></content>
+<content><country></country><lang>en</lang><value>Projects</value></content>
+<content><country></country><lang>fr</lang><value>Projets</value></content>
+<content><country></country><lang>it</lang><value>Progetti</value></content>
+<content><country></country><lang>nl</lang><value>Projecten</value></content>
+<content><country></country><lang>zh</lang><value>项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verantwortliche</value></content>
+<content><country></country><lang>en</lang><value>Providers</value></content>
+<content><country></country><lang>fr</lang><value>Prestataires</value></content>
+<content><country></country><lang>it</lang><value>Providers</value></content>
+<content><country></country><lang>nl</lang><value>Deelnemers</value></content>
+<content><country></country><lang>zh</lang><value>提供者</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Schnell verbinden mit Akteur ID</value></content>
+<content><country></country><lang>en</lang><value>Quick Assign Party Id</value></content>
+<content><country></country><lang>fr</lang><value>Affecter rapidement un Réf. d'acteurt</value></content>
+<content><country></country><lang>it</lang><value>Assegnazione veloce soggetto</value></content>
+<content><country></country><lang>nl</lang><value>Snel toewijzen aan actor</value></content>
+<content><country></country><lang>th</lang><value>กำหนดรหัสกลุ่มผู้ใช้อย่างรวดเร็ว</value></content>
+<content><country></country><lang>zh</lang><value>快速分配会员</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verechnungs Typ ID</value></content>
+<content><country></country><lang>en</lang><value>Rate Type Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. du type de taux</value></content>
+<content><country></country><lang>it</lang><value>Tipo percentuale</value></content>
+<content><country></country><lang>nl</lang><value>Soort tarief</value></content>
+<content><country></country><lang>zh</lang><value>费率类型标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verrechnung</value></content>
+<content><country></country><lang>en</lang><value>Rates</value></content>
+<content><country></country><lang>fr</lang><value>Taux</value></content>
+<content><country></country><lang>it</lang><value>Percentuali</value></content>
+<content><country></country><lang>nl</lang><value>Tarief</value></content>
+<content><country></country><lang>th</lang><value>อัตรา</value></content>
+<content><country></country><lang>zh</lang><value>费率</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Faktura neuerstellen</value></content>
+<content><country></country><lang>en</lang><value>re-create Invoice</value></content>
+<content><country></country><lang>fr</lang><value>Re-créer la facture</value></content>
+<content><country></country><lang>it</lang><value>re-crea fattura</value></content>
+<content><country></country><lang>nl</lang><value>Faktuur opnieuw aanmaken</value></content>
+<content><country></country><lang>zh</lang><value>重新创建发票</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Release</value></content>
+<content><country></country><lang>en</lang><value>Release</value></content>
+<content><country></country><lang>fr</lang><value>Version</value></content>
+<content><country></country><lang>it</lang><value>Rilascia</value></content>
+<content><country></country><lang>nl</lang><value>Versie</value></content>
+<content><country></country><lang>th</lang><value>การยกเว้น</value></content>
+<content><country></country><lang>zh</lang><value>发布</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verbindung zu diesem Projekt entfernen</value></content>
+<content><country></country><lang>en</lang><value>Remove Link From The Project</value></content>
+<content><country></country><lang>fr</lang><value>Retirer du projet</value></content>
+<content><country></country><lang>it</lang><value>Rimuovi legame dal progetto</value></content>
+<content><country></country><lang>nl</lang><value>Link van project verwijderen</value></content>
+<content><country></country><lang>zh</lang><value>从项目删除链接</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cust Request WorkEffort List</value></content>
+<content><country></country><lang>fr</lang><value>List des demandes de tâches client</value></content>
+<content><country></country><lang>it</lang><value>Lista impegno di lavoro richiesta</value></content>
+<content><country></country><lang>nl</lang><value>Overzicht requesttaken</value></content>
+<content><country></country><lang>th</lang><value>รายการงานตามคำร้องของลูกค้า</value></content>
+<content><country></country><lang>zh</lang><value>用户请求工作任务列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ressourcenname</value></content>
+<content><country></country><lang>en</lang><value>Resource Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de ressource</value></content>
+<content><country></country><lang>it</lang><value>Nome risorsa</value></content>
+<content><country></country><lang>nl</lang><value>Naam</value></content>
+<content><country></country><lang>th</lang><value>ชื่อแหล่งที่มา</value></content>
+<content><country></country><lang>zh</lang><value>资源名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ressourcen</value></content>
+<content><country></country><lang>en</lang><value>Resources</value></content>
+<content><country></country><lang>fr</lang><value>Ressources</value></content>
+<content><country></country><lang>it</lang><value>Risorse</value></content>
+<content><country></country><lang>nl</lang><value>Resources</value></content>
+<content><country></country><lang>th</lang><value>แหล่งที่มา</value></content>
+<content><country></country><lang>zh</lang><value>资源</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Geprüfte aber nicht komplette Kunden Anfragen Liste mit verbundenen Aufgaben</value></content>
+<content><country></country><lang>en</lang><value>Reviewed but not completed Customer Request list with task assigned'</value></content>
+<content><country></country><lang>fr</lang><value>Liste des demandes client vérifiée mais incomplète et ayant une tâche affectée</value></content>
+<content><country></country><lang>it</lang><value>Verificato ma non completato, lista richiesta cliente con il compito assegnato</value></content>
+<content><country></country><lang>nl</lang><value>Overzicht requesttaken die zijn geevalueerd maar niet gecompleteerd</value></content>
+<content><country></country><lang>zh</lang><value>已检查但没有完成任务指定的客户请求列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Row Submit</value></content>
+<content><country></country><lang>fr</lang><value>Soumettre la ligne</value></content>
+<content><country></country><lang>it</lang><value>Invia riga</value></content>
+<content><country></country><lang>nl</lang><value>Rij submitten</value></content>
+<content><country></country><lang>zh</lang><value>提交行</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sa</value></content>
+<content><country></country><lang>en</lang><value>Sat</value></content>
+<content><country></country><lang>fr</lang><value>sam</value></content>
+<content><country></country><lang>it</lang><value>Sab</value></content>
+<content><country></country><lang>nl</lang><value>Za</value></content>
+<content><country></country><lang>zh</lang><value>周六</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Als Vorlage speichern</value></content>
+<content><country></country><lang>en</lang><value>Save As Template</value></content>
+<content><country></country><lang>fr</lang><value>Nom de ressource</value></content>
+<content><country></country><lang>it</lang><value>Salva come template</value></content>
+<content><country></country><lang>nl</lang><value>Als template opslaan</value></content>
+<content><country></country><lang>th</lang><value>บันทึกเทมเพลต</value></content>
+<content><country></country><lang>zh</lang><value>存为模板</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Plane</value></content>
+<content><country></country><lang>en</lang><value>Schedule</value></content>
+<content><country></country><lang>fr</lang><value>Planifier</value></content>
+<content><country></country><lang>it</lang><value>Schedula</value></content>
+<content><country></country><lang>nl</lang><value>Uren</value></content>
+<content><country></country><lang>th</lang><value>ตารางเวลา</value></content>
+<content><country></country><lang>zh</lang><value>进度表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Datum wählen</value></content>
+<content><country></country><lang>en</lang><value>Select Date</value></content>
+<content><country></country><lang>fr</lang><value>Choisir la date</value></content>
+<content><country></country><lang>it</lang><value>Seleziona data</value></content>
+<content><country></country><lang>nl</lang><value>Datum kiezen</value></content>
+<content><country></country><lang>zh</lang><value>选择日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Vollständig</value></content>
+<content><country></country><lang>en</lang><value>Complete</value></content>
+<content><country></country><lang>fr</lang><value>Achevé</value></content>
+<content><country></country><lang>it</lang><value>Completa</value></content>
+<content><country></country><lang>nl</lang><value>Afgerond</value></content>
+<content><country></country><lang>th</lang><value>เสร็จสมบูรณ์</value></content>
+<content><country></country><lang>zh</lang><value>完成</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Pausieren</value></content>
+<content><country></country><lang>en</lang><value>On-Hold</value></content>
+<content><country></country><lang>fr</lang><value>En attente</value></content>
+<content><country></country><lang>it</lang><value>Sospeso</value></content>
+<content><country></country><lang>nl</lang><value>Op hold</value></content>
+<content><country></country><lang>th</lang><value>หยุดไว้ชั่วคราว</value></content>
+<content><country></country><lang>zh</lang><value>暂停</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Status auf 'In Bearbeitung' setzen</value></content>
+<content><country></country><lang>en</lang><value>Set status to In Progress</value></content>
+<content><country></country><lang>fr</lang><value>Positionner le statut à en cours</value></content>
+<content><country></country><lang>it</lang><value>Imposta stato a in corso</value></content>
+<content><country></country><lang>nl</lang><value>Status naar 'In Progress' zetten</value></content>
+<content><country></country><lang>zh</lang><value>把状态设置为进行中</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Qualifikationsstandards</value></content>
+<content><country></country><lang>en</lang><value>Skill Standards</value></content>
+<content><country></country><lang>fr</lang><value>Compétences standards</value></content>
+<content><country></country><lang>it</lang><value>Abilità standard</value></content>
+<content><country></country><lang>nl</lang><value>Competentie-standaarden</value></content>
+<content><country></country><lang>th</lang><value>ชั่วโมงที่วางแผน</value></content>
+<content><country></country><lang>zh</lang><value>已计划工时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Qualitfikationstypen</value></content>
+<content><country></country><lang>en</lang><value>Skill Type</value></content>
+<content><country></country><lang>fr</lang><value>Compétences</value></content>
+<content><country></country><lang>it</lang><value>Tipo abilità</value></content>
+<content><country></country><lang>nl</lang><value>Competenties</value></content>
+<content><country></country><lang>th</lang><value>ประเภททักษะ</value></content>
+<content><country></country><lang>zh</lang><value>技能类别</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Der Status erlaubt keine Aktualisierung</value></content>
+<content><country></country><lang>en</lang><value>Status does not allow an update</value></content>
+<content><country></country><lang>fr</lang><value>CE status ne permet pas une mise à jour</value></content>
+<content><country></country><lang>it</lang><value>Stato non permette un'aggiornamento</value></content>
+<content><country></country><lang>nl</lang><value>Status laat geen wijzigingen toe</value></content>
+<content><country></country><lang>th</lang><value>สถานะยังไม่อนุญาตให้อัพเดท</value></content>
+<content><country></country><lang>zh</lang><value>状态不允许更新</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Status ID</value></content>
+<content><country></country><lang>en</lang><value>Status Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de status</value></content>
+<content><country></country><lang>it</lang><value>Stato</value></content>
+<content><country></country><lang>nl</lang><value>ID</value></content>
+<content><country></country><lang>th</lang><value>รหัสสถานะ</value></content>
+<content><country></country><lang>zh</lang><value>状态标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Füge die Teilprojektdetails unten hinzu</value></content>
+<content><country></country><lang>en</lang><value>Enter the SubProject Details below</value></content>
+<content><country></country><lang>fr</lang><value>Saisissez les détails du sous-projet ci-dessous</value></content>
+<content><country></country><lang>it</lang><value>Inserire i dettagli del sotto-progetto qui sotto</value></content>
+<content><country></country><lang>nl</lang><value>Details subproject hieronder opgeven</value></content>
+<content><country></country><lang>th</lang><value>เข้าสู่รายละเอียดโปรเจคย่อยข้างล่าง</value></content>
+<content><country></country><lang>zh</lang><value>在下面输入子项目的明细</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste der Teilprojekte</value></content>
+<content><country></country><lang>en</lang><value>List of SubProjects</value></content>
+<content><country></country><lang>fr</lang><value>Listes des sous-projets</value></content>
+<content><country></country><lang>it</lang><value>Lista dei sotto-progetti</value></content>
+<content><country></country><lang>nl</lang><value>Overzicht subprojecten</value></content>
+<content><country></country><lang>th</lang><value>รายการของโปรเจคย่อย</value></content>
+<content><country></country><lang>zh</lang><value>子项目列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Teilprojektname</value></content>
+<content><country></country><lang>en</lang><value>Sub Project Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom du sous-projet</value></content>
+<content><country></country><lang>it</lang><value>Nome sotto-progetto</value></content>
+<content><country></country><lang>nl</lang><value>Naam</value></content>
+<content><country></country><lang>th</lang><value>ชื่อโปรเจคย่อย</value></content>
+<content><country></country><lang>zh</lang><value>子项目名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Teilprojekte</value></content>
+<content><country></country><lang>en</lang><value>Sub Projects</value></content>
+<content><country></country><lang>fr</lang><value>Sous-projets</value></content>
+<content><country></country><lang>it</lang><value>Sotto-progetti</value></content>
+<content><country></country><lang>nl</lang><value>Subprojecten</value></content>
+<content><country></country><lang>th</lang><value>โปรเจคย่อย</value></content>
+<content><country></country><lang>zh</lang><value>子项目</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Teilaufgabenname</value></content>
+<content><country></country><lang>en</lang><value>Sub Task Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de la sous-tâche</value></content>
+<content><country></country><lang>it</lang><value>Nome sotto-compito</value></content>
+<content><country></country><lang>nl</lang><value>Naam</value></content>
+<content><country></country><lang>th</lang><value>ชื่องานย่อย</value></content>
+<content><country></country><lang>zh</lang><value>子任务名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Teilaufgaben</value></content>
+<content><country></country><lang>en</lang><value>Sub Tasks</value></content>
+<content><country></country><lang>fr</lang><value>Sous-tâches</value></content>
+<content><country></country><lang>it</lang><value>Sotto-compito</value></content>
+<content><country></country><lang>nl</lang><value>Subtaken</value></content>
+<content><country></country><lang>th</lang><value>งานย่อย</value></content>
+<content><country></country><lang>zh</lang><value>子任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>So</value></content>
+<content><country></country><lang>en</lang><value>Sun</value></content>
+<content><country></country><lang>fr</lang><value>dim</value></content>
+<content><country></country><lang>it</lang><value>Dom</value></content>
+<content><country></country><lang>nl</lang><value>Zo</value></content>
+<content><country></country><lang>zh</lang><value>周日</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste des Aufgabeninhalts</value></content>
+<content><country></country><lang>en</lang><value>Task Content List</value></content>
+<content><country></country><lang>fr</lang><value>Liste des contenus de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Lista contenuti compito</value></content>
+<content><country></country><lang>nl</lang><value>Content</value></content>
+<content><country></country><lang>zh</lang><value>任务内容列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aktuelle Aufgabe</value></content>
+<content><country></country><lang>en</lang><value>Current Task</value></content>
+<content><country></country><lang>fr</lang><value>Tâche courante</value></content>
+<content><country></country><lang>it</lang><value>Compito attuale</value></content>
+<content><country></country><lang>nl</lang><value>Huidige taak</value></content>
+<content><country></country><lang>th</lang><value>งานที่ใช้กันอยู่ในปัจจุบัน</value></content>
+<content><country></country><lang>zh</lang><value>当前任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabendetails unten hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Enter the Task Details below</value></content>
+<content><country></country><lang>fr</lang><value>Saisissez les détails de la tâche ci-dessous</value></content>
+<content><country></country><lang>it</lang><value>Inserire i dettagli compito qui sotto</value></content>
+<content><country></country><lang>nl</lang><value>Details taak hieronder opgeven</value></content>
+<content><country></country><lang>th</lang><value>เข้าสู่รายละเอียดงานข้างล่าง</value></content>
+<content><country></country><lang>zh</lang><value>在下面输入任务明细</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgaben ID</value></content>
+<content><country></country><lang>en</lang><value>Task Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de tâche</value></content>
+<content><country></country><lang>it</lang><value>Compito</value></content>
+<content><country></country><lang>nl</lang><value>ID</value></content>
+<content><country></country><lang>th</lang><value>รหัสงาน</value></content>
+<content><country></country><lang>zh</lang><value>任务标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste der Projektaufgaben</value></content>
+<content><country></country><lang>en</lang><value>List of Project Tasks</value></content>
+<content><country></country><lang>fr</lang><value>Liste des tâches du projet</value></content>
+<content><country></country><lang>it</lang><value>Lista dei compiti progetto</value></content>
+<content><country></country><lang>nl</lang><value>Overzicht taken</value></content>
+<content><country></country><lang>th</lang><value>รายการงานของโปรเจค</value></content>
+<content><country></country><lang>zh</lang><value>项目任务列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Kein Mitglied von irgendeinem Projekt, bitte Projektmanager kontaktieren</value></content>
+<content><country></country><lang>en</lang><value>You are'nt member of any project, contact your project manager.</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'êtes membre d'aucun projet, contactez votre directeur de projet</value></content>
+<content><country></country><lang>it</lang><value>Tu non sei membro di nessun progetto, contatta il tuo responsabile di progetto.</value></content>
+<content><country></country><lang>nl</lang><value>Je bent geen actor van een project. Neem contact op met de projectmanager</value></content>
+<content><country></country><lang>th</lang><value>คุณไม่เป็นสมาชิกของทุก ๆ โปรเจค, ติดต่อผู้จัดการโปรเจคของคุณ</value></content>
+<content><country></country><lang>zh</lang><value>你不属于任何项目，请与你的项目经理联系</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabenname</value></content>
+<content><country></country><lang>en</lang><value>Task Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Nome compito</value></content>
+<content><country></country><lang>nl</lang><value>Naam</value></content>
+<content><country></country><lang>th</lang><value>ชื่องาน</value></content>
+<content><country></country><lang>zh</lang><value>任务名称</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Keine Notizen für diese Aufgabe</value></content>
+<content><country></country><lang>en</lang><value>No Notes for this Task</value></content>
+<content><country></country><lang>fr</lang><value>Aucune note pour cette tâche</value></content>
+<content><country></country><lang>it</lang><value>Nessuna nota per questo compito</value></content>
+<content><country></country><lang>nl</lang><value>Geen notities voor deze taak</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีข้อความสำหรับงานนี้</value></content>
+<content><country></country><lang>zh</lang><value>该任务无注释</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aktuell sind keine 'offenen' Aufgaben hinterlegt</value></content>
+<content><country></country><lang>en</lang><value>Currently no 'open' tasks are assigned to you.</value></content>
+<content><country></country><lang>fr</lang><value>Actuellement, aucune tâche ne vous est affectée.</value></content>
+<content><country></country><lang>it</lang><value>Attualmente nessun compito 'aperto' è assegnato a te.</value></content>
+<content><country></country><lang>nl</lang><value>Geen 'open' taken voor jou aanwezig</value></content>
+<content><country></country><lang>th</lang><value>ในปัจจุบันไม่เปิดเผยงานที่มอบหมายให้คุณ</value></content>
+<content><country></country><lang>zh</lang><value>当前没有给你分配开放的任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Füge eine exitierende oder neue Aufgabe einem deiner Projekte hinzu</value></content>
+<content><country></country><lang>en</lang><value>Add an existing or a new task to a project you are member of.</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une tâche, existante ou nouvelle, à un projet dont vous êtes membre</value></content>
+<content><country></country><lang>it</lang><value>Aggiungere uno esistente o un nuovo compito al progetto che tu sei membro di.</value></content>
+<content><country></country><lang>nl</lang><value>Taak aan een van jouw projecten toevoegen</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มงานที่มีอยู่หรืองานใหม่ไปยังโปรเจคคุณเป็นสมาชิกของ</value></content>
+<content><country></country><lang>zh</lang><value>给属于你的项目增加一个新的或者已经存在的任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabe nicht für Phase zugewiesen</value></content>
+<content><country></country><lang>en</lang><value>Task not assigned to Phase/Iteration</value></content>
+<content><country></country><lang>fr</lang><value>Tâche non affectée à une phase/itération</value></content>
+<content><country></country><lang>it</lang><value>Compito non assegnato alla fase/iterazione</value></content>
+<content><country></country><lang>nl</lang><value>Taak is niet toegekend aan een fase</value></content>
+<content><country></country><lang>th</lang><value>ไม่กำหนดงานถึงขั้นตอนการทำงาน/การทำซ้ำ</value></content>
+<content><country></country><lang>zh</lang><value>孤立的任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Übergeordnete Phase</value></content>
+<content><country></country><lang>en</lang><value>Parent Phase</value></content>
+<content><country></country><lang>fr</lang><value>Phase parente</value></content>
+<content><country></country><lang>it</lang><value>Fase padre</value></content>
+<content><country></country><lang>nl</lang><value>Parentfase</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มขั้นตอนการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>父阶段</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgaben Zusammenfassung</value></content>
+<content><country></country><lang>en</lang><value>Task Summary</value></content>
+<content><country></country><lang>fr</lang><value>Résumé de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Sommario compito</value></content>
+<content><country></country><lang>nl</lang><value>Samenvatting</value></content>
+<content><country></country><lang>th</lang><value>สรุปงาน</value></content>
+<content><country></country><lang>zh</lang><value>任务总览</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgabenteam</value></content>
+<content><country></country><lang>en</lang><value>Task Team</value></content>
+<content><country></country><lang>fr</lang><value>Equipe de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Team compito</value></content>
+<content><country></country><lang>nl</lang><value>Taakteam</value></content>
+<content><country></country><lang>th</lang><value>ทีมงาน</value></content>
+<content><country></country><lang>zh</lang><value>任务团队</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aufgaben</value></content>
+<content><country></country><lang>en</lang><value>Tasks</value></content>
+<content><country></country><lang>fr</lang><value>Tâches</value></content>
+<content><country></country><lang>it</lang><value>Compiti</value></content>
+<content><country></country><lang>nl</lang><value>Taken</value></content>
+<content><country></country><lang>th</lang><value>งาน</value></content>
+<content><country></country><lang>zh</lang><value>任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Do</value></content>
+<content><country></country><lang>en</lang><value>Thu</value></content>
+<content><country></country><lang>fr</lang><value>jeu</value></content>
+<content><country></country><lang>it</lang><value>Gio</value></content>
+<content><country></country><lang>nl</lang><value>Do</value></content>
+<content><country></country><lang>zh</lang><value>周四</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zeitbuchungen</value></content>
+<content><country></country><lang>en</lang><value>Time Entries</value></content>
+<content><country></country><lang>fr</lang><value>Echéances</value></content>
+<content><country></country><lang>it</lang><value>Aggiungere/Aggiornare voce orario</value></content>
+<content><country></country><lang>nl</lang><value>Urenboekingen</value></content>
+<content><country></country><lang>th</lang><value>ชั่วโมงจริง</value></content>
+<content><country></country><lang>zh</lang><value>实际工时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fertiggestellt</value></content>
+<content><country></country><lang>en</lang><value>To complete</value></content>
+<content><country></country><lang>fr</lang><value>Changer pour 'terminé'</value></content>
+<content><country></country><lang>it</lang><value>Per completare</value></content>
+<content><country></country><lang>nl</lang><value>Naar gecompleteerd</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาโปรเจคแสดงขอบเขต</value></content>
+<content><country></country><lang>zh</lang><value>查找项目的范围</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Um Projekt zu finden, bitte Intervall angeben</value></content>
+<content><country></country><lang>en</lang><value>To Find Project Give Range</value></content>
+<content><country></country><lang>fr</lang><value>Pour trouver le projet donner un intervalle</value></content>
+<content><country></country><lang>it</lang><value>Per trovare il progetto inserire intervallo</value></content>
+<content><country></country><lang>nl</lang><value>Begin en eind opgeven om project(en) te vinden</value></content>
+<content><country></country><lang>th</lang><value>ค้นหาโปรเจคแสดงขอบเขต</value></content>
+<content><country></country><lang>zh</lang><value>查找项目的范围</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Um Projekt zu finden, bitte Interfall angeben</value></content>
+<content><country></country><lang>en</lang><value>To Find Task Give Range</value></content>
+<content><country></country><lang>fr</lang><value>Pour trouver la tâche donner un intervalle</value></content>
+<content><country></country><lang>it</lang><value>Per trovare il compito inserire intervallo</value></content>
+<content><country></country><lang>nl</lang><value>Begin en eind opgeven om taken te vinden</value></content>
+<content><country></country><lang>th</lang><value>ค้นหางานแสดงขอบเขต</value></content>
+<content><country></country><lang>zh</lang><value>查找任务的范围</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Summe</value></content>
+<content><country></country><lang>en</lang><value>Totals</value></content>
+<content><country></country><lang>fr</lang><value>Totaux</value></content>
+<content><country></country><lang>nl</lang><value>Totalen</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Tree Details</value></content>
+<content><country></country><lang>en</lang><value>Tree Details</value></content>
+<content><country></country><lang>fr</lang><value>Détails de l'arborescence</value></content>
+<content><country></country><lang>it</lang><value>Dettagli albero</value></content>
+<content><country></country><lang>nl</lang><value>Boom</value></content>
+<content><country></country><lang>th</lang><value>รายละเอียดแผนผังแบบต้นไม้</value></content>
+<content><country></country><lang>zh</lang><value>树明细</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Di</value></content>
+<content><country></country><lang>en</lang><value>Tue</value></content>
+<content><country></country><lang>fr</lang><value>mar</value></content>
+<content><country></country><lang>it</lang><value>Mar</value></content>
+<content><country></country><lang>nl</lang><value>Di</value></content>
+<content><country></country><lang>zh</lang><value>周二</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Nicht fakturierte Stunden</value></content>
+<content><country></country><lang>en</lang><value>Unbilled hours</value></content>
+<content><country></country><lang>fr</lang><value>Heures non facturées</value></content>
+<content><country></country><lang>it</lang><value>Ore non fatturate</value></content>
+<content><country></country><lang>nl</lang><value>Ongefakt. uren</value></content>
+<content><country></country><lang>zh</lang><value>没记账工时</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ansicht</value></content>
+<content><country></country><lang>en</lang><value>View</value></content>
+<content><country></country><lang>fr</lang><value>Voir</value></content>
+<content><country></country><lang>it</lang><value>Mostra</value></content>
+<content><country></country><lang>nl</lang><value>Bekijken</value></content>
+<content><country></country><lang>th</lang><value>แสดง</value></content>
+<content><country></country><lang>zh</lang><value>查看</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Es wird mind. die Berechtigung: PROJECTMGR_READ benötigt.</value></content>
+<content><country></country><lang>en</lang><value>You need at least PROJECTMGR_READ permission to view this screen.</value></content>
+<content><country></country><lang>fr</lang><value>Il vous faut au moins l'autorisation PROJECTMGR_READ pour voir cet écran</value></content>
+<content><country></country><lang>it</lang><value>Tu hai bisogno al minimo del permesso PROJECTMGR_READ per vedere questa videata.</value></content>
+<content><country></country><lang>nl</lang><value>Je hebt PROJECTMGR_READ-rechten nodig om dit te kunnen zien</value></content>
+<content><country></country><lang>th</lang><value>คุณต้องการการอนุญาตอย่างน้อยที่สุด PROJECTMGR_READ ในการแสดงหน้าจอนี้</value></content>
+<content><country></country><lang>zh</lang><value>你至少需要有PROJECTMGR_READ权限才能查看本页</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You need at least a PROJECT_ADMIN permission to view this screen</value></content>
+<content><country></country><lang>fr</lang><value>Il vous faut au moins l'autorisation PROJECTMGR_ADMIN pour voir cet écran</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Woche</value></content>
+<content><country></country><lang>en</lang><value>Week</value></content>
+<content><country></country><lang>fr</lang><value>Semaine</value></content>
+<content><country></country><lang>it</lang><value>Settimana</value></content>
+<content><country></country><lang>nl</lang><value>Week</value></content>
+<content><country></country><lang>zh</lang><value>周</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Wochen Nr.</value></content>
+<content><country></country><lang>en</lang><value>Week Number</value></content>
+<content><country></country><lang>fr</lang><value>N° de semaine</value></content>
+<content><country></country><lang>it</lang><value>Settimana numero</value></content>
+<content><country></country><lang>nl</lang><value>No.</value></content>
+<content><country></country><lang>zh</lang><value>周数</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Mi</value></content>
+<content><country></country><lang>en</lang><value>Wen</value></content>
+<content><country></country><lang>fr</lang><value>mer</value></content>
+<content><country></country><lang>it</lang><value>Mer</value></content>
+<content><country></country><lang>nl</lang><value>Wo</value></content>
+<content><country></country><lang>zh</lang><value>周三</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ist-Fertigstellungssdatum</value></content>
+<content><country></country><lang>en</lang><value>Actual Completion Date</value></content>
+<content><country></country><lang>fr</lang><value>Date réelle d'achèvement</value></content>
+<content><country></country><lang>it</lang><value>Data fine attuale</value></content>
+<content><country></country><lang>nl</lang><value>Datum gereed</value></content>
+<content><country></country><lang>th</lang><value>วันที่ทำเสร็จจริง</value></content>
+<content><country></country><lang>zh</lang><value>实际完成日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zuordnungsart</value></content>
+<content><country></country><lang>en</lang><value>Association Type</value></content>
+<content><country></country><lang>fr</lang><value>Type d'association</value></content>
+<content><country></country><lang>it</lang><value>Tipo associazione</value></content>
+<content><country></country><lang>nl</lang><value>Soort associatie</value></content>
+<content><country></country><lang>th</lang><value>ประเภทกลุ่ม</value></content>
+<content><country></country><lang>zh</lang><value>相关类型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Soll-Enddatum</value></content>
+<content><country></country><lang>en</lang><value>Estimated Completion Date</value></content>
+<content><country></country><lang>fr</lang><value>Date d'achèvement estimée</value></content>
+<content><country></country><lang>it</lang><value>Data fine stimata</value></content>
+<content><country></country><lang>nl</lang><value>Gepl. datum gereed</value></content>
+<content><country></country><lang>th</lang><value>วันที่เสร็จโดยประมาณ</value></content>
+<content><country></country><lang>zh</lang><value>估计完成日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Soll-Anfangsdatum</value></content>
+<content><country></country><lang>en</lang><value>Estimated Start Date</value></content>
+<content><country></country><lang>fr</lang><value>Date de début estimée</value></content>
+<content><country></country><lang>it</lang><value>Data inizio stimata</value></content>
+<content><country></country><lang>nl</lang><value>Gepl. datum start</value></content>
+<content><country></country><lang>th</lang><value>วันที่เริ่มโดยประมาณ</value></content>
+<content><country></country><lang>zh</lang><value>估计开始日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>ID</value></content>
+<content><country></country><lang>en</lang><value>Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf.</value></content>
+<content><country></country><lang>it</lang><value>Impegno di lavoro</value></content>
+<content><country></country><lang>nl</lang><value>ID</value></content>
+<content><country></country><lang>zh</lang><value>标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Absender ID</value></content>
+<content><country></country><lang>en</lang><value>Id From</value></content>
+<content><country></country><lang>fr</lang><value>Réf. depuis</value></content>
+<content><country></country><lang>it</lang><value>Impegno di lavoro da</value></content>
+<content><country></country><lang>nl</lang><value>Van ID</value></content>
+<content><country></country><lang>th</lang><value>จากรหัส</value></content>
+<content><country></country><lang>zh</lang><value>标识来自</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Empfänger ID</value></content>
+<content><country></country><lang>en</lang><value>Id To</value></content>
+<content><country></country><lang>fr</lang><value>Réf. vers</value></content>
+<content><country></country><lang>it</lang><value>Impegno di lavoro a</value></content>
+<content><country></country><lang>nl</lang><value>Naar ID</value></content>
+<content><country></country><lang>th</lang><value>ถึงรหัส</value></content>
+<content><country></country><lang>zh</lang><value>标识到</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Verwendungszweck</value></content>
+<content><country></country><lang>en</lang><value>Purpose Type</value></content>
+<content><country></country><lang>fr</lang><value>Type de but</value></content>
+<content><country></country><lang>it</lang><value>Tipo scopo</value></content>
+<content><country></country><lang>nl</lang><value>Soort doel</value></content>
+<content><country></country><lang>th</lang><value>ประเภทเป้าหมาย</value></content>
+<content><country></country><lang>zh</lang><value>目的类型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zugriff</value></content>
+<content><country></country><lang>en</lang><value>Scope</value></content>
+<content><country></country><lang>fr</lang><value>Public concerné</value></content>
+<content><country></country><lang>it</lang><value>Scopo</value></content>
+<content><country></country><lang>nl</lang><value>Scope</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขต</value></content>
+<content><country></country><lang>zh</lang><value>范围</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Art</value></content>
+<content><country></country><lang>en</lang><value>Type</value></content>
+<content><country></country><lang>fr</lang><value>Type</value></content>
+<content><country></country><lang>it</lang><value>Tipo</value></content>
+<content><country></country><lang>nl</lang><value>Soort</value></content>
+<content><country></country><lang>th</lang><value>ประเภท</value></content>
+<content><country></country><lang>zh</lang><value>类型</value></content>
+</contents></phrase> </phrases>

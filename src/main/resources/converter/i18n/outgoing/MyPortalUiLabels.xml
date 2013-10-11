@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>My Page App Bar</value></content>
+<content><country></country><lang>fr</lang><value>Menu des applications</value></content>
+<content><country></country><lang>it</lang><value>Mia pagina</value></content>
+<content><country></country><lang>th</lang><value>แอปพริเคชันของฉัน</value></content>
+<content><country></country><lang>zh</lang><value>我的页面应用程序栏</value></content>
+<content><country></country><lang>zh_TW</lang><value>個人網頁應用程式列</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Bill To Customer</value></content>
+<content><country></country><lang>zh_TW</lang><value>發送帳單給客戶</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Verify code captcha is missing or wrong</value></content>
+<content><country></country><lang>fr</lang><value>Vérifier le code captcha, il est absent ou erroné</value></content>
+<content><country></country><lang>it</lang><value>Verifica il codice captcha, è mancante o errato</value></content>
+<content><country></country><lang>th</lang><value>รหัสตัวเลขที่ท่านกรอกมีข้อผิดพลาด</value></content>
+<content><country></country><lang>zh</lang><value>缺少验证码或验证码错误</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有驗證碼或是錯誤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>End User Customer</value></content>
+<content><country></country><lang>zh_TW</lang><value>最終使用客戶</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Your firstName is missing</value></content>
+<content><country></country><lang>fr</lang><value>Votre prénom est absent</value></content>
+<content><country></country><lang>it</lang><value>Nome mancante</value></content>
+<content><country></country><lang>th</lang><value>กรุณากรอกชื่อของท่าน</value></content>
+<content><country></country><lang>zh</lang><value>缺少你的名</value></content>
+<content><country></country><lang>zh_TW</lang><value>缺少名字(Firstname)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>My Information</value></content>
+<content><country></country><lang>fr</lang><value>Mes informations </value></content>
+<content><country></country><lang>it</lang><value>Mie informazioni</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลของฉัน</value></content>
+<content><country></country><lang>zh</lang><value>我的信息</value></content>
+<content><country></country><lang>zh_TW</lang><value>入口網站</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Your lastname is missing</value></content>
+<content><country></country><lang>fr</lang><value>Votre nom est absent</value></content>
+<content><country></country><lang>it</lang><value>Cognome mancante</value></content>
+<content><country></country><lang>th</lang><value>กรุณากรอกนามสกุลของท่าน</value></content>
+<content><country></country><lang>zh</lang><value>缺少你的姓</value></content>
+<content><country></country><lang>zh_TW</lang><value>缺少姓氏(Lastname)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>My Orders</value></content>
+<content><country></country><lang>zh_TW</lang><value>我的訂單</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Registration </value></content>
+<content><country></country><lang>fr</lang><value>Nouvel enregistrement</value></content>
+<content><country></country><lang>it</lang><value>Nuovo utente</value></content>
+<content><country></country><lang>th</lang><value>ลงทะเบียน </value></content>
+<content><country></country><lang>zh</lang><value>新注册</value></content>
+<content><country></country><lang>zh_TW</lang><value>新的註冊</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Code Captcha</value></content>
+<content><country></country><lang>fr</lang><value>Code captcha</value></content>
+<content><country></country><lang>it</lang><value>Codice captcha</value></content>
+<content><country></country><lang>th</lang><value>รหัสตรวจสอบ</value></content>
+<content><country></country><lang>zh</lang><value>验证码</value></content>
+<content><country></country><lang>zh_TW</lang><value>驗證碼</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Placing Customer</value></content>
+<content><country></country><lang>zh_TW</lang><value>安排客戶</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Register of new person is complete...Please </value></content>
+<content><country></country><lang>fr</lang><value>L'enregistrement de la nouvelle personne est complet...SVP</value></content>
+<content><country></country><lang>it</lang><value>Creazione nuovo utente completata...prego </value></content>
+<content><country></country><lang>th</lang><value>การลงทะเบียนใหม่สำหรับบุคคลได้ทำการเสร็จสิ้นสมบูรณ์แล้ว...สามารถเข้าสู่ระบบได้ </value></content>
+<content><country></country><lang>zh</lang><value>完成新人员注册...请</value></content>
+<content><country></country><lang>zh_TW</lang><value>註冊新的使用者完成...請</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>reload image</value></content>
+<content><country></country><lang>it</lang><value>Ricarica immagine</value></content>
+<content><country></country><lang>zh</lang><value>刷新图片</value></content>
+<content><country></country><lang>zh_TW</lang><value>重載圖片</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Ship To Customer</value></content>
+<content><country></country><lang>zh_TW</lang><value>寄送給客戶</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Task Act End</value></content>
+<content><country></country><lang>fr</lang><value>Fin réelle de de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Fine compito effettiva</value></content>
+<content><country></country><lang>th</lang><value>เสร็จสิ้นการทำ</value></content>
+<content><country></country><lang>zh</lang><value>任务操作结束</value></content>
+<content><country></country><lang>zh_TW</lang><value>任務作業結束</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Task Act Start</value></content>
+<content><country></country><lang>fr</lang><value>Début réel de de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Inizio compito effettivo</value></content>
+<content><country></country><lang>th</lang><value>เรื่มต้นการทำ</value></content>
+<content><country></country><lang>zh</lang><value>任务操作开始</value></content>
+<content><country></country><lang>zh_TW</lang><value>任務作業開始</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Task Plan End</value></content>
+<content><country></country><lang>fr</lang><value>Fin estimée de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Fine compito pianificata</value></content>
+<content><country></country><lang>th</lang><value>สิ้นสุดชิ้นงาน</value></content>
+<content><country></country><lang>zh</lang><value>任务计划结束</value></content>
+<content><country></country><lang>zh_TW</lang><value>任務計畫結束</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Task Plan Start</value></content>
+<content><country></country><lang>fr</lang><value>Début estimé de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Inizio compito pianificato</value></content>
+<content><country></country><lang>th</lang><value>เริ่มต้นชิ้นงาน</value></content>
+<content><country></country><lang>zh</lang><value>任务计划开始</value></content>
+<content><country></country><lang>zh_TW</lang><value>任務計畫開始</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Task Status</value></content>
+<content><country></country><lang>fr</lang><value>Status de la tâche</value></content>
+<content><country></country><lang>it</lang><value>Stato compito</value></content>
+<content><country></country><lang>th</lang><value>สถานะของงาน</value></content>
+<content><country></country><lang>zh</lang><value>任务状态</value></content>
+<content><country></country><lang>zh_TW</lang><value>任務狀態</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>My Tasks</value></content>
+<content><country></country><lang>fr</lang><value>Mes Tâches</value></content>
+<content><country></country><lang>it</lang><value>Miei compiti</value></content>
+<content><country></country><lang>th</lang><value>งานของฉัน</value></content>
+<content><country></country><lang>zh</lang><value>我的任务</value></content>
+<content><country></country><lang>zh_TW</lang><value>我的任務</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>User Login</value></content>
+<content><country></country><lang>fr</lang><value>Identifiant de connexion</value></content>
+<content><country></country><lang>it</lang><value>Login utente</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลการลงทะเบียน</value></content>
+<content><country></country><lang>zh</lang><value>用户登录</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用者登入</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Verify captcha code</value></content>
+<content><country></country><lang>fr</lang><value>Vérifier le code captcha</value></content>
+<content><country></country><lang>it</lang><value>Verifica codice captcha</value></content>
+<content><country></country><lang>th</lang><value>ใส่รหัสตามรูป</value></content>
+<content><country></country><lang>zh</lang><value>验证验证码</value></content>
+<content><country></country><lang>zh_TW</lang><value>驗證碼</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Portal page</value></content>
+<content><country></country><lang>fr</lang><value>Rech. page portail</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找入口網頁</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>My Portal for : </value></content>
+<content><country></country><lang>fr</lang><value>Mon portail pour : </value></content>
+<content><country></country><lang>it</lang><value>Mio portale per : </value></content>
+<content><country></country><lang>th</lang><value>ส่วนตัวสำหรับ </value></content>
+<content><country></country><lang>zh</lang><value>我的门户用于：</value></content>
+<content><country></country><lang>zh_TW</lang><value>入口網站使用者:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>My Portal Page</value></content>
+<content><country></country><lang>fr</lang><value>Ma page de portail</value></content>
+<content><country></country><lang>it</lang><value>Pagina mio portale</value></content>
+<content><country></country><lang>th</lang><value>หน้าส่วนตัวของฉัน</value></content>
+<content><country></country><lang>zh</lang><value>我的门户页面</value></content>
+<content><country></country><lang>zh_TW</lang><value>入口網頁</value></content>
+</contents></phrase> </phrases>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Stunden</value></content>
+<content><country></country><lang>en</lang><value>hours</value></content>
+<content><country></country><lang>es</lang><value>horas</value></content>
+<content><country></country><lang>fr</lang><value>Heures</value></content>
+<content><country></country><lang>it</lang><value>ore</value></content>
+<content><country></country><lang>pt</lang><value>horas</value></content>
+<content><country></country><lang>ru</lang><value>часы</value></content>
+<content><country></country><lang>th</lang><value>ชั่วโมง</value></content>
+<content><country></country><lang>zh</lang><value>小时</value></content>
+<content><country></country><lang>zh_TW</lang><value>小時</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Stunde</value></content>
+<content><country></country><lang>en</lang><value>hour</value></content>
+<content><country></country><lang>es</lang><value>hora</value></content>
+<content><country></country><lang>fr</lang><value>Heure</value></content>
+<content><country></country><lang>it</lang><value>ora</value></content>
+<content><country></country><lang>pt</lang><value>hora</value></content>
+<content><country></country><lang>ru</lang><value>час</value></content>
+<content><country></country><lang>th</lang><value>ชั่วโมง</value></content>
+<content><country></country><lang>zh</lang><value>小时</value></content>
+<content><country></country><lang>zh_TW</lang><value>小時</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Millisekunden</value></content>
+<content><country></country><lang>en</lang><value>millliseconds</value></content>
+<content><country></country><lang>es</lang><value>milisegundos</value></content>
+<content><country></country><lang>fr</lang><value>Milllisecondes</value></content>
+<content><country></country><lang>it</lang><value>millisecondi</value></content>
+<content><country></country><lang>pt</lang><value>milisegundos</value></content>
+<content><country></country><lang>ru</lang><value>миллисекунды</value></content>
+<content><country></country><lang>th</lang><value>หนึ่งในพันของหนึ่งวินาที</value></content>
+<content><country></country><lang>zh</lang><value>毫秒</value></content>
+<content><country></country><lang>zh_TW</lang><value>毫秒</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Millisekunde</value></content>
+<content><country></country><lang>en</lang><value>milllisecond</value></content>
+<content><country></country><lang>es</lang><value>milisegundo</value></content>
+<content><country></country><lang>fr</lang><value>Millliseconde</value></content>
+<content><country></country><lang>it</lang><value>millisecondo</value></content>
+<content><country></country><lang>pt</lang><value>milisegundo</value></content>
+<content><country></country><lang>ru</lang><value>миллисекунда</value></content>
+<content><country></country><lang>th</lang><value>หนึ่งในพันของหนึ่งวินาที</value></content>
+<content><country></country><lang>zh</lang><value>毫秒</value></content>
+<content><country></country><lang>zh_TW</lang><value>毫秒</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Minuten</value></content>
+<content><country></country><lang>en</lang><value>minutes</value></content>
+<content><country></country><lang>es</lang><value>minutos</value></content>
+<content><country></country><lang>fr</lang><value>Minutes</value></content>
+<content><country></country><lang>it</lang><value>minuti</value></content>
+<content><country></country><lang>pt</lang><value>minutos</value></content>
+<content><country></country><lang>ru</lang><value>минуты</value></content>
+<content><country></country><lang>th</lang><value>นาที</value></content>
+<content><country></country><lang>zh</lang><value>分钟</value></content>
+<content><country></country><lang>zh_TW</lang><value>分鐘</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Minute</value></content>
+<content><country></country><lang>en</lang><value>minute</value></content>
+<content><country></country><lang>es</lang><value>minuto</value></content>
+<content><country></country><lang>fr</lang><value>Minute</value></content>
+<content><country></country><lang>it</lang><value>minuto</value></content>
+<content><country></country><lang>pt</lang><value>minuto</value></content>
+<content><country></country><lang>ru</lang><value>минута</value></content>
+<content><country></country><lang>th</lang><value>นาที</value></content>
+<content><country></country><lang>zh</lang><value>分钟</value></content>
+<content><country></country><lang>zh_TW</lang><value>分鐘</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sekunden</value></content>
+<content><country></country><lang>en</lang><value>seconds</value></content>
+<content><country></country><lang>es</lang><value>segundos</value></content>
+<content><country></country><lang>fr</lang><value>Secondes</value></content>
+<content><country></country><lang>it</lang><value>secondi</value></content>
+<content><country></country><lang>pt</lang><value>segundos</value></content>
+<content><country></country><lang>ru</lang><value>секунды</value></content>
+<content><country></country><lang>th</lang><value>วินาที</value></content>
+<content><country></country><lang>zh</lang><value>秒</value></content>
+<content><country></country><lang>zh_TW</lang><value>秒</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sekunde</value></content>
+<content><country></country><lang>en</lang><value>second</value></content>
+<content><country></country><lang>es</lang><value>segundo</value></content>
+<content><country></country><lang>fr</lang><value>seconde</value></content>
+<content><country></country><lang>it</lang><value>secondo</value></content>
+<content><country></country><lang>pt</lang><value>segundo</value></content>
+<content><country></country><lang>ru</lang><value>секунда</value></content>
+<content><country></country><lang>th</lang><value>วินาที</value></content>
+<content><country></country><lang>zh</lang><value>秒</value></content>
+<content><country></country><lang>zh_TW</lang><value>秒</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Wochen</value></content>
+<content><country></country><lang>en</lang><value>weeks</value></content>
+<content><country></country><lang>es</lang><value>semanas</value></content>
+<content><country></country><lang>fr</lang><value>Semaines</value></content>
+<content><country></country><lang>it</lang><value>settimane</value></content>
+<content><country></country><lang>pt</lang><value>semanas</value></content>
+<content><country></country><lang>ru</lang><value>недели</value></content>
+<content><country></country><lang>th</lang><value>สัปดาห์</value></content>
+<content><country></country><lang>zh</lang><value>周</value></content>
+<content><country></country><lang>zh_TW</lang><value>周</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Woche</value></content>
+<content><country></country><lang>en</lang><value>week</value></content>
+<content><country></country><lang>es</lang><value>semana</value></content>
+<content><country></country><lang>fr</lang><value>Semaine</value></content>
+<content><country></country><lang>it</lang><value>settimana</value></content>
+<content><country></country><lang>pt</lang><value>semana</value></content>
+<content><country></country><lang>ru</lang><value>неделя</value></content>
+<content><country></country><lang>th</lang><value>สัปดาห์</value></content>
+<content><country></country><lang>zh</lang><value>周</value></content>
+<content><country></country><lang>zh_TW</lang><value>周</value></content>
+</contents></phrase> </phrases>

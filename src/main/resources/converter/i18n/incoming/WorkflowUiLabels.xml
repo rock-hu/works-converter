@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="WorkflowWorkflowEngineTools">
+        <value lang="en">Workflow Engine Tools</value>
+        <value lang="fr">Outils du moteur de Workflow</value>
+        <value lang="it">Strumenti per Engine Flussi di Lavoro</value>
+        <value lang="ro">Instrumente pentru Engine Fluxuri de Lucru</value>
+        <value lang="th">เครื่องมือ Workflow Engine</value>
+        <value lang="zh">工作流引擎工具</value>
+    </property>
+    <property key="WorkflowReadXPDLFile">
+        <value lang="en">Read XPDL File</value>
+        <value lang="fr">Lire le fichier XPDL</value>
+        <value lang="it">Leggi File XPDL</value>
+        <value lang="ro">Citeste File XPDL</value>
+        <value lang="th">อ่านไฟล์ XPDL</value>
+        <value lang="zh">读取XPDL文件</value>
+    </property>
+    <property key="WorkflowWorkflowActivityId">
+        <value lang="en">Activity ID</value>
+        <value lang="fr">Réf. d'activité</value>
+        <value lang="it">Attività</value>
+        <value lang="th">รหัสการทำงาน</value>
+        <value lang="zh">有效标识</value>
+    </property>
+    <property key="WorkflowWorkflowActivityListFor">
+        <value lang="en">Activity list for</value>
+        <value lang="fr">Liste d'activité pour</value>
+        <value lang="it">Lista Actività per</value>
+        <value lang="th">รายการทำงานสำหรับ</value>
+        <value lang="zh">有效列表用于</value>
+    </property>
+    <property key="WorkflowWorkflowActualCompleteDate">
+        <value lang="en">Actual Complete Date</value>
+        <value lang="fr">Date réelle de fin</value>
+        <value lang="it">Data Fine Attuale</value>
+        <value lang="th">วันที่เสร็จจริง</value>
+        <value lang="zh">实际完成日期</value>
+    </property>
+    <property key="WorkflowWorkflowAssignments">
+        <value lang="en">Assignation(s)</value>
+        <value lang="fr">Tâche (s)</value>
+        <value lang="it">Assegnato(i)</value>
+        <value lang="th">งานที่ได้รับมอบหมาย</value>
+        <value lang="zh">指定</value>
+    </property>
+    <property key="WorkflowWorkflowCurrentStatus">
+        <value lang="en">Current Status</value>
+        <value lang="fr">Statut "Current"</value>
+        <value lang="it">Stato attuale</value>
+        <value lang="th">สถานะทั่ว ๆ ไป</value>
+        <value lang="zh">当前状态</value>
+    </property>
+    <property key="WorkflowWorkflowMonitor">
+        <value lang="en">Workflow Monitor</value>
+        <value lang="fr">Moniteur de Workflow</value>
+        <value lang="it">Monitor dei Flussi di Lavoro</value>
+        <value lang="ro">Monitorul Fluxurilor de Lucru</value>
+        <value lang="th">Workflow Monitor</value>
+        <value lang="zh">工作流监控程序</value>
+    </property>
+    <property key="WorkflowWorkflowPackageVersion">
+        <value lang="en">Package/Version</value>
+        <value lang="fr">Package/Version</value>
+        <value lang="it">Pacchetto/Versione</value>
+        <value lang="th">แพ็คเกจ/เวอร์ชั่น</value>
+        <value lang="zh">包/版本</value>
+    </property>
+    <property key="WorkflowWorkflowPageDescription">
+        <value lang="en">This page is used to view the status of running workflows.</value>
+        <value lang="fr">Cette page est utilisée pour voir le statut du déroulement des opérations du workflow</value>
+        <value lang="it">Questa pagina è usata per mostrare lo stato del flussi di lavoro in esecuzione.</value>
+        <value lang="th">หน้านี้ใช้ตรวจสอบค่าสถานะของการดำเนินงานโครงสร้าง</value>
+        <value lang="zh">这个页面用来浏览运行中的工作流的状态。</value>
+    </property>
+    <property key="WorkflowWorkflowProcessVersion">
+        <value lang="en">Process/Version</value>
+        <value lang="fr">Processus/Version</value>
+        <value lang="it">Processo/Versione</value>
+        <value lang="th">โปรเซส/เวอร์ชั่น</value>
+        <value lang="zh">流程/版本</value>
+    </property>
+    <property key="WorkflowWorkflowSourceReferenceId">
+        <value lang="en">Source Reference ID</value>
+        <value lang="fr">Réf. de référence de source</value>
+        <value lang="it">Riferimento Origine</value>
+        <value lang="th">รหัสอ้างอิงที่มา</value>
+        <value lang="zh">源索引标识</value>
+    </property>
+    <property key="WorkflowWorkflows">
+        <value lang="en">Workflows</value>
+        <value lang="fr">Workflows</value>
+        <value lang="it">Flussi di Lavoro</value>
+        <value lang="th">ขั้นตอนการทำงาน</value>
+        <value lang="zh">工作流</value>
+    </property>
+    <property key="WorkflowImportUpdateToDB">
+        <value lang="en">Import/Update to DB?</value>
+        <value lang="fr">Import/ Mise à jour vers DB ?</value>
+        <value lang="it">Importa/Aggiorna sul DB?</value>
+        <value lang="th">นำเข้า/เปลี่ยนแปลง ฐานข้อมูล?</value>
+        <value lang="zh">导入/更新到数据库？</value>
+    </property>
+    <property key="WorkflowImportXPDLPageDescription">
+        <value lang="en">This page is used to read and import XPDL files into the workflow process repository.</value>
+        <value lang="fr">Cette page est utilisée pour lire et importer des fichiers XPDL dans le dépôt de processus du workflow.</value>
+        <value lang="it">Questa pagina è usata per leggere e importare files XPDL nel repository processi flussi di lavoro.</value>
+        <value lang="th">หน้านี้ใช้อ่านและนำเข้าไฟล์ XPDL เข้าสู่ที่เก็บขั้นตอนการทำงาน</value>
+        <value lang="zh">这个页面用来读取和导入XPDL文件到工作流流程库。</value>
+    </property>
+    <property key="WorkflowXpdlFilenameOrUrl">
+        <value lang="en">XPDL Filename or URL</value>
+        <value lang="fr">Nom de fichier XPDL ou URL</value>
+        <value lang="it">Nome file XPDL o URL</value>
+        <value lang="th">ชื่อไฟล์ XPDL หรือ URL</value>
+        <value lang="zh">XPDL文件名或网址</value>
+    </property>
+    <property key="WorkflowPermissionWorkflow">
+        <value lang="en">You do not have permission to use this page (WORKFLOW_MAINT needed)</value>
+        <value lang="fr">Vous n'avez pas l'autorisation d'utiliser cette page (WORKFLOW_MAINT est nécessaire)</value>
+        <value lang="it">Tu non hai il permesso di usare questa pagina (necessario WORKFLOW_MAINT)</value>
+        <value lang="th">คุณไม่ได้รับอนุญาตให้ใช้งานในหน้านี้ (WORKFLOW_MAINT ที่ต้องการ)</value>
+        <value lang="zh">你没有权限使用这个页面(需要WORKFLOW_MAINT)</value>
+    </property>
+    <property key="WorkflowActiveWorkflowMonitor">
+        <value lang="en">Active Workflow Monitor</value>
+        <value lang="fr">Moniteur actif du Workflow</value>
+        <value lang="it">Monitor Flussi di Lavoro Attivi</value>
+        <value lang="th">ตรวจสอบขั้นตอนการทำงาน</value>
+        <value lang="zh">有效工作流监控</value>
+    </property>
+    <property key="WorkflowNoStepsFoundForRunningWorkflow">
+        <value lang="en">No steps found for running workflow process: ${workflow}</value>
+        <value lang="fr">Aucune étape trouvée pour exécuter une opération de workflow: ${workflow}</value>
+        <value lang="it">Nessun passo trovato per l'esecuzione del processo flusso di lavoro: ${workflow}</value>
+        <value lang="th">ไม่พบขั้นตอนการดำเนินงาน: ${workflow}</value>
+        <value lang="zh">没有找到运行工作流流程的步骤：${workflow}</value>
+    </property>
+</resource>

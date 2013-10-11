@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Adjustments</value></content>
+<content><country></country><lang>fr</lang><value>Ajustements</value></content>
+<content><country></country><lang>it</lang><value>Aggiustamenti</value></content>
+<content><country></country><lang>zh</lang><value>调整</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>CLOSE TERMINAL</value></content>
+<content><country></country><lang>fr</lang><value>FERMER CAISSE</value></content>
+<content><country></country><lang>it</lang><value>CHIUDI TERMINALE</value></content>
+<content><country></country><lang>zh</lang><value>关闭终端</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>LOGIN</value></content>
+<content><country></country><lang>fr</lang><value>CONNEXION</value></content>
+<content><country></country><lang>it</lang><value>LOGIN</value></content>
+<content><country></country><lang>zh</lang><value>登录</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>LOGOUT</value></content>
+<content><country></country><lang>fr</lang><value>DECONNEXION</value></content>
+<content><country></country><lang>it</lang><value>LOGOUT</value></content>
+<content><country></country><lang>zh</lang><value>注销</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>MAIN</value></content>
+<content><country></country><lang>fr</lang><value>VENTE</value></content>
+<content><country></country><lang>it</lang><value>INIZIO</value></content>
+<content><country></country><lang>zh</lang><value>首页</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>MANAGER</value></content>
+<content><country></country><lang>fr</lang><value>RESP.</value></content>
+<content><country></country><lang>it</lang><value>RESP.</value></content>
+<content><country></country><lang>zh</lang><value>经理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>MODIFY PRICE</value></content>
+<content><country></country><lang>fr</lang><value>MODIFIER PRIX</value></content>
+<content><country></country><lang>it</lang><value>MODIF. PREZZO</value></content>
+<content><country></country><lang>zh</lang><value>修改价格</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OPEN TERMINAL</value></content>
+<content><country></country><lang>fr</lang><value>OUVRIR CAISSE</value></content>
+<content><country></country><lang>it</lang><value>APRI TERMINALE</value></content>
+<content><country></country><lang>zh</lang><value>打开终端</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PAID IN</value></content>
+<content><country></country><lang>fr</lang><value>APPORT</value></content>
+<content><country></country><lang>it</lang><value>PAGAM. ING.</value></content>
+<content><country></country><lang>zh</lang><value>收款</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PAID OUT</value></content>
+<content><country></country><lang>fr</lang><value>RETRAIT</value></content>
+<content><country></country><lang>it</lang><value>PAGAM. USC.</value></content>
+<content><country></country><lang>zh</lang><value>找零</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PAY CASH</value></content>
+<content><country></country><lang>fr</lang><value>PAIEMENT ESPECES</value></content>
+<content><country></country><lang>it</lang><value>PAGAM. CONTANTI</value></content>
+<content><country></country><lang>zh</lang><value>现金支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PAY CHECK</value></content>
+<content><country></country><lang>fr</lang><value>PAIEMENT CHEQUE</value></content>
+<content><country></country><lang>it</lang><value>PAGAM. ASSEGNO</value></content>
+<content><country></country><lang>zh</lang><value>支票支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>CLEAR PAYMENT</value></content>
+<content><country></country><lang>fr</lang><value>ANNULER PAIEMENT</value></content>
+<content><country></country><lang>it</lang><value>CANC. PAGAM.</value></content>
+<content><country></country><lang>zh</lang><value>清除支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>CLEAR ALL PAYMENT</value></content>
+<content><country></country><lang>fr</lang><value>ANNULER TOUS LES PAIEMENTS</value></content>
+<content><country></country><lang>it</lang><value>CANC. TUTTI PAGAM.</value></content>
+<content><country></country><lang>zh</lang><value>清除全部支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PAY CREDIT CARD</value></content>
+<content><country></country><lang>fr</lang><value>PAIEMENT CARTE BANCAIRE</value></content>
+<content><country></country><lang>it</lang><value>PAGAM. CARTA CREDITO</value></content>
+<content><country></country><lang>zh</lang><value>信用卡支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PAY FINISH</value></content>
+<content><country></country><lang>fr</lang><value>FINALISER PAIEMENT</value></content>
+<content><country></country><lang>it</lang><value>TERMINA PAGAM.</value></content>
+<content><country></country><lang>zh</lang><value>完成支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PAY GIFT CARD</value></content>
+<content><country></country><lang>fr</lang><value>PAIEMENT BON D'ACHAT</value></content>
+<content><country></country><lang>it</lang><value>PAGAM. CARTA REGALO</value></content>
+<content><country></country><lang>zh</lang><value>礼品卡支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PAYMENT SET REF.</value></content>
+<content><country></country><lang>fr</lang><value>DEFINIR REF. PAIEMENT</value></content>
+<content><country></country><lang>it</lang><value>IMPOSTA RIF. PAGAM.</value></content>
+<content><country></country><lang>zh</lang><value>为支付设置引用</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PAYMENT</value></content>
+<content><country></country><lang>fr</lang><value>PAIEMENT</value></content>
+<content><country></country><lang>it</lang><value>PAGAM.</value></content>
+<content><country></country><lang>zh</lang><value>支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PROMO</value></content>
+<content><country></country><lang>fr</lang><value>PROMOTION</value></content>
+<content><country></country><lang>it</lang><value>PROMOZ.</value></content>
+<content><country></country><lang>zh</lang><value>促销</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PROMO CODE</value></content>
+<content><country></country><lang>fr</lang><value>CODE PROMOTION</value></content>
+<content><country></country><lang>it</lang><value>COD. PROMOZ.</value></content>
+<content><country></country><lang>zh</lang><value>促销代码</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>RETURN</value></content>
+<content><country></country><lang>fr</lang><value>RETOUR</value></content>
+<content><country></country><lang>it</lang><value>INVIO</value></content>
+<content><country></country><lang>zh</lang><value>退货</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>SHUTDOWN</value></content>
+<content><country></country><lang>fr</lang><value>ETEINDRE</value></content>
+<content><country></country><lang>it</lang><value>CHIUDI</value></content>
+<content><country></country><lang>zh</lang><value>关机</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>SKU</value></content>
+<content><country></country><lang>fr</lang><value>CODE</value></content>
+<content><country></country><lang>it</lang><value>CODICE PRODOTTO</value></content>
+<content><country></country><lang>zh</lang><value>产品统一编号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>VOID ORDER</value></content>
+<content><country></country><lang>fr</lang><value>ANNULER COMMANDE</value></content>
+<content><country></country><lang>it</lang><value>RESO ORDINE</value></content>
+<content><country></country><lang>zh</lang><value>空订单</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>POS Cart</value></content>
+<content><country></country><lang>fr</lang><value>Panier du Point de vente</value></content>
+<content><country></country><lang>it</lang><value>Carrello POS</value></content>
+<content><country></country><lang>zh</lang><value>收银机购物车</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cart Total</value></content>
+<content><country></country><lang>fr</lang><value>Total du panier</value></content>
+<content><country></country><lang>it</lang><value>Totale carrello</value></content>
+<content><country></country><lang>zh</lang><value>购物车合计</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Choose Terminal</value></content>
+<content><country></country><lang>fr</lang><value>Choisir la caisse</value></content>
+<content><country></country><lang>it</lang><value>Scegli Terminale</value></content>
+<content><country></country><lang>zh</lang><value>选择终端</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Press Finish To Complete Sale</value></content>
+<content><country></country><lang>fr</lang><value>Choisir Finaliser pour terminer la vente</value></content>
+<content><country></country><lang>it</lang><value>Premere TERMINA per completare la vendita</value></content>
+<content><country></country><lang>zh</lang><value>按结束完成销售</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Till</value></content>
+<content><country></country><lang>fr</lang><value>Caisse</value></content>
+<content><country></country><lang>it</lang><value>Cassa</value></content>
+<content><country></country><lang>zh</lang><value>备用金</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Employee</value></content>
+<content><country></country><lang>fr</lang><value>Employé</value></content>
+<content><country></country><lang>it</lang><value>Impiegato</value></content>
+<content><country></country><lang>zh</lang><value>雇员</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>EMPTY CART</value></content>
+<content><country></country><lang>fr</lang><value>VIDER LE PANIER</value></content>
+<content><country></country><lang>it</lang><value>SVUOTA CARRELLO</value></content>
+<content><country></country><lang>zh</lang><value>空的购物车</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Item Total</value></content>
+<content><country></country><lang>fr</lang><value>Total ligne</value></content>
+<content><country></country><lang>it</lang><value>Totale riga</value></content>
+<content><country></country><lang>zh</lang><value>明细合计</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Cash Amount:</value></content>
+<content><country></country><lang>fr</lang><value>Saisir le montant en espèces :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Importo in Contanti:</value></content>
+<content><country></country><lang>zh</lang><value>输入现金金额：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter a valid cash amount:</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un montant valide pour les espèces :</value></content>
+<content><country></country><lang>it</lang><value>Inserire un'importo in contanti valido:</value></content>
+<content><country></country><lang>zh</lang><value>输入一个有效的现金金额：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Credit Card Amount:</value></content>
+<content><country></country><lang>fr</lang><value>Saisir le montant en carte bancaire :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Importo con Carte di Credito:</value></content>
+<content><country></country><lang>zh</lang><value>输入信用卡金额：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter a valid credit card amount:</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un montant valide pour les cartes bancaires :</value></content>
+<content><country></country><lang>it</lang><value>Inserire un'importo con carte di credito valido:</value></content>
+<content><country></country><lang>zh</lang><value>输入一个有效的信用卡金额：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Check Amount:</value></content>
+<content><country></country><lang>fr</lang><value>Saisir le montant en chèque :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Importo in Assegni:</value></content>
+<content><country></country><lang>zh</lang><value>输入支票金额：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter a valid check amount:</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un montant valide pour les chèques :</value></content>
+<content><country></country><lang>it</lang><value>Inserire un'importo in assegni valido:</value></content>
+<content><country></country><lang>zh</lang><value>输入一个有效的支票金额：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter a valid gift card amount:</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un montant valide pour les bons d'achat :</value></content>
+<content><country></country><lang>it</lang><value>Inserire un'importo con carte regalo valido:</value></content>
+<content><country></country><lang>zh</lang><value>输入一个有效的礼品卡金额：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Gift Card Amount:</value></content>
+<content><country></country><lang>fr</lang><value>Saisir le montant en bon d'achat :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Importo con Carte Regalo:</value></content>
+<content><country></country><lang>zh</lang><value>输入礼品卡金额：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Other Payment Amount:</value></content>
+<content><country></country><lang>fr</lang><value>Saisir le montant avec un autre moyen de paiement :</value></content>
+<content><country></country><lang>it</lang><value>Inserire Importo con Altri Pagamenti:</value></content>
+<content><country></country><lang>zh</lang><value>输入其它支付金额：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter a valid other payment amount:</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un montant valide pour les autres moyens de paiements :</value></content>
+<content><country></country><lang>it</lang><value>Inserire un'importo con altri pagamenti valido:</value></content>
+<content><country></country><lang>zh</lang><value>输入一个有效的其它支付金额：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter new price</value></content>
+<content><country></country><lang>fr</lang><value>Saisir le nouveau prix</value></content>
+<content><country></country><lang>it</lang><value>Inserire il nuovo prezzo</value></content>
+<content><country></country><lang>zh</lang><value>输入新价格</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter a new valid price</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un nouveau prix valide</value></content>
+<content><country></country><lang>it</lang><value>Inserire un nuovo prezzo valido</value></content>
+<content><country></country><lang>zh</lang><value>输入一个新的有效价格</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter sku</value></content>
+<content><country></country><lang>fr</lang><value>Saisir l'unité de stock</value></content>
+<content><country></country><lang>it</lang><value>Inserire il codice prodotto</value></content>
+<content><country></country><lang>zh</lang><value>输入产品统一编号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Starting Drawer Amount:</value></content>
+<content><country></country><lang>fr</lang><value>Apport dans la caisse :</value></content>
+<content><country></country><lang>it</lang><value>Importo Iniziale Cassa:</value></content>
+<content><country></country><lang>zh</lang><value>起始钱箱金额：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Insert a valid starting drawer amount:</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un montant d'apport valide :</value></content>
+<content><country></country><lang>it</lang><value>Inserire un'importo iniziale cassa valido:</value></content>
+<content><country></country><lang>zh</lang><value>插入一个有效的起始钱箱金额：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter amount to paid in</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un apport valide</value></content>
+<content><country></country><lang>it</lang><value>Inserire l'importo del pagamento in ingresso</value></content>
+<content><country></country><lang>zh</lang><value>输入收取的金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter amount to withdraw</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un montant à retirer</value></content>
+<content><country></country><lang>it</lang><value>Inserire l'importo del pagamento in uscita</value></content>
+<content><country></country><lang>zh</lang><value>输入撤销的金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cannot Paid Out and In without an opened transaction</value></content>
+<content><country></country><lang>fr</lang><value>Il n'est pas possible d'ajouter ou retirer sans une transaction ouverte</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile pagare in ingresso o uscita senza una transazione aperta</value></content>
+<content><country></country><lang>zh</lang><value>没有一个开放的交易，不能收钱和找零</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter a valid amount</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un montant valide</value></content>
+<content><country></country><lang>it</lang><value>Inserire un'importo valido</value></content>
+<content><country></country><lang>zh</lang><value>输入一个有效的金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You have to choose a reason</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez choisir une raison</value></content>
+<content><country></country><lang>it</lang><value>Tu devi scegliere la motivazione</value></content>
+<content><country></country><lang>zh</lang><value>你必须选择一个原因</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You can insert a comment</value></content>
+<content><country></country><lang>fr</lang><value>Vous pouvez ajouter un commentaire</value></content>
+<content><country></country><lang>it</lang><value>Tu puoi inserire un commento</value></content>
+<content><country></country><lang>zh</lang><value>你能插入一个评论</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Terminal already closed</value></content>
+<content><country></country><lang>fr</lang><value>Caisse déjà fermée</value></content>
+<content><country></country><lang>it</lang><value>Terminale già chiuso</value></content>
+<content><country></country><lang>zh</lang><value>终端已关闭</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Terminal already opened</value></content>
+<content><country></country><lang>fr</lang><value>Caisse déjà ouverte</value></content>
+<content><country></country><lang>it</lang><value>Terminale già aperto</value></content>
+<content><country></country><lang>zh</lang><value>终端已打开</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Order Number To Void:</value></content>
+<content><country></country><lang>fr</lang><value>Saisr le n° de commande à annuler</value></content>
+<content><country></country><lang>it</lang><value>Inserire Numero Ordine per Reso:</value></content>
+<content><country></country><lang>zh</lang><value>输入订单编号无效：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Order ${parameters.orderId} has a date ${orderDate} that is before ${openDate}</value></content>
+<content><country></country><lang>fr</lang><value>La commande ${parameters.orderId} a une date ${orderDate} inférieure à ${openDate}</value></content>
+<content><country></country><lang>it</lang><value>L'ordine ${parameters.orderId} ha una data ${orderDate} che è prima del ${openDate}</value></content>
+<content><country></country><lang>zh</lang><value>订单${parameters.orderId}有一个日期${orderDate}早于${openDate}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Order ${parameters.orderId} not found</value></content>
+<content><country></country><lang>fr</lang><value>Commande ${parameters.orderId} non trouvée</value></content>
+<content><country></country><lang>it</lang><value>L'ordine ${parameters.orderId} non trovato</value></content>
+<content><country></country><lang>zh</lang><value>没有找到订单${parameters.orderId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Terminal is not opened</value></content>
+<content><country></country><lang>fr</lang><value>La caisse est fermée</value></content>
+<content><country></country><lang>it</lang><value>Il terminale non è aperto</value></content>
+<content><country></country><lang>zh</lang><value>终端没有打开</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You must be logged in</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez être connecté</value></content>
+<content><country></country><lang>it</lang><value>Tu devi essere autenticato</value></content>
+<content><country></country><lang>zh</lang><value>你必须登录</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>To open terminal is mandatory that a manager is logged in</value></content>
+<content><country></country><lang>fr</lang><value>Pour ouvrir la caisse, il est obligatoire qu'un reponsable se connecte</value></content>
+<content><country></country><lang>it</lang><value>Per aprire il terminale e' obbligatorio autenticarsi con un manager</value></content>
+<content><country></country><lang>zh</lang><value>要打开终端，必须经理登录</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Close Terminal</value></content>
+<content><country></country><lang>fr</lang><value>Fermer la caisse</value></content>
+<content><country></country><lang>it</lang><value>Chiudi Terminale</value></content>
+<content><country></country><lang>zh</lang><value>关闭终端</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Modify Price</value></content>
+<content><country></country><lang>fr</lang><value>Modifier un prix</value></content>
+<content><country></country><lang>it</lang><value>Modifica Prezzo</value></content>
+<content><country></country><lang>zh</lang><value>修改价格</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Open Terminal</value></content>
+<content><country></country><lang>fr</lang><value>Ouvrir la caisse</value></content>
+<content><country></country><lang>it</lang><value>Apri Terminale</value></content>
+<content><country></country><lang>zh</lang><value>打开终端</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Paid Out And In</value></content>
+<content><country></country><lang>fr</lang><value>Mouvements de caisse</value></content>
+<content><country></country><lang>it</lang><value>Pagamento in Uscita o in Entrata</value></content>
+<content><country></country><lang>zh</lang><value>收钱和找零</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay Cash</value></content>
+<content><country></country><lang>fr</lang><value>Payer en espèces</value></content>
+<content><country></country><lang>it</lang><value>Pagamento in Contanti</value></content>
+<content><country></country><lang>zh</lang><value>现金支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Lohnzahlung</value></content>
+<content><country></country><lang>en</lang><value>Pay Check</value></content>
+<content><country></country><lang>fr</lang><value>Payer en chèque</value></content>
+<content><country></country><lang>it</lang><value>Pagamento con Assegno</value></content>
+<content><country></country><lang>zh</lang><value>支票支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Clear Payment</value></content>
+<content><country></country><lang>fr</lang><value>Annuler le paiement</value></content>
+<content><country></country><lang>it</lang><value>Rimuovi Pagamento</value></content>
+<content><country></country><lang>zh</lang><value>清除支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay Credit Card</value></content>
+<content><country></country><lang>fr</lang><value>Payer en carte bancaire</value></content>
+<content><country></country><lang>it</lang><value>Pagamento con Carta di Credito</value></content>
+<content><country></country><lang>zh</lang><value>信用卡支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay Gift Card</value></content>
+<content><country></country><lang>fr</lang><value>Payer en bon d'achat</value></content>
+<content><country></country><lang>it</lang><value>Pagamento con Carta Regalo</value></content>
+<content><country></country><lang>zh</lang><value>礼品卡支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Pay Set Reference</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de paiement</value></content>
+<content><country></country><lang>it</lang><value>Imposta Riferimento Pagamento</value></content>
+<content><country></country><lang>zh</lang><value>为支付设置引用</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Promo Code</value></content>
+<content><country></country><lang>fr</lang><value>Code promotion</value></content>
+<content><country></country><lang>it</lang><value>Codice Promozione</value></content>
+<content><country></country><lang>zh</lang><value>促销代码</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Void Order</value></content>
+<content><country></country><lang>fr</lang><value>Annuler une commande</value></content>
+<content><country></country><lang>it</lang><value>Reso Ordine</value></content>
+<content><country></country><lang>zh</lang><value>空订单</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cash amount</value></content>
+<content><country></country><lang>fr</lang><value>Montant espèces</value></content>
+<content><country></country><lang>it</lang><value>Importo in Contanti</value></content>
+<content><country></country><lang>zh</lang><value>现金金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Insert a valid cash amount</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un montant en espèces valide</value></content>
+<content><country></country><lang>it</lang><value>Inserire un'importo in contanti valido</value></content>
+<content><country></country><lang>zh</lang><value>插入一个有效的现金金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Check amount</value></content>
+<content><country></country><lang>fr</lang><value>Valeur chèque</value></content>
+<content><country></country><lang>it</lang><value>Importo con Assegno</value></content>
+<content><country></country><lang>zh</lang><value>支票金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Insert a valid check amount</value></content>
+<content><country></country><lang>fr</lang><value>Saisir une valeur de chèque valide</value></content>
+<content><country></country><lang>it</lang><value>Inserire un'importo con assegni valido</value></content>
+<content><country></country><lang>zh</lang><value>插入一个有效的支票金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Check ref. num .</value></content>
+<content><country></country><lang>fr</lang><value>Réf. du chèque</value></content>
+<content><country></country><lang>it</lang><value>Rif. Num. Assegno</value></content>
+<content><country></country><lang>zh</lang><value>支票引用号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Credit card amount</value></content>
+<content><country></country><lang>fr</lang><value>Montant carte bancaire</value></content>
+<content><country></country><lang>it</lang><value>Importo con carta di credito</value></content>
+<content><country></country><lang>zh</lang><value>信用卡金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Credit card expiring</value></content>
+<content><country></country><lang>fr</lang><value>Date d'expiration de la carte bancaire</value></content>
+<content><country></country><lang>it</lang><value>Scadenza carta di credito</value></content>
+<content><country></country><lang>zh</lang><value>信用卡过期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>First Name</value></content>
+<content><country></country><lang>fr</lang><value>Prénom</value></content>
+<content><country></country><lang>it</lang><value>Nome</value></content>
+<content><country></country><lang>zh</lang><value>名</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Last Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom</value></content>
+<content><country></country><lang>it</lang><value>Cognome</value></content>
+<content><country></country><lang>zh</lang><value>姓</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Insert a valid credit card amount</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un montant de carte bancaire valide</value></content>
+<content><country></country><lang>it</lang><value>Inserire un'importo con carta di credito valido</value></content>
+<content><country></country><lang>zh</lang><value>插入一个有效的信用卡金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Credit card number</value></content>
+<content><country></country><lang>fr</lang><value>N° de carte bancaire</value></content>
+<content><country></country><lang>it</lang><value>Numero di carta di credito</value></content>
+<content><country></country><lang>zh</lang><value>信用卡号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Credit card ref. num .</value></content>
+<content><country></country><lang>fr</lang><value>Réf. carte bancaire</value></content>
+<content><country></country><lang>it</lang><value>Rif. Num. Carta di Credito</value></content>
+<content><country></country><lang>zh</lang><value>信用卡引用号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Credit card security code</value></content>
+<content><country></country><lang>fr</lang><value>Code de sécurité de la carte bancaire</value></content>
+<content><country></country><lang>it</lang><value>Codice di sicurezza della carta di credito</value></content>
+<content><country></country><lang>zh</lang><value>信用卡安全码</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Gift card amount</value></content>
+<content><country></country><lang>fr</lang><value>Montant du bon d'achat</value></content>
+<content><country></country><lang>it</lang><value>Importo con carta regalo</value></content>
+<content><country></country><lang>zh</lang><value>礼品卡金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Insert a valid gift card amount</value></content>
+<content><country></country><lang>fr</lang><value>Saisir une valeur de bon d'achat valide</value></content>
+<content><country></country><lang>it</lang><value>Inserire un'importo con carta regalo valido</value></content>
+<content><country></country><lang>zh</lang><value>插入一个有效的礼品卡金额</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Gift card ref. num .</value></content>
+<content><country></country><lang>fr</lang><value>Réf. bon d'achat</value></content>
+<content><country></country><lang>it</lang><value>Rif. Num. Carta Regalo</value></content>
+<content><country></country><lang>zh</lang><value>礼品卡引用号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Payment Check Internal not yet supported</value></content>
+<content><country></country><lang>fr</lang><value>Le paiement par chèques n'est pas pris en charge</value></content>
+<content><country></country><lang>it</lang><value>Pagemento Assegno Interno non ancora supportato</value></content>
+<content><country></country><lang>zh</lang><value>还不支持内部支票支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You must specify the reference number of the payment check</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez indiquer un n° de réf. pour une paiement par chèque</value></content>
+<content><country></country><lang>it</lang><value>Tu devi specificare il numero di riferimento del pagamento assegno</value></content>
+<content><country></country><lang>zh</lang><value>你必须为支票支付指定一个引用号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You must specify a valid credit card number</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez indiquer un n° de carte bancaire valide</value></content>
+<content><country></country><lang>it</lang><value>Tu devi specificare un numero di carta di credito valida</value></content>
+<content><country></country><lang>zh</lang><value>你必须指定一个有效的信用卡号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You must specify a not expired credit card</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez indiquer une carte bancaire avec une date non expirée</value></content>
+<content><country></country><lang>it</lang><value>Tu devi specificare una carta di credito non scaduta</value></content>
+<content><country></country><lang>zh</lang><value>你必须指定一个没有过期的信用卡</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You must specify a valid security code</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez indiquer un code de sécurité valide</value></content>
+<content><country></country><lang>it</lang><value>Tu devi specificare un pin valido</value></content>
+<content><country></country><lang>zh</lang><value>你必须指定一个有效的安全码</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You must specify the reference number of the payment credit card</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez indiquer un n° de réf. pour le paiement par carte bancaire</value></content>
+<content><country></country><lang>it</lang><value>Tu devi specificare il numero di riferimento del pagamento carta di credito</value></content>
+<content><country></country><lang>zh</lang><value>你必须为信用卡支付指定引用号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Payment Gift Card Internal not yet supported</value></content>
+<content><country></country><lang>fr</lang><value>Le paiement par bons d'achat n'est pas pris en charge</value></content>
+<content><country></country><lang>it</lang><value>Pagemento Carta Regalo Interna non ancora supportato</value></content>
+<content><country></country><lang>zh</lang><value>还不支持内部礼品卡支付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You must specify the reference number of the payment gift card</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez indiquer un n° de réf. valide pour le paiement par bon d'achat</value></content>
+<content><country></country><lang>it</lang><value>Tu devi specificare il numero di riferimento del pagamento carta regalo</value></content>
+<content><country></country><lang>zh</lang><value>你必须为礼品卡支付指定引用号</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Set payment reference</value></content>
+<content><country></country><lang>fr</lang><value>Indiquer une réf. de paiement</value></content>
+<content><country></country><lang>it</lang><value>Imposta rif. pagamento</value></content>
+<content><country></country><lang>zh</lang><value>设置支付引用</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Enter Promo Code:</value></content>
+<content><country></country><lang>fr</lang><value>Saisir un code promotion</value></content>
+<content><country></country><lang>it</lang><value>Inserire Codice Promozione:</value></content>
+<content><country></country><lang>zh</lang><value>输入促销代码：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Terminal must be opened for promo</value></content>
+<content><country></country><lang>fr</lang><value>La caisse doit être ouverte pour les promotions</value></content>
+<content><country></country><lang>it</lang><value>Terminale deve essere aperto per utilizzare le promozioni</value></content>
+<content><country></country><lang>zh</lang><value>终端必须为促销打开</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>RECALCULATE CART</value></content>
+<content><country></country><lang>fr</lang><value>RECALCULER LE PANIER</value></content>
+<content><country></country><lang>it</lang><value>RICALCOLA CARRELLO</value></content>
+<content><country></country><lang>zh</lang><value>购物车重计算</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>REMOVE SELECTED</value></content>
+<content><country></country><lang>fr</lang><value>SUPPRIMER LA SELECTION</value></content>
+<content><country></country><lang>it</lang><value>RIMUOVI SELEZIONI</value></content>
+<content><country></country><lang>zh</lang><value>删除选择的</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Search By</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher par</value></content>
+<content><country></country><lang>it</lang><value>Ricerca per</value></content>
+<content><country></country><lang>zh</lang><value>搜索</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Date</value></content>
+<content><country></country><lang>fr</lang><value>Date</value></content>
+<content><country></country><lang>it</lang><value>Data</value></content>
+<content><country></country><lang>zh</lang><value>日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>EEE MMM dd</value></content>
+<content><country></country><lang>fr</lang><value>EEE MMM dd</value></content>
+<content><country></country><lang>it</lang><value>EEE MMM dd</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Transaction Id</value></content>
+<content><country></country><lang>fr</lang><value>N° de transaction</value></content>
+<content><country></country><lang>it</lang><value>Transazione</value></content>
+<content><country></country><lang>zh</lang><value>交易标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Total Due</value></content>
+<content><country></country><lang>fr</lang><value>Montant dû</value></content>
+<content><country></country><lang>it</lang><value>Totale Dovuto</value></content>
+<content><country></country><lang>zh</lang><value>全部应付</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable To Log In</value></content>
+<content><country></country><lang>it</lang><value>Non è stato possibile autenticarsi</value></content>
+<content><country></country><lang>zh</lang><value>不能登录</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unit Price</value></content>
+<content><country></country><lang>fr</lang><value>Prix unitaire</value></content>
+<content><country></country><lang>it</lang><value>Prezzo unitario</value></content>
+<content><country></country><lang>zh</lang><value>单价</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>User Login Not Valid</value></content>
+<content><country></country><lang>it</lang><value>Utente non valido</value></content>
+<content><country></country><lang>zh</lang><value>用户登录无效</value></content>
+</contents></phrase> </phrases>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>eBay Store</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OFBiz</value></content>
+<content><country></country><lang>fr</lang><value>OFBiz</value></content>
+<content><country></country><lang>it</lang><value>OFBiz</value></content>
+<content><country></country><lang>th</lang><value>OFBiz</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>eBay Account</value></content>
+<content><country></country><lang>th</lang><value>ส่งออกหมวดหมู่สินค้าเข้าคลังสินค้าในอีเบย์</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Export categories to eBay store</value></content>
+<content><country></country><lang>th</lang><value>ส่งออกหมวดหมู่สินค้าเข้าคลังสินค้าในอีเบย์</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Can not decrease quantity of product ${parameters.productId} because it already to used created listing.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile diminuire la quantità del prodotto ${parameters.productId} perchè è già usato da aste create.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Export To eBay Store</value></content>
+<content><country></country><lang>th</lang><value>การส่งออกไปยังคลังสินค้าอีเบย์</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Fail to export categories to an eBay store ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Fallita esportazione delle categorie al negozio eBay ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Export categories to ebay store success.</value></content>
+<content><country></country><lang>it</lang><value>Esportazione delle categorie al negozio eBay avvenuta con successo.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Selling Manager</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Ebay Store</value></content>
+<content><country></country><lang>th</lang><value>คลังสินค้าอีเบย์</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Second Chance Offer Successful.</value></content>
+<content><country></country><lang>it</lang><value>Aggiunto secondo tentativo offerta con successo.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>If you add a new job, you have to add service name.</value></content>
+<content><country></country><lang>it</lang><value>Se tu aggiungi un nuovo job, tu devi aggiungere un nuovo servizio.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error from deleteContactAlert service </value></content>
+<content><country></country><lang>it</lang><value>Errore dal servizio deleteContactAlert </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error from listBestOfferIncludeMessage service: </value></content>
+<content><country></country><lang>it</lang><value>Errore dal servizio listBestOfferIncludeMessage: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error from updateContactStatus service </value></content>
+<content><country></country><lang>it</lang><value>Errore dal servizio updateContactStatus </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Ebay Stores</value></content>
+<content><country></country><lang>th</lang><value>รายชื่อคลังสินค้าอีเบย์</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Ebay Store Setting</value></content>
+<content><country></country><lang>th</lang><value>รายชื่อคลังสินค้าอีเบย์</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Updated inventory status of product ${productId}</value></content>
+<content><country></country><lang>it</lang><value>Aggiornato stato inventario del prodotto ${productId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>load eBay store folderId ${folderId} success..</value></content>
+<content><country></country><lang>it</lang><value>Caricamento folderId ${folderId} per il negozio eBay avvenuto con successo..</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The process was required productStoreId, productId and eBay inventory folderId.</value></content>
+<content><country></country><lang>it</lang><value>Questo processo richiedere il productStoreId, productId e il folderId inventario eBay.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Updated eBay store inventory in folder ${folderId} success..</value></content>
+<content><country></country><lang>it</lang><value>Aggiornato inventario negozio eBay del ${folderId} con successo..</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Fail to update eBay store inventory.</value></content>
+<content><country></country><lang>it</lang><value>Fallito aggiornato dell'inventario negozio eBay.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Load Ebay Store success.</value></content>
+<content><country></country><lang>th</lang><value>โหลดข้อมูลคลังสินค้าอีเบย์เรียบร้อย</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>load store advanced Theme option data success..</value></content>
+<content><country></country><lang>it</lang><value>Caricamento opzioni avanzate temi negozio avvenuto con successo..</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>load store Basic Theme option data success..</value></content>
+<content><country></country><lang>it</lang><value>Caricamento opzioni base temi negozio avvenuto con successo..</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>load store logo data success..</value></content>
+<content><country></country><lang>it</lang><value>Caricamento logo negozio avvenuto con successo..</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Party ${partyId} no roleTypeId EBAY_ACCOUNT for export categories to ebay store.</value></content>
+<content><country></country><lang>it</lang><value>Soggetto ${partyId} non ha il ruolo EBAY_ACCOUNT per esportaor export categories to ebay store.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems to connect with eBay site message: </value></content>
+<content><country></country><lang>it</lang><value>Problema durante la connesione con il sito eBay messaggio: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Required contactStatus setting.</value></content>
+<content><country></country><lang>it</lang><value>Richiesto impostazioni stato contatto.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Required productStoreId for get api context to connect with eBay site.</value></content>
+<content><country></country><lang>it</lang><value>Richiesto productStoreId per ottente il contesto api con il sito eBay.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Required userId and itemId.</value></content>
+<content><country></country><lang>it</lang><value>Richiesto userId e itemId.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Required userId, itemId, productStoreId, OfferId and contactStatus.</value></content>
+<content><country></country><lang>it</lang><value>Richiesto userId, itemId, productStoreId, OfferId e contactStatus.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Required shippingAddress parameter.</value></content>
+<content><country></country><lang>it</lang><value>Richiesto parametro indirizzo di spedizione.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Not found product Category type EBAY_ROOT in catalog ${prodCatalogId}</value></content>
+<content><country></country><lang>it</lang><value>Tipo categoria EBAY_ROOT non trovata nel catalogo ${prodCatalogId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Save ebay setting success.</value></content>
+<content><country></country><lang>th</lang><value>บันทึกข้อมูลคลังสินค้าอีเบย์เรียบร้อย</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Please set catalogId and  productStoreId.</value></content>
+<content><country></country><lang>it</lang><value>Per favore impostare il catalogId e il productStoreId.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store Name</value></content>
+<content><country></country><lang>th</lang><value>ชื่อร้านค้า</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store Description</value></content>
+<content><country></country><lang>th</lang><value>รายละเอียดร้านค้า</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store URL</value></content>
+<content><country></country><lang>th</lang><value>URL</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Logo URL</value></content>
+<content><country></country><lang>th</lang><value>โลโก url</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store Advanced Theme</value></content>
+<content><country></country><lang>th</lang><value>Theme สำเร็จรูป</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store Advanced Theme Color</value></content>
+<content><country></country><lang>th</lang><value>เลือกสีของ Theme</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store Basic Theme</value></content>
+<content><country></country><lang>th</lang><value>ธีมแบบธรรมดา</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Change Color</value></content>
+<content><country></country><lang>th</lang><value>เปลี่ยนสี</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Primary color</value></content>
+<content><country></country><lang>th</lang><value>สีหลัก</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Secondary color</value></content>
+<content><country></country><lang>th</lang><value>สีรอง</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Import with single transaction</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Import with order</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Accent color</value></content>
+<content><country></country><lang>th</lang><value>Accent color</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Change Fonts</value></content>
+<content><country></country><lang>th</lang><value>เปลี่ยนตัวอักษร</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Section title</value></content>
+<content><country></country><lang>th</lang><value>ส่วนของ title</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store Header Display</value></content>
+<content><country></country><lang>th</lang><value>Store header</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store Header Style</value></content>
+<content><country></country><lang>th</lang><value>Store header Style</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store Item List Display</value></content>
+<content><country></country><lang>th</lang><value></value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store Item Sort Order</value></content>
+<content><country></country><lang>th</lang><value></value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store Merch Display</value></content>
+<content><country></country><lang>th</lang><value></value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store Subscription Level</value></content>
+<content><country></country><lang>th</lang><value></value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update Item Successfully.</value></content>
+<content><country></country><lang>it</lang><value>Aggiornamento asta con successo.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to create postalAddress with input map: </value></content>
+<content><country></country><lang>it</lang><value>Non è possibile create l'indirizzo postal con l'input: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Personal Information</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Account Information</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>User Preference</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Automation Re-list Items</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Automation Dispute Items</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Bought</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Feedback</value></content>
+<content><country></country><lang>th</lang><value>ผลตอบรับ</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Feedback Store</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Leave Feedback</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Sold</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Block items out of stock</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Reserve Product From</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Reserve Product Inventory</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update To Ebay Inventory</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update Inventory Status</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Buy It Now price</value></content>
+<content><country></country><lang>th</lang><value>ราคาสุทธิ</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Website Url</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Online Auction</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Fixed Price</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Open unpaid item dispute</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Require eBay Inventory</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>use this percent value to accept the Best Offer if it is greater or equal</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>% of the above price.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Active</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Second Chance Offer</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>After</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Best Offer (Buy-It-Now Only)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Automation Dispute</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Automatically send email when payment has been received</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Auto Relisting Items</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Auto Relisting Items when they are end item.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Automatic send item dispatched notification email</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Automatic send notification email to winning buyer on auction items</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Best offer based on Price.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Change</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Combine Orders Setting</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Countinue</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create Dispute if checkout has not been completed</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create Dispute if checkout has been completed but no payment has been received</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Email Template</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error Messages List</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Automatically evaluate Best Offers</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Explanation</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Ignore the offer if the buyer included any message.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Include my default cross-promotion in this email</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Include the Pay Now button and accepted payment methods</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Automatically leave the positive feedback</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Automatically send a Feedback Reminder email</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Automatically send a Feedback Reminder email if feedback has not been received</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Automatically send email</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>How many days after shipping you want this email sent?</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Copy and Send to Seller</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>List Orders Imported</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No orders imported found</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Open Listings</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Reason</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Reject the offer if it is greater or equal to this percent value.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Reject the offer if it is less than this percent value.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Message:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Reject the offer if it is less than this percent value.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Message:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Reject the offer if it is more than the inventory item's Buy-It-Now Price.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Set</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Situations</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>eBay Store Category</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Automated Positive Feedback for Buyers</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Buyer has paid for this item.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Buyer has paid for this item and left me positive feedback. </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Waiting to shipping</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>unsold</value></content>
+</contents></phrase> </phrases>

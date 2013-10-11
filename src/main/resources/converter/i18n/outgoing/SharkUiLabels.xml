@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OFBiz: Shark</value></content>
+<content><country></country><lang>fr</lang><value>OFBiz : Shark</value></content>
+<content><country></country><lang>it</lang><value>OFBiz: Flussi di lavoro</value></content>
+<content><country></country><lang>ro</lang><value>OFBiz: Fluxuri de Lucru</value></content>
+<content><country></country><lang>th</lang><value>OFBiz: Shark</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>ar</lang><value>جزء من عائلة أوفبيز للتطبيقات الحرة للتسيير</value></content>
+<content><country></country><lang>de</lang><value>Teil der Open For Business Familie von Open Source Software</value></content>
+<content><country></country><lang>en</lang><value>Part of the Open For Business Family of Open Source Software</value></content>
+<content><country></country><lang>es</lang><value>Parte de la familia de software Open For Business de código abierto</value></content>
+<content><country></country><lang>fr</lang><value>Un module de la famille Open For Business, logiciel libre de gestion d'entreprise.</value></content>
+<content><country></country><lang>it</lang><value>Un modulo della famiglia di software open source Open For Business</value></content>
+<content><country></country><lang>nl</lang><value>Deel van de Open For Business-suite van Open Source Software</value></content>
+<content><country></country><lang>pt_BR</lang><value>Parte da família OfBiz de software de fonte aberta</value></content>
+<content><country></country><lang>pt_PT</lang><value>Parte da família OfBiz de software de fonte aberta</value></content>
+<content><country></country><lang>ro</lang><value>Partea de Deschidere Pentru Afaceri Familiale din Open Source Software</value></content>
+<content><country></country><lang>ru</lang><value>Входит в состав семейства Open For Business</value></content>
+<content><country></country><lang>th</lang><value>ส่วนหนึ่งของธุรกิจแบบครอบครัวที่เป็นซอฟต์แวร์โอเพนซอส</value></content>
+<content><country></country><lang>zh</lang><value>开源软件OFBiz家族的一部分</value></content>
+<content><country></country><lang>zh_CN</lang><value>OFBiz的一部分</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Framework Shark</value></content>
+<content><country></country><lang>fr</lang><value>Shark workflow engine : moteur de gestion des flux de travail</value></content>
+<content><country></country><lang>it</lang><value>Applicazione flussi di lavoro</value></content>
+<content><country></country><lang>ro</lang><value>Aplictie Fluxuri de Lucru</value></content>
+<content><country></country><lang>th</lang><value>Framework Shark</value></content>
+<content><country></country><lang>zh</lang><value>Shark工作流</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Shark Manager Main Page</value></content>
+<content><country></country><lang>fr</lang><value>Shark : page principale</value></content>
+<content><country></country><lang>it</lang><value>Pagina principale</value></content>
+<content><country></country><lang>ro</lang><value>Pagina Principala</value></content>
+<content><country></country><lang>th</lang><value>หน้าหลักของการจัดการ Shark</value></content>
+<content><country></country><lang>zh</lang><value>Shark工作流管理主页</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Process Detail List</value></content>
+<content><country></country><lang>it</lang><value>Lista dettagli processi</value></content>
+<content><country></country><lang>zh</lang><value>流程详细信息列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Process History</value></content>
+<content><country></country><lang>it</lang><value>Storia processi</value></content>
+<content><country></country><lang>zh</lang><value>流程历史记录</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Process List</value></content>
+<content><country></country><lang>it</lang><value>Lista processi</value></content>
+<content><country></country><lang>zh</lang><value>流程列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Process Steps</value></content>
+<content><country></country><lang>it</lang><value>Passi processi</value></content>
+<content><country></country><lang>zh</lang><value>流程步骤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Work List</value></content>
+<content><country></country><lang>it</lang><value>Lista lavoro</value></content>
+<content><country></country><lang>zh</lang><value>作业列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>XPDL Repository</value></content>
+<content><country></country><lang>it</lang><value>Repository XPDL</value></content>
+<content><country></country><lang>zh</lang><value>XPDL库</value></content>
+</contents></phrase> </phrases>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Completion Date</value></content>
+<content><country></country><lang>es</lang><value>Fecha de Términación</value></content>
+<content><country></country><lang>fr</lang><value>Date d'achèvement</value></content>
+<content><country></country><lang>it</lang><value>Data completamento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data de término</value></content>
+<content><country></country><lang>ro</lang><value>Data Varsamant</value></content>
+<content><country></country><lang>th</lang><value>วันที่ทำเสร็จ</value></content>
+<content><country></country><lang>zh</lang><value>完成日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>完成日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Components of Shipment Plan</value></content>
+<content><country></country><lang>es</lang><value>Componentes del Plan de Envío</value></content>
+<content><country></country><lang>fr</lang><value>Composants du plan d'expédition</value></content>
+<content><country></country><lang>it</lang><value>Componenti del Piano di Spedizione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Componentes do plano de envio</value></content>
+<content><country></country><lang>ro</lang><value>Componetele Planului de Expediere</value></content>
+<content><country></country><lang>th</lang><value>ส่วนประกอบของแผนการขนส่ง</value></content>
+<content><country></country><lang>zh</lang><value>运输计划的组成</value></content>
+<content><country></country><lang>zh_TW</lang><value>運輸計劃的組成</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Custom Length</value></content>
+<content><country></country><lang>es</lang><value>Longitud a medida</value></content>
+<content><country></country><lang>fr</lang><value>Longueur sur commande</value></content>
+<content><country></country><lang>it</lang><value>Lungh. su misura</value></content>
+<content><country></country><lang>pt_BR</lang><value>Comprimento personalizado</value></content>
+<content><country></country><lang>ro</lang><value>Lungime comandata</value></content>
+<content><country></country><lang>th</lang><value>ระยะเวลาในการดูแลลูกค้า</value></content>
+<content><country></country><lang>zh</lang><value>定制长度</value></content>
+<content><country></country><lang>zh_TW</lang><value>定制長度</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Destination</value></content>
+<content><country></country><lang>es</lang><value>Destino</value></content>
+<content><country></country><lang>fr</lang><value>Destination</value></content>
+<content><country></country><lang>it</lang><value>Destinazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Destino</value></content>
+<content><country></country><lang>ro</lang><value>Destinatie</value></content>
+<content><country></country><lang>th</lang><value>เป้าหมาย</value></content>
+<content><country></country><lang>zh</lang><value>目的地</value></content>
+<content><country></country><lang>zh_TW</lang><value>目的地</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Completion Date</value></content>
+<content><country></country><lang>es</lang><value>Fecha de Términación</value></content>
+<content><country></country><lang>fr</lang><value>Date d'expédition estimée</value></content>
+<content><country></country><lang>it</lang><value>Data Spedizione Stimata</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data de término</value></content>
+<content><country></country><lang>ro</lang><value>Data Expediere Stimata</value></content>
+<content><country></country><lang>th</lang><value>วันที่ทำเสร็จ</value></content>
+<content><country></country><lang>zh</lang><value>完成日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>完成日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Hardware</value></content>
+<content><country></country><lang>es</lang><value>Hardware</value></content>
+<content><country></country><lang>fr</lang><value>Matériel informatique</value></content>
+<content><country></country><lang>it</lang><value>Hardware</value></content>
+<content><country></country><lang>pt_BR</lang><value>Hardware</value></content>
+<content><country></country><lang>ro</lang><value>Hardwer</value></content>
+<content><country></country><lang>th</lang><value>ฮาร์ดแวร์</value></content>
+<content><country></country><lang>zh</lang><value>硬件</value></content>
+<content><country></country><lang>zh_TW</lang><value>硬體</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Label number</value></content>
+<content><country></country><lang>es</lang><value>Nº de Etiqueta</value></content>
+<content><country></country><lang>fr</lang><value>Numéro d'étiquette</value></content>
+<content><country></country><lang>it</lang><value>Numero etichetta</value></content>
+<content><country></country><lang>pt_BR</lang><value>Número de etiqueta</value></content>
+<content><country></country><lang>ro</lang><value>Numar de eticheta</value></content>
+<content><country></country><lang>th</lang><value>หมายเลขฉลาก</value></content>
+<content><country></country><lang>zh</lang><value>标签号</value></content>
+<content><country></country><lang>zh_TW</lang><value>標簽號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Model</value></content>
+<content><country></country><lang>es</lang><value>Modelo</value></content>
+<content><country></country><lang>fr</lang><value>Modèle</value></content>
+<content><country></country><lang>it</lang><value>Modello Cucina</value></content>
+<content><country></country><lang>pt_BR</lang><value>Modelo</value></content>
+<content><country></country><lang>ro</lang><value>Model </value></content>
+<content><country></country><lang>th</lang><value>แบบจำลอง</value></content>
+<content><country></country><lang>zh</lang><value>模型</value></content>
+<content><country></country><lang>zh_TW</lang><value>模型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Need Quantity</value></content>
+<content><country></country><lang>es</lang><value>Cantidad necesaria</value></content>
+<content><country></country><lang>fr</lang><value>Quantité nécessaire</value></content>
+<content><country></country><lang>it</lang><value>Quantità Necessaria</value></content>
+<content><country></country><lang>pt_BR</lang><value>Quantidade necessária</value></content>
+<content><country></country><lang>ro</lang><value>Cantitate Necesara</value></content>
+<content><country></country><lang>th</lang><value>จำนวนที่ต้องการ</value></content>
+<content><country></country><lang>zh</lang><value>需要数量</value></content>
+<content><country></country><lang>zh_TW</lang><value>需要數量</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>On Hand Quantity</value></content>
+<content><country></country><lang>es</lang><value>Cantidad disponible (QOH)</value></content>
+<content><country></country><lang>fr</lang><value>Quantité disponible</value></content>
+<content><country></country><lang>it</lang><value>Quantità Disponibile</value></content>
+<content><country></country><lang>pt_BR</lang><value>Quantidade disponível</value></content>
+<content><country></country><lang>ro</lang><value>Cantitate Disponibila</value></content>
+<content><country></country><lang>th</lang><value>จำนวนที่มีอยู่</value></content>
+<content><country></country><lang>zh</lang><value>现有数量</value></content>
+<content><country></country><lang>zh_TW</lang><value>現有數量</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Operation Code And Description</value></content>
+<content><country></country><lang>es</lang><value>Código de operación y descripción</value></content>
+<content><country></country><lang>fr</lang><value>Code et description d'opération</value></content>
+<content><country></country><lang>it</lang><value>Codice Operazione e Descrizione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Código de operação e descrição</value></content>
+<content><country></country><lang>ro</lang><value>Cod Operatie si Descriere</value></content>
+<content><country></country><lang>th</lang><value>รหัสปฏิบัติการและรายละเอียด</value></content>
+<content><country></country><lang>zh</lang><value>操作代码和描述</value></content>
+<content><country></country><lang>zh_TW</lang><value>操作代碼和描述</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Operation Run For Shipment</value></content>
+<content><country></country><lang>es</lang><value>Operación de Producción para el Envío</value></content>
+<content><country></country><lang>fr</lang><value>Cadence d'opération pour expédition</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di Produzione per la Spedizione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Andamento da operação para envio</value></content>
+<content><country></country><lang>ro</lang><value>Operatii de Productie pentru Expediere</value></content>
+<content><country></country><lang>th</lang><value>การดำเนินการสำหรับการขนส่ง</value></content>
+<content><country></country><lang>zh</lang><value>运输操作运行</value></content>
+<content><country></country><lang>zh_TW</lang><value>運輸操作運行</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Package</value></content>
+<content><country></country><lang>es</lang><value>Paquete</value></content>
+<content><country></country><lang>fr</lang><value>Paquet</value></content>
+<content><country></country><lang>it</lang><value>Pacco</value></content>
+<content><country></country><lang>pt_BR</lang><value>Pacote</value></content>
+<content><country></country><lang>ro</lang><value>Pachet</value></content>
+<content><country></country><lang>th</lang><value>หีบห่อ</value></content>
+<content><country></country><lang>zh</lang><value>包装</value></content>
+<content><country></country><lang>zh_TW</lang><value>包裝</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Panel number</value></content>
+<content><country></country><lang>es</lang><value>Número de panneau</value></content>
+<content><country></country><lang>fr</lang><value>Nombre d'invité</value></content>
+<content><country></country><lang>it</lang><value>Numero pannelli</value></content>
+<content><country></country><lang>pt_BR</lang><value>Número de painel</value></content>
+<content><country></country><lang>ro</lang><value>Numar placi</value></content>
+<content><country></country><lang>th</lang><value>หมายเลขบัญชีรายชื่อ</value></content>
+<content><country></country><lang>zh</lang><value>屏面号</value></content>
+<content><country></country><lang>zh_TW</lang><value>屏面號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Picking date</value></content>
+<content><country></country><lang>es</lang><value>Fecha de Recogida</value></content>
+<content><country></country><lang>fr</lang><value>Date de prélèvement</value></content>
+<content><country></country><lang>it</lang><value>Data di Prelievo</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data de retirada</value></content>
+<content><country></country><lang>ro</lang><value>Data Distributie</value></content>
+<content><country></country><lang>th</lang><value>วันที่เลือก</value></content>
+<content><country></country><lang>zh</lang><value>分拣日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>分揀日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Picking for release</value></content>
+<content><country></country><lang>es</lang><value>Recogida para liberación</value></content>
+<content><country></country><lang>fr</lang><value>Prélèvement pour approbation</value></content>
+<content><country></country><lang>it</lang><value>Richiesta per Rilascio</value></content>
+<content><country></country><lang>pt_BR</lang><value>Retirada para liberação</value></content>
+<content><country></country><lang>ro</lang><value>Cerere  Distribuire</value></content>
+<content><country></country><lang>th</lang><value>การเลือกเพื่อการยกเว้น</value></content>
+<content><country></country><lang>zh</lang><value>分拣用于发布</value></content>
+<content><country></country><lang>zh_TW</lang><value>分揀用于發布</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Picking period</value></content>
+<content><country></country><lang>es</lang><value>Periodo de recogida</value></content>
+<content><country></country><lang>fr</lang><value>Période de prélèvement</value></content>
+<content><country></country><lang>it</lang><value>Periodo prelievo</value></content>
+<content><country></country><lang>pt_BR</lang><value>Período de retirada</value></content>
+<content><country></country><lang>ro</lang><value>Perioda distributie</value></content>
+<content><country></country><lang>th</lang><value>เลือกระยะเวลา</value></content>
+<content><country></country><lang>zh</lang><value>分拣阶段</value></content>
+<content><country></country><lang>zh_TW</lang><value>分揀階段</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Manufacturing Plan</value></content>
+<content><country></country><lang>es</lang><value>Plan de producción</value></content>
+<content><country></country><lang>fr</lang><value>Plan de fabrication</value></content>
+<content><country></country><lang>it</lang><value>Piano di produzione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Plano de produção</value></content>
+<content><country></country><lang>ro</lang><value>Plan de productie</value></content>
+<content><country></country><lang>th</lang><value>แผนการผลิต</value></content>
+<content><country></country><lang>zh</lang><value>制造计划</value></content>
+<content><country></country><lang>zh_TW</lang><value>制造計劃</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Printout Date</value></content>
+<content><country></country><lang>es</lang><value>Fecha de Impresión</value></content>
+<content><country></country><lang>fr</lang><value>Date de sortie sur imprimante</value></content>
+<content><country></country><lang>it</lang><value>Data Emissione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Data de impressão</value></content>
+<content><country></country><lang>ro</lang><value>Data Emisie</value></content>
+<content><country></country><lang>th</lang><value>วันที่พิมพ์</value></content>
+<content><country></country><lang>zh</lang><value>打印输出日期</value></content>
+<content><country></country><lang>zh_TW</lang><value>列印輸出日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Draw no</value></content>
+<content><country></country><lang>es</lang><value>Marca</value></content>
+<content><country></country><lang>fr</lang><value>N° de dessin</value></content>
+<content><country></country><lang>it</lang><value>n. disegno</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nº de desenho</value></content>
+<content><country></country><lang>ro</lang><value>n.desen</value></content>
+<content><country></country><lang>th</lang><value>หมายเลขการวาด</value></content>
+<content><country></country><lang>zh</lang><value>设计编号</value></content>
+<content><country></country><lang>zh_TW</lang><value>設計編號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Production Runs Componentes By Feature</value></content>
+<content><country></country><lang>it</lang><value>Componenti ordini di produzione per caratteristica</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ritmo de produção por características de produtos</value></content>
+<content><country></country><lang>zh</lang><value>按特征的生产运行组件</value></content>
+<content><country></country><lang>zh_TW</lang><value>按特征的生產運行元件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Production Runs Info And Order</value></content>
+<content><country></country><lang>it</lang><value>Ordini di produzione ifnroper caratteristica</value></content>
+<content><country></country><lang>pt_BR</lang><value>Detalhes de Ritmo de produção e pedidos</value></content>
+<content><country></country><lang>zh</lang><value>生产运行信息和订单</value></content>
+<content><country></country><lang>zh_TW</lang><value>生產運行資訊和訂單</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Production Runs</value></content>
+<content><country></country><lang>es</lang><value>Orden de Producción</value></content>
+<content><country></country><lang>fr</lang><value>Cadences de production</value></content>
+<content><country></country><lang>it</lang><value>Ordini di Produzione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ritmo de produção</value></content>
+<content><country></country><lang>ro</lang><value>Comenzi de Productie</value></content>
+<content><country></country><lang>th</lang><value>การผลิตสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>生产运行</value></content>
+<content><country></country><lang>zh_TW</lang><value>生產運行</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Products Components</value></content>
+<content><country></country><lang>es</lang><value>Componentes de productos</value></content>
+<content><country></country><lang>fr</lang><value>Composants de production</value></content>
+<content><country></country><lang>it</lang><value>Prodotto Componente</value></content>
+<content><country></country><lang>pt_BR</lang><value>Componentes de produtos</value></content>
+<content><country></country><lang>ro</lang><value>Componente Produse</value></content>
+<content><country></country><lang>th</lang><value>ส่วนประกอบของสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>产品组件</value></content>
+<content><country></country><lang>zh_TW</lang><value>產品元件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Products Stacks</value></content>
+<content><country></country><lang>it</lang><value>Pila prodotti</value></content>
+<content><country></country><lang>pt_BR</lang><value>Pilha de produtos</value></content>
+<content><country></country><lang>zh</lang><value>产品堆垛</value></content>
+<content><country></country><lang>zh_TW</lang><value>產品堆垛</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Square meters</value></content>
+<content><country></country><lang>es</lang><value>Metros cuadrados</value></content>
+<content><country></country><lang>fr</lang><value>Mètres carrés</value></content>
+<content><country></country><lang>it</lang><value>M.Q.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Metros quadrados</value></content>
+<content><country></country><lang>ro</lang><value>M.P.</value></content>
+<content><country></country><lang>th</lang><value>หน่วยวัดที่เป็นสี่เหลี่ยมจัตุรัส</value></content>
+<content><country></country><lang>zh</lang><value>平方米</value></content>
+<content><country></country><lang>zh_TW</lang><value>平方米</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Reference</value></content>
+<content><country></country><lang>es</lang><value>Referencia</value></content>
+<content><country></country><lang>fr</lang><value>Référence</value></content>
+<content><country></country><lang>it</lang><value>Riferimento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Referência</value></content>
+<content><country></country><lang>ro</lang><value>Referente</value></content>
+<content><country></country><lang>th</lang><value>อ้างอิง</value></content>
+<content><country></country><lang>zh</lang><value>引用</value></content>
+<content><country></country><lang>zh_TW</lang><value>引用</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Released</value></content>
+<content><country></country><lang>es</lang><value>Publicado</value></content>
+<content><country></country><lang>fr</lang><value>Approbation</value></content>
+<content><country></country><lang>it</lang><value>Rilasciato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Liberado</value></content>
+<content><country></country><lang>ro</lang><value>Eliberat</value></content>
+<content><country></country><lang>th</lang><value>การยกเว้น</value></content>
+<content><country></country><lang>zh</lang><value>已发布</value></content>
+<content><country></country><lang>zh_TW</lang><value>已發布</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Released/Note</value></content>
+<content><country></country><lang>es</lang><value>Publicado/Nota</value></content>
+<content><country></country><lang>fr</lang><value>Note d'approbation</value></content>
+<content><country></country><lang>it</lang><value>Rilasciato/Note</value></content>
+<content><country></country><lang>pt_BR</lang><value>Liberado/Nota</value></content>
+<content><country></country><lang>ro</lang><value>Eliberat/Note</value></content>
+<content><country></country><lang>th</lang><value>การยกเว้น/หมายเหตุ</value></content>
+<content><country></country><lang>zh</lang><value>已发布/注意</value></content>
+<content><country></country><lang>zh_TW</lang><value>已發布/注意</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Requester</value></content>
+<content><country></country><lang>es</lang><value>Solicitante</value></content>
+<content><country></country><lang>fr</lang><value>Demandeur</value></content>
+<content><country></country><lang>it</lang><value>Richiedente</value></content>
+<content><country></country><lang>pt_BR</lang><value>Solicitante</value></content>
+<content><country></country><lang>ro</lang><value>Petitionar</value></content>
+<content><country></country><lang>th</lang><value>ผู้ยื่นคำร้อง</value></content>
+<content><country></country><lang>zh</lang><value>需求方</value></content>
+<content><country></country><lang>zh_TW</lang><value>需求方</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Ship To</value></content>
+<content><country></country><lang>es</lang><value>Enviar a</value></content>
+<content><country></country><lang>fr</lang><value>Expédié à</value></content>
+<content><country></country><lang>it</lang><value>Spedire A</value></content>
+<content><country></country><lang>pt_BR</lang><value>Enviar para</value></content>
+<content><country></country><lang>ro</lang><value>Expediere A</value></content>
+<content><country></country><lang>th</lang><value>ส่งถึง</value></content>
+<content><country></country><lang>zh</lang><value>运输至</value></content>
+<content><country></country><lang>zh_TW</lang><value>運輸至</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Shipment Id</value></content>
+<content><country></country><lang>es</lang><value>Código de Envío</value></content>
+<content><country></country><lang>fr</lang><value>Réf. d'expédition</value></content>
+<content><country></country><lang>it</lang><value>Numero Spedizione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de envio</value></content>
+<content><country></country><lang>ro</lang><value>Numar Expediere</value></content>
+<content><country></country><lang>th</lang><value>รหัสการขนส่ง</value></content>
+<content><country></country><lang>zh</lang><value>运输标识</value></content>
+<content><country></country><lang>zh_TW</lang><value>運輸ID</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Shop Order</value></content>
+<content><country></country><lang>es</lang><value>Orden de trabajo</value></content>
+<content><country></country><lang>fr</lang><value>Ordre de magasin</value></content>
+<content><country></country><lang>it</lang><value>Ordine di Lavoro</value></content>
+<content><country></country><lang>pt_BR</lang><value>Pedido de compra</value></content>
+<content><country></country><lang>ro</lang><value>Comanda de Lucru</value></content>
+<content><country></country><lang>th</lang><value>รายการสั่งซื้อจากร้าน</value></content>
+<content><country></country><lang>zh</lang><value>商店订单</value></content>
+<content><country></country><lang>zh_TW</lang><value>商店訂單</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Task Run Time</value></content>
+<content><country></country><lang>es</lang><value>Tiempo de ejecución</value></content>
+<content><country></country><lang>fr</lang><value>Temps d'exécution de tâche</value></content>
+<content><country></country><lang>it</lang><value>Tempo di Esecuzione Compito</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tempo de execução de tarefa</value></content>
+<content><country></country><lang>ro</lang><value>Timp de Executie Dedicat</value></content>
+<content><country></country><lang>th</lang><value>การทำงานในเวลา</value></content>
+<content><country></country><lang>zh</lang><value>任务运行时间</value></content>
+<content><country></country><lang>zh_TW</lang><value>任務運行時間</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Task Setup Time</value></content>
+<content><country></country><lang>es</lang><value>Tiempo de preparación</value></content>
+<content><country></country><lang>fr</lang><value>Temps d'installation de tâche</value></content>
+<content><country></country><lang>it</lang><value>Tempo Configurazione Compito</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tempo de preparação de tarefa</value></content>
+<content><country></country><lang>ro</lang><value>Timp Configurare Dedicat</value></content>
+<content><country></country><lang>th</lang><value>ตั้งเวลาทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>任务安装时间</value></content>
+<content><country></country><lang>zh_TW</lang><value>任務安裝時間</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Work Center</value></content>
+<content><country></country><lang>es</lang><value>Centro de trabajo</value></content>
+<content><country></country><lang>fr</lang><value>Centre de travail</value></content>
+<content><country></country><lang>it</lang><value>Centro di Lavoro</value></content>
+<content><country></country><lang>pt_BR</lang><value>Centro de trabalho</value></content>
+<content><country></country><lang>ro</lang><value>Centru de Lucru</value></content>
+<content><country></country><lang>th</lang><value>ศูนย์กลางการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>工作中心</value></content>
+<content><country></country><lang>zh_TW</lang><value>工作中心</value></content>
+</contents></phrase> </phrases>

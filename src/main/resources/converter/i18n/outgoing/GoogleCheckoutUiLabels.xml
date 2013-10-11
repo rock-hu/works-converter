@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Google Checkout Configuration</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi Configurazione Google Checkout</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Google Checkout Shipping Method</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi metodo di spedizione Google Checkout</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Google Checkout Application</value></content>
+<content><country></country><lang>it</lang><value>Applicazione Google Checkout</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OFBiz: Google Checkout</value></content>
+<content><country></country><lang>it</lang><value>OFBiz: Google Checkout</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Google checkout configuration error</value></content>
+<content><country></country><lang>it</lang><value>Errore di configurazione di Google checkout</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Google Checkout Configuration</value></content>
+<content><country></country><lang>it</lang><value>Configurazione di Google Checkout</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Google Checkout orders cannot be modified. You may cancel orders/items only!</value></content>
+<content><country></country><lang>it</lang><value>Ordini di Google Checkout non possono essere modificati. Tu puoi cancellare solo gli ordini/righe!</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Google Checkout response was null</value></content>
+<content><country></country><lang>it</lang><value>Risposta da Google Checkout è nulla</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Invalid Google Checkout Shipping Configuration! Carriers can only be UPS, FedEx or USPS.</value></content>
+<content><country></country><lang>it</lang><value>Configurazione spedizioni di Google Checkout invalida! Spedizioniere può essere solo UPS, FedEx o USPS.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Shipping Methods Configuration</value></content>
+<content><country></country><lang>it</lang><value>Configurazione metodi di spedizioni</value></content>
+</contents></phrase> </phrases>

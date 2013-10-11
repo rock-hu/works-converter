@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Berechtigung (durch Eingabe) zur Sicherheitsgruppe hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Permission (manually) to Security Group</value></content>
+<content><country></country><lang>es</lang><value>Añadir permiso (manualmente) al grupo de seguridad</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une autorisation (manuellement) au groupe de sécurité</value></content>
+<content><country></country><lang>hi_IN</lang><value>सुरक्षा समूह में अनुमति(स्वयं) जोड़ें</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi permesso (manualmente) al gruppo sicurezza</value></content>
+<content><country></country><lang>nl</lang><value>Handmatig rechten aan deze beveiligingsgroep toevoegen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar permissão (manualmente) ao SecurityGroup</value></content>
+<content><country></country><lang>pt_PT</lang><value>Adicionar Permissão (manualmente) ao Grupo de Segurança</value></content>
+<content><country></country><lang>ro</lang><value>Adauga Permis (manual) la Grupul Siguranta</value></content>
+<content><country></country><lang>ru</lang><value>Добавить права (вручную) в SecurityGroup</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มการอนุมัติ(ด้วยมือ)ในกลุ่มความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>(手工)把权限添加到安全组</value></content>
+<content><country></country><lang>zh_TW</lang><value>(手工)把權限添加到安全組</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Berechtigung (aus Liste) zur Sicherheitsgruppe hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Permission (from list) to Security Group</value></content>
+<content><country></country><lang>es</lang><value>Añadir permiso (desde lista) a grupo de seguridad</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une autorisation (à partir de la liste) au groupe de sécurité</value></content>
+<content><country></country><lang>hi_IN</lang><value>सुरक्षा समूह में अनुमति(सूची से) जोड़ें</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi permesso (dalla lista) al gruppo sicurezza</value></content>
+<content><country></country><lang>nl</lang><value>Rechten vanaf lijst aan beveiligingsgroep toevoegen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar permissão (da lista) ao SecurityGroup</value></content>
+<content><country></country><lang>pt_PT</lang><value>Adicionar Permissão (da lista)ao Grupo de Segurança</value></content>
+<content><country></country><lang>ro</lang><value>Adauga Permis (din lista) la Grupul Siguranta</value></content>
+<content><country></country><lang>ru</lang><value>Добавить права (из списка) в SecurityGroup</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มการอนุมัติ(จากรายการ)ในกลุ่มความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>(从列表)把权限添加到安全组</value></content>
+<content><country></country><lang>zh_TW</lang><value>(從列表)把權限添加到安全組</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add a Protected View to SecurityGroup</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter une vue protégée à ce groupe de sécurité</value></content>
+<content><country></country><lang>hi_IN</lang><value>सुरक्षा समूह में सुरक्षित दृष्टिकोण जोड़ें</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi una vista protetta al gruppo sicurezza</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar uma visão protegida ao SecurityGroup</value></content>
+<content><country></country><lang>zh</lang><value>添加一个受保护的视图到安全组</value></content>
+<content><country></country><lang>zh_TW</lang><value>添加一個受保護的視圖到安全組</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Benutzeranmeldung zur Sicherheitsgruppe hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add User Login to Security Group</value></content>
+<content><country></country><lang>es</lang><value>Añadir usuario a grupo de seguridad</value></content>
+<content><country></country><lang>fr</lang><value>Ajouter un identifiant de connexion à ce groupe de sécurité</value></content>
+<content><country></country><lang>hi_IN</lang><value>सुरक्षा समूह में प्रयोक्तालॉगिन जोड़ें</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi utente al gruppo sicurezza</value></content>
+<content><country></country><lang>nl</lang><value>Loginnaam gebruiker aan beveiligingsgroep toevoegen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar usuário e senha ao Grupo de Segurança</value></content>
+<content><country></country><lang>pt_PT</lang><value>Adicionar Início de Utilizador a Este Grupo de Segurança</value></content>
+<content><country></country><lang>ro</lang><value>Adauga Utilizator la Grupul Siguranta</value></content>
+<content><country></country><lang>ru</lang><value>Добавить имя пользователя в группу безопасности</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มผู้เข้าใช้ระบบในกลุ่มความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>把用户登录添加到安全组</value></content>
+<content><country></country><lang>zh_TW</lang><value>把用戶登錄添加到安全組</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Komponente</value></content>
+<content><country></country><lang>en</lang><value>Component</value></content>
+<content><country></country><lang>es</lang><value>Componente</value></content>
+<content><country></country><lang>fr</lang><value>Composant</value></content>
+<content><country></country><lang>hi_IN</lang><value>घटक</value></content>
+<content><country></country><lang>it</lang><value>Componente</value></content>
+<content><country></country><lang>nl</lang><value>Component</value></content>
+<content><country></country><lang>pt_BR</lang><value>Componente</value></content>
+<content><country></country><lang>th</lang><value>ส่วนประกอบ</value></content>
+<content><country></country><lang>zh</lang><value>组件</value></content>
+<content><country></country><lang>zh_TW</lang><value>元件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cert Details</value></content>
+<content><country></country><lang>pt_BR</lang><value>Detalhes do certificado</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aussteller importieren</value></content>
+<content><country></country><lang>en</lang><value>Import Issuer</value></content>
+<content><country></country><lang>es</lang><value>Imporar emisor</value></content>
+<content><country></country><lang>fr</lang><value>Émetteur d'importation</value></content>
+<content><country></country><lang>hi_IN</lang><value>जारीकर्ता आयात करे</value></content>
+<content><country></country><lang>it</lang><value>Importa Certificato</value></content>
+<content><country></country><lang>nl</lang><value>Uitgever importeren</value></content>
+<content><country></country><lang>pt_BR</lang><value>Importar emissor</value></content>
+<content><country></country><lang>th</lang><value>ปัญหา</value></content>
+<content><country></country><lang>zh</lang><value>导入发行人</value></content>
+<content><country></country><lang>zh_TW</lang><value>導入發行人</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ungültiges Zertifikat</value></content>
+<content><country></country><lang>en</lang><value>Invalid certificate</value></content>
+<content><country></country><lang>es</lang><value>Certificado inválido</value></content>
+<content><country></country><lang>fr</lang><value>Certificat irrecevable</value></content>
+<content><country></country><lang>hi_IN</lang><value>अमान्य प्रमाणपत्र</value></content>
+<content><country></country><lang>it</lang><value>Certificato Invalido</value></content>
+<content><country></country><lang>nl</lang><value>Ongeldig certificaat</value></content>
+<content><country></country><lang>pt_BR</lang><value>Certificado Inválido</value></content>
+<content><country></country><lang>th</lang><value>หนังสือรับรองไม่ถูกต้อง</value></content>
+<content><country></country><lang>zh</lang><value>无效的证书</value></content>
+<content><country></country><lang>zh_TW</lang><value>無效的証書</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zertifikatsersteller</value></content>
+<content><country></country><lang>en</lang><value>Cert Issuers</value></content>
+<content><country></country><lang>es</lang><value>Emisores de certificados</value></content>
+<content><country></country><lang>fr</lang><value>Émetteurs de certificat</value></content>
+<content><country></country><lang>hi_IN</lang><value>प्रमाणपत्र के प्रदाता</value></content>
+<content><country></country><lang>it</lang><value>Fornitori di certificati</value></content>
+<content><country></country><lang>nl</lang><value>Certificaat-uitgever</value></content>
+<content><country></country><lang>pt_BR</lang><value>Emissores de certificados</value></content>
+<content><country></country><lang>ru</lang><value>Эмитенты сертификата</value></content>
+<content><country></country><lang>th</lang><value>ประเด็น</value></content>
+<content><country></country><lang>zh</lang><value>证书发行人</value></content>
+<content><country></country><lang>zh_TW</lang><value>証書發行人</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Schlüssel Alias</value></content>
+<content><country></country><lang>en</lang><value>Key Alias</value></content>
+<content><country></country><lang>es</lang><value>Alias de clave</value></content>
+<content><country></country><lang>fr</lang><value>Clé d'alias</value></content>
+<content><country></country><lang>hi_IN</lang><value>कुंजी के उपनाम</value></content>
+<content><country></country><lang>it</lang><value>Chiave Alias</value></content>
+<content><country></country><lang>nl</lang><value>Key-alias</value></content>
+<content><country></country><lang>pt_BR</lang><value>Sinônimo de chave</value></content>
+<content><country></country><lang>th</lang><value>ใช้อีกชื่อหนึ่งว่า</value></content>
+<content><country></country><lang>zh</lang><value>密钥别名</value></content>
+<content><country></country><lang>zh_TW</lang><value>密鑰別名</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>KeyStore</value></content>
+<content><country></country><lang>en</lang><value>Keystore</value></content>
+<content><country></country><lang>es</lang><value>Fondo de claves</value></content>
+<content><country></country><lang>fr</lang><value>Clé de magasin</value></content>
+<content><country></country><lang>hi_IN</lang><value>कुंजीस्टोर</value></content>
+<content><country></country><lang>it</lang><value>Keystore</value></content>
+<content><country></country><lang>nl</lang><value>Keystore</value></content>
+<content><country></country><lang>pt_BR</lang><value>Base de chaves</value></content>
+<content><country></country><lang>th</lang><value>รหัสการเก็บข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>密钥库</value></content>
+<content><country></country><lang>zh_TW</lang><value>密鑰庫</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zertifikat Name</value></content>
+<content><country></country><lang>en</lang><value>Cert Name</value></content>
+<content><country></country><lang>es</lang><value>Nombre del certificado</value></content>
+<content><country></country><lang>fr</lang><value>Nom de Certificat</value></content>
+<content><country></country><lang>hi_IN</lang><value>प्रमाणपत्र का नाम</value></content>
+<content><country></country><lang>it</lang><value>Nome Certificato</value></content>
+<content><country></country><lang>nl</lang><value>Naam certificaat</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nome do certificado</value></content>
+<content><country></country><lang>th</lang><value>ชื่อจริง</value></content>
+<content><country></country><lang>zh</lang><value>证书名</value></content>
+<content><country></country><lang>zh_TW</lang><value>証書名</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Im KeyStore speichern</value></content>
+<content><country></country><lang>en</lang><value>Save to Keystore</value></content>
+<content><country></country><lang>es</lang><value>Guardar en el fondo de claves</value></content>
+<content><country></country><lang>fr</lang><value>Sauver dans le magasin de clés</value></content>
+<content><country></country><lang>hi_IN</lang><value>कुंजीस्टोर में सहेजें</value></content>
+<content><country></country><lang>it</lang><value>Salva sul KeyStore</value></content>
+<content><country></country><lang>nl</lang><value>In keystore opslaan</value></content>
+<content><country></country><lang>pt_BR</lang><value>Salvar na base de chaves</value></content>
+<content><country></country><lang>th</lang><value>บันทึกรหัสการเก็บข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>保存到密钥库</value></content>
+<content><country></country><lang>zh_TW</lang><value>保存到密鑰庫</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zertifikat Seriennummer</value></content>
+<content><country></country><lang>en</lang><value>Cert Serial Number</value></content>
+<content><country></country><lang>es</lang><value>Nº de serie del certificado</value></content>
+<content><country></country><lang>fr</lang><value>N° de série de Certificat</value></content>
+<content><country></country><lang>hi_IN</lang><value>प्रमाणपत्र क्रम संख्या</value></content>
+<content><country></country><lang>it</lang><value>Numero di Serie Certificato</value></content>
+<content><country></country><lang>nl</lang><value>Serienummer certificaat</value></content>
+<content><country></country><lang>pt_BR</lang><value>Número de série do certificado</value></content>
+<content><country></country><lang>th</lang><value>หมายเลขลำดับ</value></content>
+<content><country></country><lang>zh</lang><value>证书序列号</value></content>
+<content><country></country><lang>zh_TW</lang><value>証書序列號</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zertifikat Typ</value></content>
+<content><country></country><lang>en</lang><value>Cert Type</value></content>
+<content><country></country><lang>es</lang><value>Tipo de certificado</value></content>
+<content><country></country><lang>fr</lang><value>Type de Certificat</value></content>
+<content><country></country><lang>hi_IN</lang><value>प्रमाणपत्र का प्रकार</value></content>
+<content><country></country><lang>it</lang><value>Tipo Certificato</value></content>
+<content><country></country><lang>nl</lang><value>Type certificaat</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipo de certificado</value></content>
+<content><country></country><lang>th</lang><value>ประเภท</value></content>
+<content><country></country><lang>zh</lang><value>证书类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>証書類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Benutzeranmeldung erstellen</value></content>
+<content><country></country><lang>en</lang><value>Create User Login</value></content>
+<content><country></country><lang>es</lang><value>Crear usuario</value></content>
+<content><country></country><lang>fr</lang><value>Création d'un identifiant de connexion</value></content>
+<content><country></country><lang>hi_IN</lang><value>प्रयोक्तालॉगिन बनाएँ</value></content>
+<content><country></country><lang>it</lang><value>Creare Utente</value></content>
+<content><country></country><lang>nl</lang><value>Nieuwe gebruiker</value></content>
+<content><country></country><lang>pt_BR</lang><value>Criar nome usuário</value></content>
+<content><country></country><lang>ro</lang><value>Creare Utilizator</value></content>
+<content><country></country><lang>ru</lang><value>Создать имя входа</value></content>
+<content><country></country><lang>th</lang><value>สร้างผู้ใช้ระบบ</value></content>
+<content><country></country><lang>zh</lang><value>创建用户登录</value></content>
+<content><country></country><lang>zh_TW</lang><value>建立使用者登入</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find User Login</value></content>
+<content><country></country><lang>it</lang><value>Ricerca utenti</value></content>
+<content><country></country><lang>pt_BR</lang><value>Encontrar Nome de Usuário</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aktuelles Passwort</value></content>
+<content><country></country><lang>en</lang><value>Current Password</value></content>
+<content><country></country><lang>es</lang><value>Clave actual</value></content>
+<content><country></country><lang>fr</lang><value>Mot de passe actuel</value></content>
+<content><country></country><lang>hi_IN</lang><value>वर्तमान पासवर्ड</value></content>
+<content><country></country><lang>it</lang><value>Password attuale</value></content>
+<content><country></country><lang>nl</lang><value>Huidig wachtwoord</value></content>
+<content><country></country><lang>pt_BR</lang><value>Senha atual</value></content>
+<content><country></country><lang>ro</lang><value>Parola Actuala</value></content>
+<content><country></country><lang>ru</lang><value>Действующий пароль</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านปัจจุบัน</value></content>
+<content><country></country><lang>zh</lang><value>当前密码</value></content>
+<content><country></country><lang>zh_TW</lang><value>目前密碼</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Überprüfung des aktuellen Passworts</value></content>
+<content><country></country><lang>en</lang><value>Current Password Verify</value></content>
+<content><country></country><lang>es</lang><value>Verificar clave actual</value></content>
+<content><country></country><lang>fr</lang><value>Vérification du mot de passe actuel</value></content>
+<content><country></country><lang>hi_IN</lang><value>वर्तमान पासवर्ड सत्यापित करें</value></content>
+<content><country></country><lang>it</lang><value>Verifica password attuale</value></content>
+<content><country></country><lang>nl</lang><value>Verificatie huidig wachtwoord</value></content>
+<content><country></country><lang>pt_BR</lang><value>Verificação da senha atual</value></content>
+<content><country></country><lang>ro</lang><value>Verifica Parola Actuala </value></content>
+<content><country></country><lang>ru</lang><value>Действующий пароль повторно</value></content>
+<content><country></country><lang>th</lang><value>ยืนยันรหัสผ่าน</value></content>
+<content><country></country><lang>zh</lang><value>当前密码验证</value></content>
+<content><country></country><lang>zh_TW</lang><value>目前密碼驗証</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Disabled Date Time</value></content>
+<content><country></country><lang>it</lang><value>Disabilitato dal</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>ar</lang><value>شغال</value></content>
+<content><country></country><lang>de</lang><value>Aktiviert</value></content>
+<content><country></country><lang>en</lang><value>Enabled</value></content>
+<content><country></country><lang>es</lang><value>Habilitado</value></content>
+<content><country></country><lang>fr</lang><value>Disponible</value></content>
+<content><country></country><lang>hi_IN</lang><value>सक्रिय</value></content>
+<content><country></country><lang>it</lang><value>Abilitato</value></content>
+<content><country></country><lang>nl</lang><value>Beschikbaar</value></content>
+<content><country></country><lang>pt</lang><value>Activado</value></content>
+<content><country></country><lang>pt_BR</lang><value>Habilitado</value></content>
+<content><country></country><lang>ro</lang><value>Abilitat</value></content>
+<content><country></country><lang>ru</lang><value>Доступно</value></content>
+<content><country></country><lang>th</lang><value>สามารถ</value></content>
+<content><country></country><lang>zh</lang><value>有效</value></content>
+<content><country></country><lang>zh_CN</lang><value>启用</value></content>
+<content><country></country><lang>zh_TW</lang><value>有效</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>External Auth Id</value></content>
+<content><country></country><lang>it</lang><value>Codice autenticazione esterna</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Has Logged Out</value></content>
+<content><country></country><lang>it</lang><value>Uscito dal sistema</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Maximum number of visits</value></content>
+<content><country></country><lang>fr</lang><value>Nombre maximum de visites</value></content>
+<content><country></country><lang>hi_IN</lang><value>यात्राओं(visits) की अधिकतम संख्या</value></content>
+<content><country></country><lang>it</lang><value>Massimo numero di visite</value></content>
+<content><country></country><lang>nl</lang><value>Maximaal aantal bezoeken</value></content>
+<content><country></country><lang>pt_BR</lang><value>Número máximo de visitas</value></content>
+<content><country></country><lang>zh</lang><value>最大访问数量</value></content>
+<content><country></country><lang>zh_TW</lang><value>最大訪問數量</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Duration during which the visits are considered (in seconds)</value></content>
+<content><country></country><lang>fr</lang><value>Durée pendant laquelle les visites sont considérées (en secondes)</value></content>
+<content><country></country><lang>hi_IN</lang><value>अवधि जिसके दौरान यात्राओं पर विचार कर रहे हैं (सेकंड में)</value></content>
+<content><country></country><lang>it</lang><value>Durata nella quale le visite sono considerate (in secondi)</value></content>
+<content><country></country><lang>pt_BR</lang><value>Período durante o qual as visitas são consideradas (segundos)</value></content>
+<content><country></country><lang>zh</lang><value>访问停留时间(秒)</value></content>
+<content><country></country><lang>zh_TW</lang><value>訪問停留時間(秒)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neues Passwort</value></content>
+<content><country></country><lang>en</lang><value>New Password</value></content>
+<content><country></country><lang>es</lang><value>Nueva clave</value></content>
+<content><country></country><lang>fr</lang><value>Nouveau mot de passe</value></content>
+<content><country></country><lang>hi_IN</lang><value>नया पासवर्ड</value></content>
+<content><country></country><lang>it</lang><value>Nuova password</value></content>
+<content><country></country><lang>nl</lang><value>Nieuw wachtwoord</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nova senha</value></content>
+<content><country></country><lang>ro</lang><value>Parola Noua</value></content>
+<content><country></country><lang>ru</lang><value>Новый пароль</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新密码</value></content>
+<content><country></country><lang>zh_TW</lang><value>新密碼</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Überprüfung neues Passwort</value></content>
+<content><country></country><lang>en</lang><value>Verify New Password</value></content>
+<content><country></country><lang>es</lang><value>Validar nueva clave</value></content>
+<content><country></country><lang>fr</lang><value>Vérification du nouveau mot de passe</value></content>
+<content><country></country><lang>hi_IN</lang><value>नया पासवर्ड सत्यापित करें</value></content>
+<content><country></country><lang>it</lang><value>Verifica nuova password</value></content>
+<content><country></country><lang>pt_BR</lang><value>Verificação da nova senha</value></content>
+<content><country></country><lang>ro</lang><value>Verifica Parola Noua</value></content>
+<content><country></country><lang>ru</lang><value>Новый пароль повторно</value></content>
+<content><country></country><lang>th</lang><value>ยืนยันรหัสผ่านใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新密码验证</value></content>
+<content><country></country><lang>zh_TW</lang><value>新密碼驗証</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Password Hint</value></content>
+<content><country></country><lang>it</lang><value>Suggerimento password</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Require Password Change</value></content>
+<content><country></country><lang>fr</lang><value>Changement mot de passe obligatoire</value></content>
+<content><country></country><lang>hi_IN</lang><value>पासवर्ड परिवर्तित किया जाना चाहिए</value></content>
+<content><country></country><lang>it</lang><value>Richiesto cambio password</value></content>
+<content><country></country><lang>pt_BR</lang><value>Pedir alteração de senha</value></content>
+<content><country></country><lang>zh</lang><value>必须修改密码</value></content>
+<content><country></country><lang>zh_TW</lang><value>必須修改密碼</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Successive Failed Logins</value></content>
+<content><country></country><lang>it</lang><value>Accessi falliti consecutivi</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Duration during which the view will not be accessible (in seconds)</value></content>
+<content><country></country><lang>fr</lang><value>Durée pendant laquelle la vue ne sera plus accessible (en secondes)</value></content>
+<content><country></country><lang>hi_IN</lang><value>अवधि जिसके दौरान देखना सुलभ नहीं होगा (सेकंड में)</value></content>
+<content><country></country><lang>it</lang><value>Tempo durante il quale la vista non è accessibile (in secondi)</value></content>
+<content><country></country><lang>pt_BR</lang><value>Período durante o qual a vista não poderá ser acessada (em segundos)</value></content>
+<content><country></country><lang>zh</lang><value>视图不能访问的时长(秒)</value></content>
+<content><country></country><lang>zh_TW</lang><value>視圖不能訪問的時長(秒)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>LDAP Distinguished Name</value></content>
+<content><country></country><lang>en</lang><value>LDAP Distinguished Name</value></content>
+<content><country></country><lang>es</lang><value>Nombre distinguido LDAP</value></content>
+<content><country></country><lang>fr</lang><value>Nom LDAP distinct</value></content>
+<content><country></country><lang>hi_IN</lang><value>एलडीएपी(LDAP) विशिष्ट नाम</value></content>
+<content><country></country><lang>it</lang><value>Nome distinto LDAP</value></content>
+<content><country></country><lang>nl</lang><value>LDAP Distinguished Name</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nome único de LDAP</value></content>
+<content><country></country><lang>zh</lang><value>LDAP专有名</value></content>
+<content><country></country><lang>zh_TW</lang><value>LDAP專有名</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Benutzeranmeldung ID</value></content>
+<content><country></country><lang>en</lang><value>User Login ID</value></content>
+<content><country></country><lang>es</lang><value>Código de usuario para conexión</value></content>
+<content><country></country><lang>fr</lang><value>Identifiant de connexion</value></content>
+<content><country></country><lang>hi_IN</lang><value>प्रयोक्ता लॉगिन क्रमांक</value></content>
+<content><country></country><lang>it</lang><value>Codice utente</value></content>
+<content><country></country><lang>nl</lang><value>Loginnaam gebruiker</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id de login do usuário</value></content>
+<content><country></country><lang>ro</lang><value>Utilizator Login</value></content>
+<content><country></country><lang>ru</lang><value>Код имени пользователя</value></content>
+<content><country></country><lang>th</lang><value>รหัสผู้ใช้ที่เข้าสู่ระบบ</value></content>
+<content><country></country><lang>zh</lang><value>用户登录标识</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用者登入ID</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View Name</value></content>
+<content><country></country><lang>fr</lang><value>Nom de la vue</value></content>
+<content><country></country><lang>hi_IN</lang><value>नाम देखें</value></content>
+<content><country></country><lang>it</lang><value>Nome della vista</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ver nome</value></content>
+<content><country></country><lang>zh</lang><value>浏览名称</value></content>
+<content><country></country><lang>zh_TW</lang><value>瀏覽名稱</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup User Login</value></content>
+<content><country></country><lang>pt_BR</lang><value>Pesquisar Nome de Usuário</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Neue Sicherheitsgruppe</value></content>
+<content><country></country><lang>en</lang><value>New Security Group</value></content>
+<content><country></country><lang>es</lang><value>Nuevo grupo de seguridad</value></content>
+<content><country></country><lang>fr</lang><value>Nouveau groupe de sécurité</value></content>
+<content><country></country><lang>hi_IN</lang><value>नया सुरक्षा समूह</value></content>
+<content><country></country><lang>it</lang><value>Nuovo gruppo sicurezza</value></content>
+<content><country></country><lang>nl</lang><value>Nieuwe beveiligingsgroep</value></content>
+<content><country></country><lang>pt_BR</lang><value>Novo grupo de segurança</value></content>
+<content><country></country><lang>pt_PT</lang><value>Novo Grupo de Segurança</value></content>
+<content><country></country><lang>ro</lang><value>Nou Grup De Siguranta</value></content>
+<content><country></country><lang>ru</lang><value>Новая группа безопасности</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มความปลอดภัยใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建安全组</value></content>
+<content><country></country><lang>zh_TW</lang><value>新建安全組</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aussteller Bestimmungen hinzufügen</value></content>
+<content><country></country><lang>en</lang><value>Add Issuer Provisions</value></content>
+<content><country></country><lang>es</lang><value>Añadir condiciones de emisor</value></content>
+<content><country></country><lang>fr</lang><value>Ajoutez les dispositions d'émetteur</value></content>
+<content><country></country><lang>hi_IN</lang><value>जारीकर्ता के प्रावधान जोड़ें</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi fornitore di certificati</value></content>
+<content><country></country><lang>nl</lang><value>Provisies uitgever toevoegen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Adicionar emissor de provisões</value></content>
+<content><country></country><lang>th</lang><value>เพิ่มการจำแนกเงื่อนไข</value></content>
+<content><country></country><lang>zh</lang><value>添加发行人信息</value></content>
+<content><country></country><lang>zh_TW</lang><value>添加發行人資訊</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Aussteller Bestimmungen bearbeiten</value></content>
+<content><country></country><lang>en</lang><value>Edit Issuer Provisions</value></content>
+<content><country></country><lang>es</lang><value>Editar condiciones de emisor</value></content>
+<content><country></country><lang>fr</lang><value>Modifier les dispositions d'émetteur</value></content>
+<content><country></country><lang>hi_IN</lang><value>निर्गमकर्ता प्रावधानों को संपादित करें</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Fornitore Certificati</value></content>
+<content><country></country><lang>nl</lang><value>Provisies uitgever wijzigen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar emissor de provisões</value></content>
+<content><country></country><lang>ru</lang><value>Изменить запасы отгрузчика</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขประเด็นที่ผ่านมา</value></content>
+<content><country></country><lang>zh</lang><value>编辑发行人信息</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯發行人資訊</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sicherheitsgruppe bearbeiten</value></content>
+<content><country></country><lang>en</lang><value>Edit Security Group</value></content>
+<content><country></country><lang>es</lang><value>Editar grupo de seguridad</value></content>
+<content><country></country><lang>fr</lang><value>Modifier le groupe de sécurité</value></content>
+<content><country></country><lang>hi_IN</lang><value>सुरक्षा समूह को संपादित करें</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna gruppo sicurezza</value></content>
+<content><country></country><lang>nl</lang><value>Beveiligingsgroepen wijzigen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar grupo de segurança</value></content>
+<content><country></country><lang>pt_PT</lang><value>Editar Grupo de Segurança</value></content>
+<content><country></country><lang>ro</lang><value>Actualizare Grup Siguranta</value></content>
+<content><country></country><lang>ru</lang><value>Изменить группу безопасности</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขกลุ่มความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>编辑安全组</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯安全組</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sicherheitsgruppe Berechtigungen bearbeiten</value></content>
+<content><country></country><lang>en</lang><value>Edit Security Group Permissions</value></content>
+<content><country></country><lang>es</lang><value>Editar permisos</value></content>
+<content><country></country><lang>fr</lang><value>Modifier les autorisations du groupe de sécurité</value></content>
+<content><country></country><lang>hi_IN</lang><value>सुरक्षा समूह अनुमति को संपादित करें</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna permessi gruppo sicurezza</value></content>
+<content><country></country><lang>nl</lang><value>Toegangsrechten beveiligingsgroep wijzigen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar permissões de grupo de segurança</value></content>
+<content><country></country><lang>pt_PT</lang><value>Editar Permissões do Grupo de Segurança</value></content>
+<content><country></country><lang>ro</lang><value>Actualizare Permisuri Grup Siguranta</value></content>
+<content><country></country><lang>ru</lang><value>Изменить права группы безопасности</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขการอนุญาตกลุ่มความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>编辑安全组权限</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯安全組權限</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sicherheitsgruppen zur Benuterzanmeldung bearbeiten</value></content>
+<content><country></country><lang>en</lang><value>Edit User Login Security Groups</value></content>
+<content><country></country><lang>es</lang><value>Editar grupos de seguridad</value></content>
+<content><country></country><lang>fr</lang><value>Modifier les groupes de sécurité de l'identifiant de connexion </value></content>
+<content><country></country><lang>hi_IN</lang><value>प्रयोक्तालॉगिन के सुरक्षा समूह को संपादित करें</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Gruppi Sicurezza Utente</value></content>
+<content><country></country><lang>nl</lang><value>Beveiligingsgroepen userlogin wijzigen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar usuários/senhas dos grupos de segurança</value></content>
+<content><country></country><lang>ro</lang><value>Actualizare Grup Siguranta Utilizator</value></content>
+<content><country></country><lang>ru</lang><value>Изменить группу безопасности для имени пользователя</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขกลุ่มความปลอดภัยของผู้เข้าใช้ระบบ</value></content>
+<content><country></country><lang>zh</lang><value>编辑用户登录安全组</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯用戶登錄安全組</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sicherheitsgruppe suchen</value></content>
+<content><country></country><lang>en</lang><value>Find Security Group</value></content>
+<content><country></country><lang>es</lang><value>Buscar grupo de seguridad</value></content>
+<content><country></country><lang>fr</lang><value>Recherche de groupes de sécurité</value></content>
+<content><country></country><lang>hi_IN</lang><value>सुरक्षा समूह खोजें</value></content>
+<content><country></country><lang>it</lang><value>Ricerca gruppi sicurezza</value></content>
+<content><country></country><lang>nl</lang><value>Beveiligingsgroep(en) vinden</value></content>
+<content><country></country><lang>pt_BR</lang><value>Procurar grupo de segurança</value></content>
+<content><country></country><lang>ro</lang><value>Cauta Grup Siguranta</value></content>
+<content><country></country><lang>ru</lang><value>Найти группу безопасности</value></content>
+<content><country></country><lang>th</lang><value>ค้นหากลุ่มความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>查找安全组</value></content>
+<content><country></country><lang>zh_TW</lang><value>查找安全組</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zertifikat importieren</value></content>
+<content><country></country><lang>en</lang><value>Import Certificate</value></content>
+<content><country></country><lang>es</lang><value>Importar certificado</value></content>
+<content><country></country><lang>fr</lang><value>Importer le certificat</value></content>
+<content><country></country><lang>hi_IN</lang><value>प्रमाणपत्र आयात करे</value></content>
+<content><country></country><lang>it</lang><value>Importa Certificato</value></content>
+<content><country></country><lang>nl</lang><value>Certificaat importeren</value></content>
+<content><country></country><lang>pt_BR</lang><value>Importar certificado</value></content>
+<content><country></country><lang>ru</lang><value>Импортировать сертификат</value></content>
+<content><country></country><lang>th</lang><value>มีใบรับรอง</value></content>
+<content><country></country><lang>zh</lang><value>导入证书</value></content>
+<content><country></country><lang>zh_TW</lang><value>導入証書</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Berechtigung ID</value></content>
+<content><country></country><lang>en</lang><value>Permission ID</value></content>
+<content><country></country><lang>es</lang><value>Código de permiso</value></content>
+<content><country></country><lang>fr</lang><value>Autorisation</value></content>
+<content><country></country><lang>hi_IN</lang><value>अनुमति क्रमांक</value></content>
+<content><country></country><lang>it</lang><value>Codice permesso</value></content>
+<content><country></country><lang>nl</lang><value>Permissie</value></content>
+<content><country></country><lang>pt_BR</lang><value>ID de permissão</value></content>
+<content><country></country><lang>pt_PT</lang><value>ID de Permissão</value></content>
+<content><country></country><lang>ro</lang><value>Cod Permis</value></content>
+<content><country></country><lang>ru</lang><value>Код прав</value></content>
+<content><country></country><lang>th</lang><value>รหัสใบอนุญาต</value></content>
+<content><country></country><lang>zh</lang><value>权限标识</value></content>
+<content><country></country><lang>zh_TW</lang><value>權限ID</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Berechtigungen</value></content>
+<content><country></country><lang>en</lang><value>Permissions</value></content>
+<content><country></country><lang>es</lang><value>Permisos</value></content>
+<content><country></country><lang>fr</lang><value>Autorisations</value></content>
+<content><country></country><lang>hi_IN</lang><value>अनुमतियाँ</value></content>
+<content><country></country><lang>it</lang><value>Permessi</value></content>
+<content><country></country><lang>nl</lang><value>Permissies</value></content>
+<content><country></country><lang>pt_BR</lang><value>Permissões</value></content>
+<content><country></country><lang>pt_PT</lang><value>Permissões</value></content>
+<content><country></country><lang>ro</lang><value>Permis</value></content>
+<content><country></country><lang>ru</lang><value>Права</value></content>
+<content><country></country><lang>th</lang><value>อนุญาต</value></content>
+<content><country></country><lang>zh</lang><value>权限</value></content>
+<content><country></country><lang>zh_TW</lang><value>權限</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Protected Views</value></content>
+<content><country></country><lang>fr</lang><value>Vues protégées</value></content>
+<content><country></country><lang>hi_IN</lang><value>संरक्षित दृश्य</value></content>
+<content><country></country><lang>it</lang><value>Viste protette</value></content>
+<content><country></country><lang>pt_BR</lang><value>Vistas protegidas</value></content>
+<content><country></country><lang>zh</lang><value>受保护的视图</value></content>
+<content><country></country><lang>zh_TW</lang><value>受保護的視圖</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sicherheitsgruppen</value></content>
+<content><country></country><lang>en</lang><value>Security Groups</value></content>
+<content><country></country><lang>es</lang><value>Grupos de seguridad</value></content>
+<content><country></country><lang>fr</lang><value>Groupes de sécurité</value></content>
+<content><country></country><lang>hi_IN</lang><value>सुरक्षा समूह</value></content>
+<content><country></country><lang>it</lang><value>Gruppo di sicurezza</value></content>
+<content><country></country><lang>nl</lang><value>Beveiligingsgroepen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Grupos de segurança</value></content>
+<content><country></country><lang>pt_PT</lang><value>Grupos de Segurança</value></content>
+<content><country></country><lang>ro</lang><value>Grupuri De Siguranta</value></content>
+<content><country></country><lang>ru</lang><value>Группы безопасности</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>安全组</value></content>
+<content><country></country><lang>zh_TW</lang><value>安全群組</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Liste der Sicherheitsgruppen</value></content>
+<content><country></country><lang>en</lang><value>SecurityGroups List</value></content>
+<content><country></country><lang>es</lang><value>Lista de grupos de seguridad</value></content>
+<content><country></country><lang>fr</lang><value>Liste des groupes de sécurité</value></content>
+<content><country></country><lang>hi_IN</lang><value>सुरक्षासमूह की सूची</value></content>
+<content><country></country><lang>it</lang><value>Lista gruppi sicurezza</value></content>
+<content><country></country><lang>nl</lang><value>Overzicht beveiligingsgroepen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Lista de grupos de segurança</value></content>
+<content><country></country><lang>pt_PT</lang><value>Lista de Grupos de Segurança</value></content>
+<content><country></country><lang>ro</lang><value>Lista Grupuri De Siguranta</value></content>
+<content><country></country><lang>ru</lang><value>Список групп безопасности</value></content>
+<content><country></country><lang>th</lang><value>รายการกลุ่มความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>安全组列表</value></content>
+<content><country></country><lang>zh_TW</lang><value>安全群組列表</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sicherheitsfehler: Sie haben nicht die Berechtigung diese Seite anzusehen. ("SECURITY_VIEW" oder "SECURITY_ADMIN" benötigt) </value></content>
+<content><country></country><lang>en</lang><value>SecurityViewPermissionError You do not have permission to view this page. ("SECURITY_VIEW" or "SECURITY_ADMIN" needed)</value></content>
+<content><country></country><lang>es</lang><value>Error de seguridad: para acceder a esta funcionalidad debe contar con los permisos SECURITY_VIEW o SECURITY_ADMIN</value></content>
+<content><country></country><lang>fr</lang><value>Error Vous n'avez pas l'autorisation de voir cette page. ("SECURITY_VIEW" ou "SECURITY_ADMIN" est nécessaire)</value></content>
+<content><country></country><lang>hi_IN</lang><value>PartySecurityViewPermissionError आपको इस पृष्ठ को देखने की अनुमति नहीं है|("SECURITY_VIEW" या "SECURITY_ADMIN" की आवश्यकता)</value></content>
+<content><country></country><lang>it</lang><value>SecurityViewPermissionError Tu non sei autorizzato a vedere questa pagina. (I permessi "SECURITY_VIEW" o "SECURITY_ADMIN" sono necessari)</value></content>
+<content><country></country><lang>nl</lang><value>Toegangfout: PartySecurityViewPermissionError You do not have permission to view this page. ("SECURITY_VIEW" or "SECURITY_ADMIN" needed)</value></content>
+<content><country></country><lang>pt_BR</lang><value>Erro de segurança: você não possui permissão para visualizar esta página. (necessário "SECURITY_VIEW" ou "SECURITY_ADMIN")</value></content>
+<content><country></country><lang>pt_PT</lang><value>Erro de Segurança na visualização de Secções Você não tem permissão para visualizar esta página (necessário "SECURITY_VIEW" ou "SECURITY_ADMIN").</value></content>
+<content><country></country><lang>ro</lang><value>SecurityViewPermissionError Tu nu esti autorizat sa vezi aceasta pagina. (Este necesar sa ai Permisul "SECURITY_VIEW" sau "SECURITY_ADMIN")</value></content>
+<content><country></country><lang>ru</lang><value>SecurityViewPermissionError У вас нет прав на просмотр этой страницы. (необходимы "SECURITY_VIEW" или "SECURITY_ADMIN")</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาด ! ความปลอดภัยของกลุ่มผู้ใช้ในการได้รับอนุญาตในการดู  คุณยังไม่ได้รับอุญาตให้ดูหน้านี้ ("SECURITY_VIEW" หรือ "SECURITY_ADMIN" ตามที่คุณต้องการ)</value></content>
+<content><country></country><lang>zh</lang><value>SecurityViewPermissionError 你没有权限浏览本页面。 (需要"SECURITY_VIEW" 或 "SECURITY_ADMIN")</value></content>
+<content><country></country><lang>zh_TW</lang><value>SecurityViewPermissionError 你沒有權限瀏覽本頁面。 (需要"SECURITY_VIEW" 或 "SECURITY_ADMIN")</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>User Login</value></content>
+<content><country></country><lang>it</lang><value>Utente</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nome de Usuário</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Passwort der Benutzeranmeldung ändern</value></content>
+<content><country></country><lang>en</lang><value>Change User Login Password</value></content>
+<content><country></country><lang>es</lang><value>Cambiar clave de conexión</value></content>
+<content><country></country><lang>fr</lang><value>Changer le mot de passe de connexion</value></content>
+<content><country></country><lang>hi_IN</lang><value>प्रयोक्तालॉगिन का पासवर्ड बदलें</value></content>
+<content><country></country><lang>it</lang><value>Cambio password utente</value></content>
+<content><country></country><lang>nl</lang><value>Wachtwoord wijzigen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Alterar senha do nome de usuário</value></content>
+<content><country></country><lang>ro</lang><value>Schimb Parola Utilizator Login</value></content>
+<content><country></country><lang>ru</lang><value>Изменение пароля пользователя</value></content>
+<content><country></country><lang>th</lang><value>เปลี่ยนรหัสผ่านผู้เข้าใช้ระบบ</value></content>
+<content><country></country><lang>zh</lang><value>修改用户登录密码</value></content>
+<content><country></country><lang>zh_TW</lang><value>修改用戶登錄密碼</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Benutzeranmeldung Sicherheitsberechtigungen aktualisieren</value></content>
+<content><country></country><lang>en</lang><value>Update User Login Security Settings</value></content>
+<content><country></country><lang>fr</lang><value>Mise à jour des paramètres de sécurité pour l'identifiant de connexion</value></content>
+<content><country></country><lang>hi_IN</lang><value>प्रयोक्ता लॉगिन सुरक्षा सेटिंग्स नवीनतम करे</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna impostazioni sicurezza utente</value></content>
+<content><country></country><lang>nl</lang><value>UserLogin Security Settings wijzigen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Atualizar configurações de segurança do nome de usuário</value></content>
+<content><country></country><lang>ro</lang><value>Actualizare Setari De Siguranta Utilizator Login</value></content>
+<content><country></country><lang>ru</lang><value>Обновление настроек безопасности пользователя</value></content>
+<content><country></country><lang>th</lang><value>เปลี่ยนแปลงการตั้งค่าความปลอดภัยของผู้เข้าใช้ระบบ</value></content>
+<content><country></country><lang>zh</lang><value>更新用户登录安全设置</value></content>
+<content><country></country><lang>zh_TW</lang><value>更新用戶登錄安全設置</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Benutzeranmeldungen</value></content>
+<content><country></country><lang>en</lang><value>User Logins</value></content>
+<content><country></country><lang>es</lang><value>Usuarios</value></content>
+<content><country></country><lang>fr</lang><value>Utilisateurs de connexion</value></content>
+<content><country></country><lang>hi_IN</lang><value>प्रयोक्ता लॉगिन</value></content>
+<content><country></country><lang>it</lang><value>Utenti</value></content>
+<content><country></country><lang>nl</lang><value>User logins</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nomes de usuário</value></content>
+<content><country></country><lang>pt_PT</lang><value>Inícios de Secção</value></content>
+<content><country></country><lang>ro</lang><value>Utilizatori Login</value></content>
+<content><country></country><lang>ru</lang><value>Имена пользователей</value></content>
+<content><country></country><lang>th</lang><value>ผู้เข้าใช้ระบบ</value></content>
+<content><country></country><lang>zh</lang><value>用户登录</value></content>
+<content><country></country><lang>zh_TW</lang><value>用戶登錄</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Zertifikat anzeigen</value></content>
+<content><country></country><lang>en</lang><value>View Cert</value></content>
+<content><country></country><lang>es</lang><value>Ver certificado</value></content>
+<content><country></country><lang>fr</lang><value>Afficher le certificat</value></content>
+<content><country></country><lang>hi_IN</lang><value>प्रमाणपत्र देखें</value></content>
+<content><country></country><lang>it</lang><value>Mostra certificato</value></content>
+<content><country></country><lang>nl</lang><value>Certificaat bekijken</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ver certificado</value></content>
+<content><country></country><lang>ru</lang><value>Просмотр сертификата</value></content>
+<content><country></country><lang>th</lang><value>แสดงความมั่นใจ</value></content>
+<content><country></country><lang>zh</lang><value>浏览证书</value></content>
+<content><country></country><lang>zh_TW</lang><value>瀏覽証書</value></content>
+</contents></phrase> </phrases>

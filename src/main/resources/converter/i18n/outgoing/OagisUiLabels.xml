@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Auth Id</value></content>
+<content><country></country><lang>it</lang><value>Codice autorizzazione</value></content>
+<content><country></country><lang>zh</lang><value>认证标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>bsr Noun</value></content>
+<content><country></country><lang>it</lang><value>Nome bsr</value></content>
+<content><country></country><lang>zh</lang><value>商务服务请求名词</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>bsr Revision</value></content>
+<content><country></country><lang>it</lang><value>Revisione bsr</value></content>
+<content><country></country><lang>zh</lang><value>商务服务请求修正</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>bsr Verb</value></content>
+<content><country></country><lang>it</lang><value>Verbo bsr</value></content>
+<content><country></country><lang>zh</lang><value>商务服务请求动词</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Component</value></content>
+<content><country></country><lang>it</lang><value>Componente</value></content>
+<content><country></country><lang>zh</lang><value>组件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Confirmation</value></content>
+<content><country></country><lang>it</lang><value>Conferma</value></content>
+<content><country></country><lang>zh</lang><value>确认</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error Seq Id</value></content>
+<content><country></country><lang>it</lang><value>Seq. errore</value></content>
+<content><country></country><lang>zh</lang><value>序号错误</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Full Message Xml</value></content>
+<content><country></country><lang>it</lang><value>Messaggio xml completo</value></content>
+<content><country></country><lang>zh</lang><value>完整信息XML</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Logical Id</value></content>
+<content><country></country><lang>it</lang><value>Logico</value></content>
+<content><country></country><lang>zh</lang><value>逻辑标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Orig Ref</value></content>
+<content><country></country><lang>it</lang><value>Rif. origine</value></content>
+<content><country></country><lang>zh</lang><value>原引用</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Outgoing Message</value></content>
+<content><country></country><lang>it</lang><value>Messaggio in uscita</value></content>
+<content><country></country><lang>zh</lang><value>输出消息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Processing Status Id</value></content>
+<content><country></country><lang>it</lang><value>Stato esecuzione</value></content>
+<content><country></country><lang>zh</lang><value>处理状态标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Reason Code</value></content>
+<content><country></country><lang>it</lang><value>Codice motivazione</value></content>
+<content><country></country><lang>zh</lang><value>原因代码</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Received Date</value></content>
+<content><country></country><lang>it</lang><value>Data di ricezione</value></content>
+<content><country></country><lang>zh</lang><value>接收日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Reference Id</value></content>
+<content><country></country><lang>it</lang><value>Riferimento</value></content>
+<content><country></country><lang>zh</lang><value>引用标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Sent Date</value></content>
+<content><country></country><lang>it</lang><value>Data di spedizione</value></content>
+<content><country></country><lang>zh</lang><value>发送日期</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Task</value></content>
+<content><country></country><lang>it</lang><value>Compito</value></content>
+<content><country></country><lang>zh</lang><value>任务</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Oagis Implementation</value></content>
+<content><country></country><lang>fr</lang><value>Implémentation Oagis</value></content>
+<content><country></country><lang>it</lang><value>Implementazione Oagis</value></content>
+<content><country></country><lang>th</lang><value>Oagis Implementation</value></content>
+<content><country></country><lang>zh</lang><value>Oagis实现</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OFBiz: Oagis</value></content>
+<content><country></country><lang>fr</lang><value>OFBiz: Oagis</value></content>
+<content><country></country><lang>it</lang><value>OFBiz: Oagis</value></content>
+<content><country></country><lang>th</lang><value>OFBiz: การรวมภาษาทางธุรกิจ</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>ar</lang><value>جزء من عائلة أوفبيز للتطبيقات الحرة للتسيير</value></content>
+<content><country></country><lang>de</lang><value>Teil der Open For Business Familie von Open Source Software</value></content>
+<content><country></country><lang>en</lang><value>Part of the Open For Business Family of Open Source Software</value></content>
+<content><country></country><lang>es</lang><value>Parte de la familia de software Open For Business de código abierto</value></content>
+<content><country></country><lang>fr</lang><value>Un module de la famille Open For Business, logiciel libre de gestion d'entreprise.</value></content>
+<content><country></country><lang>it</lang><value>Un modulo della famiglia di software open source Open For Business</value></content>
+<content><country></country><lang>nl</lang><value>Deel van de Open For Business-suite van Open Source Software</value></content>
+<content><country></country><lang>pt_BR</lang><value>Parte da família OfBiz de software de fonte aberta</value></content>
+<content><country></country><lang>pt_PT</lang><value>Parte da família OfBiz de software de fonte aberta</value></content>
+<content><country></country><lang>ro</lang><value>Partea de Deschidere Pentru Afaceri Familiale din Open Source Software</value></content>
+<content><country></country><lang>ru</lang><value>Входит в состав семейства Open For Business</value></content>
+<content><country></country><lang>th</lang><value>ส่วนหนึ่งของธุรกิจแบบครอบครัวที่เป็นซอฟต์แวร์โอเพนซอส</value></content>
+<content><country></country><lang>zh</lang><value>开源软件OFBiz家族的一部分</value></content>
+<content><country></country><lang>zh_CN</lang><value>OFBiz的一部分</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Message Error Info</value></content>
+<content><country></country><lang>fr</lang><value>Modifier l'information du message d'erreur</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Informazioni sui Messaggi di Errore</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขข้อมูลของข้อความผิดพลาด</value></content>
+<content><country></country><lang>zh</lang><value>编辑消息错误信息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Message Info</value></content>
+<content><country></country><lang>fr</lang><value>Modifier l'information du message</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna Informazioni sui Messaggi</value></content>
+<content><country></country><lang>th</lang><value>แก้ไขข้อมูลของข้อความ</value></content>
+<content><country></country><lang>zh</lang><value>编辑消息信息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Found business level errors in message processing, not saving those changes but saving error messages; first error is: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Trovato livello di business errori nel messaggio, non salvati questi cambiamenti ma salvando trovati messaggi di errore; prima errore è: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Could not find OagisMessageInfo record with key ${oagisMessageInfoKey}, not returning message.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile trovare il record di OagisMessageInfo con la chiave ${oagisMessageInfoKey}, non restituito messaggio.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Message received for shipmentId ${shipmentId} message ID ${omiPkMap} was already partially processed but is not in a system error state, needs manual review; message ID: ${omiPkMap}</value></content>
+<content><country></country><lang>it</lang><value>Messaggio ricevuto per la spedizione ${shipmentId} messagggio ID ${omiPkMap} era già parzialmente eseguito ma non è in uno stato di errore di sistema, necessaria revisione manuale; messaggio ID: ${omiPkMap}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>There was no fullMessageXml text in OagisMessageInfo record with key ${oagisMessageInfoKey}, not returning message.</value></content>
+<content><country></country><lang>it</lang><value>Non c'è nessun testo fullMessageXml nel record di OagisMessageInfo con la chiave ${oagisMessageInfoKey}, non restituito messaggio.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>For Acknowledge Delivery message could not determine if it is for a PO or RMA or Status Change. DOCTYPE from message is ${docType}, DISPOSITN is ${disposition}</value></content>
+<content><country></country><lang>it</lang><value>Per il messaggio Acknowledge Delivery non è possibile determinare se questo è dovuto ad un PO o RMA o ad un cambio di stato. DOCTYPE dal messaggio è ${docType}, DISPOSITN è ${disposition}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>System Error processing Acknowledge Delivery PO message for message ${omiPkMap}: </value></content>
+<content><country></country><lang>it</lang><value>System Error processing Acknowledge Delivery PO message for message ${omiPkMap}: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to parse received message</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile fare il parsing del messaggio ricevuto</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Was able to receive and parse the XML message, but BSR->NOUN ${bsrNoun} and/or BSR->VERB ${bsrVerb} are empty</value></content>
+<content><country></country><lang>it</lang><value>E' possibile ricevere e parsing il messaggio XML, ma BSR->NOUN ${bsrNoun} e/o BSR->VERB ${bsrVerb} sono vuoti</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error posting message to server with URL ${sendToUrl}: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore durante il post del messaggio al server con URL ${sendToUrl}: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error trying to re-receive message with ID ${oagisMessageInfoKey}</value></content>
+<content><country></country><lang>it</lang><value>Errore tentando di ricevere nuovamente il messaggio con ID ${oagisMessageInfoKey}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error saving message to file ${saveToFilename}: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore durante il salvataggio del messaggio sul file ${saveToFilename}: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No send to information pass (url, file, or out stream)</value></content>
+<content><country></country><lang>it</lang><value>Nessuna informazione da inviare passa (url, file, o out stream)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error calling oagisSendProcessShipment service for orders with items no longer on backorder: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore durante l'esecuzione del servizio oagisSendProcessShipment per gli ordini con righe non più in backorder: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>System Error processing Show Shipment message for shipmentId ${shipmentId} message ${omiPkMap}: </value></content>
+<content><country></country><lang>it</lang><value>Errore di sistema eseguendo il messaggio Show Shipment per la spedizione ${shipmentId} messaggio ${omiPkMap}: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>System Error doing Process Shipment message for orderId ${orderId} shipmentId ${shipmentId} message ${omiPkMap}: </value></content>
+<content><country></country><lang>it</lang><value>Errore di sistema eseguendo il messaggio Process Shipment per l'ordine ${orderId} spedizione ${shipmentId} messaggio ${omiPkMap}: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unknown Message Type Received, verb/noun combination not supported: verb=${bsrVerb}, noun=${bsrNoun}</value></content>
+<content><country></country><lang>it</lang><value>Tipo messaggio ricevuto sconosciuto, verb/noun combinazione non supportata: verb=${bsrVerb}, noun=${bsrNoun}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error writing message to output stream: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore scrivendo messaggio sullo stream di output: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error in creating data for OagisMessageInfo Entity</value></content>
+<content><country></country><lang>fr</lang><value>Erreur à la création de la date pour l'entité OagisMessageInfo</value></content>
+<content><country></country><lang>it</lang><value>Errore nella creazioni dei dati per Entità OagisMessageInfo</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดในการสร้างข้อมูลสำหรับเอนทิตีข้อมูลของข้อความการรวมภาษาทางธุรกิจ</value></content>
+<content><country></country><lang>zh</lang><value>为Oagis消息信息实体创建数据时出错</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error in exporting message from screen</value></content>
+<content><country></country><lang>fr</lang><value>Erreur en exportant le message depuis l'écran</value></content>
+<content><country></country><lang>it</lang><value>Errore nell'esportazione del messaggio sullo schermo</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดในการส่งออกข้อความจากหน้าจอ</value></content>
+<content><country></country><lang>zh</lang><value>从屏幕导出消息时出错</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Looked up by referenceId because logicalId, component, or task were not passed in but found more than one ${messageSize} record with referenceId ${referenceId}</value></content>
+<content><country></country><lang>it</lang><value>Ricerca per referenceId perchè logicalId, componente, o compito non passato ma trovato più di ${messageSize} record con referenceId ${referenceId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error rendering message: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore rendering messaggio: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>System Error processing Confirm BOD message: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore di sistema eseguendo la conferma BOD messaggio: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Errors found processing message; information saved and return error sent back</value></content>
+<content><country></country><lang>it</lang><value>Errori trovati eseguendo il messaggio; informazione salvata ed errore restituito indietro</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>System Error processing Sync Inventory message: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore di sistema processando il messaggio di Sync Inventory message: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>System Error doing Receive Delivery message for returnId ${returnId} orderId ${orderId} message ${omiPkMap}: </value></content>
+<content><country></country><lang>it</lang><value>Errore di sistema durante la ricezione messaggio di consegna per il reso ${returnId} ordine ${orderId} messaggio ${omiPkMap}: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Found existing message info(s) in OAGMP_OGEN_SUCCESS, so not sending Process Shipment message for order ${orderId} existing message(s) are: </value></content>
+<content><country></country><lang>it</lang><value>Trovati informazioni messaggi esistenti in OAGMP_OGEN_SUCCESS, così nessun messaggio inviato Process Shipment message per l'ordine ${orderId} messaggi esistenti sono: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Found existing message info(s) in OAGMP_SENT status, so not sending Process Shipment message for order ${orderId} existing message(s) are: </value></content>
+<content><country></country><lang>it</lang><value>Trovati informazioni messaggi esistenti in stato OAGMP_SENT, così nessun messaggio inviato Process Shipment message per l'ordine ${orderId} messaggi esistenti sono: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Found existing message info(s) in OAGMP_OGEN_SUCCESS, so not sending Receive Delivery message for return ${returnId} existing message(s) are: </value></content>
+<content><country></country><lang>it</lang><value>Trovati informazioni messaggi esistenti in stato OAGMP_OGEN_SUCCESS, così nessun invio di messaggio Receive Delivery per il reso ${returnId} messaggi esistenti sono: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Found existing message info(s) in OAGMP_SENT, so not sending Receive Delivery message for return ${returnId} existing message(s) are: </value></content>
+<content><country></country><lang>it</lang><value>Trovati informazioni messaggi esistenti in stato OAGMP_SENT, così nessun invio di messaggio Receive Delivery per il reso ${returnId} messaggi esistenti sono: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Inventory Description</value></content>
+<content><country></country><lang>fr</lang><value>Description de stock</value></content>
+<content><country></country><lang>it</lang><value>Descrizione Inventario</value></content>
+<content><country></country><lang>th</lang><value>รายละเอียดสินค้าคงเหลือ</value></content>
+<content><country></country><lang>zh</lang><value>库存描述</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>date/time</value></content>
+<content><country></country><lang>fr</lang><value>date/heure</value></content>
+<content><country></country><lang>it</lang><value>data/ora</value></content>
+<content><country></country><lang>th</lang><value>วันที่/เวลา</value></content>
+<content><country></country><lang>zh</lang><value>日期/时间</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Message Error Infos</value></content>
+<content><country></country><lang>fr</lang><value>Informations du message d'erreur</value></content>
+<content><country></country><lang>it</lang><value>Informazioni sui Messaggi di Errore</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลความผิดพลาดของข้อความ</value></content>
+<content><country></country><lang>zh</lang><value>消息错误信息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Message Infos</value></content>
+<content><country></country><lang>fr</lang><value>Informations du message</value></content>
+<content><country></country><lang>it</lang><value>Informazioni sui Messaggi</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลของข้อความ</value></content>
+<content><country></country><lang>zh</lang><value>消息信息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value> This message was already received, ie we have a duplicate combined ID for the message: ${newEntity}</value></content>
+<content><country></country><lang>it</lang><value> Questo messaggio è già stato ricevuto, c'è un duplicato ID per il messaggio: ${newEntity}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Oagis Message DataFile Upload</value></content>
+<content><country></country><lang>fr</lang><value>Téléchargement du message Oagis par fichier de données vers le serveur</value></content>
+<content><country></country><lang>it</lang><value>Oagis Carica File Dati Messaggi</value></content>
+<content><country></country><lang>th</lang><value>อัพโหลดไฟล์ข้อมูลข้อความการรวมภาษาทางธุรกิจ</value></content>
+<content><country></country><lang>zh</lang><value>Oagis消息数据文件上传</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Message Error Info</value></content>
+<content><country></country><lang>fr</lang><value>Information du message d'erreur</value></content>
+<content><country></country><lang>it</lang><value>Informazioni sui Messaggi di Errore</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลความผิดพลาดของข้อความ</value></content>
+<content><country></country><lang>zh</lang><value>消息错误信息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Message Info</value></content>
+<content><country></country><lang>fr</lang><value>Informations du message</value></content>
+<content><country></country><lang>it</lang><value>Informazioni sui Messaggi</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลของข้อความ</value></content>
+<content><country></country><lang>zh</lang><value>消息信息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Upload Oagis Message</value></content>
+<content><country></country><lang>fr</lang><value>Téléchargement du message Oagis vers le serveur</value></content>
+<content><country></country><lang>it</lang><value>Carica Messaggio Oagis</value></content>
+<content><country></country><lang>th</lang><value>อัพโหลดข้อความการรวมภาษาทางธุรกิจ</value></content>
+<content><country></country><lang>zh</lang><value>上传Oagis消息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Message Error Info</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle information du message d'erreur</value></content>
+<content><country></country><lang>it</lang><value>Nuove Informazioni sui Messaggi Errori</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลความผิดพลาดของข้อความใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建消息错误信息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Message Info</value></content>
+<content><country></country><lang>fr</lang><value>Nouvelle information du message</value></content>
+<content><country></country><lang>it</lang><value>Nuove Informazioni sui Messaggi</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลของข้อความใหม่</value></content>
+<content><country></country><lang>zh</lang><value>新建消息信息</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OrderHeader not a sales order (SALES_ORDER) with ID ${orderId}</value></content>
+<content><country></country><lang>it</lang><value>Testata ordine non è un'ordine di vendita (SALES_ORDER) ${orderId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Could not find OrderHeader with ID ${orderId}</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile trovare la testata ordine ${orderId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OrderHeader not in the approved status (ORDER_APPROVED) with ID ${orderId}, is in the ${orderStatusId} status</value></content>
+<content><country></country><lang>it</lang><value>Testata ordine non in stato approvato (ORDER_APPROVED) ${orderId}, è in stato ${orderStatusId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>In Send ProcessShipment Telecom number not found for orderId ${orderId}</value></content>
+<content><country></country><lang>it</lang><value>Nell'invio di ProcessShipment il numero di telefono non è stato trovato per l'ordine ${orderId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Order ${orderId} placed is not for valid Store(s)</value></content>
+<content><country></country><lang>it</lang><value>Ordine ${orderId} non è valido per il negozio</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No authorized payment available, not sending Process Shipment</value></content>
+<content><country></country><lang>it</lang><value>Nessun pagamento disponibile autorizzato, non inviato Process Shipment</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Not sending Process Shipment message because found Shipment that is already being processed, is in status ${statusId}</value></content>
+<content><country></country><lang>it</lang><value>Non inviato messaggio Process Shipment perchè trovata spedizione che è già stata eseguita, è in stato ${statusId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cannot send Process Shipment for order ${orderId}, it has no shipping address.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile inviare Process Shipment per l'ordine ${orderId}, questo non ha un'indirizzo di spedizione.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Could not find Return with ID ${returnId}</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile trovare la testata reso ${returnId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No valid Order with ${orderId} found, cannot process Return</value></content>
+<content><country></country><lang>it</lang><value>Nessun ordine valido ${orderId} trovato, non è possibile eseguire il reso</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Return with ID ${returnId} no in accepted status (RETURN_ACCEPTED)</value></content>
+<content><country></country><lang>it</lang><value>Reso ${returnId} non è in stato accettato (RETURN_ACCEPTED)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Service Completed Successfully</value></content>
+<content><country></country><lang>it</lang><value>Servizio completato con successo</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Qty Difference</value></content>
+<content><country></country><lang>fr</lang><value>Différence en Qté </value></content>
+<content><country></country><lang>it</lang><value>Differenza Qnt</value></content>
+<content><country></country><lang>th</lang><value>จำนวนที่แตกต่าง</value></content>
+<content><country></country><lang>zh</lang><value>数量差异</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Inventory Mismatch Notice</value></content>
+<content><country></country><lang>fr</lang><value>Notice de disparité de stock</value></content>
+<content><country></country><lang>it</lang><value>Notizia Non Corrispondenza di Inventario</value></content>
+<content><country></country><lang>th</lang><value>ข้อสังเกตการจับคู่ผิดของสินค้าคงเหลือ</value></content>
+<content><country></country><lang>zh</lang><value>库存不一致通知</value></content>
+</contents></phrase> </phrases>

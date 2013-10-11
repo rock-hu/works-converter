@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Asset Maintenance Admin group, has all maintenance permissions.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo permesso manutenzione cespiti, ha tutti i permessi di manutenzione.</value></content>
+<content><country></country><lang>zh</lang><value>资产维护管理组，具有全部维护权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>資產維護管理組，具有全部維護權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Asset Maintenance Technician group, has view and update.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo permesso manutenzione tecnica cespiti, ha i permessi di visualizzazione e aggiornamento.</value></content>
+<content><country></country><lang>zh</lang><value>资产维护技术人员组，具有浏览和更新权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>資產維護技術人員組，具有瀏覽和更新權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Full Business Applications permission group, has all business app admin permissions, not technical permissions.</value></content>
+<content><country></country><lang>es</lang><value>Permisos completos para las Aplicaciones de Negocio, no posee permisos técnicos.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe à autorisation complète sur les applications de gestion : ayant toutes les autorisations d'administration des application de gestion, sans autorisations techniques.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo permesso applicazioni full busines, hai tutti i permessi amministratore sulle applicazioni, nessun permesso tecnico.</value></content>
+<content><country></country><lang>ru</lang><value>Полная группа прав 'Деловые приложения', содержит все права для администрирования деловых приложений, нет технических прав.</value></content>
+<content><country></country><lang>zh</lang><value>全部商业应用程序权限组，具有全部商业应用程序管理权限，不是技术人员权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>全部商業應用程式權限組，具有全部商業應用程式管理權限，不是技術人員權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Catalog Admin group, has all catalog permissions.</value></content>
+<content><country></country><lang>es</lang><value>Administrador del Catálogo, tiene todos los permisos de Catálogo.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'administration de catalogue, ayant toutes les autorisations sur le catalogue</value></content>
+<content><country></country><lang>it</lang><value>Gruppo amministratore catalogo, ha tutti i permessi catalogo.</value></content>
+<content><country></country><lang>ru</lang><value>Группа 'Администратор каталога', содержит все права на каталог.</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มผู้ดูแลระบบหมวดหมู่, มีการอนุญาตหมวดหมู่ทั้งหมด.</value></content>
+<content><country></country><lang>zh</lang><value>目录管理组，具有全部目录权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>目錄管理組，具有全部目錄權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Catalog Admin group, has limited catalog permissions.</value></content>
+<content><country></country><lang>es</lang><value>Administrador Limitado del Catálogo, tiene permisos limitados de Catálogo.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'administration limitée de catalogue, ayant des autorisations limitées sur le catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo limitato amministratore catalogo, ha limitati permessi catalogo.</value></content>
+<content><country></country><lang>ru</lang><value>Группа 'Ограниченный администратор каталога', содержит ограниченные права на каталог.</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มผู้ดูแลระบบหมวดหมู่จำกัด, มีการอนุญาตหมวดหมู่จำกัด.</value></content>
+<content><country></country><lang>zh</lang><value>有限的目录管理组，具有有限的目录权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>有限的目錄管理組，具有有限的目錄權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>CompDoc admin group, all permissions.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo permesso amministratore composizione documenti, ha tutti permessi di manutenzione.</value></content>
+<content><country></country><lang>zh</lang><value>合成文档管理组，全部权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>合成文檔管理組，全部權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Content user group; all limited content permissions.</value></content>
+<content><country></country><lang>es</lang><value>Grupo de usuarios de contenidos; todos los permisos de contenido limitados</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'utilisateurs de contenu, toutes autorisations de contenu limitées.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo utenti contenuto; ha tutti i permessi limitati ai contenuti.</value></content>
+<content><country></country><lang>zh</lang><value>内容用户组；全部有限的内容权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>內容用戶組；全部有限的內容權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Flexible Admin group, has all granular permissions.</value></content>
+<content><country></country><lang>es</lang><value>Permisos de Administración Flexible, posee todos los permisos granulares.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'administration flexible, ayant toutes les autorisations définies de manière granulaire.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo amministratore flessibile, ha tutti i permessi specificati.</value></content>
+<content><country></country><lang>ru</lang><value>Группа 'Гибкий администратор', содержит все гранулированные права.</value></content>
+<content><country></country><lang>th</lang><value>Flexible Admin group, has all granular permissions.</value></content>
+<content><country></country><lang>zh</lang><value>缓存管理组，具有全部颗粒的权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>緩存管理組，具有全部顆粒的權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Full Admin group, has all general permissions.</value></content>
+<content><country></country><lang>es</lang><value>Permisos de Administración Completos, posee todos los permisos generales.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'administration totale, ayant toutes les autorisations.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo amministratore completo, ha tutti i permessi.</value></content>
+<content><country></country><lang>ru</lang><value>Группа 'Полный администратор', содержит все общие права.</value></content>
+<content><country></country><lang>th</lang><value>Full Admin group, has all general permissions.</value></content>
+<content><country></country><lang>zh</lang><value>完全管理组，具有全部通用权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>完全管理組，具有全部通用權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Customer user of MYPORTAL, Limited access to own custRequests, and project</value></content>
+<content><country></country><lang>it</lang><value>Utente di myportal, accesso limitato al proprietario delle richieste cliente, e progetti</value></content>
+<content><country></country><lang>zh</lang><value>我的门户客户用户，受限访问自己的客户请求，以及项目</value></content>
+<content><country></country><lang>zh_TW</lang><value>我的門戶客戶用戶，受限訪問自己的客戶請求，以及專案</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Employee user of MYPORTAL, Limited access to the projectmgr and comms, custReq, no email</value></content>
+<content><country></country><lang>it</lang><value>Utente impiegato di myportal, accesso limitato ai progetti e comunicazioni, richieste cliente, no email</value></content>
+<content><country></country><lang>zh</lang><value>我的门户雇员用户，受限访问项目管理以及沟通、客户请求，不包括电子邮件</value></content>
+<content><country></country><lang>zh_TW</lang><value>我的門戶雇員用戶，受限訪問專案管理以及溝通、客戶請求，不包括電子郵件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Employee user of myportal, Limited access to the projectmgr, comms,custRequests</value></content>
+<content><country></country><lang>it</lang><value>Utente impiegato di myportal, accesso limitato ai progetti e comunicazioni, richieste cliente</value></content>
+<content><country></country><lang>zh</lang><value>我的门户雇员用户，受限访问项目管理、沟通、客户请求</value></content>
+<content><country></country><lang>zh_TW</lang><value>我的門戶雇員用戶，受限訪問專案管理、溝通、客戶請求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Order Admin group, has all order permissions.</value></content>
+<content><country></country><lang>es</lang><value>Administrador de Órdenes, tiene todos los permisos de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'administration des commandes, ayant toutes les autorisations  sur les commandes.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo amministratore ordini, ha tutti i permessi ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Группа 'Администратор заказов', содержит все права на заказ.</value></content>
+<content><country></country><lang>th</lang><value>คำสั่งซื้อสินค้าของกลุ่มผู้ดูแลระบบ, มีการอนุญาตคำสั่งซื้อสินค้าทั้งหมด.</value></content>
+<content><country></country><lang>zh</lang><value>订单管理组，具有全部订单权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理組，具有全部訂單權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Order Admin group, has all limited order permissions.</value></content>
+<content><country></country><lang>es</lang><value>Administrador Limitado de Órdenes, tiene permisos limitados de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'administration limité, ayant toutes les autorisations limitées sur les commandes.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo amministratore limitato ordini, ha tutti i permessi limitati ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Группа 'Ограниченный администратор заказов', содержит все ограниченные права на заказ.</value></content>
+<content><country></country><lang>th</lang><value>คำสั่งซื้อสินค้าจำกัดของกลุ่มผู้ดูแลระบบ, มีการอนุญาตคำสั่งซื้อสินค้าจำกัดทั้งหมด.</value></content>
+<content><country></country><lang>zh</lang><value>受限的订单管理组，具有全部受限的订单权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>受限的訂單管理組，具有全部受限的訂單權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Order Entry Admin group; permissions for creating orders.</value></content>
+<content><country></country><lang>es</lang><value>Administrador de Entrada de Órdenes, tiene permisos para crear Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'administration de saisie de commande,  autorisations pour créer des commandes.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo amministratore inserimento ordini, ha tutti i permessi per creare ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Грппа 'Администратор ввода заказов'; права для создания заказов.</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มผู้ดูแลระบบกรอกข้อมูลคำสั่งซื้อสินค้า ; การอนุญาตสำหรับการสร้างคำสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单记录管理组；创建订单权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單記錄管理組；創建訂單權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Order entry permission for all stores. No special role is needed.</value></content>
+<content><country></country><lang>es</lang><value>Permisos para entrada de Órdenes para todas las tiendas. No es necesario un rol especial.</value></content>
+<content><country></country><lang>fr</lang><value>Autorisation de saisie de commande pour tous les centres de profit.  Aucun rôle spécial n'est nécessaire.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo amministratore inserimento ordini per tutti i negozi, nessun ruolo è necessario.</value></content>
+<content><country></country><lang>ru</lang><value>Права на ввод заказов для всех торговых точек. Специальные роли не требуются.</value></content>
+<content><country></country><lang>th</lang><value>การอนุญาตการกรอกข้อมูลคำสั่งซื้อสินค้าสำหรับคลังทั้งหมด. ไม่มีสถานะพิเศษที่ต้องการ</value></content>
+<content><country></country><lang>zh</lang><value>全部店铺的订单记录管理组。不需要特别的角色。</value></content>
+<content><country></country><lang>zh_TW</lang><value>全部商店的訂單記錄管理組。不需要特別的角色。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Admin group for restricted order processing.</value></content>
+<content><country></country><lang>es</lang><value>Administrador para procesamiento de Órdenes restringido.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'administration pour le traitement restreint de commande.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo amministratore con permessi ridotti all'avanzamento ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Административная группа для ограниченной обработки заказов.</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มผู้ดูแลระบบสำหรับจำกัดการประมวลผลคำสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>管理组用于受限制的订单流程。</value></content>
+<content><country></country><lang>zh_TW</lang><value>管理組用于受限制的訂單流程。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Order entry with purchasing permissions.</value></content>
+<content><country></country><lang>es</lang><value>Entrada de Órdenes con permisos de compra.</value></content>
+<content><country></country><lang>fr</lang><value>Saisie de commande avec autorisations d'achat.</value></content>
+<content><country></country><lang>it</lang><value>Inserimento ordini con permessi acquisto ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Ввод заказов с правами на закупку.</value></content>
+<content><country></country><lang>th</lang><value>การกรอกข้อมูลคำสั่งซื้อสินค้าด้วยการอนุญาตการสั่งซื้อ</value></content>
+<content><country></country><lang>zh</lang><value>具有采购权限的订单记录。</value></content>
+<content><country></country><lang>zh_TW</lang><value>具有採購權限的訂單記錄。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Order Admin group for Supplier Agents.</value></content>
+<content><country></country><lang>es</lang><value>Administrador Limitado de Órdenes para Agentes Proveedores.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'administration de commande limitée pour les  fournisseurs</value></content>
+<content><country></country><lang>it</lang><value>Gruppo amministratore ordini limitato per agenti.</value></content>
+<content><country></country><lang>ru</lang><value>Группа 'Ограниченный администратор заказов' для Агентов поставщика.</value></content>
+<content><country></country><lang>th</lang><value>คำสั่งซื้อสินค้าจำกัดขงกลุ่มผู้ดูแลระบบสำหรับตัวแทนผู้จัดหาสิ่งของ</value></content>
+<content><country></country><lang>zh</lang><value>有限的订单管理组用于供货商。</value></content>
+<content><country></country><lang>zh_TW</lang><value>有限的訂單管理組用于供貨商。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Party Admin group, has all party permissions.</value></content>
+<content><country></country><lang>es</lang><value>Administrador de Entidades, tiene todos los permisos de Entidad.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'administration d'acteur, ayant toutes les autorisations sur les acteurs.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo amministratore soggetti, ha tutti i permessi soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Группа 'Администратор участников', содержит все права на участников.</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มผู้ใช้กลุ่มผู้ดูแลระบบ , มีการอนุญาตกลุ่มผู้ใช้ทั้งหมด</value></content>
+<content><country></country><lang>zh</lang><value>会员管理组，具有全部会员权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理組，具有全部會員權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>POS Clerk</value></content>
+<content><country></country><lang>es</lang><value>Cajero</value></content>
+<content><country></country><lang>fr</lang><value>Employé POS</value></content>
+<content><country></country><lang>it</lang><value>Impiegato POS</value></content>
+<content><country></country><lang>ru</lang><value>Служащий POS</value></content>
+<content><country></country><lang>th</lang><value>พนักงาน ณ.จุดขาย</value></content>
+<content><country></country><lang>zh</lang><value>柜员机操作员</value></content>
+<content><country></country><lang>zh_TW</lang><value>櫃員機操作員</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Project Admin group, has update access to own projects.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo permesso amministrazione progetti, ha accesso in aggiornamento come proprietario progetti.</value></content>
+<content><country></country><lang>zh</lang><value>项目管理组，具有对自己项目的更新权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案管理組，具有對自己專案的更新權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Project User group, has read, task create/assign and timesheet create/update access to own projects.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo permesso utente progetti, può leggere, creare/assegnare compiti e creare/aggiornare timbrature accedere ai propri progetti.</value></content>
+<content><country></country><lang>zh</lang><value>项目用户组，具有对自己项目的读、任务创建/指派以及工单创建/更新权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案用戶組，具有對自己專案的讀、任務創建/指派以及工單創建/更新權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Security Admin group, has all permissions to modify security settings in party manager.</value></content>
+<content><country></country><lang>es</lang><value>Grupo de administradores de seguridad, tiene todos los permisos para modificar ajustes de seguridad en el gestor de participantes.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'administration de sécurité, ayant toutes les autorisations pour modifier les paramètres de sécurité dans la gestion d'acteur.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo amministratore sicurezza, ha tutti i permessi per modificare le impostazioni sicurezza nella gestione soggetti.</value></content>
+<content><country></country><lang>zh</lang><value>安全管理组，具有在会员管理中修改安全设置的全部权限</value></content>
+<content><country></country><lang>zh_TW</lang><value>安全管理組，具有在會員管理中修改安全設置的全部權限</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Demo Admin group, has all view permissions.</value></content>
+<content><country></country><lang>es</lang><value>Demo de Administración, tiene todos los permisos de visualización.</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'administration de démonstration, ayant toutes les autorisations de visualisation.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo amministratore demo, ha tutti i permessi in visualizzazione.</value></content>
+<content><country></country><lang>ru</lang><value>Группа 'Демо администратор', содержит все права на просмотр.</value></content>
+<content><country></country><lang>th</lang><value>ตัวอย่างกลุ่มผู้ดูแลระบบ, มีการอนุญาตการแสดงทั้งหมด</value></content>
+<content><country></country><lang>zh</lang><value>演示管理组，具有全部浏览权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>演示管理組，具有全部瀏覽權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>WorkEffort user group; all limited workeffort permissions.</value></content>
+<content><country></country><lang>es</lang><value>Grupo de usuarios de esfuerzos de trabajo; todos los permisos de esfuerzo de trabajo limitados</value></content>
+<content><country></country><lang>fr</lang><value>Groupe d'utilisateurs des tâches, toutes autorisations limitées sur les tâches.</value></content>
+<content><country></country><lang>it</lang><value>Gruppo utente impiegno di lavoro, ha tutti i permessi limitati agli impegni di lavoro.</value></content>
+<content><country></country><lang>zh</lang><value>人工服务用户组；全部受限的人工服务权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人工服務用戶組；全部受限的人工服務權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Use the Entity Sync Admin pages.</value></content>
+<content><country></country><lang>es</lang><value>Usar las páginas de Administración de Sincronización de Entidad.</value></content>
+<content><country></country><lang>fr</lang><value>Utiliser les pages d'administration de synchronisation d'entités.</value></content>
+<content><country></country><lang>it</lang><value>Usare le pagine di amministrazione per la sincronizzazione dei dati.</value></content>
+<content><country></country><lang>ru</lang><value>Использование страниц Администрирование синхронизации сущностей.</value></content>
+<content><country></country><lang>th</lang><value>Use the Entity Sync Admin pages.</value></content>
+<content><country></country><lang>zh</lang><value>使用实体同步管理页面。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用實體同步管理頁面。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Example Management Screens.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en las pantallas de Administración de Ejemplo.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES les opérations dans les écrans d'exemples.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nella gestione degli Esempio.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в приложении Управление примерами.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในหน้าจอการจัดการตัวอย่าง</value></content>
+<content><country></country><lang>zh</lang><value>在样例管理屏中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在樣例管理屏中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Example Management Screens.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en las pantallas de Administración de Ejemplo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création dans les écrans d'exemples</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione Esempi.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в приложении Управление примерами.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการทำงานในหน้าจอการจัดการตัวอย่าง</value></content>
+<content><country></country><lang>zh</lang><value>在样例管理屏中创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在樣例管理屏中創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Example Management Screens.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en las pantallas de Administración de Ejemplo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression dans les écrans d'exemples.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione Esempi.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в приложении Управление примерами.</value></content>
+<content><country></country><lang>th</lang><value>ลบการทำงานในหน้าจอการจัดการตัวอย่าง</value></content>
+<content><country></country><lang>zh</lang><value>在样例管理屏中删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在樣例管理屏中刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Example Management Screens.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización en las pantallas de Administración de Ejemplo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de mise à jour dans les écrans d'exemples.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione Esempi.</value></content>
+<content><country></country><lang>ru</lang><value>Операции обновления в приложении Управление примерами.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทการทำงานในหน้าจอการจัดการตัวอย่าง</value></content>
+<content><country></country><lang>zh</lang><value>在样例管理屏中更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在樣例管理屏中更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Example Management Screens.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en las pantallas de Administración de Ejemplo.</value></content>
+<content><country></country><lang>fr</lang><value>Voir les opérations dans les écrans d'exemples.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella gestione Esempi.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в приложении Управление примерами.</value></content>
+<content><country></country><lang>th</lang><value>แสดงการทำงานในหน้าจอการจัดการตัวอย่าง</value></content>
+<content><country></country><lang>zh</lang><value>在样例管理屏中浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在樣例管理屏中瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Accounting Manager.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en el Administrador de Contabilidad.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES les opérations dans la gestion de comptabilité.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nella gestione della contabilità.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в приложении Управление учетом.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในการจัดการบัญชี</value></content>
+<content><country></country><lang>zh</lang><value>在财务管理中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在財務管理中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View commission rates.</value></content>
+<content><country></country><lang>es</lang><value>Ver tasas de comisión.</value></content>
+<content><country></country><lang>fr</lang><value>Voir les taux de commission.</value></content>
+<content><country></country><lang>it</lang><value>Visualizzazione percentuali commissioni.</value></content>
+<content><country></country><lang>ru</lang><value>Просмотр ставок комиссионных.</value></content>
+<content><country></country><lang>th</lang><value>แสดงอัตราค่าคอมมิชชัน</value></content>
+<content><country></country><lang>zh</lang><value>浏览佣金比例。</value></content>
+<content><country></country><lang>zh_TW</lang><value>瀏覽佣金比例。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Accounting Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en el Administrador de Contabilidad.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création dans la gestion de comptabilité.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione della contabilità.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в приложении Управление учетом.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการทำงานในการจัดการบัญชี</value></content>
+<content><country></country><lang>zh</lang><value>在财务管理中创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在財務管理中創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Accounting Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en el Administrador de Contabilidad.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression dans la gestion de comptabilité.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione della contabilità.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в приложении Управление учетом.</value></content>
+<content><country></country><lang>th</lang><value>ลบการทำงานในการจัดการบัญชี</value></content>
+<content><country></country><lang>zh</lang><value>在财务管理中删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在財務管理中刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Print checks.</value></content>
+<content><country></country><lang>es</lang><value>Imprimir cheques.</value></content>
+<content><country></country><lang>fr</lang><value>Imprimer les chèques.</value></content>
+<content><country></country><lang>it</lang><value>Stampa degli assegni.</value></content>
+<content><country></country><lang>ru</lang><value>Печать чеков.</value></content>
+<content><country></country><lang>th</lang><value>ตรวจสอบการพิมพ์</value></content>
+<content><country></country><lang>zh</lang><value>打印支票。</value></content>
+<content><country></country><lang>zh_TW</lang><value>列印支票。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Accounting Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización en el Administrador de Contabilidad.</value></content>
+<content><country></country><lang>fr</lang><value>Metre à jour les opérations dans la gestion de comptabilité.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione della contabilità.</value></content>
+<content><country></country><lang>ru</lang><value>Операции обновления в приложении Управление учетом.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทการทำงานในการจัดการบัญชี</value></content>
+<content><country></country><lang>zh</lang><value>在财务管理中更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在財務管理中更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Accounting Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en el Administrador de Contabilidad.</value></content>
+<content><country></country><lang>fr</lang><value>Voir les opérations dans la gestion de comptabilité.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella gestione della contabilità.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в приложении Управление учетом.</value></content>
+<content><country></country><lang>th</lang><value>แสดงการทำงานในการจัดการบัญชี</value></content>
+<content><country></country><lang>zh</lang><value>财务管理中浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>財務管理中瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations involving general ledger accounting transactions and entries.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni che coinvolgono transazioni e voci di contabilità</value></content>
+<content><country></country><lang>zh</lang><value>涉及总账账户交易和记录的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>涉及總賬賬戶交易和記錄的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create general ledger accounting transaction and entries.</value></content>
+<content><country></country><lang>es</lang><value>Creación de transacciones y entradas de contabilidad de libro mayor.</value></content>
+<content><country></country><lang>fr</lang><value>Créer les transactions et entrées du registre général de comptabilité.</value></content>
+<content><country></country><lang>it</lang><value>Creazione delle transazioni nella contabilità generale.</value></content>
+<content><country></country><lang>ru</lang><value>Создание проводок и занесений главной книги.</value></content>
+<content><country></country><lang>th</lang><value>สร้างรายการบัญชีแยกประเภททั่วไปและสิทธิในการเข้า</value></content>
+<content><country></country><lang>zh</lang><value>创建总账账户交易和记录。</value></content>
+<content><country></country><lang>zh_TW</lang><value>創建總賬賬戶交易和記錄。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete general ledger accounting transaction and entries.</value></content>
+<content><country></country><lang>es</lang><value>Eliminar transacciones y entradas de contabilidad de libro mayor.</value></content>
+<content><country></country><lang>fr</lang><value>Supprimer les transactions et entrées du registre général de comptabilité.</value></content>
+<content><country></country><lang>it</lang><value>Eliminare le transazioni nella contabilità generale.</value></content>
+<content><country></country><lang>ru</lang><value>Удаление проводок и занесений главной книги.</value></content>
+<content><country></country><lang>th</lang><value>ลบรายการบัญชีแยกประเภททั่วไปและสิทธิในการเข้า</value></content>
+<content><country></country><lang>zh</lang><value>删除总账账户交易和记录。</value></content>
+<content><country></country><lang>zh_TW</lang><value>刪除總賬賬戶交易和記錄。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Post general ledger accounting transactions.</value></content>
+<content><country></country><lang>es</lang><value>Publicar transacciones de contabilidad de libro mayor.</value></content>
+<content><country></country><lang>fr</lang><value>Publier les transactions du registre général de comptabilité.</value></content>
+<content><country></country><lang>it</lang><value>Contabilizzare le transazioni nella contabilità generale.</value></content>
+<content><country></country><lang>ru</lang><value>Использование бухгалтерских проводок главной книги.</value></content>
+<content><country></country><lang>th</lang><value>ประกาศรายการบัญชีแยกประเภททั่วไป</value></content>
+<content><country></country><lang>zh</lang><value>过账总账账户交易和记录。</value></content>
+<content><country></country><lang>zh_TW</lang><value>過賬總賬賬戶交易和記錄。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update general ledger accounting transaction and entries.</value></content>
+<content><country></country><lang>es</lang><value>Actualizar transacciones y entradas de contabilidad de libro mayor.</value></content>
+<content><country></country><lang>fr</lang><value>Mettre à jour les transactions du registre général de comptabilité.</value></content>
+<content><country></country><lang>it</lang><value>Aggiornare le transazioni nella contabilità generale.</value></content>
+<content><country></country><lang>ru</lang><value>Обновление проводок и занесений главной книги.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทรายการบัญชีแยกประเภททั่วไปและสิทธิในการเข้า</value></content>
+<content><country></country><lang>zh</lang><value>更新总账账户交易和记录。</value></content>
+<content><country></country><lang>zh_TW</lang><value>更新總賬賬戶交易和記錄。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View general ledger accounting transaction and entries.</value></content>
+<content><country></country><lang>it</lang><value>Visualizzare le transazioni nella contabilità generale.</value></content>
+<content><country></country><lang>zh</lang><value>浏览总账账户交易和记录。</value></content>
+<content><country></country><lang>zh_TW</lang><value>瀏覽總賬賬戶交易和記錄。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Set foreign exchange rates.</value></content>
+<content><country></country><lang>es</lang><value>Establecer tasas de cambio de divisa.</value></content>
+<content><country></country><lang>fr</lang><value>Fixer les taux de devises étrangères.</value></content>
+<content><country></country><lang>it</lang><value>Impostare i valori cambio valuta.</value></content>
+<content><country></country><lang>ru</lang><value>Устанавливать курсы иностранных валют.</value></content>
+<content><country></country><lang>th</lang><value>กำหนดอัตราการปริวรรตเงินตรา</value></content>
+<content><country></country><lang>zh</lang><value>设置外汇汇率。</value></content>
+<content><country></country><lang>zh_TW</lang><value>設置外匯匯率。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL organization accounting preferences operations</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nelle preferenze di contabilità.</value></content>
+<content><country></country><lang>zh</lang><value>所有机构账户设置操作</value></content>
+<content><country></country><lang>zh_TW</lang><value>所有機構賬戶設置操作</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Set organization accounting preferences.</value></content>
+<content><country></country><lang>es</lang><value>Establecer preferencias contables de la organización.</value></content>
+<content><country></country><lang>fr</lang><value>Définir les préférences d'organisation de comptabilité.</value></content>
+<content><country></country><lang>it</lang><value>Impostare le preferenze di contabilità per l'organizzazione.</value></content>
+<content><country></country><lang>ru</lang><value>Устанавливать учетные параметры организации.</value></content>
+<content><country></country><lang>th</lang><value>กำหนดสิทธิพิเศษให้บัญชีขององค์กร</value></content>
+<content><country></country><lang>zh</lang><value>设置机构账户设置</value></content>
+<content><country></country><lang>zh_TW</lang><value>設置機構賬戶設置</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete organization accounting preferences</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nelle preferenze di contabilità.</value></content>
+<content><country></country><lang>zh</lang><value>删除机构账户设置</value></content>
+<content><country></country><lang>zh_TW</lang><value>刪除機構賬戶設置</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update organization accounting preferences</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nelle preferenze di contabilità.</value></content>
+<content><country></country><lang>zh</lang><value>更新机构账户设置</value></content>
+<content><country></country><lang>zh_TW</lang><value>更新機構賬戶設置</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View organization accounting preferences</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nelle preferenze di contabilità.</value></content>
+<content><country></country><lang>zh</lang><value>浏览机构账户设置</value></content>
+<content><country></country><lang>zh_TW</lang><value>瀏覽機構賬戶設置</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View the Artifact Info pages.</value></content>
+<content><country></country><lang>it</lang><value>Visualizzazione pagine informazioni artifatti.</value></content>
+<content><country></country><lang>zh</lang><value>浏览人工制品信息页面。</value></content>
+<content><country></country><lang>zh_TW</lang><value>瀏覽人工制品資訊頁面。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL Asset Maintenance operations.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni per la gestione cespiti.</value></content>
+<content><country></country><lang>zh</lang><value>全部资产维护操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>全部資產維護操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Asset Maintenance Create operations.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione per la gestione cespiti.</value></content>
+<content><country></country><lang>zh</lang><value>资产维护创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>資產維護創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Asset Maintenance Delete operations.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione per la gestione cespiti.</value></content>
+<content><country></country><lang>zh</lang><value>资产维护删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>資產維護刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Asset Maintenance Update operations.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento per la gestione cespiti.</value></content>
+<content><country></country><lang>zh</lang><value>资产维护更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>資產維護更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Asset Maintenance View permission.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione per la gestione cespiti.</value></content>
+<content><country></country><lang>zh</lang><value>资产维护浏览权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>資產維護瀏覽權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Catalog Manager.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en el Administrador del Catálogo.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES opérations en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nella gestione cataloghi.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в приложении Управление каталогом продуктов.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในการจัดการหมวดหมู่</value></content>
+<content><country></country><lang>zh</lang><value>目录管理中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>目錄管理中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Catalog Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en el Administrador del Catálogo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione cataloghi.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в приложении Управление каталогом продуктов.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการทำงานในการจัดการหมวดหมู่</value></content>
+<content><country></country><lang>zh</lang><value>目录管理中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>目錄管理中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Catalog Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en el Administrador del Catálogo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione cataloghi.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в приложении Управление каталогом продуктов.</value></content>
+<content><country></country><lang>th</lang><value>ลบการทำงานในการจัดการหมวดหมู่</value></content>
+<content><country></country><lang>zh</lang><value>目录管理中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>目錄管理中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Permission required, in addition to other applicable permissions, to maintain product prices, promotions, and price rules.</value></content>
+<content><country></country><lang>es</lang><value>Se requiere un permiso, además de otros permisos aplicables, para mantener la información de precios de productos incluyendo, precios, promociones y reglas de precios.</value></content>
+<content><country></country><lang>fr</lang><value>Autorisation exigée, en plus d'autres autorisations applicables, pour mettre à jour l'information sur les prix de produit, comprenant des prix, des promotions, et des règles de prix.</value></content>
+<content><country></country><lang>it</lang><value>Permesso richiesto, in aggiunya agli altri permessi applicabili, per manutenere le informazioni sui prezzi prodotti, promozioni, e regole prezzi.</value></content>
+<content><country></country><lang>ru</lang><value>Дополнительные права для редактирования ценовой информации, включая цены, акции и правила ценообразования.</value></content>
+<content><country></country><lang>th</lang><value>ต้องการการอนุญาต, ในการเพิ่มถึงการอนุญาตการปฏิบัติอื่น ๆ, ถึงการรักษาราคาสินค้าข้อมูลการรวมราคา,โปรโมชัน,และข้อบังคับราคา</value></content>
+<content><country></country><lang>zh</lang><value>需要权限，除了其它可用的权限，还要能维护产品价格、促销和价格规则。</value></content>
+<content><country></country><lang>zh_TW</lang><value>需要權限，除了其他可用的權限，還要能維護產品價格、促銷和價格規則。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Allow create/update of 'Purchase Allow' in the Catalog Manager.</value></content>
+<content><country></country><lang>it</lang><value>Permetti la creazione/aggiornamento di gestione cataloghi di 'Permetti acquisto'.</value></content>
+<content><country></country><lang>zh</lang><value>目录管理中“允许采购”的允许创建/更新。</value></content>
+<content><country></country><lang>zh_TW</lang><value>目錄管理中『允許採購』的允許創建/更新。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Create operations in the Catalog Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación Limitadas en el Administrador del Catálogo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création limitée en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione limitata nella gestione cataloghi.</value></content>
+<content><country></country><lang>ru</lang><value>Ограниченные права на операции создания в приложении Управление каталогом продуктов.</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตการสร้างการทำงานในการจัดการหมวดหมู่</value></content>
+<content><country></country><lang>zh</lang><value>目录管理中有限的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>目錄管理中有限的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Delete operations in the Catalog Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación Limitadas en el Administrador del Catálogo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression limitée en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione limitata nella gestione cataloghi.</value></content>
+<content><country></country><lang>ru</lang><value>Ограниченные права на операции удаления в приложении Управление каталогом продуктов.</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตการลบการทำงานในการจัดการหมวดหมู่</value></content>
+<content><country></country><lang>zh</lang><value>目录管理中有限的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>目錄管理中有限的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Update operations in the Catalog Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización Limitadas en el Administrador del Catálogo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de mise à jour limitée en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento limitata nella gestione cataloghi.</value></content>
+<content><country></country><lang>ru</lang><value>Ограниченные права на операции обновления в приложении Управление каталогом продуктов.</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตการอัพเดทการทำงานในการจัดการหมวดหมู่</value></content>
+<content><country></country><lang>zh</lang><value>目录管理中有限的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>目錄管理中有限的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Catalog Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización en el Administrador del Catálogo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de mise à jour en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione cataloghi.</value></content>
+<content><country></country><lang>ru</lang><value>Операции обновления в приложении Управление каталогом продуктов.</value></content>
+<content><country></country><lang>th</lang><value>การอัพเดทการทำงานในการจัดการหมวดหมู่</value></content>
+<content><country></country><lang>zh</lang><value>目录管理中的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>目錄管理中的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Catalog Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en el Administrador del Catálogo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella gestione cataloghi.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в приложении Управление каталогом продуктов.</value></content>
+<content><country></country><lang>th</lang><value>การแสดงการทำงานในการจัดการหมวดหมู่</value></content>
+<content><country></country><lang>zh</lang><value>目录管理中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>目錄管理中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Allow create/update of 'View Allow' in the Catalog Manager.</value></content>
+<content><country></country><lang>it</lang><value>Permetti la creazione/aggiornamento di gestione cataloghi di 'Visualizzazione permessa'.</value></content>
+<content><country></country><lang>zh</lang><value>目录管理中“允许浏览”的允许创建/更新。</value></content>
+<content><country></country><lang>zh_TW</lang><value>目錄管理中『允許瀏覽』的允許創建/更新。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Common Component.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nel componente Common.</value></content>
+<content><country></country><lang>zh</lang><value>通用组件中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>通用元件中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Common Component.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nel componente Common.</value></content>
+<content><country></country><lang>zh</lang><value>通用组件中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>通用元件中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Common Component.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nel componente Common.</value></content>
+<content><country></country><lang>zh</lang><value>通用组件中的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>通用元件中的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Common Component.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nel componente Common.</value></content>
+<content><country></country><lang>zh</lang><value>通用组件中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>通用元件中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Content Manager.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en el Administrador de Contenido.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES les opérations en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nella gestione contenuti.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в приложении Управление контентом.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในการจัดการหัวข้อ</value></content>
+<content><country></country><lang>zh</lang><value>内容管理中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>內容管理中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Content Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en el Administrador de Contenido.</value></content>
+<content><country></country><lang>fr</lang><value>Création d'opérations en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione contenuti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в приложении Управление каталогом продуктов.</value></content>
+<content><country></country><lang>th</lang><value>การสร้างการทำงานในการจัดการหัวข้อ</value></content>
+<content><country></country><lang>zh</lang><value>内容管理中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>內容管理中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Content Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en el Administrador de Contenido.</value></content>
+<content><country></country><lang>fr</lang><value>Suppression d'opérations en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione contenuti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в приложении Управление каталогом продуктов.</value></content>
+<content><country></country><lang>th</lang><value>การลบการทำงานในการจัดการหัวข้อ</value></content>
+<content><country></country><lang>zh</lang><value>内容管理中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>內容管理中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Create operations in the Content Manager.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni limitate di creazione nella gestione contenuti.</value></content>
+<content><country></country><lang>zh</lang><value>内容管理中有限的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>內容管理中有限的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Delete operations in the Content Manager.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni limitate di cancellazione nella gestione contenuti.</value></content>
+<content><country></country><lang>zh</lang><value>内容管理中有限的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>內容管理中有限的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Update operations in the Content Manager.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni limitate di aggiornamento nella gestione contenuti.</value></content>
+<content><country></country><lang>zh</lang><value>内容管理中有限的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>內容管理中有限的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited View operations in the Content Manager.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni limitate di visualizzazione nella gestione contenuti.</value></content>
+<content><country></country><lang>zh</lang><value>内容管理中有限的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>內容管理中有限的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Content Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización en el Administrador de Contenido.</value></content>
+<content><country></country><lang>fr</lang><value>Mise à jour d'opérations en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione contenuti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции обновления в приложении Управление каталогом продуктов.</value></content>
+<content><country></country><lang>th</lang><value>การอัพเดทการทำงานในการจัดการหัวข้อ</value></content>
+<content><country></country><lang>zh</lang><value>内容管理中的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>內容管理中的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Content Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en el Administrador de Contenido.</value></content>
+<content><country></country><lang>fr</lang><value>Visualisation d'opérations en gestion de catalogue.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella gestione contenuti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в приложении Управление каталогом продуктов.</value></content>
+<content><country></country><lang>th</lang><value>การแสดงการทำงานในการจัดการหัวข้อ</value></content>
+<content><country></country><lang>zh</lang><value>内容管理中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>內容管理中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Use the Data File Maintenance pages.</value></content>
+<content><country></country><lang>es</lang><value>Usar las páginas de Mantenimiento de Archivos de Datos.</value></content>
+<content><country></country><lang>fr</lang><value>Utiliser les pages de maintenance du fichier de données.</value></content>
+<content><country></country><lang>it</lang><value>Usare le pagine di gestione file dati.</value></content>
+<content><country></country><lang>ru</lang><value>Использование страниц Обслуживание файлов данных.</value></content>
+<content><country></country><lang>th</lang><value>ใช้ไฟล์ข้อมูลในหน้าการบำรุงรักษา</value></content>
+<content><country></country><lang>zh</lang><value>使用数据文件维护页面。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用資料文件維護頁面。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the eBay application.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nell'applicazione eBay.</value></content>
+<content><country></country><lang>zh</lang><value>EBay应用程序中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>EBay應用程式中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL with the Entity Data Maintenance pages.</value></content>
+<content><country></country><lang>es</lang><value>TODO dentro de las páginas de Mantenimiento de Datos de Entidad.</value></content>
+<content><country></country><lang>fr</lang><value>TOUT avec les pages de maintenance des données d'entité.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le pagine nella gestione dei dati entità.</value></content>
+<content><country></country><lang>ru</lang><value>Все права для страниц Обслуживание файлов данных.</value></content>
+<content><country></country><lang>th</lang><value>ทั้งหมดด้วยหน้าการบำรุงรักษาข้อมูลเอนทิตี</value></content>
+<content><country></country><lang>zh</lang><value>全部具有实体数据维护的页面。</value></content>
+<content><country></country><lang>zh_TW</lang><value>全部具有實體資料維護的頁面。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create with the Entity Data Maintenance pages.</value></content>
+<content><country></country><lang>es</lang><value>Creación con las páginas de Mantenimiento de Datos de Entidad.</value></content>
+<content><country></country><lang>fr</lang><value>Créer avec les pages de maintenance des données d'entité.</value></content>
+<content><country></country><lang>it</lang><value>Pagine per creare dati entità.</value></content>
+<content><country></country><lang>ru</lang><value>Создание для страниц Обслуживание данных сущностей.</value></content>
+<content><country></country><lang>th</lang><value>สร้างด้วยหน้าการบำรุงรักษาข้อมูลเอนทิตี</value></content>
+<content><country></country><lang>zh</lang><value>具有实体数据维护页面的创建。</value></content>
+<content><country></country><lang>zh_TW</lang><value>具有實體資料維護頁面的創建。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete with the Entity Data Maintenance pages.</value></content>
+<content><country></country><lang>es</lang><value>Eliminación con las páginas de Mantenimiento de Datos de Entidad.</value></content>
+<content><country></country><lang>fr</lang><value>Supprimer avec les pages de maintenance des données d'entité.</value></content>
+<content><country></country><lang>it</lang><value>Pagine per eliminare dati entità.</value></content>
+<content><country></country><lang>ru</lang><value>Удаление для страниц Обслуживание данных сущностей.</value></content>
+<content><country></country><lang>th</lang><value>ลบด้วยหน้าการบำรุงรักษาข้อมูลเอนทิตี</value></content>
+<content><country></country><lang>zh</lang><value>具有实体数据维护页面的删除。</value></content>
+<content><country></country><lang>zh_TW</lang><value>具有實體資料維護頁面的刪除。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update with the Entity Data Maintenance pages.</value></content>
+<content><country></country><lang>es</lang><value>Actualización con las páginas de Mantenimiento de Datos de Entidad.</value></content>
+<content><country></country><lang>fr</lang><value>Mettre à jour avec les pages de maintenance des données d'entité.</value></content>
+<content><country></country><lang>it</lang><value>Pagine per aggiornare dati entità.</value></content>
+<content><country></country><lang>ru</lang><value>Обновление для страниц Обслуживание данных сущностей.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทด้วยหน้าการบำรุงรักษาข้อมูลเอนทิตี</value></content>
+<content><country></country><lang>zh</lang><value>具有实体数据维护页面的更新。</value></content>
+<content><country></country><lang>zh_TW</lang><value>具有實體資料維護頁面的更新。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View with the Entity Data Maintenance pages.</value></content>
+<content><country></country><lang>es</lang><value>Visualización con las páginas de Mantenimiento de Datos de Entidad.</value></content>
+<content><country></country><lang>fr</lang><value>Visualiser avec les pages de maintenance des données d'entité.</value></content>
+<content><country></country><lang>it</lang><value>Pagine per visualizzare dati entità.</value></content>
+<content><country></country><lang>ru</lang><value>Просмотр для страниц  Обслуживание данных сущностей.</value></content>
+<content><country></country><lang>th</lang><value>แสดงด้วยหน้าการบำรุงรักษาข้อมูลเอนทิตี</value></content>
+<content><country></country><lang>zh</lang><value>具有实体数据维护页面的浏览。</value></content>
+<content><country></country><lang>zh_TW</lang><value>具有實體資料維護頁面的瀏覽。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Use the Entity Maintenance pages.</value></content>
+<content><country></country><lang>es</lang><value>Usar las páginas de Mantenimiento de Datos de Entidad.</value></content>
+<content><country></country><lang>fr</lang><value>Utiliser les pages de maintenance d'entité.</value></content>
+<content><country></country><lang>it</lang><value>Pagine per gestire le entità.</value></content>
+<content><country></country><lang>ru</lang><value>Использование страниц Обслуживание данных сущностей.</value></content>
+<content><country></country><lang>th</lang><value>ใช้หน้าการรักษาสภาพเอนทิตี</value></content>
+<content><country></country><lang>zh</lang><value>使用实体数据维护页面。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用實體資料維護頁面。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Use the Entity Sync Admin pages.</value></content>
+<content><country></country><lang>it</lang><value>Usare le pagine di amministrazione sincronizzazione entità.</value></content>
+<content><country></country><lang>zh</lang><value>使用实体同步管理页面。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用實體同步管理頁面。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Use the Enum and Status Maintenance pages.</value></content>
+<content><country></country><lang>es</lang><value>Usar las páginas de Mantenimiento de Enumeraciones y Estados.</value></content>
+<content><country></country><lang>fr</lang><value>Utiliser les pages de maintenance de statut et énumération.</value></content>
+<content><country></country><lang>it</lang><value>Pagine per gestire enumerazioni e stati.</value></content>
+<content><country></country><lang>ru</lang><value>Использование страниц Обслуживание перечеслений и статусов.</value></content>
+<content><country></country><lang>th</lang><value>Use the Enum and Status Maintenance pages.</value></content>
+<content><country></country><lang>zh</lang><value>使用枚举和状态维护页面。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用枚舉和狀態維護頁面。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Example Management Screens.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni di gestione esempi.</value></content>
+<content><country></country><lang>zh</lang><value>样例管理屏中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>樣例管理屏中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Example Management Screens.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione esempi.</value></content>
+<content><country></country><lang>zh</lang><value>样例管理屏中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>樣例管理屏中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Example Management Screens.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione esempi.</value></content>
+<content><country></country><lang>zh</lang><value>样例管理屏中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>樣例管理屏中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Example Management Screens.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione esempi.</value></content>
+<content><country></country><lang>zh</lang><value>样例管理屏中的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>樣例管理屏中的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Example Management Screens.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella gestione esempi.</value></content>
+<content><country></country><lang>zh</lang><value>样例管理屏中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>樣例管理屏中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Facility Manager.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en el Administrador de Establecimientos.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES opérations en gestion d'entreposage.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le pagine nella gestione stabilimenti.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в приложении Управление объектами.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในการจัดการคลังสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>场所管理中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>場所管理中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Facility Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en el Administrador de Establecimientos.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création en gestion d'entreposage.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione stabilimenti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в приложении Управление объектами.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการทำงานในการจัดการคลังสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>场所管理中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>場所管理中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Facility Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en el Administrador de Establecimientos.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression en gestion d'entreposage.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione stabilimenti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в приложении Управление объектами.</value></content>
+<content><country></country><lang>th</lang><value>ลบการทำงานในการจัดการคลังสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>场所管理中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>場所管理中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited update operations in the Facility Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización Limitadas en el Administrador de Establecimientos.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de mise à jour limitée en gestion d'entreposage.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento limitate nella gestione stabilimenti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции ограниченного обновления в приложении Управление объектами.</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตการอัพเดทการทำงานในการจัดการคลังสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>场所管理中有限的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>場所管理中有限的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited view operations in the Facility Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización Limitada en el Administrador de Establecimientos.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation limitée en gestion d'entreposage.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione limitate nella gestione stabilimenti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции ограниченного просмотра в Управление объектами.</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตการแสดงการทำงานในการจัดการคลังสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>场所管理中有限的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>場所管理中有限的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Facility Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización en el Administrador de Establecimientos.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations d'actualisation en gestion d'entreposage.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione stabilimenti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции обновления в приложении Управление объектами.</value></content>
+<content><country></country><lang>th</lang><value>การอัพเดทการทำงานในการจัดการคลังสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>场所管理中的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>場所管理中的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Facility Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en el Administrador de Establecimientos.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation en gestion d'entreposage.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella gestione stabilimenti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в приложении Управление объектами.</value></content>
+<content><country></country><lang>th</lang><value>การแสดงการทำงานในการจัดการคลังสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>场所管理中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>場所管理中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Google Base application.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nell'applicazione Google Base.</value></content>
+<content><country></country><lang>zh</lang><value>Google Base应用程序中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>Google Base應用程式中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the HumanRes Manager.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione risorse umane.</value></content>
+<content><country></country><lang>zh</lang><value>人力资源管理中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人力資源管理中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the HumanRes Manager.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione risorse umane.</value></content>
+<content><country></country><lang>zh</lang><value>人力资源管理中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人力資源管理中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the HumanRes Manager.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione risorse umane.</value></content>
+<content><country></country><lang>zh</lang><value>人力资源管理中的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人力資源管理中的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the HumanRes Manager.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella gestione risorse umane.</value></content>
+<content><country></country><lang>zh</lang><value>人力资源管理中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人力資源管理中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View the Labels Info pages.</value></content>
+<content><country></country><lang>it</lang><value>Visualizzazione pagine per gestione labels.</value></content>
+<content><country></country><lang>zh</lang><value>浏览标签信息页面。</value></content>
+<content><country></country><lang>zh_TW</lang><value>瀏覽標簽資訊頁面。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Manual Payment Transaction.</value></content>
+<content><country></country><lang>es</lang><value>Pago Manual de Transacciones.</value></content>
+<content><country></country><lang>fr</lang><value>Transaction de paiement manuel.</value></content>
+<content><country></country><lang>it</lang><value>Transazioni manuali pagamenti.</value></content>
+<content><country></country><lang>ru</lang><value>Ручная проводка платежа.</value></content>
+<content><country></country><lang>th</lang><value>รายการการชำระเงินด้วยมือ</value></content>
+<content><country></country><lang>zh</lang><value>手工支付交易。</value></content>
+<content><country></country><lang>zh_TW</lang><value>手工支付交易。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Manufacturing Manager.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en el Administrador de Producción.</value></content>
+<content><country></country><lang>fr</lang><value>Toutes les opérations en gestion de fabrication.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le pagine nella gestione produzione.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в приложении Управление производством.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในการจัดการการผลิต</value></content>
+<content><country></country><lang>zh</lang><value>制造管理中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>制造管理中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Manufacturing Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en el Administrador de Producción.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création en gestion de fabrication.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione produzione.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в приложении  Управление производством.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการทำงานในการจัดการการผลิต</value></content>
+<content><country></country><lang>zh</lang><value>制造管理中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>制造管理中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Manufacturing Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en el Administrador de Producción.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression en gestion de fabrication.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione produzione.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в приложении  Управление производством.</value></content>
+<content><country></country><lang>th</lang><value>ลบการทำงานในการจัดการการผลิต</value></content>
+<content><country></country><lang>zh</lang><value>制造管理中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>制造管理中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Manufacturing Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización en el Administrador de Producción.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations d'actualisation en gestion de fabrication.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione produzione.</value></content>
+<content><country></country><lang>ru</lang><value>Операции обновления в приложении  Управление производством.</value></content>
+<content><country></country><lang>th</lang><value>การอัพเดทการทำงานในการจัดการการผลิต</value></content>
+<content><country></country><lang>zh</lang><value>制造管理中的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>制造管理中的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Manufacturing Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en el Administrador de Producción.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation en gestion de fabrication.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella gestione produzione.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в приложении Управление производством.</value></content>
+<content><country></country><lang>th</lang><value>การแสดงการทำงานในการจัดการการผลิต</value></content>
+<content><country></country><lang>zh</lang><value>制造管理中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>制造管理中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Marketing Manager.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en el Administrador de Marketing.</value></content>
+<content><country></country><lang>fr</lang><value>Toutes les opérations en gestion de marketing.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le pagine nella gestione vendite.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в приложении Управление маркетингом.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในการจัดการการตลาด</value></content>
+<content><country></country><lang>zh</lang><value>市场管理中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>市場管理中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Marketing Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en el Administrador de Marketing.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création en gestion de marketing.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione vendite.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в приложении Управление маркетингом.</value></content>
+<content><country></country><lang>th</lang><value>การสร้างการทำงานในการจัดการการตลาด</value></content>
+<content><country></country><lang>zh</lang><value>市场管理中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>市場管理中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Marketing Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en el Administrador de Marketing.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression en gestion de marketing.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione vendite.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в приложении Управление маркетингом.</value></content>
+<content><country></country><lang>th</lang><value>การลบการทำงานในการจัดการการตลาด</value></content>
+<content><country></country><lang>zh</lang><value>市场管理中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>市場管理中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited update operations in the Marketing Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización Limitadas en el Administrador de Marketing.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations d'actualisation limitée en gestion de marketing.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento limitate nella gestione vendite.</value></content>
+<content><country></country><lang>ru</lang><value>Операции ограниченного обновления в приложении Управление маркетингом.</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตการอัพเดทการทำงานในการจัดการการตลาด</value></content>
+<content><country></country><lang>zh</lang><value>市场管理中有限的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>市場管理中有限的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited view operations in the Marketing Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización Limitadas en el Administrador de Marketing.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation limitée en gestion de marketing.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione limitate nella gestione vendite.</value></content>
+<content><country></country><lang>ru</lang><value>Операции ограниченного просмотра в приложении Управление маркетингом.</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตการแสดงการทำงานในการจัดการการตลาด</value></content>
+<content><country></country><lang>zh</lang><value>市场管理中有限的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>市場管理中有限的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Marketing Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización en el Administrador de Marketing.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations d'actualisation en gestion de marketing.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione vendite.</value></content>
+<content><country></country><lang>ru</lang><value>Операции обновления в приложении Управление маркетингом.</value></content>
+<content><country></country><lang>th</lang><value>การอัพเดทการทำงานในการจัดการการตลาด</value></content>
+<content><country></country><lang>zh</lang><value>市场管理中的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>市場管理中的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Marketing Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en el Administrador de Marketing.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation en gestion de marketing.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella gestione vendite.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в приложении Управление маркетингом.</value></content>
+<content><country></country><lang>th</lang><value>การแสดงการทำงานในการจัดการการตลาด</value></content>
+<content><country></country><lang>zh</lang><value>市场管理中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>市場管理中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Use the customer screens in myportal.</value></content>
+<content><country></country><lang>it</lang><value>Usare la visualizzazione clienti in myportal.</value></content>
+<content><country></country><lang>zh</lang><value>我的门户中使用客户屏幕。</value></content>
+<content><country></country><lang>zh_TW</lang><value>我的門戶中使用客戶螢幕。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Usage of the employee screens in myportal: projectmanager and internal notes.</value></content>
+<content><country></country><lang>it</lang><value>Usare la visualizzazione clienti in myportal: gestione progetti e note interne.</value></content>
+<content><country></country><lang>zh</lang><value>我的门户中使用雇员屏幕：项目管理和内部便笺。</value></content>
+<content><country></country><lang>zh_TW</lang><value>我的門戶中使用雇員螢幕：專案管理和內部便箋。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Use the employee screens in myportal.</value></content>
+<content><country></country><lang>it</lang><value>Usare la visualizzazione impiegati in myportal.</value></content>
+<content><country></country><lang>zh</lang><value>我的门户中使用雇员屏幕。</value></content>
+<content><country></country><lang>zh_TW</lang><value>我的門戶中使用雇員螢幕。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Oagis application.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nell'applicazione Oagis.</value></content>
+<content><country></country><lang>zh</lang><value>Oagis应用程序中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>Oagis應用程式中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Permission to access the Stock OFBiz Manager Applications.</value></content>
+<content><country></country><lang>es</lang><value>Permisos para acceder el menú de Herramientas Web.</value></content>
+<content><country></country><lang>fr</lang><value>Autorisation d'accéder aux applications de gestion d'OFBiz existant par défaut.</value></content>
+<content><country></country><lang>it</lang><value>Permesso per accedere alle applicazione di gestione strumenti OFBiz.</value></content>
+<content><country></country><lang>ru</lang><value>Права доступа к меню Инструменты.</value></content>
+<content><country></country><lang>th</lang><value>Permission to access the Stock OFBiz Manager Applications.</value></content>
+<content><country></country><lang>zh</lang><value>访问库存OFBiz管理程序的权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訪問庫存OFBiz管理程式的權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create sales forecasts in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Crear pronósticos de ventas en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Créer les prévisions de ventes en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Creare previsioni di vendita nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Создание прогнозов продаж в Управлении заказами.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการวางแผนการขายในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中创建销售预测。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中創建銷售預測。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update sales forecasts in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Actualizar pronósticos de ventas en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Mettre à jour les prévisions de ventes en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Aggiornare previsioni di vendita nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Обновление прогнозов продаж в Управлении заказами.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทการวางแผนการขายในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中更新销售预测。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中更新銷售預測。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES les opérations en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการทำงานในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create Customer Requests in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Crear Solicitudes de Clientes en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Créer les demandes de client en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Creazioni richieste clienti nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Создание пользовательских запросов в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>สร้างคำร้องขอของลูกค้าในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中的创建客户请求。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中的創建客戶請求。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления  в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>ลบการทำงานในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create notes in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Crear Notas en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Créer les notes en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Creare note nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Создание примечаний в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>สร้างข้อความในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中的创建便笺。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中的創建便箋。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create purchase orders in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Crear órdenes de compra en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Créer les commandes d'achat en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione ordini di acquisto nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Создание закупочных заказов в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>สร้างรายการสั่งซื้อในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中的创建采购订单。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中的創建採購訂單。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Purchase Order Entry in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Entrada de Órdenes de Compra en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Saisie de commande d'achat en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di inserimento ordini di acquisto nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Ввод закупочного заказа в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>การเข้าสู่รายการสั่งซื้อในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中的采购订单记录。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中的採購訂單記錄。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View purchase orders in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Ver órdenes de compra en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Visualiser les commandes d'achat en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione ordini di acquisto nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Просмотр закупочных заказов в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>แสดงรายการสั่งซื้อในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中浏览采购订单。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中瀏覽採購訂單。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Quote price manager in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Administrar de precios de Cotizaciones en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Gestion des prix des devis en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Gestione prezzi preventivi nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Менеджер ценовых предложений в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>การจัดการการแจ้งราคาในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中的询价管理。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中的詢價管理。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Process returns in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Procesar Devoluciones en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Traiter les retours en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Avanzamento resi ordini nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Обработка возвратов в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>ดำเนินการผลตอบแทนในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中的处理退货。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中的處理退貨。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Create operations in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación Limitadas en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création limitée en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione limitati nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Ограниченные операции создания в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตการสร้างการทำงานในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中有限的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中有限的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Delete operations in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación Limitadas en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression limitée en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione limitati nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Ограниченные операции удаления в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตการลบการทำงานในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中有限的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中有限的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Update operations in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización Limitadas en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de mise à jour limitée en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento limitati nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Ограниченные операции обновления в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตการอัพเดทการทำงานในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中有限的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中有限的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited view operations in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización Limitadas en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation limitée en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzaione limitati nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Ограниченные операции просмотра в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>ขอบเขตการแสดงการทำงานในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中有限的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中有限的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create sales orders for all stores in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Crear órdenes de venta para todas las tiendas en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Créer des commandes de vente pour tous les centres de profit en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Creazionei ordini di vendita per tutti i negozi nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Создание сбытовых заказов для всех торговых точек в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>สร้างรายการขายสำหรับคลังทั้งหมดในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中为全部店铺创建销售订单。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中為全部商店創建銷售訂單。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Sales Order Entry in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Entrada de Órdenes de Venta en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Saisie de commande de vente en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Inserimento ordini di vendita nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Ввод сбытьвого заказа в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>การเข้าสู่รายการขายในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中的销售订单记录。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中的銷售訂單記錄。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Price change permission for sales orders.</value></content>
+<content><country></country><lang>es</lang><value>Permisos de cambio de precios para órdenes de venta.</value></content>
+<content><country></country><lang>fr</lang><value>Autorisation de changer le prix pour des commandes de vente</value></content>
+<content><country></country><lang>it</lang><value>Permesso di cambio prezzo per ordini di vendita.</value></content>
+<content><country></country><lang>ru</lang><value>Права на изменение цены в сбытовых заказах.</value></content>
+<content><country></country><lang>th</lang><value>การอนุญาตการเปลี่ยนแปลงราคาสำหรับรายการขาย</value></content>
+<content><country></country><lang>zh</lang><value>销售订单的价格变更权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>銷售訂單的價格變更權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update sales orders for all stores in the Order Manager.</value></content>
+<content><country></country><lang>it</lang><value>Permesso di aggiornamento ordini di vendita per tutti i negozi della gestione ordini.</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中为全部店铺更新销售订单。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中為全部商店更新銷售訂單。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Send order confirmation notification.</value></content>
+<content><country></country><lang>es</lang><value>Enviar notificación de confirmación de órden.</value></content>
+<content><country></country><lang>fr</lang><value>Envoyer une notification de confirmation de commande</value></content>
+<content><country></country><lang>it</lang><value>Inviare notifica conferma ordine.</value></content>
+<content><country></country><lang>ru</lang><value>Рассылка уведомлений подтверждающих статус заказа.</value></content>
+<content><country></country><lang>th</lang><value>ส่งการแจ้งการยืนยันรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>发送订单确认通知。</value></content>
+<content><country></country><lang>zh_TW</lang><value>發送訂單確認通知。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de mise à jour en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Операции обновления в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทการทำงานในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Order Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en el Administrador de Órdenes.</value></content>
+<content><country></country><lang>fr</lang><value>Opération de visualisation en gestion de commandes</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella gestione ordini.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в приложении Управление заказами.</value></content>
+<content><country></country><lang>th</lang><value>แสดงการทำงานในการจัดการรายการสั่งซื้อสินค้า</value></content>
+<content><country></country><lang>zh</lang><value>订单管理中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訂單管理中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES les opérations en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в приложении Управление участниками</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Can create Email communication events for logged-in user.</value></content>
+<content><country></country><lang>it</lang><value>Può creare eventi comunicazione email per l'utente autenticato.</value></content>
+<content><country></country><lang>zh</lang><value>能为已登录用户创建电子邮件沟通事件。</value></content>
+<content><country></country><lang>zh_TW</lang><value>能為已登錄用戶創建電子郵件溝通事件。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Can delete Email communication events for logged-in user.</value></content>
+<content><country></country><lang>it</lang><value>Può cancellare eventi comunicazione email per l'utente autenticato.</value></content>
+<content><country></country><lang>zh</lang><value>能为已登录用户删除电子邮件沟通事件。</value></content>
+<content><country></country><lang>zh_TW</lang><value>能為已登錄用戶刪除電子郵件溝通事件。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Can update Email communication events for logged-in user.</value></content>
+<content><country></country><lang>it</lang><value>Può aggiornare eventi comunicazione email per l'utente autenticato.</value></content>
+<content><country></country><lang>zh</lang><value>能为已登录用户更新电子邮件沟通事件。</value></content>
+<content><country></country><lang>zh_TW</lang><value>能為已登錄用戶更新電子郵件溝通事件。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Can create Internal note communication event for logged-in user.</value></content>
+<content><country></country><lang>it</lang><value>Può creare note interne eventi comunicazione per l'utente autenticato.</value></content>
+<content><country></country><lang>zh</lang><value>能为已登录用户创建内部便笺沟通事件。</value></content>
+<content><country></country><lang>zh_TW</lang><value>能為已登錄用戶創建內部便箋溝通事件。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create communication event.</value></content>
+<content><country></country><lang>es</lang><value>Crear eventos de comunicación.</value></content>
+<content><country></country><lang>fr</lang><value>Créer l'évènement de communication</value></content>
+<content><country></country><lang>it</lang><value>Creare eventi comunicazione.</value></content>
+<content><country></country><lang>ru</lang><value>Создание события связи.</value></content>
+<content><country></country><lang>th</lang><value>สร้างเหตุการณ์ในการติดต่อสื่อสาร</value></content>
+<content><country></country><lang>zh</lang><value>创建沟通事件。</value></content>
+<content><country></country><lang>zh_TW</lang><value>創建溝通事件。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete communication event.</value></content>
+<content><country></country><lang>es</lang><value>Eliminar eventos de comunicación.</value></content>
+<content><country></country><lang>fr</lang><value>Supprimer l'évènement de communication</value></content>
+<content><country></country><lang>it</lang><value>Cancellazione eventi comunicazione.</value></content>
+<content><country></country><lang>ru</lang><value>Удаление события связи.</value></content>
+<content><country></country><lang>th</lang><value>ลบเหตุการณ์ในการติดต่อสื่อสาร</value></content>
+<content><country></country><lang>zh</lang><value>删除沟通事件。</value></content>
+<content><country></country><lang>zh_TW</lang><value>刪除溝通事件。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update communication event.</value></content>
+<content><country></country><lang>es</lang><value>Actualizar eventos de comunicación.</value></content>
+<content><country></country><lang>fr</lang><value>Mettre à jour l'évènement de communication</value></content>
+<content><country></country><lang>it</lang><value>Aggiornare eventi comunicazione.</value></content>
+<content><country></country><lang>ru</lang><value>Обновление события связи.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทเหตุการณ์ในการติดต่อสื่อสาร</value></content>
+<content><country></country><lang>zh</lang><value>更新沟通事件。</value></content>
+<content><country></country><lang>zh_TW</lang><value>更新溝通事件。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการทำงานในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>ลบการทำงานในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update PartyGroup or Person detail information.</value></content>
+<content><country></country><lang>es</lang><value>Actualizar información detallada de Grupo de Entidad o Persona.</value></content>
+<content><country></country><lang>fr</lang><value>Mettre à jour l'information détaillée des groupes d'acteurs ou de personnes</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Обновление подробной информации о групповом участнике и персоне.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทกลุ่มผู้ใช้หรือข้อมูลรายละเอียดบุคคล</value></content>
+<content><country></country><lang>zh</lang><value>更新会员组或人员详细信息。</value></content>
+<content><country></country><lang>zh_TW</lang><value>更新會員組或人員詳細資訊。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create notes in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Crear notas en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Créer les notes en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Creare note nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Создание примечаний в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>สร้างขัอความในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中创建便笺。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中創建便箋。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create party contact mechs in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Crear mecanismos de contacto en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Créer des coordonnées en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Creare contatti nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Создание контактного механизма участника в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>สร้างวิธีการติดต่อกลุ่มผู้ใช้ในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中创建会员联系方法。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中創建會員聯系方法。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete party contact mechs in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Eliminar mecanismos de contacto en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Supprimer des coordonnées en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Cancellare contatti nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Удаление контактного механизма участника в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>ลบวิธีการติดต่อกลุ่มผู้ใช้ในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中删除会员联系方法。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中刪除會員聯系方法。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update party contact mechs in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Actualizar mecanismos de contacto en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Mise en jour de coordonnées en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Aggiornare contatti nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Обновление контактного механизма участника в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทวิธีการติดต่อกลุ่มผู้ใช้ในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中更新会员联系方法。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中更新會員聯系方法。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create party quals in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Crear calificaciones en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Créer des qualifications d'acteur en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Creare qualificazione soggetti nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Создание свойств участника в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>สร้างกลุ่มผู้ใช้เท่าเทียมกันในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中创建会员资格。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中創建會員資格。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete party quals in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Eliminar calificaciones en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Supprimer des qualifications d'acteur en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Eliminare qualificazione soggetti nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Удаление свойств участника в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>ลบกลุ่มผู้ใช้เท่าเทียมกันในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中删除会员资格。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中刪除會員資格。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update party quals in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Actualizar calificaciones en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Mise en jour de qualifications d'acteur en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Aggiornare qualificazione soggetti nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Обновление свойств участника в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทกลุ่มผู้ใช้เท่าเทียมกันในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中更新会员资格。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中更新會員資格。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create party relationships in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Crear relaciones en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Créer des relations entre acteurs en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Creare rapporti soggetti nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Создание отношений в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>สร้างความสัมพันธ์ของกลุ่มผู้ใช้ในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中创建会员关系。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中創建會員關系。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete party relationships in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Eliminar relaciones en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Supprimer des relations entre acteurs en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Cancellare rapporti soggetti nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Удаление отношений в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>ลบความสัมพันธ์ของกลุ่มผู้ใช้ในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中删除会员关系。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中刪除會員關系。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update party relationships in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Actualizar relaciones en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Mettre à jour des relations entre acteurs en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Aggiornare rapporti soggetti nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Обновление отношений в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทความสัมพันธ์ของกลุ่มผู้ใช้ในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中更新会员关系。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中更新會員關系。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create party roles in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Crear roles en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Créer des rôles d'acteur en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Creare ruoli soggetti nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Создание ролей в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>สร้างสถานะของกลุ่มผู้ใช้ในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中创建会员角色。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中創建會員角色。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete party roles in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Eliminar roles en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Supprimer des rôles d'acteur en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Cancellare ruoli soggetti nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Удаление ролей в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>ลบสถานะของกลุ่มผู้ใช้ในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中删除会员角色。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中刪除會員角色。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create party to data source relations.</value></content>
+<content><country></country><lang>es</lang><value>Crear relaciones de orígen entidad a dato.</value></content>
+<content><country></country><lang>fr</lang><value>Créer des relations de source de données à acteur</value></content>
+<content><country></country><lang>it</lang><value>Creare rapporti sorgenti dati soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Создание отношений участника и источника данных.</value></content>
+<content><country></country><lang>th</lang><value>สร้างกลุ่มผู้ใช้ถึงความสัมพันธ์ของแหล่งข้อมูล</value></content>
+<content><country></country><lang>zh</lang><value>创建会员到数据源的关系。</value></content>
+<content><country></country><lang>zh_TW</lang><value>創建會員到資料源的關系。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update party status in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Actualizar estados en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Mettre à jour des statuts d'acteur en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Aggiornare stato soggetti nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Обновление статуса участника в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทสถานะของกลุ่มผู้ใช้ในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中更新会员状态。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中更新會員狀態。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de mise à jour des en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Operazione di aggiornamento nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции обновления в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทการทำงานในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Party Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en el Administrador de Entidades.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation en gestion d'acteurs</value></content>
+<content><country></country><lang>it</lang><value>Operazione di visualizzazione nella gestione soggetti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в приложении Управление участниками.</value></content>
+<content><country></country><lang>th</lang><value>แสดงการทำงานในการจัดการกลุ่มผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>会员管理中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>會員管理中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Payment Processors Setup.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en el Procesador de Pagos.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES les opérations dans l'organisation des processeurs de paiement</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nella configurazione processori pagamenti.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в приложении Настройка платежных процессоров.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในการติดตั้งหน่วยประมวลผลกลางการชำระเงิน</value></content>
+<content><country></country><lang>zh</lang><value>支付处理程序设置中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>支付處理程式設置中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Payment Processors Setup.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en el Procesador de Pagos.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création l'organisation des processeurs de paiement</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella configurazione processori pagamenti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в приложении Настройка платежных процессоров.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการทำงานในการติดตั้งหน่วยประมวลผลกลางการชำระเงิน</value></content>
+<content><country></country><lang>zh</lang><value>支付处理程序设置中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>支付處理程式設置中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Payment Processors Setup.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en el Procesador de Pagos.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression dans l'organisation des processeurs de paiement</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella configurazione processori pagamenti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в приложении Настройка платежных процессоров.</value></content>
+<content><country></country><lang>th</lang><value>ลบการทำงานในการติดตั้งหน่วยประมวลผลกลางการชำระเงิน</value></content>
+<content><country></country><lang>zh</lang><value>支付处理程序设置中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>支付處理程式設置中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Payment Processors Setup.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en el Procesador de Pagos.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation dans l'organisation des processeurs de paiement</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella configurazione processori pagamenti.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в приложении Настройка платежных процессоров.</value></content>
+<content><country></country><lang>th</lang><value>แสดงการทำงานในการติดตั้งหน่วยประมวลผลกลางการชำระเงิน</value></content>
+<content><country></country><lang>zh</lang><value>支付处理程序设置中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>支付處理程式設置中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL Payment Information Operations.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las Operaciones de Información de Pagos.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES les opérations d'information de paiement</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni sulle informazioni pagamenti.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции связанные с платежной информацией.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานข้อมูลการชำระเงินทั้งหมด</value></content>
+<content><country></country><lang>zh</lang><value>全部支付信息操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>全部支付資訊操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create Payment Information.</value></content>
+<content><country></country><lang>es</lang><value>Crear Información de Pagos.</value></content>
+<content><country></country><lang>fr</lang><value>Créer l'information de paiement</value></content>
+<content><country></country><lang>it</lang><value>Creare informazioni pagamenti.</value></content>
+<content><country></country><lang>ru</lang><value>Создание платежной информации.</value></content>
+<content><country></country><lang>th</lang><value>สร้างข้อมูลการชำระเงิน</value></content>
+<content><country></country><lang>zh</lang><value>创建支付信息。</value></content>
+<content><country></country><lang>zh_TW</lang><value>創建支付資訊。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete Payment Information.</value></content>
+<content><country></country><lang>es</lang><value>Eliminar Información de Pagos.</value></content>
+<content><country></country><lang>fr</lang><value>Supprimer l'information de paiement</value></content>
+<content><country></country><lang>it</lang><value>Cancellare informazioni pagamenti.</value></content>
+<content><country></country><lang>ru</lang><value>Удаление платежной информации.</value></content>
+<content><country></country><lang>th</lang><value>ลบข้อมูลการชำระเงิน</value></content>
+<content><country></country><lang>zh</lang><value>删除支付信息。</value></content>
+<content><country></country><lang>zh_TW</lang><value>刪除支付資訊。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update Payment Information.</value></content>
+<content><country></country><lang>es</lang><value>Actualizar Información de Pagos.</value></content>
+<content><country></country><lang>fr</lang><value>Mettre à jour l'information de paiement</value></content>
+<content><country></country><lang>it</lang><value>Aggiornare informazioni pagamenti.</value></content>
+<content><country></country><lang>ru</lang><value>Обновление платежной информации.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทข้อมูลการชำระเงิน</value></content>
+<content><country></country><lang>zh</lang><value>更新支付信息。</value></content>
+<content><country></country><lang>zh_TW</lang><value>更新支付資訊。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View Payment Information.</value></content>
+<content><country></country><lang>es</lang><value>Ver Información de Pagos.</value></content>
+<content><country></country><lang>fr</lang><value>Visualiser l'information de paiement</value></content>
+<content><country></country><lang>it</lang><value>Visualizzare informazioni pagamenti.</value></content>
+<content><country></country><lang>ru</lang><value>Просмотр платежной информации.</value></content>
+<content><country></country><lang>th</lang><value>แสดงข้อมูลการชำระเงิน</value></content>
+<content><country></country><lang>zh</lang><value>浏览支付信息。</value></content>
+<content><country></country><lang>zh_TW</lang><value>瀏覽支付資訊。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Use the Period Maintenance pages.</value></content>
+<content><country></country><lang>es</lang><value>Usar las páginas de Mantenimiento de Períodos.</value></content>
+<content><country></country><lang>fr</lang><value>Utiliser les pages de gestion des périodes de temps</value></content>
+<content><country></country><lang>it</lang><value>Usare le pagine di manutenzione periodi.</value></content>
+<content><country></country><lang>ru</lang><value>Использование страниц Обслуживание периода.</value></content>
+<content><country></country><lang>th</lang><value>ใช้หน้าการรักษาช่วงเวลา</value></content>
+<content><country></country><lang>zh</lang><value>使用阶段维护页面。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用階段維護頁面。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Project Manager.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nella gestione progetti.</value></content>
+<content><country></country><lang>zh</lang><value>项目管理中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案管理中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>All admin operations in the Project Manager for a project/phase/task the user is member of.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni di amministrazione nella gestione progetti per un progetto/fase/compito di cui l'utente è membro.</value></content>
+<content><country></country><lang>zh</lang><value>项目管理中的全部管理操作，用于用户作为成员的项目/阶段/任务。</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案管理中的全部管理操作，用于用戶作為成員的專案/階段/任務。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Be able to create a task (should be member of project)</value></content>
+<content><country></country><lang>it</lang><value>Essere autorizzato a creare un compito (dovrebbe essere membro del progetto)</value></content>
+<content><country></country><lang>zh</lang><value>能够创建任务(应该是项目成员)</value></content>
+<content><country></country><lang>zh_TW</lang><value>能夠創建任務(應該是專案成員)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Be able to create a weekly timesheet for the loginid.</value></content>
+<content><country></country><lang>it</lang><value>Essere autorizzato a creare una timbratura settimanale per l'utente autenticato.</value></content>
+<content><country></country><lang>zh</lang><value>能够为登录用户创建每周的工时单。</value></content>
+<content><country></country><lang>zh_TW</lang><value>能夠為登錄用戶創建每周的工時單。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Be able to update(report) on an existing own timesheet</value></content>
+<content><country></country><lang>it</lang><value>Essere autorizzato ad aggiornare una timbratura esistente</value></content>
+<content><country></country><lang>zh</lang><value>能够对一个已存在的自己的工时单进行更新(报告)</value></content>
+<content><country></country><lang>zh_TW</lang><value>能夠對一個已存在的自己的工時單進行更新(報告)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Project Manager for a project/phase/task the user is member of.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione progetti per un progetto/fase/compito ci cui l'utente è membro.</value></content>
+<content><country></country><lang>zh</lang><value>项目管理中的更新操作，用于用户作为成员的项目/阶段/任务。</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案管理中的更新操作，用于用戶作為成員的專案/階段/任務。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>All view operations in the Project Manager for a project/phase/task the user is member of..</value></content>
+<content><country></country><lang>it</lang><value>Tutte le perazioni di visualizzazione nella gestione progetti per un progetto/fase/compito ci cui l'utente è membro.</value></content>
+<content><country></country><lang>zh</lang><value>项目管理中的全部浏览操作，用于用户作为成员的项目/阶段/任务。</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案管理中的全部瀏覽操作，用于用戶作為成員的專案/階段/任務。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Be able to create any weekly timesheet.</value></content>
+<content><country></country><lang>it</lang><value>Essere autorizzato a creare qualiasi timbratura settimanale.</value></content>
+<content><country></country><lang>zh</lang><value>能够创建任一周工时单。</value></content>
+<content><country></country><lang>zh_TW</lang><value>能夠創建任一周工時單。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Be able to update any weekly timesheet.</value></content>
+<content><country></country><lang>it</lang><value>Essere autorizzato ad aggiornare qualiasi timbratura settimanale.</value></content>
+<content><country></country><lang>zh</lang><value>能够更新任一周工时单。</value></content>
+<content><country></country><lang>zh_TW</lang><value>能夠更新任一周工時單。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL View operations in the Project Manager(but can be limited by ROLE_VIEW)</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni di visualizzazione nella gestione progetti (ma può essere limitato a ROLE_VIEW)</value></content>
+<content><country></country><lang>zh</lang><value>项目管理中的全部浏览操作(能够被ROLE_VIEW限制)</value></content>
+<content><country></country><lang>zh_TW</lang><value>專案管理中的全部瀏覽操作(能夠被ROLE_VIEW限制)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Security Management Screens.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en las pantallas de Administración de Seguridad.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES les opérations dans les écrans de gestion de sécurité</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nella gestione della sicurezza.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в приложении Управление безопасностью.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในหน้าจอการจัดการความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>在安全管理屏幕中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在安全管理螢幕中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Security Management Screens.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en las pantallas de Administración de Seguridad.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création les dans les écrans de gestion de sécurité</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione della sicurezza.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в приложении Управление безопасностью.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการทำงานในหน้าจอการจัดการความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>在安全管理屏幕中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在安全管理螢幕中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Security Management Screens.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en las pantallas de Administración de Seguridad.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression dans les écrans de gestion de sécurité</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione della sicurezza.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в приложении Управление безопасностью.</value></content>
+<content><country></country><lang>th</lang><value>ลบการทำงานในหน้าจอการจัดการความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>在安全管理屏幕中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在安全管理螢幕中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Security Management Screens.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización en las pantallas de Administración de Seguridad.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de mise à jour dans les écrans de gestion de sécurité</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione della sicurezza.</value></content>
+<content><country></country><lang>ru</lang><value>Операции обновления в приложении Управление безопасностью.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทการทำงานในหน้าจอการจัดการความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>在安全管理屏幕中的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在安全管理螢幕中的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Security Management Screens.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en las pantallas de Administración de Seguridad.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation dans les écrans de gestion de sécurité</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella gestione della sicurezza.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в приложении Управление безопасностью.</value></content>
+<content><country></country><lang>th</lang><value>แสดงการทำงานในหน้าจอการจัดการความปลอดภัย</value></content>
+<content><country></country><lang>zh</lang><value>在安全管理屏幕中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在安全管理螢幕中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Send to the Control Applet.</value></content>
+<content><country></country><lang>es</lang><value>Enviar a Applet de Control.</value></content>
+<content><country></country><lang>fr</lang><value>Envoyer à l'applet de contrôle</value></content>
+<content><country></country><lang>it</lang><value>Invia all'Applet.</value></content>
+<content><country></country><lang>ru</lang><value>Отсылка в контрольный апплет.</value></content>
+<content><country></country><lang>th</lang><value>Send to the Control Applet.</value></content>
+<content><country></country><lang>zh</lang><value>发送到控制小程序。</value></content>
+<content><country></country><lang>zh_TW</lang><value>發送到控制小程式。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View the Server Statistics pages.</value></content>
+<content><country></country><lang>es</lang><value>Ver las páginas de Estadísticas del Servidor.</value></content>
+<content><country></country><lang>fr</lang><value>Visualiser les pages de statistiques du serveur</value></content>
+<content><country></country><lang>it</lang><value>Mostra pagine statistiche server.</value></content>
+<content><country></country><lang>ru</lang><value>Просмотр статистики по работе сервера.</value></content>
+<content><country></country><lang>th</lang><value>แสดงหน้าจอสถิติผู้ให้บริการ</value></content>
+<content><country></country><lang>zh</lang><value>浏览服务器统计页面。</value></content>
+<content><country></country><lang>zh_TW</lang><value>瀏覽伺服器統計頁面。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Permission to invoke any service remotely.</value></content>
+<content><country></country><lang>es</lang><value>Permisos para invocar remotamente cualquier servicio.</value></content>
+<content><country></country><lang>fr</lang><value>Autorisation pour appeler tout service à distance.</value></content>
+<content><country></country><lang>it</lang><value>Permessi di invocare qualsiasi servizio remotamente.</value></content>
+<content><country></country><lang>ru</lang><value>Права за удаленное выполнение любой службы.</value></content>
+<content><country></country><lang>th</lang><value>การอนุญาตถึงการร้องขอบริการเล็กน้อยบางอย่าง</value></content>
+<content><country></country><lang>zh</lang><value>远程调用任何服务的权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>遠端調用任何服務的權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Use the Service Maintenance pages.</value></content>
+<content><country></country><lang>es</lang><value>Usar las páginas de Mantenimiento de Servicios.</value></content>
+<content><country></country><lang>fr</lang><value>Utiliser les pages du service de maintenance.</value></content>
+<content><country></country><lang>it</lang><value>Usare le pagine di manutenzione servizi.</value></content>
+<content><country></country><lang>ru</lang><value>Использование страниц приложения Обслуживание служб.</value></content>
+<content><country></country><lang>th</lang><value>ใช้หน้าการรักษาสภาพการบริการ</value></content>
+<content><country></country><lang>zh</lang><value>使用服务维护页面。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用服務維護頁面。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Shipping Rate Editor.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en el Editor de Tasas de Envío.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES les opérations dans l'éditeur de taux d'expédition.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nelle percentuali di spedizione.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в Редакторе рейтинга поставки.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในการแก้ไขอัตราการขนส่ง</value></content>
+<content><country></country><lang>zh</lang><value>在送货费率编辑器中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在送貨費率編輯器中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Shipping Rate Editor.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en el Editor de Tasas de Envío.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création dans l'éditeur de taux d'expédition.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nelle percentuali di spedizione.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в Редакторе рейтинга поставки.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการทำงานในการแก้ไขอัตราการขนส่ง</value></content>
+<content><country></country><lang>zh</lang><value>在送货费率编辑器中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在送貨費率編輯器中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Shipping Rate Editor.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en el Editor de Tasas de Envío.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression dans l'éditeur de taux d'expédition.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nelle percentuali di spedizione.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в Редакторе рейтинга поставки.</value></content>
+<content><country></country><lang>th</lang><value>ลบการทำงานในการแก้ไขอัตราการขนส่ง</value></content>
+<content><country></country><lang>zh</lang><value>在送货费率编辑器中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在送貨費率編輯器中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Shipping Rate Editor.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en el Editor de Tasas de Envío.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation dans l'éditeur de taux d'expédition.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nelle percentuali di spedizione.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в Редакторе рейтинга поставки.</value></content>
+<content><country></country><lang>th</lang><value>แสดงการทำงานในการแก้ไขอัตราการขนส่ง</value></content>
+<content><country></country><lang>zh</lang><value>在送货费率编辑器中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在送貨費率編輯器中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Tax Rate Editor.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las Operaciones el Editor de Tasas Impositivas.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES les opérations dans l'éditeur de taux d'expédition.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nelle percentuali delle tasse.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в Редакторе налоговых ставок.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในการแก้ไขอัตราภาษี</value></content>
+<content><country></country><lang>zh</lang><value>在税率编辑器中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在稅率編輯器中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Tax Rate Editor.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación el Editor de Tasas Impositivas.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création dans l'éditeur de taux de taxe.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nelle percentuali delle tasse.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в Редакторе налоговых ставок.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการทำงานในการแก้ไขอัตราภาษี</value></content>
+<content><country></country><lang>zh</lang><value>在税率编辑器中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在稅率編輯器中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Tax Rate Editor.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación el Editor de Tasas Impositivas.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression dans l'éditeur de taux de taxe.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nelle percentuali delle tasse.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в Редакторе налоговых ставок.</value></content>
+<content><country></country><lang>th</lang><value>ลบการทำงานในการแก้ไขอัตราภาษี</value></content>
+<content><country></country><lang>zh</lang><value>在税率编辑器中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在稅率編輯器中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Tax Rate Editor.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización el Editor de Tasas Impositivas.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation dans l'éditeur de taux de taxe.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nelle percentuali delle tasse.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в Редакторе налоговых ставок.</value></content>
+<content><country></country><lang>th</lang><value>แสดงการทำงานในการแก้ไขอัตราภาษี</value></content>
+<content><country></country><lang>zh</lang><value>在税率编辑器中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>在稅率編輯器中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Temporal expression admin</value></content>
+<content><country></country><lang>it</lang><value>Amministrazione espressioni temporali</value></content>
+<content><country></country><lang>zh</lang><value>时间表达式管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>時間運算式管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>User preferences admin</value></content>
+<content><country></country><lang>it</lang><value>Amministrazione preferenze utente</value></content>
+<content><country></country><lang>zh</lang><value>用户设置管理</value></content>
+<content><country></country><lang>zh_TW</lang><value>用戶設置管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit a UtilCache instance.</value></content>
+<content><country></country><lang>es</lang><value>Editar una instancia de UtilCache.</value></content>
+<content><country></country><lang>fr</lang><value>Modifier une instance de cache.</value></content>
+<content><country></country><lang>it</lang><value>Aggiornare una instanza della cache.</value></content>
+<content><country></country><lang>ru</lang><value>Изменение экземпляра UtilCache.</value></content>
+<content><country></country><lang>th</lang><value>Edit a UtilCache instance.</value></content>
+<content><country></country><lang>zh</lang><value>编辑一个应用缓存实例。</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯一個應用緩存實例。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View a UtilCache instance.</value></content>
+<content><country></country><lang>es</lang><value>Ver una instancia de UtilCache.</value></content>
+<content><country></country><lang>fr</lang><value>Visualiser une instance de cache.</value></content>
+<content><country></country><lang>it</lang><value>Visualizzare una instanza della cache.</value></content>
+<content><country></country><lang>ru</lang><value>Просмотр экземпляра UtilCache.</value></content>
+<content><country></country><lang>th</lang><value>View a UtilCache instance.</value></content>
+<content><country></country><lang>zh</lang><value>浏览一个应用缓存实例。</value></content>
+<content><country></country><lang>zh_TW</lang><value>瀏覽一個應用緩存實例。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit a UtilDebug instance.</value></content>
+<content><country></country><lang>es</lang><value>Editar una instancia de UtilDebug</value></content>
+<content><country></country><lang>fr</lang><value>Modifier une instance de débogage.</value></content>
+<content><country></country><lang>it</lang><value>Aggiornare una instanza di debug.</value></content>
+<content><country></country><lang>ru</lang><value>Изменение экземпляра UtilDebug.</value></content>
+<content><country></country><lang>th</lang><value>Edit a UtilDebug instance.</value></content>
+<content><country></country><lang>zh</lang><value>编辑一个应用调试实例。</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯一個應用調試實例。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View a UtilDebug instance.</value></content>
+<content><country></country><lang>es</lang><value>Ver una instancia de UtilDebug</value></content>
+<content><country></country><lang>fr</lang><value>Visualiser une instance de débogage.</value></content>
+<content><country></country><lang>it</lang><value>Visualizzzare una instanza di debug.</value></content>
+<content><country></country><lang>ru</lang><value>Просмотр экземпляра UtilDebug.</value></content>
+<content><country></country><lang>th</lang><value>View a UtilDebug instance.</value></content>
+<content><country></country><lang>zh</lang><value>浏览一个应用调试实例。</value></content>
+<content><country></country><lang>zh_TW</lang><value>瀏覽一個應用調試實例。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations on Visual Themes and Visual Theme Resources.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni sui temi visuali e risorse dei temi visuali</value></content>
+<content><country></country><lang>zh</lang><value>视觉风格和视觉风格资源的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>視覺風格和視覺風格資源的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create Visual Themes and Visual Theme Resources.</value></content>
+<content><country></country><lang>it</lang><value>Creare temi visuali e risorse dei temi visuali</value></content>
+<content><country></country><lang>zh</lang><value>创建视觉风格和视觉风格资源。</value></content>
+<content><country></country><lang>zh_TW</lang><value>創建視覺風格和視覺風格資源。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete Visual Themes and Visual Theme Resources.</value></content>
+<content><country></country><lang>it</lang><value>Cancella temi visuali e risorse dei temi visuali</value></content>
+<content><country></country><lang>zh</lang><value>删除视觉风格和视觉风格资源。</value></content>
+<content><country></country><lang>zh_TW</lang><value>刪除視覺風格和視覺風格資源。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update Visual Themes and Visual Theme Resources.</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna temi visuali e risorse dei temi visuali</value></content>
+<content><country></country><lang>zh</lang><value>更新视觉风格和视觉风格资源。</value></content>
+<content><country></country><lang>zh_TW</lang><value>更新視覺風格和視覺風格資源。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Permission to access the WebTools Menu.</value></content>
+<content><country></country><lang>es</lang><value>Permisos para acceder el menú de Herramientas Web.</value></content>
+<content><country></country><lang>fr</lang><value>Autorisation pour accèder au menu Adm. Sys.</value></content>
+<content><country></country><lang>it</lang><value>Permessi di accedere ai menu strumenti web.</value></content>
+<content><country></country><lang>ru</lang><value>Права на доступ к меню Инструменты.</value></content>
+<content><country></country><lang>th</lang><value>การอนุญาตถึงสิทธ์ในการเข้าเมนูเว็บทูล</value></content>
+<content><country></country><lang>zh</lang><value>访问Web工具菜单的权限。</value></content>
+<content><country></country><lang>zh_TW</lang><value>訪問Web工具功能表的權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ALL operations in the Work Effort Manager.</value></content>
+<content><country></country><lang>es</lang><value>TODAS las operaciones en el Administrador de Esfuerzos de Trabajo.</value></content>
+<content><country></country><lang>fr</lang><value>TOUTES opérations en gestion de tâche.</value></content>
+<content><country></country><lang>it</lang><value>Tutte le operazioni nella gestione impegni di lavoro.</value></content>
+<content><country></country><lang>ru</lang><value>Все операции в приложении Организатор.</value></content>
+<content><country></country><lang>th</lang><value>การทำงานทั้งหมดในการจัดการความพยายามในการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>人工服务管理中的全部操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人工服務管理中的全部操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create operations in the Work Effort Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Creación en el Administrador de Esfuerzos de Trabajo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de création en gestion de tâche.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di creazione nella gestione impegni di lavoro.</value></content>
+<content><country></country><lang>ru</lang><value>Операции создания в приложении Организатор.</value></content>
+<content><country></country><lang>th</lang><value>สร้างการทำงานในการจัดการความพยายามในการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>人工服务管理中的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人工服務管理中的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Delete operations in the Work Effort Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Eliminación en el Administrador de Esfuerzos de Trabajo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de suppression en gestion de tâche.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di cancellazione nella gestione impegni di lavoro.</value></content>
+<content><country></country><lang>ru</lang><value>Операции удаления в приложении Организатор.</value></content>
+<content><country></country><lang>th</lang><value>ลบการทำงานในการจัดการความพยายามในการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>人工服务管理中的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人工服務管理中的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Create operations in the Work Effort Manager.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni limitate in creazione nelle gestione impegni di lavoro.</value></content>
+<content><country></country><lang>zh</lang><value>人工服务管理中有限的创建操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人工服務管理中有限的創建操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Delete operations the Work Effort Manager.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni limitate in cancellazione nelle gestione impegni di lavoro.</value></content>
+<content><country></country><lang>zh</lang><value>人工服务管理中有限的删除操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人工服務管理中有限的刪除操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited Update operations in the Work Effort Manager.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni limitate in aggiornamento nelle gestione impegni di lavoro.</value></content>
+<content><country></country><lang>zh</lang><value>人工服务管理中有限的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人工服務管理中有限的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Limited View operations in the Work Effort Manager.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni limitate in visualizzazione nelle gestione impegni di lavoro.</value></content>
+<content><country></country><lang>zh</lang><value>人工服务管理中有限的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人工服務管理中有限的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Update operations in the Work Effort Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Actualización en el Administrador de Esfuerzos de Trabajo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de mise à jour en gestion de tâche.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di aggiornamento nella gestione impegni di lavoro.</value></content>
+<content><country></country><lang>ru</lang><value>Операции обновления в приложении Организатор.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทการทำงานในการจัดการความพยายามในการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>人工服务管理中的更新操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人工服務管理中的更新操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>View operations in the Work Effort Manager.</value></content>
+<content><country></country><lang>es</lang><value>Operaciones de Visualización en el Administrador de Esfuerzos de Trabajo.</value></content>
+<content><country></country><lang>fr</lang><value>Opérations de visualisation en gestion de tâche.</value></content>
+<content><country></country><lang>it</lang><value>Operazioni di visualizzazione nella gestione impegni di lavoro.</value></content>
+<content><country></country><lang>ru</lang><value>Операции просмотра в приложении Организатор.</value></content>
+<content><country></country><lang>th</lang><value>แสดงการทำงานในการจัดการความพยายามในการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>人工服务管理中的浏览操作。</value></content>
+<content><country></country><lang>zh_TW</lang><value>人工服務管理中的瀏覽操作。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Use the Workflow Maintenance pages.</value></content>
+<content><country></country><lang>es</lang><value>Usar las páginas de Mantenimiento de Flujo de Trabajo.</value></content>
+<content><country></country><lang>fr</lang><value>Utiliser les pages d'entretien du Workflow.</value></content>
+<content><country></country><lang>it</lang><value>Usare le pagine di gestion flussi di lavoro.</value></content>
+<content><country></country><lang>ru</lang><value>Использование приложения Обслуживание процессов(WF).</value></content>
+<content><country></country><lang>th</lang><value>ใช้หน้าการรักษาสภาพขั้นตอนการทำงาน</value></content>
+<content><country></country><lang>zh</lang><value>使用工作流维护页面。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用工作流維護頁面。</value></content>
+</contents></phrase> </phrases>

@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="PosAdjustment">
+        <value lang="en">(adjustment)</value>
+        <value lang="es">(adjustment)</value>
+        <value lang="fr">(ajustement)</value>
+        <value lang="it">(adjustment)</value>
+        <value lang="ro">(adjustment)</value>
+        <value lang="zh">(调整)</value>
+    </property>
+    <property key="PosAmt">
+        <value lang="en">AMT</value>
+        <value lang="es">Precio</value>
+        <value lang="fr">Prix</value>
+        <value lang="it">IMP</value>
+        <value lang="ro">IMP</value>
+        <value lang="zh">金额</value>
+    </property>
+    <property key="PosAuthCd">
+        <value lang="en">Enter Auth Code:</value>
+        <value lang="es">Ingrese el código secreto :</value>
+        <value lang="fr">Entrez le code secret :</value>
+        <value lang="it">Inserire Codice Autorizzazione:</value>
+        <value lang="ro">Introduceti Codul de Autorizatie:</value>
+        <value lang="zh">输入授权码:</value>
+    </property>
+    <property key="PosCash">
+        <value lang="en">CASH</value>
+        <value lang="es">CONTADO</value>
+        <value lang="fr">Espèces</value>
+        <value lang="it">CONTANTE</value>
+        <value lang="ro">Numerar</value>
+        <value lang="zh">现金</value>
+    </property>
+    <property key="PosChange">
+        <value lang="en">Change Due:</value>
+        <value lang="es">Cambio :</value>
+        <value lang="fr">A rendre :</value>
+        <value lang="it">Cambio Dovuto:</value>
+        <value lang="ro">Schimb Valutar:</value>
+        <value lang="zh">找零:</value>
+    </property>
+    <property key="PosCheck">
+        <value lang="en">CHECK</value>
+        <value lang="es">CHEQUE</value>
+        <value lang="fr">Chèque(s)</value>
+        <value lang="it">ASSEGNO</value>
+        <value lang="ro">CEC</value>
+        <value lang="zh">支票</value>
+    </property>
+    <property key="PosClerk">
+        <value lang="en">Clerk:</value>
+        <value lang="es">Empleado</value>
+        <value lang="fr">Vendeur :</value>
+        <value lang="it">Impieg.:</value>
+        <value lang="ro">Ang:</value>
+        <value lang="zh">收银员:</value>
+    </property>
+    <property key="PosClientProfile">
+        <value lang="en">Customer informations, selection adds the card number as a promo code</value>
+        <value lang="fr">Informations sur le client, sa sélection entraîne celle de son n° de carte comme code de promotion.</value>
+        <value lang="zh">客户资料,选择添加卡号作为优惠券代码</value>
+    </property>
+    <property key="PosConfigureItem">
+        <value lang="en">Item Configuration</value>
+        <value lang="fr">Configuration de l'article</value>
+        <value lang="it">Riga configurazione</value>
+        <value lang="zh">明细配置</value>
+    </property>
+    <property key="PosCreateOrChooseReasonInOut">
+        <value lang="en">You have to create or choose a reason</value>
+        <value lang="fr">Vous devez créer ou choisir le motif de ce mouvement de caisse</value>
+        <value lang="it">Tu devi creare o scegliere una motivazione</value>
+        <value lang="zh">你必须创建或选择一个原因</value>
+    </property>
+    <property key="PosCredNo">
+        <value lang="en">Enter Card Number:</value>
+        <value lang="es">Ingrese número de tarjeta :</value>
+        <value lang="fr">Entrez le n° de carte :</value>
+        <value lang="it">Inserire Numero Carta:</value>
+        <value lang="ro">Introduceti Numarul Cartii:</value>
+        <value lang="zh">输入卡号:</value>
+    </property>
+    <property key="PosCredZp">
+        <value lang="en">Enter Billing ZipCode:</value>
+        <value lang="es">Ingrese código postal de facturación</value>
+        <value lang="fr">Entrez le code postal de facturation :</value>
+        <value lang="it">Inserire C.A.P. Fatturazione:</value>
+        <value lang="ro">Introduceti zipCod Facturare:</value>
+        <value lang="zh">输入账单邮政编码:</value>
+    </property>
+    <property key="PosCredcf">
+        <value lang="en">Enter Last 4 Digits:</value>
+        <value lang="es">Ingrese los últimos 4 dígitos</value>
+        <value lang="fr">Entrez les 4 derniers chiffres :</value>
+        <value lang="it">Inserire Ultimi 4 Numeri:</value>
+        <value lang="ro">Introduceti ultimale 4 Numere:</value>
+        <value lang="zh">输入最后4位卡号:</value>
+    </property>
+    <property key="PosCredex">
+        <value lang="en">Enter Expiration Date (MMYY):</value>
+        <value lang="es">Ingrese fecha de expiración (MMYY)</value>
+        <value lang="fr">Entrez la date d'expiration (MMYY):</value>
+        <value lang="it">Inserire Data Scadenza (MMYY):</value>
+        <value lang="ro">Introduceti Data Expirarii (LLAA):</value>
+        <value lang="zh">输入到期日 (MMYY):</value>
+    </property>
+    <property key="PosCreditCard">
+        <value lang="en">CREDIT CARD</value>
+        <value lang="es">TARJETA DE CRÉDITO</value>
+        <value lang="fr">Carte(s) de crédit</value>
+        <value lang="it">CARTA CREDITO</value>
+        <value lang="ro">CARTE DE CREDIT</value>
+        <value lang="zh">信用卡</value>
+    </property>
+    <property key="PosCustomer">
+        <value lang="en">Customer:</value>
+        <value lang="fr">Client :</value>
+        <value lang="zh">客户:</value>
+    </property>
+    <property key="PosDate">
+        <value lang="en">DATE</value>
+        <value lang="es">FECHA</value>
+        <value lang="fr">Date</value>
+        <value lang="it">DATA</value>
+        <value lang="ro">DATA</value>
+        <value lang="zh">日期</value>
+    </property>
+    <property key="PosDateFormat">
+        <value lang="en">EEE MMM dd</value>
+        <value lang="es">EEE MMM dd</value>
+        <value lang="fr">EE dd MMM</value>
+        <value lang="it">EEE MMM dd</value>
+        <value lang="ro">EEE MMM dd</value>
+        <value lang="zh">EEE MMM dd</value>
+    </property>
+    <property key="PosDateTimeFormat">
+        <value lang="en">'the' yyyy MMMMM dd 'at'  hh:mm:ss aaa</value>
+        <value lang="es">'the' yyyy MMMMM dd 'at'  hh:mm:ss aaa</value>
+        <value lang="fr">'le' dd MMMMM yyyy 'à'  HH:mm:ss</value>
+        <value lang="it">'il' yyyy MMMMM dd 'alle'  hh:mm:ss aaa</value>
+        <value lang="ro">yyyy MMMMM dd 'la' hh:mm:ss aaa </value>
+        <value lang="zh">yyyy MMMMM dd HH:mm:ss</value>
+    </property>
+    <property key="PosDraw">
+        <value lang="en">Dr:</value>
+        <value lang="es">Dr.</value>
+        <value lang="fr">Tiroir :</value>
+        <value lang="it">Cass.:</value>
+        <value lang="ro">Cas:</value>
+        <value lang="zh">钞箱:</value>
+    </property>
+    <property key="PosDrwr">
+        <value lang="en">TILL</value>
+        <value lang="es">Caja</value>
+        <value lang="fr">Caisse</value>
+        <value lang="it">CASSIERE</value>
+        <value lang="ro">CASIER</value>
+        <value lang="zh">钞箱</value>
+    </property>
+    <property key="PosEmpl">
+        <value lang="en">EMPL</value>
+        <value lang="es">VENDEDOR</value>
+        <value lang="fr">Vendeur</value>
+        <value lang="it">IMPIEGATO</value>
+        <value lang="ro">Angajat</value>
+        <value lang="zh">收银员</value>
+    </property>
+    <property key="PosEntCas">
+        <value lang="en">Enter Cash Amount:</value>
+        <value lang="es">Ingrese monto en efectivo</value>
+        <value lang="fr">Entrez le montant en espèce :</value>
+        <value lang="it">Inserire Importo Contante:</value>
+        <value lang="ro">Introduceti Valoare Numerar:</value>
+        <value lang="zh">输入现金额:</value>
+    </property>
+    <property key="PosEntChk">
+        <value lang="en">Enter Check Amount:</value>
+        <value lang="es">Ingrese monto en cheque</value>
+        <value lang="fr">Entrez le montant en chèque :</value>
+        <value lang="it">Inserire Importo Assegno:</value>
+        <value lang="ro">Introduceti Valoare  CEC:</value>
+        <value lang="zh">输入支票额:</value>
+    </property>
+    <property key="PosEntCrc">
+        <value lang="en">Enter Credit Card Amount:</value>
+        <value lang="es">Ingrese monto en tarjeta de crédito</value>
+        <value lang="fr">Entrez le montant en carte de crédit :</value>
+        <value lang="it">Inserire Importo Carta di Credito:</value>
+        <value lang="ro">Introduceti Valoare Carte de Credit:</value>
+        <value lang="zh">输入信用卡额:</value>
+    </property>
+    <property key="PosEntGfc">
+        <value lang="en">Enter Gift Card Amount:</value>
+        <value lang="es">Ingrese monto de certificado de regalo: </value>
+        <value lang="fr">Entrez le montant en bon d'achat :</value>
+        <value lang="it">Inserire Importo Carta Omaggio:</value>
+        <value lang="ro">Introduceti Valoare Carte Omagiu:</value>
+        <value lang="zh">输入礼品卡额:</value>
+    </property>
+    <property key="PosEntOth">
+        <value lang="en">Enter Other Payment Amount:</value>
+        <value lang="es">Ingrese monto de otros pagos</value>
+        <value lang="fr">Entrez le mt en autre moyen de paiement :</value>
+        <value lang="it">Inserire Importo Altri Pagamenti:</value>
+        <value lang="ro">Introduceti Valoare Alte Plati:</value>
+        <value lang="zh">输入其他付款额:</value>
+    </property>
+    <property key="PosEntPromoCode">
+        <value lang="en">Enter Promo Code:</value>
+        <value lang="fr">Entrez le code promo:</value>
+        <value lang="it">Inserire codice promozione:</value>
+        <value lang="zh">输入促销代码:</value>
+    </property>
+    <property key="PosGiftCard">
+        <value lang="en">GIFT CARD</value>
+        <value lang="es">Certificado de regalo</value>
+        <value lang="fr">Bon(s) d'achat</value>
+        <value lang="it">CARTA OMAGGIO</value>
+        <value lang="ro">CARTE OMAGIU</value>
+        <value lang="zh">礼品卡</value>
+    </property>
+    <property key="PosGrandTotal">
+        <value lang="en">Grand Total</value>
+        <value lang="es">Gran total</value>
+        <value lang="fr">Total</value>
+        <value lang="it">Totale Generale</value>
+        <value lang="ro">Total General</value>
+        <value lang="zh">总计</value>
+    </property>
+    <property key="PosGrossSales">
+        <value lang="en">GROSS SALES</value>
+        <value lang="es">Total</value>
+        <value lang="fr">Total</value>
+        <value lang="it">LORDO VENDITA</value>
+        <value lang="ro">Valoare BRUTA-VANZARE</value>
+        <value lang="zh">毛销售额</value>
+    </property>
+    <property key="PosFieldsRequired">
+        <value lang="en">Name is required</value>
+        <value lang="fr">Le nom doit être renseignés</value>
+    </property>
+    <property key="PosInvalidSelection">
+        <value lang="en">Invalid Selection!</value>
+        <value lang="es">Selección inválida</value>
+        <value lang="fr">Sélection non valide !</value>
+        <value lang="it">Selezione Non Valida!</value>
+        <value lang="ro">Selectare InValida!</value>
+        <value lang="zh">非法选项!</value>
+    </property>
+    <property key="PosIsClosed">
+        <value lang="en">Register Is Closed</value>
+        <value lang="es">El registro está cerrado</value>
+        <value lang="fr">Le registre est fermé.</value>
+        <value lang="it">Registratore di Cassa è Chiuso</value>
+        <value lang="ro">Registru de Casa este Inchis</value>
+        <value lang="zh">提示牌已关闭</value>
+    </property>
+    <property key="PosIsOpen">
+        <value lang="en">Register Is Open</value>
+        <value lang="es">El registro está abierto</value>
+        <value lang="fr">Le registre est ouvert.</value>
+        <value lang="it">Registratore di Cassa è Aperto</value>
+        <value lang="ro">Registru de Casa este Deschis</value>
+        <value lang="zh">提示牌已打开</value>
+    </property>
+    <property key="PosItem">
+        <value lang="en">ITEM</value>
+        <value lang="es">ITEM</value>
+        <value lang="fr">Désignation</value>
+        <value lang="it">PRODOTTO</value>
+        <value lang="ro">PRODUS</value>
+        <value lang="zh">项</value>
+    </property>
+    <property key="PosItemDiscount">
+        <value lang="en">(Item discount)</value>
+        <value lang="es">(Item discount)</value>
+        <value lang="fr">Remise sur l'article</value>
+        <value lang="it">(Item discount)</value>
+        <value lang="ro">(Item discount)</value>
+        <value lang="zh">(明细折扣)</value>
+    </property>
+    <property key="PosLoadASale">
+        <value lang="en">Load a sale</value>
+        <value lang="fr">Charger une vente</value>
+        <value lang="it">Carica una vendita</value>
+        <value lang="zh">载入一个销售</value>
+    </property>
+    <property key="PosLoadSaleListDblClickTip">
+        <value lang="en">You may use a double click to replace the current sale and delete this one</value>
+        <value lang="fr">Vous pouvez utiliser le double-clic pour remplacer la vente en cours et supprimer celle ci</value>
+        <value lang="it">Tu devi usare un doppio click per sostituire l'attuale vendita and cancellarla</value>
+        <value lang="ro">Poti folosi dublu click  pentru a rescrie vanzarea cruenta si pentru a o sterge.</value>
+        <value lang="zh">你可以双击鼠标来替换当前的销售并删除这个</value>
+    </property>
+    <property key="PosNoClientProfile">
+        <value lang="en">Any customer profile to update</value>
+        <value lang="fr">Aucun client à mettre à jour</value>
+        <value lang="zh">更新客户资料</value>
+    </property>    
+    <property key="PosOpDrAm">
+        <value lang="en">Starting Drawer Amount:</value>
+        <value lang="es">Monto inicial de la caja:</value>
+        <value lang="fr">Contenu initial du tiroir :</value>
+        <value lang="it">Importo Iniziale Cassiere:</value>
+        <value lang="ro">Valoare Initiala Casierie:</value>
+        <value lang="zh">开始钞箱金额:</value>
+    </property>
+    <property key="PosOther">
+        <value lang="en">OTHER</value>
+        <value lang="es">OTROS</value>
+        <value lang="fr">Autres</value>
+        <value lang="it">ALTRO</value>
+        <value lang="ro">ALTE</value>
+        <value lang="zh">其他</value>
+    </property>
+    <property key="PosPaidInTitle">
+        <value lang="en">Enter amount to paid in and create or choose a reason</value>
+        <value lang="fr">Entrez le montant à remettre en caisse et créez ou choisissez un motif</value>
+        <value lang="it">Inserire importo da pagare in ingresso e creare o scegliere una motivazione</value>
+        <value lang="zh">输入要收取的金额并创建或选择一个原因</value>
+    </property>
+    <property key="PosPaidOutTitle">
+        <value lang="en">Enter amount to withdraw and create or choose a reason</value>
+        <value lang="fr">Entrez le montant à retirer et créez ou choisissez un motif</value>
+        <value lang="it">Inserire un'importo da prelevare e crea o scegliere una motivazione</value>
+        <value lang="zh">输入要撤销的金额并创建或输入一个原因</value>
+    </property>
+    <property key="PosPayFin">
+        <value lang="en">Press Finish To Complete Sale</value>
+        <value lang="es">Presione FINISH para completar la venta</value>
+        <value lang="fr">Appuyez sur [Fin] pour terminer la vente !</value>
+        <value lang="it">Premere Fine Per Completare la Vendita</value>
+        <value lang="ro">Apasa Terminare(FINISH) Pentru a Completa Vanzarea</value>
+        <value lang="zh">按完成键结束销售</value>
+    </property>
+    <property key="PosPhoneField5Required">
+        <value lang="en">The phone number must be at least 5 characters long (also used as password).</value>
+        <value lang="fr">Le n° de téléphone doit être au moins de 5 caractèrs (sert aussi de mot de passe).</value>
+        <value lang="zh">电话号码必须有五位数字以上(也作为密码用途)</value>
+    </property>
+    <property key="PosPostalCode">
+        <value lang="en">Enter the billing postal code:</value>
+        <value lang="fr">Entrez le code postal :</value>
+        <value lang="it">Inserire il codice postale di fatturazione:</value>
+        <value lang="zh">输入寄账单邮政编码:</value>
+    </property>
+    <property key="PosProcessing">
+        <value lang="en">Processing payments...</value>
+        <value lang="es">Procesando pagos...</value>
+        <value lang="fr">Traitement du paiement...</value>
+        <value lang="it">Esecuzione pagamenti...</value>
+        <value lang="ro">Executie plati...</value>
+        <value lang="zh">处理支付...</value>
+    </property>
+    <property key="PosPromoCode">
+        <value lang="en">Promo code(s):</value>
+        <value lang="fr">Code(s) de promotion :</value>
+        <value lang="zh">优惠券代码:</value>
+    </property>    
+    <property key="PosQty">
+        <value lang="en">QTY</value>
+        <value lang="es">Cantidad</value>
+        <value lang="fr">Nb</value>
+        <value lang="it">QNT</value>
+        <value lang="ro">CANT</value>
+        <value lang="zh">件数</value>
+    </property>
+    <property key="PosRefNum">
+        <value lang="en">Enter Reference Number:</value>
+        <value lang="es">Ingrese número  de referencia</value>
+        <value lang="fr">Entrez le n° du chèque ou la référence :</value>
+        <value lang="it">Inserire Numero Riferimento:</value>
+        <value lang="ro">Introduceti Numar de Referinta:</value>
+        <value lang="zh">输入流水号:</value>
+    </property>
+    <property key="PosSalesDiscount">
+        <value lang="en">(Sale discount)</value>
+        <value lang="es">(Sales discount)</value>
+        <value lang="fr">Remise sur la vente</value>
+        <value lang="it">(Sales discount)</value>
+        <value lang="ro">(Sales discount)</value>
+        <value lang="zh">(销售折扣)</value>
+    </property>
+    <property key="PosSalesTax">
+        <value lang="en">Sales Tax</value>
+        <value lang="es">Impuestos de ventas</value>
+        <value lang="fr">TVA</value>
+        <value lang="it">Tasse di Vendita</value>
+        <value lang="ro">Taxe de Vanzare</value>
+        <value lang="zh">销售税</value>
+    </property>
+    <property key="PosSaveASale">
+        <value lang="en">Save current sale</value>
+        <value lang="fr">Sauver la vente en cours</value>
+        <value lang="it">Salvare attuale vendita</value>
+        <value lang="ro">Salveaza vanzarea curenta</value>
+        <value lang="zh">保存当前销售</value>
+    </property>
+    <property key="PosSaving">
+        <value lang="en">Saving sale...</value>
+        <value lang="es">Usted ahorra....</value>
+        <value lang="fr">Enregistrement de la vente...</value>
+        <value lang="it">Salvataggio vendita...</value>
+        <value lang="ro">Salveaza vanzarea...</value>
+        <value lang="zh">保存销售...</value>
+    </property>
+    <property key="PosSecurityCode">
+        <value lang="en">Enter security code:</value>
+        <value lang="fr">Entrez votre code :</value>
+        <value lang="it">Inserire codice sicurezza:</value>
+        <value lang="zh">输入安全码:</value>
+    </property>
+    <property key="PosSelectAProduct">
+        <value lang="en">Select a product</value>
+        <value lang="fr">Sélectionnez un produit</value>
+        <value lang="it">Selezionare un prodotto</value>
+        <value lang="zh">选择一个产品</value>
+    </property>
+    <property key="PosSelectClientToEdit">
+        <value lang="en">Select a customer to edit or select</value>
+        <value lang="fr">Choisissez le client à modifier ou à sélectionner</value>
+        <value lang="zh">选择编辑客户资料</value>
+    </property>
+    <property key="PosSelectProductListDblClickTip">
+        <value lang="en">You may use a double click to select the current product</value>
+        <value lang="fr">Vous pouvez utiliser le double-clic pour choisir un produit</value>
+        <value lang="it">Tu devi usare un doppio clieck per selezionare il prodotto corrente</value>
+        <value lang="zh">你可以双击鼠标来选择当前产品</value>
+    </property>
+    <property key="PosShuttingDown">
+        <value lang="en">Shutting down...</value>
+        <value lang="es">Cerrando...</value>
+        <value lang="fr">Arrêt en cours...</value>
+        <value lang="it">Chiusura...</value>
+        <value lang="ro">Inchidere...</value>
+        <value lang="zh">关闭...</value>
+    </property>
+    <property key="PosSku">
+        <value lang="en">SKU</value>
+        <value lang="es">SKU</value>
+        <value lang="fr">Code</value>
+        <value lang="it">CODICE PRODOTTO</value>
+        <value lang="ro">COD PRODUS</value>
+        <value lang="zh">产品统一编号</value>
+    </property>
+    <property key="PosTerm">
+        <value lang="en">Term:</value>
+        <value lang="es">Terminal:</value>
+        <value lang="fr">Terminal :</value>
+        <value lang="it">Termine:</value>
+        <value lang="ro">Term:</value>
+        <value lang="zh">终端:</value>
+    </property>
+    <property key="PosTipNameRadioContains">
+        <value lang="en">To look for names which contain the name entered</value>
+        <value lang="fr">Pour rechercher des noms contenant celui entré</value>
+        <value lang="zh">用部分名字去查找全名</value>
+    </property>    
+    <property key="PosTipNameRadioEquals">
+        <value lang="en">To look for names strictly equals to the name entered</value>
+        <value lang="fr">Pour rechercher des noms exactement égaux à celui entré</value>
+        <value lang="zh">查找的名字需要与资料一致</value>
+    </property>    
+    <property key="PosTotal">
+        <value lang="en">TOTAL</value>
+        <value lang="es">Total</value>
+        <value lang="fr">Total</value>
+        <value lang="it">TOTALE</value>
+        <value lang="ro">TOTAL</value>
+        <value lang="zh">合计</value>
+    </property>
+    <property key="PosTotalD">
+        <value lang="en">Total Due:</value>
+        <value lang="es">Total debido:</value>
+        <value lang="fr">Total dû :</value>
+        <value lang="it">Totale Dovuto:</value>
+        <value lang="ro">Total(dovuto)?:</value>
+        <value lang="zh">合计额:</value>
+    </property>
+    <property key="PosTotalReport">
+        <value lang="en">TOTALS REPORT</value>
+        <value lang="es">REPORTE TOTAL:</value>
+        <value lang="fr">TOTAUX</value>
+        <value lang="it">TOTALI STAMPA</value>
+        <value lang="ro">TOTAL REPORT</value>
+        <value lang="zh">合计报表</value>
+    </property>
+    <property key="PosTxId">
+        <value lang="en">TXID</value>
+        <value lang="es">Número de venta</value>
+        <value lang="fr">N°vente</value>
+        <value lang="it">IDTAX</value>
+        <value lang="ro">IDTAX</value>
+        <value lang="zh">交易号</value>
+    </property>
+    <property key="PosULogin">
+        <value lang="en">Enter User ID:</value>
+        <value lang="es">Ingrese su login:</value>
+        <value lang="fr">Entrez votre identifiant :</value>
+        <value lang="it">Inserire Id Utente:</value>
+        <value lang="ro">Introduceti Id Utilizator:</value>
+        <value lang="zh">输入用户 ID:</value>
+    </property>
+    <property key="PosUPassw">
+        <value lang="en">Enter Password:</value>
+        <value lang="es">Ingrese password</value>
+        <value lang="fr">Entrez votre mot de passe :</value>
+        <value lang="it">Inserire Password:</value>
+        <value lang="ro">Introduceti Parola:</value>
+        <value lang="zh">输入口令:</value>
+    </property>
+    <property key="PosUserNotManager">
+        <value lang="en">User is not a valid manager!</value>
+        <value lang="es">El usuario no es administrador válido</value>
+        <value lang="fr">Cet utilisateur n'est pas un gérant !</value>
+        <value lang="it">Utente non è un manager valido!</value>
+        <value lang="ro">Utilizatorul nu este un manager valid!</value>
+        <value lang="zh">用户非合法管理员!</value>
+    </property>
+    <property key="PosValidating">
+        <value lang="en">Validating...</value>
+        <value lang="es">Validando...</value>
+        <value lang="fr">Validation...</value>
+        <value lang="it">Validazione...</value>
+        <value lang="ro">Validare...</value>
+        <value lang="zh">确认...</value>
+    </property>
+    <property key="PosVirtualKeyboardTitle">
+        <value lang="en">To inactivate the virtual keyboard: 1. Permanently, parameters.properties file. 2. Temporarily, button VIRTUAL on Admin Panel.</value>
+        <value lang="fr">Pour désactiver le clavier virtuel : 1. En permanence, fichier parameters.properties. 2. Temporairement, bouton Clavier virtuel du panneau Gestion.</value>
+        <value lang="zh">关闭虚拟键盘: 1.永远的,parameters.properties 文件. 2.临时的,控制页面的[虚拟键盘]按钮</value>
+    </property>        
+    <property key="PosVirtualNumPadTitle">
+        <value lang="en">To inactivate: see virtual keyboard.</value>
+        <value lang="fr">Pour désactiver voir le clavier virtuel.</value>
+        <value lang="zh">要关闭: 看虚拟键盘</value>
+    </property>        
+    <property key="PosVoid">
+        <value lang="en">Enter Order Number To Void:</value>
+        <value lang="es">Ingrese número de orden a anular</value>
+        <value lang="fr">Entrez le n° de commande à annuler :</value>
+        <value lang="it">Inserire Numero Ordine Da Svuotare:</value>
+        <value lang="ro">Introduceti Numarul Comenzii de Descarcat:</value>
+        <value lang="zh">输入要作废的订单号:</value>
+    </property>
+    <property key="PosWaitingFinalSales">
+        <value lang="en">Waiting for final sales data transmission...</value>
+        <value lang="es">Esperando transmisión de datos...</value>
+        <value lang="fr">En attente de transmission de données ...</value>
+        <value lang="it">In Attesa di trasmissione dei dati vendite finali...</value>
+        <value lang="ro">Asteptare pentru transmiterea datelor de vanzare finale...</value>
+        <value lang="zh">等待最终销售数据传输...</value>
+    </property>
+</resource>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Der opstår en fejl under læsning</value></content>
+<content><country></country><lang>en</lang><value>An error occurs during reading</value></content>
+<content><country></country><lang>fr</lang><value>Une erreur est survenue lors de la lecture</value></content>
+<content><country></country><lang>hi_IN</lang><value>पढ़ने के दौरान एक त्रुटि हो रही है</value></content>
+<content><country></country><lang>it</lang><value>E' successo un'errore durante la lettura</value></content>
+<content><country></country><lang>nl</lang><value>Er is een fout opgetreden tijdens het lezen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Um erro ocorreu durante a leitura</value></content>
+<content><country></country><lang>zh</lang><value>读取时发生了一个错误</value></content>
+<content><country></country><lang>zh_TW</lang><value>讀取時發生了一個錯誤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Fejl forhinder dokumentet i at blive fuldt ud oversat</value></content>
+<content><country></country><lang>en</lang><value>Error prevents the document from being fully parsed</value></content>
+<content><country></country><lang>fr</lang><value>Une erreur empêche que le document soit entièrement analysé</value></content>
+<content><country></country><lang>hi_IN</lang><value>त्रुटि दस्तावेज़ को पूरी तरह पार्स करने से रोक रही है</value></content>
+<content><country></country><lang>it</lang><value>Errore previene il documento da essere completamente parsato</value></content>
+<content><country></country><lang>nl</lang><value>Een fout verhinderd het volledig parsen van het document</value></content>
+<content><country></country><lang>pt_BR</lang><value>Erro impede que o documento seja totalmente analisado</value></content>
+<content><country></country><lang>zh</lang><value>发生错误阻止了文档完全解析</value></content>
+<content><country></country><lang>zh_TW</lang><value>發生錯誤阻止了文檔完全解析</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Der opstod fejl under oversættelse</value></content>
+<content><country></country><lang>en</lang><value>Errors occured during parsing</value></content>
+<content><country></country><lang>fr</lang><value>Des erreurs sont survenues lors de l'analyse</value></content>
+<content><country></country><lang>hi_IN</lang><value>पार्सिंग के दौरान त्रुटियाँ हुई</value></content>
+<content><country></country><lang>it</lang><value>Errore accaduti durante il parsing</value></content>
+<content><country></country><lang>nl</lang><value>Er zijn fouten opgetreden tijdens het parsen</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ocorreram erros durante a análise (Parsing)</value></content>
+<content><country></country><lang>zh</lang><value>解析时发生错误</value></content>
+<content><country></country><lang>zh_TW</lang><value>解析時發生錯誤</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Endelig skala faktor er null</value></content>
+<content><country></country><lang>en</lang><value>Final scale factor is null</value></content>
+<content><country></country><lang>fr</lang><value>Le facteur final de redimensionnement est nul</value></content>
+<content><country></country><lang>hi_IN</lang><value>अंतिम पैमाने पहलू null है</value></content>
+<content><country></country><lang>it</lang><value>Fattore di scala finale è nullo</value></content>
+<content><country></country><lang>nl</lang><value>De definitieve schaalfactor is leeg</value></content>
+<content><country></country><lang>pt_BR</lang><value>Fator de escala final é nulo</value></content>
+<content><country></country><lang>zh</lang><value>最终的缩放因子是null</value></content>
+<content><country></country><lang>zh_TW</lang><value>最終的縮放因數是null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Høj skala faktor er null</value></content>
+<content><country></country><lang>en</lang><value>Height scale factor is null</value></content>
+<content><country></country><lang>fr</lang><value>Le ratio 'hauteur' de redimensionnement est nul</value></content>
+<content><country></country><lang>hi_IN</lang><value>ऊँचाई पैमाने पहलू null है</value></content>
+<content><country></country><lang>it</lang><value>Fattore di scala altezza è nullo</value></content>
+<content><country></country><lang>nl</lang><value>Schaalfactor hoogte is leeg</value></content>
+<content><country></country><lang>pt_BR</lang><value>Fator da escala de Altura é nula</value></content>
+<content><country></country><lang>zh</lang><value>高度缩放因子是null</value></content>
+<content><country></country><lang>zh_TW</lang><value>高度縮放因數是null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Input er null</value></content>
+<content><country></country><lang>en</lang><value>Input is null</value></content>
+<content><country></country><lang>fr</lang><value>La valeur saisie est nulle</value></content>
+<content><country></country><lang>hi_IN</lang><value>इनपुट null है</value></content>
+<content><country></country><lang>it</lang><value>Input è nullo</value></content>
+<content><country></country><lang>nl</lang><value>De ingave is leeg</value></content>
+<content><country></country><lang>pt_BR</lang><value>A entrada é nula</value></content>
+<content><country></country><lang>zh</lang><value>输入是null</value></content>
+<content><country></country><lang>zh_TW</lang><value>輸入是null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>En standard dimension er null</value></content>
+<content><country></country><lang>en</lang><value>One default dimension is null</value></content>
+<content><country></country><lang>fr</lang><value>Une des dimensions par défaut est nulle</value></content>
+<content><country></country><lang>hi_IN</lang><value>एक डिफ़ॉल्ट आयाम null है</value></content>
+<content><country></country><lang>it</lang><value>Dimensione uno di default è nullo</value></content>
+<content><country></country><lang>nl</lang><value>Een standaad dimensie is leeg</value></content>
+<content><country></country><lang>pt_BR</lang><value>Uma dimensão padrão é null</value></content>
+<content><country></country><lang>zh</lang><value>一个缺省的纬度是null</value></content>
+<content><country></country><lang>zh_TW</lang><value>一個缺省的緯度是null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Rod element er ikke sat</value></content>
+<content><country></country><lang>en</lang><value>Root element has not been set</value></content>
+<content><country></country><lang>fr</lang><value>L'élement racine n'a pas pu être chargé</value></content>
+<content><country></country><lang>hi_IN</lang><value>रूट तत्व निर्धारित नहीं किया गया है</value></content>
+<content><country></country><lang>it</lang><value>Elemento root non è stato impostato</value></content>
+<content><country></country><lang>nl</lang><value>Root element is niet ingesteld</value></content>
+<content><country></country><lang>pt_BR</lang><value>Elemento raiz não foi definido</value></content>
+<content><country></country><lang>zh</lang><value>已经设置了根元素</value></content>
+<content><country></country><lang>zh_TW</lang><value>已經設置了根元素</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Ukendt buffered billedtype</value></content>
+<content><country></country><lang>en</lang><value>Unknown buffered image type</value></content>
+<content><country></country><lang>fr</lang><value>Le type d'image bufferisée est inconnu</value></content>
+<content><country></country><lang>hi_IN</lang><value>buffered छवि का अज्ञात प्रकार</value></content>
+<content><country></country><lang>it</lang><value>Tipo di immagine sconosciuta bufferizzata</value></content>
+<content><country></country><lang>nl</lang><value>Onbekend gebufferde afbeeldingsoort</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tipo de imagem em buffer Desconhecido</value></content>
+<content><country></country><lang>zh</lang><value>未知的缓冲的图片类型</value></content>
+<content><country></country><lang>zh_TW</lang><value>未知的緩衝的圖片類型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Bredde skala faktor er null</value></content>
+<content><country></country><lang>en</lang><value>Width scale factor is null</value></content>
+<content><country></country><lang>fr</lang><value>Le ratio 'largeur' de redimensionnement est nul</value></content>
+<content><country></country><lang>hi_IN</lang><value>चौड़ाई पैमाने कारक(Width scale factor) null है</value></content>
+<content><country></country><lang>it</lang><value>Fattore di scala altezza è nullo</value></content>
+<content><country></country><lang>nl</lang><value>Schaalfactor breedte is leeg</value></content>
+<content><country></country><lang>pt_BR</lang><value>Fator da escala de Largura é nula</value></content>
+<content><country></country><lang>zh</lang><value>宽度缩放因子是null</value></content>
+<content><country></country><lang>zh_TW</lang><value>寬度縮放因數是null</value></content>
+</contents></phrase> </phrases>

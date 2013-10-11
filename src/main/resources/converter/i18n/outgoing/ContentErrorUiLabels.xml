@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Fejl ved kald af service createDataResource</value></content>
+<content><country></country><lang>de</lang><value>Fehler beim Aufruf createDataResource Service</value></content>
+<content><country></country><lang>en</lang><value>Error calling the createDataResource service</value></content>
+<content><country></country><lang>es</lang><value>Error al llamar al servicio 'createDataResource'</value></content>
+<content><country></country><lang>fr</lang><value>Erreur pendant l'appel du service createDataResource</value></content>
+<content><country></country><lang>it</lang><value>Errore esecuzione servizio createDataResource</value></content>
+<content><country></country><lang>ro</lang><value>Eroare executie serviciu createDataResource</value></content>
+<content><country></country><lang>th</lang><value>Error : ผิดพลาด ! ในการเรียกบริการสร้างข้อมูลแหล่งที่มา</value></content>
+<content><country></country><lang>zh</lang><value>调用新建数据资源（createDataResource）服务时出错</value></content>
+<content><country></country><lang>zh_TW</lang><value>調用新建資料資源（createDataResource）服務時出錯</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Fejl ved kald af service updateDataResource</value></content>
+<content><country></country><lang>de</lang><value>Fehler beim Aufruf updateDataResource Service</value></content>
+<content><country></country><lang>en</lang><value>Error calling the updateDataResource service</value></content>
+<content><country></country><lang>es</lang><value>Error al llamar al servicio 'updateDataResource'</value></content>
+<content><country></country><lang>fr</lang><value>Erreur pendant l'appel du service update data resource</value></content>
+<content><country></country><lang>it</lang><value>Errore esecuzione servizio updateDataResource</value></content>
+<content><country></country><lang>ro</lang><value>Eroare la executarea serviciului updateDataResource</value></content>
+<content><country></country><lang>th</lang><value>Error : ผิดพลาด ! ในการเรียกบริการเปลี่ยนแปลงข้อมูลแหล่งที่มา</value></content>
+<content><country></country><lang>zh</lang><value>调用更新数据资源（updateDataResource）服务时出错</value></content>
+<content><country></country><lang>zh_TW</lang><value>調用更新資料資源（updateDataResource）服務時出錯</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Fejl under hentning af billedrecord fra acquireImage</value></content>
+<content><country></country><lang>de</lang><value>Fehler beim Holen des Bild Datensatzes von acquireImage</value></content>
+<content><country></country><lang>en</lang><value>Error getting image record from acquireImage</value></content>
+<content><country></country><lang>es</lang><value>Error al obtener la imagen a partir de la captura de imagenes</value></content>
+<content><country></country><lang>fr</lang><value>Erreur d'obtention de compte-rendu d'image depuis acquireImage</value></content>
+<content><country></country><lang>it</lang><value>Errore lettura record immagine da aquireImage</value></content>
+<content><country></country><lang>ro</lang><value>Eroare la citirea record imagine din aquireImage</value></content>
+<content><country></country><lang>th</lang><value>Error : ผิดพลาด ! ในการรับรูปภาพจากรูปที่ได้</value></content>
+<content><country></country><lang>zh</lang><value>从获取图像（acquireImage）获得图像记录时出错</value></content>
+<content><country></country><lang>zh_TW</lang><value>從獲取圖像（acquireImage）獲得圖像記錄時出錯</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Fejl under skrivning af billede til OutputStream</value></content>
+<content><country></country><lang>de</lang><value>Fehler beim Schreiben des Bildes in den Outputstream</value></content>
+<content><country></country><lang>en</lang><value>Error writing image to OutputStream</value></content>
+<content><country></country><lang>es</lang><value>Error al imprimir la imagen en la salida</value></content>
+<content><country></country><lang>fr</lang><value>Erreur pendant "l'écriture" de l'image vers OutputStream</value></content>
+<content><country></country><lang>it</lang><value>Errore scrittura immagine su OutputStream</value></content>
+<content><country></country><lang>ro</lang><value>Eroare la scrierea imaginii in OutputStream</value></content>
+<content><country></country><lang>th</lang><value>Error : ผิดพลาด ! ในการเขียนรูปภาพเป็นข้อมูลออกไป</value></content>
+<content><country></country><lang>zh</lang><value>把图像写入OutputStream时出错</value></content>
+<content><country></country><lang>zh_TW</lang><value>把圖像寫入OutputStream時出錯</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>billede({b}) eller type(${imageType}) er null eller tom</value></content>
+<content><country></country><lang>de</lang><value>image({b}) oder Typ(${imageType}) ist null oder leer</value></content>
+<content><country></country><lang>en</lang><value>image({b}) or type(${imageType}) is null or empty</value></content>
+<content><country></country><lang>es</lang><value>imagen({b}) o tipo(${imageType}) son nulos o están vacios</value></content>
+<content><country></country><lang>fr</lang><value>image ({b}) ou type (${imageType}) irrecevable ou vide</value></content>
+<content><country></country><lang>it</lang><value>immagine({b}) o tipo (${imageType}) è nullo o vuoto</value></content>
+<content><country></country><lang>ro</lang><value>imagine({b}) sau tip (${imageType}) este zero sau o lipseste</value></content>
+<content><country></country><lang>th</lang><value>รูปภาพ ({b}) หรือ ประภท (${imageType}) ไม่มีค่าหรือเป็นค่าว่าง</value></content>
+<content><country></country><lang>zh</lang><value>图像({b})或类型(${imageType})为null或为空</value></content>
+<content><country></country><lang>zh_TW</lang><value>圖像({b})或類型(${imageType})為null或為空</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>imageFi(${imageFi}) eller idFieldValue(${idFieldValue}) er null</value></content>
+<content><country></country><lang>de</lang><value>imageFi(${imageFi}) oder idFieldValue(${idFieldValue}) ist null</value></content>
+<content><country></country><lang>en</lang><value>imageFi(${imageFi}) or idFieldValue(${idFieldValue}) is null</value></content>
+<content><country></country><lang>es</lang><value>Imagen(${imageFi}) or Campo(${idFieldValue}) son nulos</value></content>
+<content><country></country><lang>fr</lang><value>imageFi (${imageFi}) ou idFieldValue (${idFieldValue}) est irrecevable</value></content>
+<content><country></country><lang>it</lang><value>imageFi(${imageFi}) o idFieldValue(${idFieldValue}) è nullo</value></content>
+<content><country></country><lang>ro</lang><value>imageFi(${imageFi}) sau idFieldValue(${idFieldValue}) este zero</value></content>
+<content><country></country><lang>th</lang><value>ช่องรูปภาพ (${imageFi}) หรือรหัสค่า (${idFieldValue}) ไม่มีค่า</value></content>
+<content><country></country><lang>zh</lang><value>imageFi(${imageFi})或idFieldValue(${idFieldValue})为null</value></content>
+<content><country></country><lang>zh_TW</lang><value>imageFi(${imageFi})或idFieldValue(${idFieldValue})為null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Ingen filer er uploaded</value></content>
+<content><country></country><lang>de</lang><value>Keine Dateien hochgeladen</value></content>
+<content><country></country><lang>en</lang><value>No files uploaded</value></content>
+<content><country></country><lang>es</lang><value>No se cargaron los archivos</value></content>
+<content><country></country><lang>fr</lang><value>Aucun fichier téléversé</value></content>
+<content><country></country><lang>it</lang><value>Nessun file caricato</value></content>
+<content><country></country><lang>ro</lang><value>Nici-un fisier incarcat</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีไฟล์โหลด</value></content>
+<content><country></country><lang>zh</lang><value>没有上传文件</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有上傳文件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>indhold er tomt</value></content>
+<content><country></country><lang>de</lang><value>Inhalt ist leer</value></content>
+<content><country></country><lang>en</lang><value>content is empty</value></content>
+<content><country></country><lang>es</lang><value>El contenido está vacio</value></content>
+<content><country></country><lang>fr</lang><value>Le contenu est vide</value></content>
+<content><country></country><lang>it</lang><value>content è vuoto</value></content>
+<content><country></country><lang>ro</lang><value>content este fara continut</value></content>
+<content><country></country><lang>th</lang><value>หัวข้อเป็นค่าว่าง</value></content>
+<content><country></country><lang>zh</lang><value>内容为空</value></content>
+<content><country></country><lang>zh_TW</lang><value>內容為空</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>contentId er tomt</value></content>
+<content><country></country><lang>de</lang><value>Inhalt ID ist leer</value></content>
+<content><country></country><lang>en</lang><value>contentId is empty</value></content>
+<content><country></country><lang>es</lang><value>El id del contenido está vacío</value></content>
+<content><country></country><lang>fr</lang><value>contentId est vide</value></content>
+<content><country></country><lang>it</lang><value>contentId è vuoto</value></content>
+<content><country></country><lang>ro</lang><value>contentId este fara continut</value></content>
+<content><country></country><lang>th</lang><value>รหัสหัวข้อเป็นค่าว่าง</value></content>
+<content><country></country><lang>zh</lang><value>内容标识（contentId）为空</value></content>
+<content><country></country><lang>zh_TW</lang><value>內容ID為空</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>contentIdTo er null</value></content>
+<content><country></country><lang>de</lang><value>Inhalt ID zu ist leer</value></content>
+<content><country></country><lang>en</lang><value>contentIdTo is null</value></content>
+<content><country></country><lang>es</lang><value>El id del contenido es nulo</value></content>
+<content><country></country><lang>fr</lang><value>contentIdTo est irrecevable</value></content>
+<content><country></country><lang>it</lang><value>contentIdTo è nullo</value></content>
+<content><country></country><lang>ro</lang><value>contentIdTo este zero</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีค่าในรหัสหัวข้อ</value></content>
+<content><country></country><lang>zh</lang><value>contentIdTo为null</value></content>
+<content><country></country><lang>zh_TW</lang><value>contentIdTo為null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>DataRessourceId er null</value></content>
+<content><country></country><lang>de</lang><value>Datenressource ID ist null</value></content>
+<content><country></country><lang>en</lang><value>DataRessourceId is null</value></content>
+<content><country></country><lang>es</lang><value>El id del recurso de datos está vacío</value></content>
+<content><country></country><lang>fr</lang><value>DataRessourceId est irrecevable</value></content>
+<content><country></country><lang>it</lang><value>DataRessourceId è nullo</value></content>
+<content><country></country><lang>ro</lang><value>DataRessourceId este zero</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีค่าในรหัสแหล่งที่มา</value></content>
+<content><country></country><lang>zh</lang><value>数据资源标识（DataRessourceId）为null</value></content>
+<content><country></country><lang>zh_TW</lang><value>資料資源ID為null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>er tom</value></content>
+<content><country></country><lang>de</lang><value>ist leer</value></content>
+<content><country></country><lang>en</lang><value>is empty</value></content>
+<content><country></country><lang>es</lang><value>Vacío</value></content>
+<content><country></country><lang>fr</lang><value>est vide</value></content>
+<content><country></country><lang>it</lang><value>è vuoto</value></content>
+<content><country></country><lang>ro</lang><value>este fara continut</value></content>
+<content><country></country><lang>th</lang><value>เป็นค่าว่าง</value></content>
+<content><country></country><lang>zh</lang><value>为空</value></content>
+<content><country></country><lang>zh_TW</lang><value>為空</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>'entityName' er tom</value></content>
+<content><country></country><lang>de</lang><value>'Entitätenname' ist leer</value></content>
+<content><country></country><lang>en</lang><value>'entityName' is empty</value></content>
+<content><country></country><lang>es</lang><value>'entityName' está vacío</value></content>
+<content><country></country><lang>fr</lang><value>'entityName' est vide</value></content>
+<content><country></country><lang>it</lang><value>'entityName' è vuoto</value></content>
+<content><country></country><lang>ro</lang><value>'entityName' este fara continut</value></content>
+<content><country></country><lang>th</lang><value>'entityName' เป็นค่าว่าง</value></content>
+<content><country></country><lang>zh</lang><value>'实体名称（entityName）'为空</value></content>
+<content><country></country><lang>zh_TW</lang><value>'實體名稱（entityName）'為空</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Billeddata er null</value></content>
+<content><country></country><lang>de</lang><value>Bilddaten sind leer</value></content>
+<content><country></country><lang>en</lang><value>Image data is null</value></content>
+<content><country></country><lang>es</lang><value>Imagen es nula</value></content>
+<content><country></country><lang>fr</lang><value>Image data est vide</value></content>
+<content><country></country><lang>it</lang><value>Image data è nullo</value></content>
+<content><country></country><lang>ro</lang><value>Image data este zero</value></content>
+<content><country></country><lang>th</lang><value>ข้อมูลรูปภาพเป็นไม่มีค่า</value></content>
+<content><country></country><lang>zh</lang><value>图像数据为null</value></content>
+<content><country></country><lang>zh_TW</lang><value>圖像資料為null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Ingen subindhold fundet</value></content>
+<content><country></country><lang>de</lang><value>Keinen untergeordneten Inhalt gefunden</value></content>
+<content><country></country><lang>en</lang><value>No subcontent found</value></content>
+<content><country></country><lang>es</lang><value>No se encontro subcontenido</value></content>
+<content><country></country><lang>fr</lang><value>Aucun 'subcontent' trouvé</value></content>
+<content><country></country><lang>it</lang><value>Nessun sotto-contenuto trovato</value></content>
+<content><country></country><lang>ro</lang><value>Nici-un sub-continut gasit</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบหัวข้อย่อย</value></content>
+<content><country></country><lang>zh</lang><value>没有找到子内容</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有找到子內容</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>imageFi(${imageFi}) er null</value></content>
+<content><country></country><lang>de</lang><value>ImageFi(${imageFi}) ist null</value></content>
+<content><country></country><lang>en</lang><value>imageFi(${imageFi}) is null</value></content>
+<content><country></country><lang>es</lang><value>Imagen(${imageFi}) eestá vacía</value></content>
+<content><country></country><lang>fr</lang><value>imageFi(${imageFi}) est irrecevable</value></content>
+<content><country></country><lang>it</lang><value>imageFi(${imageFi}) è nullo</value></content>
+<content><country></country><lang>ro</lang><value>imageFi(${imageFi}) este zero</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีค่าในช่องรูปภาพ (${imageFi}) </value></content>
+<content><country></country><lang>zh</lang><value>imageFi(${imageFi})为null</value></content>
+<content><country></country><lang>zh_TW</lang><value>imageFi(${imageFi})為null</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Ingen filer uploaded</value></content>
+<content><country></country><lang>de</lang><value>Keine Dateien hochgeladen</value></content>
+<content><country></country><lang>en</lang><value>No files uploaded</value></content>
+<content><country></country><lang>es</lang><value>No se cargaron archivos</value></content>
+<content><country></country><lang>fr</lang><value>Aucun fichier téléversé</value></content>
+<content><country></country><lang>it</lang><value>Nessun file caricato</value></content>
+<content><country></country><lang>ro</lang><value>Nici-un fisier incarcat</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีไฟล์โหลด</value></content>
+<content><country></country><lang>zh</lang><value>没有上传文件</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有上傳文件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Ingen filer uploaded</value></content>
+<content><country></country><lang>de</lang><value>Keine Dateien hochgeladen</value></content>
+<content><country></country><lang>en</lang><value>No files uploaded</value></content>
+<content><country></country><lang>es</lang><value>No se cargaron archivos</value></content>
+<content><country></country><lang>fr</lang><value>Aucun fichier téléversé</value></content>
+<content><country></country><lang>it</lang><value>Nessun file caricato</value></content>
+<content><country></country><lang>ro</lang><value>Nici-un  fisier incarcat</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีไฟล์</value></content>
+<content><country></country><lang>zh</lang><value>没有上传文件</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有上傳文件</value></content>
+</contents></phrase> </phrases>

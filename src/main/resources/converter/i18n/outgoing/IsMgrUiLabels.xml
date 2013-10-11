@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Information Systems Management Application</value></content>
+<content><country></country><lang>fr</lang><value>Gestion du parc informatique</value></content>
+<content><country></country><lang>it</lang><value>Applicazione gestione sistemi informativi</value></content>
+<content><country></country><lang>zh</lang><value>信息系统管理应用程序</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OFBiz: Is Manager</value></content>
+<content><country></country><lang>fr</lang><value>OFBiz: application de gestion du parc informatique</value></content>
+<content><country></country><lang>it</lang><value>OFBiz: Gestione sistemi informativi</value></content>
+<content><country></country><lang>zh</lang><value>OFBiz: 信息系统管理</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Information Systems Department</value></content>
+<content><country></country><lang>fr</lang><value>Département du système d'information</value></content>
+<content><country></country><lang>it</lang><value>Dipartimento sistemi informativi</value></content>
+<content><country></country><lang>zh</lang><value>信息系统部门</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Hardware</value></content>
+<content><country></country><lang>fr</lang><value>Matériel informatique</value></content>
+<content><country></country><lang>it</lang><value>Hardware</value></content>
+<content><country></country><lang>zh</lang><value>硬件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Software</value></content>
+<content><country></country><lang>fr</lang><value>Logiciels</value></content>
+<content><country></country><lang>it</lang><value>Software</value></content>
+<content><country></country><lang>zh</lang><value>软件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Hardware</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher du matériel informatique</value></content>
+<content><country></country><lang>it</lang><value>Ricerca hardware</value></content>
+<content><country></country><lang>zh</lang><value>查找硬件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Find Software</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher du logiciel</value></content>
+<content><country></country><lang>it</lang><value>Ricerca software</value></content>
+<content><country></country><lang>zh</lang><value>查找软件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Accessories</value></content>
+<content><country></country><lang>fr</lang><value>Accessoires</value></content>
+<content><country></country><lang>it</lang><value>Accessori</value></content>
+<content><country></country><lang>zh</lang><value>零配件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Installed Software</value></content>
+<content><country></country><lang>fr</lang><value>Logiciels installés</value></content>
+<content><country></country><lang>it</lang><value>Software installati</value></content>
+<content><country></country><lang>zh</lang><value>已安装的软件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Hardware</value></content>
+<content><country></country><lang>fr</lang><value>Nouveau matériel informatique</value></content>
+<content><country></country><lang>it</lang><value>Nuovo hardware</value></content>
+<content><country></country><lang>zh</lang><value>新硬件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>New Software</value></content>
+<content><country></country><lang>fr</lang><value>Nouveau logiciel</value></content>
+<content><country></country><lang>it</lang><value>Nuovo software</value></content>
+<content><country></country><lang>zh</lang><value>新软件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Hardware</value></content>
+<content><country></country><lang>fr</lang><value>Modifier le matériel informatique</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna hardware</value></content>
+<content><country></country><lang>zh</lang><value>编辑硬件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Software</value></content>
+<content><country></country><lang>fr</lang><value>Modifier le logiciel</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna software</value></content>
+<content><country></country><lang>zh</lang><value>编辑软件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup Computer Hardware</value></content>
+<content><country></country><lang>fr</lang><value>Rechercher du matériel informatique</value></content>
+<content><country></country><lang>it</lang><value>Ricerca hardware per computer</value></content>
+<content><country></country><lang>zh</lang><value>查找计算机硬件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Lookup Computer Software</value></content>
+<content><country></country><lang>fr</lang><value>Consultation de logiciel(s)</value></content>
+<content><country></country><lang>it</lang><value>Ricerca software per computer</value></content>
+<content><country></country><lang>zh</lang><value>查找计算机软件</value></content>
+</contents></phrase> </phrases>

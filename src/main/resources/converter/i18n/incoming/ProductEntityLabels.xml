@@ -1,0 +1,3307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="CostComponentType.description.ACTUAL_LABOR_COST">
+        <value lang="de">Effektive Arbeitskosten</value>
+        <value lang="en">Actual Labor Cost</value>
+        <value lang="es">Coste de mano de obra actual</value>
+        <value lang="fr">Coût réel du travail</value>
+        <value lang="it">Costo attuale manodopera</value>
+        <value lang="ro">Cost Actual Manopera</value>
+        <value lang="ru">Действительные трудозатраты</value>
+        <value lang="th">ต้นทุนแรงงานโดยแท้จริง</value>
+        <value lang="zh">实际劳务费用</value>
+        <value lang="zh_TW">實際勞務費用</value>
+    </property>
+    <property key="CostComponentType.description.ACTUAL_MAT_COST">
+        <value lang="de">Effektive Materialkosten</value>
+        <value lang="en">Actual Materials Cost</value>
+        <value lang="es">Coste de material actual</value>
+        <value lang="fr">Coût réel du matériel</value>
+        <value lang="it">Costo attuale materiali</value>
+        <value lang="ro">Cost Actual Materiale</value>
+        <value lang="ru">Действительная стоимость материалов</value>
+        <value lang="th">ต้นทุนวัตถุโดยแท้จริง</value>
+        <value lang="zh">实际材料费用</value>
+        <value lang="zh_TW">實際材料費用</value>
+    </property>
+    <property key="CostComponentType.description.ACTUAL_OTHER_COST">
+        <value lang="de">Effektive andere Kosten</value>
+        <value lang="en">Actual Other Cost</value>
+        <value lang="es">Otro coste actual</value>
+        <value lang="fr">Autre coût réel</value>
+        <value lang="it">Altro costo attuale</value>
+        <value lang="ro">Alt Cost Actual</value>
+        <value lang="ru">Другие действительные затраты</value>
+        <value lang="th">ต้นทุนอื่นๆ โดยแท้จริง</value>
+        <value lang="zh">实际其它费用</value>
+        <value lang="zh_TW">實際其他費用</value>
+    </property>
+    <property key="CostComponentType.description.ACTUAL_ROUTE_COST">
+        <value lang="de">Effektive Wegkosten (Anlageverwendung)</value>
+        <value lang="en">Actual Route (fixed asset usage) Cost</value>
+        <value lang="es">Coste de ruta actual (uso de activo fijo)</value>
+        <value lang="fr">Coût réel d'itinéraire (utilisation d'immobilisation)</value>
+        <value lang="it">Costo effettivo ciclo (utilizzo cespiti)</value>
+        <value lang="ro">Cost Actual Itinerariu (folosire mijloace fixe)</value>
+        <value lang="ru">Действительная стоимость передачи (использование ОФ)</value>
+        <value lang="th">ต้นทุน Route (การใช้ทัรพย์สินไม่หมุนเวียน) โดยแท้จริง</value>
+        <value lang="zh">实际配送 (固定资产使用) 费</value>
+        <value lang="zh_TW">實際配送 (固定資產使用) 費</value>
+    </property>
+    <property key="CostComponentType.description.ESTIMATED_LABOR_COST">
+        <value lang="de">Geschätzte Arbeitskosten</value>
+        <value lang="en">Estimated Labor Cost</value>
+        <value lang="es">Coste estimado de mano de obra</value>
+        <value lang="fr">Estimation de coût du travail</value>
+        <value lang="it">Costo stimato di lavoro</value>
+        <value lang="th">ต้นทุนแรงงานโดยประมาณ</value>
+        <value lang="zh">预计劳务费用</value>
+        <value lang="zh_TW">預計勞務費用</value>
+    </property>
+    <property key="CostComponentType.description.ESTIMATED_MATERIALS_">
+        <value lang="de">Geschätzte Materialkosten</value>
+        <value lang="en">Estimated Materials</value>
+        <value lang="es">Materiales estimados</value>
+        <value lang="fr">Estimation des matériaux</value>
+        <value lang="it">Materiali stimati</value>
+        <value lang="th">วัตถุโดยประมาณ</value>
+        <value lang="zh">预计物料</value>
+        <value lang="zh_TW">預計物料</value>
+    </property>
+    <property key="CostComponentType.description.ESTIMATED_OTHER_COST">
+        <value lang="de">Geschätzte andere Kosten</value>
+        <value lang="en">Estimated Other Cost</value>
+        <value lang="es">Otros costes estimados</value>
+        <value lang="fr">Autre estimation</value>
+        <value lang="it">Altro costo stimato</value>
+        <value lang="th">ต้นทุนอื่น ๆ โดยประมาณ</value>
+        <value lang="zh">预计其它费用</value>
+        <value lang="zh_TW">預計其他費用</value>
+    </property>
+    <property key="CostComponentType.description.EST_STD_LABOR_COST">
+        <value lang="de">Geschätzte Standard-Arbeitskosten</value>
+        <value lang="en">Estimated Standard Labor Cost</value>
+        <value lang="es">Coste estimado estándar de mano de obra</value>
+        <value lang="fr">Estimation standard de coût du travail</value>
+        <value lang="it">Costo standard manodopera stimata</value>
+        <value lang="ro">Cost Standard Manopera Stimata</value>
+        <value lang="ru">Оценочные стандартные трудозатраты</value>
+        <value lang="th">ต้นทุนแรงงานมาตรฐานโดยประมาณ</value>
+        <value lang="zh">预计标准劳务费用</value>
+        <value lang="zh_TW">預計標准勞務費用</value>
+    </property>
+    <property key="CostComponentType.description.EST_STD_MAT_COST">
+        <value lang="de">Geschätzte Standard-Materialkosten</value>
+        <value lang="en">Estimated Standard Materials Cost</value>
+        <value lang="es">Coste estimado estándar de materiales</value>
+        <value lang="fr">Estimation standard du coût du matériel</value>
+        <value lang="it">Costo standard materiali stimati</value>
+        <value lang="ro">Cost Standard Materiale Stimate</value>
+        <value lang="ru">Оценочная стандартная стоимость материалов</value>
+        <value lang="th">ต้นทุนวัตถุมาตรฐานโดยประมาณ</value>
+        <value lang="zh">预计标准材料费用</value>
+        <value lang="zh_TW">預計標准材料費用</value>
+    </property>
+    <property key="CostComponentType.description.EST_STD_OTHER_COST">
+        <value lang="de">Geschätzte Standard andere Kosten</value>
+        <value lang="en">Estimated Standard Other Cost</value>
+        <value lang="es">Otro coste estimado estándar</value>
+        <value lang="fr">Autre estimation standard</value>
+        <value lang="it">Altro costo standard stimato</value>
+        <value lang="ro">Alt Cost Standard Stimat</value>
+        <value lang="ru">Оценочные стандартные другие затраты</value>
+        <value lang="th">ต้นทุนอื่น ๆ มาตรฐานโดยประมาณ</value>
+        <value lang="zh">预计标准其它费用</value>
+        <value lang="zh_TW">預計標准其他費用</value>
+    </property>
+    <property key="CostComponentType.description.EST_STD_ROUTE_COST">
+        <value lang="de">Geschätzte Wegkosten (Anlageverwendung)</value>
+        <value lang="en">Estimated Standard Route (fixed asset usage) Cost</value>
+        <value lang="es">Coste estimado estándar de ruta (uso de activo fijo)</value>
+        <value lang="fr">Estimation standard de coût d'itinéraire (utilisation d'immobilisation)</value>
+        <value lang="it">Costo standard ciclo stimato (utilizzo cespiti)</value>
+        <value lang="ro">Cost Standard Itinerariu Stimat (folosire mijloace fixe)</value>
+        <value lang="ru">Оценочная стандартная стоимость передачи (использование ОФ)</value>
+        <value lang="th">ต้นทุน Route  มาตรฐานโดยประมาณ (การใช้ทรัพย์สินไม่ถาวร)</value>
+        <value lang="zh">预计标准配送 (固定资产使用) 费</value>
+        <value lang="zh_TW">預計標准配送 (固定資產使用) 費</value>
+    </property>
+    <property key="CostComponentType.description.LABOR_COST">
+        <value lang="de">Arbeitskosten</value>
+        <value lang="en">Labor Cost</value>
+        <value lang="es">Coste de mano de obra</value>
+        <value lang="fr">Coût du travail</value>
+        <value lang="it">Costo manodopera</value>
+        <value lang="ro">Cost Manopera</value>
+        <value lang="ru">Трудозатраты</value>
+        <value lang="th">ต้นทุนแรงงาน</value>
+        <value lang="zh">劳务费用</value>
+        <value lang="zh_TW">勞務費用</value>
+    </property>
+    <property key="CostComponentType.description.MAT_COST">
+        <value lang="de">Materialkosten</value>
+        <value lang="en">Materials Cost</value>
+        <value lang="es">Coste de material</value>
+        <value lang="fr">Coût de matériel</value>
+        <value lang="it">Costo materiali</value>
+        <value lang="ro">Cost Materiale</value>
+        <value lang="ru">Стоимость материалов</value>
+        <value lang="th">ต้นทุนวัตถุ</value>
+        <value lang="zh">材料费用</value>
+        <value lang="zh_TW">材料費用</value>
+    </property>
+    <property key="CostComponentType.description.OTHER_COST">
+        <value lang="de">Andere Kosten</value>
+        <value lang="en">Other Cost</value>
+        <value lang="es">Otro coste</value>
+        <value lang="fr">Autre coût</value>
+        <value lang="it">Altro costo</value>
+        <value lang="ro">Alte Costuri</value>
+        <value lang="ru">Другие затраты</value>
+        <value lang="th">ต้นทุนอื่นๆ </value>
+        <value lang="zh">其它费用</value>
+        <value lang="zh_TW">其他費用</value>
+    </property>
+    <property key="CostComponentType.description.ROUTE_COST">
+        <value lang="de">Wegkosten (Anlageverwendung)</value>
+        <value lang="en">Route (fixed asset usage) Cost</value>
+        <value lang="es">Coste de ruta (uso de activo fijo)</value>
+        <value lang="fr">Coût d'itinéraire (utilisation d'immobilisation)</value>
+        <value lang="it">Costo ciclo (utilizzo cespiti)</value>
+        <value lang="ro">Cost Itinerariu (folosire mijloace fixe)</value>
+        <value lang="ru">Стоимость передачи (использование ОФ)</value>
+        <value lang="th">ต้นทุน Route (การใช้ทรัพย์สินไม่ถาวร) </value>
+        <value lang="zh">配送 (固定资产使用) 费</value>
+        <value lang="zh_TW">配送 (固定資產使用) 費</value>
+    </property>
+    <property key="FacilityGroupType.description.MGMT_STRUCTURE">
+        <value lang="de">Verwaltungsstruktur</value>
+        <value lang="en">Management Structure</value>
+        <value lang="es">Estructura de gestión</value>
+        <value lang="fr">Structure de gestion</value>
+        <value lang="it">Gestione struttura</value>
+        <value lang="ro">Gestiune Structura</value>
+        <value lang="ru">Управляющая структура</value>
+        <value lang="th">โครงสร้างการจัดการ</value>
+        <value lang="zh">管理结构</value>
+        <value lang="zh_TW">管理結構</value>
+    </property>
+    <property key="FacilityGroupType.description.PRICING_GROUP">
+        <value lang="de">Preisgruppe</value>
+        <value lang="en">Pricing Group</value>
+        <value lang="es">Grupo de precio</value>
+        <value lang="fr">Groupe de prix</value>
+        <value lang="it">Gruppo prezzo</value>
+        <value lang="ro">Grup Pret</value>
+        <value lang="ru">Ценовая группа</value>
+        <value lang="th">กลุ่มราคา</value>
+        <value lang="zh">价格组</value>
+        <value lang="zh_TW">價格組</value>
+    </property>
+    <property key="FacilityType.description.BUILDING">
+        <value lang="de">Gebäude</value>
+        <value lang="en">Building</value>
+        <value lang="es">Inmueble</value>
+        <value lang="fr">Immeuble</value>
+        <value lang="it">Palazzo</value>
+        <value lang="ro">Bloc</value>
+        <value lang="ru">Здание</value>
+        <value lang="th">อาคาร</value>
+        <value lang="zh">建筑</value>
+        <value lang="zh_TW">建築</value>
+    </property>
+    <property key="FacilityType.description.CALL_CENTER">
+        <value lang="de">Callcenter</value>
+        <value lang="en">Call Center</value>
+        <value lang="es">Call Center</value>
+        <value lang="fr">Centre d'appel</value>
+        <value lang="it">Call center</value>
+        <value lang="ro">Call Center</value>
+        <value lang="ru">Центр телефонного обслуживания</value>
+        <value lang="th">ประชาสัมพันธ์</value>
+        <value lang="zh">呼叫中心</value>
+        <value lang="zh_TW">呼叫中心</value>
+    </property>
+    <property key="FacilityType.description.FLOOR">
+        <value lang="de">Stockwerk</value>
+        <value lang="en">Floor</value>
+        <value lang="es">Planta</value>
+        <value lang="fr">Étage</value>
+        <value lang="it">Piano</value>
+        <value lang="ro">Etaj</value>
+        <value lang="ru">Этаж</value>
+        <value lang="th">ชั้นอาคาร</value>
+        <value lang="zh">楼层</value>
+        <value lang="zh_TW">樓層</value>
+    </property>
+    <property key="FacilityType.description.OFFICE">
+        <value lang="de">Büro</value>
+        <value lang="en">Office</value>
+        <value lang="es">Oficina</value>
+        <value lang="fr">Bureau</value>
+        <value lang="it">Ufficio</value>
+        <value lang="ro">Uficiu</value>
+        <value lang="ru">Офис</value>
+        <value lang="th">ที่ทำงาน</value>
+        <value lang="zh">办公室</value>
+        <value lang="zh_TW">辦公室</value>
+    </property>
+    <property key="FacilityType.description.PLANT">
+        <value lang="de">Fabrik</value>
+        <value lang="en">Plant</value>
+        <value lang="es">Fábrica</value>
+        <value lang="fr">Usine</value>
+        <value lang="it">Fabbrica</value>
+        <value lang="ro">Fabrica</value>
+        <value lang="ru">Завод</value>
+        <value lang="th">การเพาะปลูก</value>
+        <value lang="zh">工厂</value>
+        <value lang="zh_TW">工廠</value>
+    </property>
+    <property key="FacilityType.description.RETAIL_STORE">
+        <value lang="de">Einzelhandelsgeschäft</value>
+        <value lang="en">Retail Store</value>
+        <value lang="es">Tienda de venta al por menor</value>
+        <value lang="fr">Magasin de vente</value>
+        <value lang="it">Negozio al dettaglio</value>
+        <value lang="ro">Magazin la Detaliu</value>
+        <value lang="ru">Розничный магазин</value>
+        <value lang="th">คลังสินค้าการขายปลีก</value>
+        <value lang="zh">零售店</value>
+        <value lang="zh_TW">零售店</value>
+    </property>
+    <property key="FacilityType.description.ROOM">
+        <value lang="de">Raum</value>
+        <value lang="en">Room</value>
+        <value lang="es">Habitación</value>
+        <value lang="fr">Salle</value>
+        <value lang="it">Stanza</value>
+        <value lang="ro">Camera</value>
+        <value lang="ru">Комната</value>
+        <value lang="th">ห้อง</value>
+        <value lang="zh">房间</value>
+        <value lang="zh_TW">房間</value>
+    </property>
+    <property key="FacilityType.description.WAREHOUSE">
+        <value lang="de">Warenlager</value>
+        <value lang="en">Warehouse</value>
+        <value lang="es">Almacén</value>
+        <value lang="fr">Entrepôt</value>
+        <value lang="it">Magazzino</value>
+        <value lang="ro">Magazin</value>
+        <value lang="ru">Склад</value>
+        <value lang="th">คลังข้อมูล</value>
+        <value lang="zh">仓库</value>
+        <value lang="zh_TW">倉庫</value>
+    </property>
+    <property key="GoodIdentificationType.description.GOOGLE_ID">
+        <value lang="en">Google Id</value>
+        <value lang="it">Codice Google</value>
+        <value lang="zh">谷歌用户名</value>
+        <value lang="zh_TW">谷歌用戶名</value>
+    </property>
+    <property key="GoodIdentificationType.description.ISBN">
+        <value lang="de">ISBN</value>
+        <value lang="en">ISBN</value>
+        <value lang="es">ISBN</value>
+        <value lang="fr">ISBN</value>
+        <value lang="it">ISBN</value>
+        <value lang="ro">ISBN</value>
+        <value lang="ru">ISBN</value>
+        <value lang="th">ISBN</value>
+        <value lang="zh">ISBN</value>
+        <value lang="zh_TW">ISBN</value>
+    </property>
+    <property key="GoodIdentificationType.description.MANUFACTURER_ID_NO">
+        <value lang="de">Hersteller (Modell) Nummer</value>
+        <value lang="en">Manufacturer (Model) Number</value>
+        <value lang="es">Número de modelo del fabricante</value>
+        <value lang="fr">N° du fabricant</value>
+        <value lang="it">Numero (modello) produttore</value>
+        <value lang="ro">Numar (Model) Productor</value>
+        <value lang="ru">Артикул (Модель)</value>
+        <value lang="th">หมายเลขการผลิต (Model)</value>
+        <value lang="zh">制造商 (款式) 编号</value>
+        <value lang="zh_TW">制造商 (款式) 編號</value>
+    </property>
+    <property key="GoodIdentificationType.description.MODEL_YEAR">
+        <value lang="de">Modelljahr</value>
+        <value lang="en">Model Year</value>
+        <value lang="es">Año del modelo</value>
+        <value lang="fr">Année modèle</value>
+        <value lang="it">Anno modello</value>
+        <value lang="ro">An Model</value>
+        <value lang="ru">Год выпуска модели</value>
+        <value lang="th">โมเดลปี</value>
+        <value lang="zh">款式年度</value>
+        <value lang="zh_TW">款式年度</value>
+    </property>
+    <property key="GoodIdentificationType.description.OTHER_ID">
+        <value lang="de">Andere</value>
+        <value lang="en">Other</value>
+        <value lang="es">Otro</value>
+        <value lang="fr">Autre</value>
+        <value lang="it">Altro</value>
+        <value lang="ro">Alte</value>
+        <value lang="ru">Другой</value>
+        <value lang="th">อื่นๆ</value>
+        <value lang="zh">其它</value>
+        <value lang="zh_TW">其他</value>
+    </property>
+    <property key="GoodIdentificationType.description.SKU">
+        <value lang="de">Artikelnummer (SKU - Stock Keeping Unit)</value>
+        <value lang="en">SKU</value>
+        <value lang="es">Código único producto</value>
+        <value lang="fr">SKU</value>
+        <value lang="it">Codice univoco prodotto</value>
+        <value lang="ro">Cod Univoc Produs</value>
+        <value lang="ru">SKU</value>
+        <value lang="th">SKU</value>
+        <value lang="zh">最小存货单位</value>
+        <value lang="zh_TW">最小存貨單位</value>
+    </property>
+    <property key="GoodIdentificationType.description.UPCA">
+        <value lang="de">Barcode UPCA</value>
+        <value lang="en">UPCA</value>
+        <value lang="es">Código de barra UPCA</value>
+        <value lang="fr">UPCA</value>
+        <value lang="it">Codice a barre UPCA</value>
+        <value lang="ro">Cod Bare UPCA</value>
+        <value lang="ru">UPCA</value>
+        <value lang="th">UPCA</value>
+        <value lang="zh">UPCA条码</value>
+        <value lang="zh_TW">UPCA條碼</value>
+    </property>
+    <property key="GoodIdentificationType.description.UPCE">
+        <value lang="de">Barcode UPCE</value>
+        <value lang="en">UPCE</value>
+        <value lang="es">Código de barra UPCE</value>
+        <value lang="fr">UPCE</value>
+        <value lang="it">Codice a barre UPCE</value>
+        <value lang="ro">Cod Bare UPCE</value>
+        <value lang="ru">UPCE</value>
+        <value lang="th">UPCE</value>
+        <value lang="zh">UPCE条码</value>
+        <value lang="zh_TW">UPCE條碼</value>
+    </property>
+    <property key="InventoryItemType.description.NON_SERIAL_INV_ITEM">
+        <value lang="de">ohne Seriennummern</value>
+        <value lang="en">Non-Serialized</value>
+        <value lang="es">Sin número de serie</value>
+        <value lang="fr">Non en série</value>
+        <value lang="it">Non-serializzato</value>
+        <value lang="ro">Ne-Serializat</value>
+        <value lang="ru">Не серийный</value>
+        <value lang="th">ไม่มีลำดับหมายเลข</value>
+        <value lang="zh">非序列化</value>
+        <value lang="zh_TW">非序列化</value>
+    </property>
+    <property key="InventoryItemType.description.SERIALIZED_INV_ITEM">
+        <value lang="de">mit Seriennummern</value>
+        <value lang="en">Serialized</value>
+        <value lang="es">Con número de serie</value>
+        <value lang="fr">En série</value>
+        <value lang="it">Serializzato</value>
+        <value lang="ro">Serializat</value>
+        <value lang="ru">Серийный</value>
+        <value lang="th">ลำดับหมายเลข</value>
+        <value lang="zh">序列化</value>
+        <value lang="zh_TW">序列化</value>
+    </property>
+    <property key="ProdCatalogCategoryType.description.PCCT_ADMIN_ALLW">
+        <value lang="de">Administrator erlauben (Eine)</value>
+        <value lang="en">Admin Allow (One)</value>
+        <value lang="es">Permitir administración (uno)</value>
+        <value lang="fr">Administration autorisation (un)</value>
+        <value lang="it">Amministrazione permessa (Uno)</value>
+        <value lang="ro">Administratie Permisa(Unu)</value>
+        <value lang="ru">Администрирование разрешено (Одна)</value>
+        <value lang="th">ผู้ดูแลระบบอนุญาต (หนึ่ง)</value>
+        <value lang="zh">允许管理 (一个)</value>
+        <value lang="zh_TW">允許管理 (一個)</value>
+    </property>
+    <property key="ProdCatalogCategoryType.description.PCCT_BROWSE_ROOT">
+        <value lang="de">Einstiegspunkt (Eine)</value>
+        <value lang="en">Browse Root (One)</value>
+        <value lang="es">Navegación (uno)</value>
+        <value lang="fr">Navigation (un)</value>
+        <value lang="it">Mostra radice (Uno)</value>
+        <value lang="ro">Afiseaza Radacina (Unu)</value>
+        <value lang="ru">Для просмотра (Одна)</value>
+        <value lang="th">แสดง Root (หนึ่ง)</value>
+        <value lang="zh">浏览根 (一个)</value>
+        <value lang="zh_TW">瀏覽根 (一個)</value>
+    </property>
+    <property key="ProdCatalogCategoryType.description.PCCT_EBAY_ROOT">
+        <value lang="de">Ebay Root (Eine)</value>
+        <value lang="en">Ebay Root (One)</value>
+    </property>
+    <property key="ProdCatalogCategoryType.description.PCCT_MOST_POPULAR">
+        <value lang="de">Am populärsten (Eine)</value>
+        <value lang="en">Most Popular (One)</value>
+        <value lang="es">Más popular (uno)</value>
+        <value lang="fr">Le plus populaire (un)</value>
+        <value lang="it">Più popolari (Uno)</value>
+        <value lang="ro">Mai Populari (Unu)</value>
+        <value lang="ru">Наиболее популярные (Одна)</value>
+        <value lang="th">ความนิยมสูงสุด (หนึ่ง)</value>
+        <value lang="zh">最具人气 (一个)</value>
+        <value lang="zh_TW">最具人氣 (一個)</value>
+    </property>
+    <property key="ProdCatalogCategoryType.description.PCCT_OTHER_SEARCH">
+        <value lang="de">Andere Suche (Mehrere)</value>
+        <value lang="en">Other Search (Many)</value>
+        <value lang="es">Otras búsquedas (muchos)</value>
+        <value lang="fr">Autres recherches (plusieurs)</value>
+        <value lang="it">Altre ricerche (Molti)</value>
+        <value lang="ro">Alte Cautari (Multi)</value>
+        <value lang="ru">Другие для поиска (Много)</value>
+        <value lang="th">ค้นหาอื่น ๆ (มาก)</value>
+        <value lang="zh">其它搜索 (许多)</value>
+        <value lang="zh_TW">其他搜索 (許多)</value>
+    </property>
+    <property key="ProdCatalogCategoryType.description.PCCT_PROMOTIONS">
+        <value lang="de">Aktionen (Eine)</value>
+        <value lang="en">Promotions (One)</value>
+        <value lang="es">Promociones (uno)</value>
+        <value lang="fr">Promotions (un)</value>
+        <value lang="it">Promozioni (Uno)</value>
+        <value lang="ro">Promotii (Unu)</value>
+        <value lang="ru">Специальные предложения (Одна)</value>
+        <value lang="th">โปรโมชัน (หนึ่ง)</value>
+        <value lang="zh">促销 (一个)</value>
+        <value lang="zh_TW">促銷 (一個)</value>
+    </property>
+    <property key="ProdCatalogCategoryType.description.PCCT_PURCH_ALLW">
+        <value lang="de">Einkauf erlauben (Eine)</value>
+        <value lang="en">Purchase Allow (One)</value>
+        <value lang="es">Permitir compra (uno)</value>
+        <value lang="fr">Permission d'achat (une)</value>
+        <value lang="it">Acquisto permesso (Uno)</value>
+        <value lang="ro">Cumparare Permisa(Unu)</value>
+        <value lang="ru">Приобретение возможно (Одна)</value>
+        <value lang="th">การอนุญาตการสั่งซื้อ (หนึ่ง)</value>
+        <value lang="zh">允许购买 (一个)</value>
+        <value lang="zh_TW">允許購買 (一個)</value>
+    </property>
+    <property key="ProdCatalogCategoryType.description.PCCT_QUICK_ADD">
+        <value lang="de">Rasches Hinzufügen (Mehrere)</value>
+        <value lang="en">Quick Add (Many)</value>
+        <value lang="es">Añadir rápido (muchos)</value>
+        <value lang="fr">Ajout rapide (plusieurs)</value>
+        <value lang="it">Aggiunta veloce (Molti)</value>
+        <value lang="ro">Adaugare Rapida (Molti)</value>
+        <value lang="ru">Быстрое добавление (Много)</value>
+        <value lang="th">เพิ่มอย่างรวดเร็ว (มาก)</value>
+        <value lang="zh">快速添加 (许多)</value>
+        <value lang="zh_TW">快速添加 (許多)</value>
+    </property>
+    <property key="ProdCatalogCategoryType.description.PCCT_SEARCH">
+        <value lang="de">Standard Suche (Eine)</value>
+        <value lang="en">Default Search (One)</value>
+        <value lang="es">Búsqueda por defecto (uno)</value>
+        <value lang="fr">Recherche par défaut (un)</value>
+        <value lang="it">Ricerca di default (Uno)</value>
+        <value lang="ro">Cautare de Default (Unu)</value>
+        <value lang="ru">Поиск по умолчанию (Одна)</value>
+        <value lang="th">ค่าเริ่มต้นการค้นหา (หนึ่ง)</value>
+        <value lang="zh">缺省搜索 (一个)</value>
+        <value lang="zh_TW">缺省搜索 (一個)</value>
+    </property>
+    <property key="ProdCatalogCategoryType.description.PCCT_VIEW_ALLW">
+        <value lang="de">Anzeige erlauben (Eine)</value>
+        <value lang="en">View Allow (One)</value>
+        <value lang="es">Permitir ver (uno)</value>
+        <value lang="fr">Visualisation (un)</value>
+        <value lang="it">Visione permessa (Uno)</value>
+        <value lang="ro">Viziune Permisa(Unu)</value>
+        <value lang="ru">Просмотр разрешен (Одна)</value>
+        <value lang="th">การอนุญาตการแสดง (หนึ่ง)</value>
+        <value lang="zh">允许浏览 (一个)</value>
+        <value lang="zh_TW">允許瀏覽 (一個)</value>
+    </property>
+    <property key="ProdCatalogCategoryType.description.PCCT_WHATS_NEW">
+        <value lang="de">Neuigkeiten (Eine)</value>
+        <value lang="en">What's New (One)</value>
+        <value lang="es">Novedades (uno)</value>
+        <value lang="fr">Nouveauté (une)</value>
+        <value lang="it">Quali novità (Uno)</value>
+        <value lang="ro">Care Noutati(Unu)</value>
+        <value lang="ru">Новые продукты (Одна)</value>
+        <value lang="th">อะไรใหม่ (หนึ่ง)</value>
+        <value lang="zh">新品 (一个)</value>
+        <value lang="zh_TW">新品 (一個)</value>
+    </property>
+    <property key="ProdConfItemContentType.description.DESCRIPTION">
+        <value lang="de">Beschreibung</value>
+        <value lang="en">Description</value>
+        <value lang="es">Descripción</value>
+        <value lang="fr">Description</value>
+        <value lang="it">Descrizione</value>
+        <value lang="ro">Descriere</value>
+        <value lang="ru">Описание</value>
+        <value lang="th">คำอธิบาย</value>
+        <value lang="zh">描述</value>
+        <value lang="zh_TW">描述</value>
+    </property>
+    <property key="ProdConfItemContentType.description.IMAGE_URL">
+        <value lang="de">Bild</value>
+        <value lang="en">Image</value>
+        <value lang="es">Imagen</value>
+        <value lang="fr">Image</value>
+        <value lang="it">Immagine</value>
+        <value lang="ro">Imagine</value>
+        <value lang="ru">Изображение</value>
+        <value lang="th">รูปภาพ</value>
+        <value lang="zh">图像</value>
+        <value lang="zh_TW">圖像</value>
+    </property>
+    <property key="ProdConfItemContentType.description.INSTRUCTIONS">
+        <value lang="de">Instruktionen</value>
+        <value lang="en">Instructions</value>
+        <value lang="es">Instrucciones</value>
+        <value lang="fr">Instructions</value>
+        <value lang="it">Istruzioni</value>
+        <value lang="ro">Instructiuni</value>
+        <value lang="ru">Инструкции</value>
+        <value lang="th">คำแนะนำ</value>
+        <value lang="zh">说明</value>
+        <value lang="zh_TW">說明</value>
+    </property>
+    <property key="ProdConfItemContentType.description.LONG_DESCRIPTION">
+        <value lang="de">Beschreibung - Lang</value>
+        <value lang="en">Description - Long</value>
+        <value lang="es">Descrpción - Larga</value>
+        <value lang="fr">Description - Longue</value>
+        <value lang="it">Descrizione - lunga</value>
+        <value lang="ro">Descriere - Lunga</value>
+        <value lang="ru">Полное описание</value>
+        <value lang="th">การอธิบาย</value>
+        <value lang="zh">描述 - 详细</value>
+        <value lang="zh_TW">描述 - 詳細</value>
+    </property>
+    <property key="ProductAssocType.description.ALSO_BOUGHT">
+        <value lang="de">hat ebenfalls eingekauft</value>
+        <value lang="en">Also Bought</value>
+        <value lang="es">También compró</value>
+        <value lang="fr">Egalement acheté</value>
+        <value lang="it">Anche comprato</value>
+        <value lang="ro">Si Cumparate</value>
+        <value lang="ru">Сопутствующая</value>
+        <value lang="th">ดังนั้นซื้อ</value>
+        <value lang="zh">同时购买</value>
+        <value lang="zh_TW">同時購買</value>
+    </property>
+    <property key="ProductAssocType.description.ALTERNATIVE_PACKAGE">
+        <value lang="en">Alternative Packaging</value>
+        <value lang="fr">Conditionnement alternatif</value>
+    </property>
+    <property key="ProductAssocType.description.ENGINEER_COMPONENT">
+        <value lang="de">Stückliste Engineering</value>
+        <value lang="en">Engineering Bill of Materials</value>
+        <value lang="es">Lista de materiales de ingeniería</value>
+        <value lang="fr">Nomenclatures d'étude</value>
+        <value lang="it">Distinta base ingegneria</value>
+        <value lang="ro">Lista repere Inginerizata</value>
+        <value lang="ru">Конструкторская спецификация материалов</value>
+        <value lang="th">วิศวะกรรมศาสตร์รายการวัตถุ</value>
+        <value lang="zh">工程材料清单</value>
+        <value lang="zh_TW">工程材料清單</value>
+    </property>
+    <property key="ProductAssocType.description.MANUF_COMPONENT">
+        <value lang="de">Stückliste Produktion</value>
+        <value lang="en">Manufacturing Bill of Materials</value>
+        <value lang="es">Lista de materiales de fabricación</value>
+        <value lang="fr">Nomenclatures de fabrication</value>
+        <value lang="it">Distinta base produzione</value>
+        <value lang="ro">Lista repere Productie</value>
+        <value lang="ru">Производственная спецификация материалов</value>
+        <value lang="th">การผลิตรายการวัตถุ</value>
+        <value lang="zh">制造材料清单</value>
+        <value lang="zh_TW">制造材料清單</value>
+    </property>
+    <property key="ProductAssocType.description.MARKETING_PACKAGE">
+        <value lang="de">Marketingpaket</value>
+        <value lang="en">Marketing Package</value>
+        <value lang="es">Componente de paquete de marketing</value>
+        <value lang="fr">Produit commercialisé avec</value>
+        <value lang="it">Pacco di vendita</value>
+        <value lang="ro">Component Pachet Vanzare</value>
+        <value lang="ru">Компонент маркетингового пакета</value>
+        <value lang="th">แพคเกจการตลาด</value>
+        <value lang="zh">销售包装组件</value>
+        <value lang="zh_TW">銷售包裝元件</value>
+    </property>
+    <property key="ProductAssocType.description.MARKETING_PKG_AUTO">
+        <value lang="de">Marketingpaket automatisch in Einzelpositionen aufteilen</value>
+        <value lang="en">Marketing Package Auto</value>
+        <value lang="es">Examinar automáticamente el componente del paquete de marketing</value>
+        <value lang="fr">Marketing Package Auto Explode Component</value>
+        <value lang="it">Pacco di vendita automatico</value>
+        <value lang="ro">Componente Pachet Vanzare Exploadat in mod Automat</value>
+        <value lang="ru">Компонент автоматически расширяющий маркетинговый пакет</value>
+        <value lang="th">MARKETING_PKG_AUTO</value>
+        <value lang="zh">销售包装自动分拆组件</value>
+        <value lang="zh_TW">銷售包裝自動分拆元件</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_ACCESSORY">
+        <value lang="de">Zubehör</value>
+        <value lang="en">Accessory</value>
+        <value lang="es">Accesorio</value>
+        <value lang="fr">Accessoire</value>
+        <value lang="it">Accessori</value>
+        <value lang="ru">Аксессуар</value>
+        <value lang="th">ส่วนประกอบ</value>
+        <value lang="zh">零配件</value>
+        <value lang="zh_TW">零配件</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_AUTORO">
+        <value lang="de">Automatische Neubestellung (benötigt Wiederholungsinfo ID)</value>
+        <value lang="en">Auto Reorder (needs recurrenceInfoId)</value>
+        <value lang="es">Volver a pedir automáticamente (requiere ID de recurrencia)</value>
+        <value lang="fr">Réapprovisionnement automatique(nécessite recurrenceInfoId)</value>
+        <value lang="it">Riordino automatico</value>
+        <value lang="th">การสั่งซื้ออัตโนมัติ (ต้องการรหัสข้อมูลการเกิดขึ้นอีกครั้ง)</value>
+        <value lang="zh">自动记录(需要复现信息标识recurrenceInfoId)</value>
+        <value lang="zh_TW">自動重排(需要recurrenceInfoId)</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_COMPLEMENT">
+        <value lang="de">Zusatz oder Ergänzende (Cross-Sell)</value>
+        <value lang="en">Complementary or Cross-Sell</value>
+        <value lang="es">Complementario o cruzados</value>
+        <value lang="fr">Éléments complémentaires ou croisés</value>
+        <value lang="it">Complementario o vendita-trasversale</value>
+        <value lang="ro">Complementar sau Vanzare -Transversala </value>
+        <value lang="ru">Дополнительная и кросс-продажа</value>
+        <value lang="th">Complementary or Cross-Sell</value>
+        <value lang="zh">补充或交叉销售</value>
+        <value lang="zh_TW">補充或交叉銷售</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_COMPONENT">
+        <value lang="de">Effektive Produktkomponente</value>
+        <value lang="en">Actual Product Component</value>
+        <value lang="es">Componente del producto actual</value>
+        <value lang="fr">Composant d'un regroupement de produits</value>
+        <value lang="it">Componente prodotto attuale</value>
+        <value lang="ro">Componente Produs Actual</value>
+        <value lang="ru">Реальный компонент продукта</value>
+        <value lang="th">ส่วนประกอบสินค้าโดยแท้จริง</value>
+        <value lang="zh">实际产品组件</value>
+        <value lang="zh_TW">實際產品元件</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_CONF">
+        <value lang="en">Configurable product instance</value>
+        <value lang="it">Prodotto configurabile</value>
+        <value lang="zh">可配置产品实例</value>
+        <value lang="zh_TW">可配置產品實例</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_INCOMPATABLE">
+        <value lang="de">Inkompatibel</value>
+        <value lang="en">Incompatable</value>
+        <value lang="es">Incompatible</value>
+        <value lang="fr">Incompatible</value>
+        <value lang="it">Incompatibile</value>
+        <value lang="ro">Incompatibil</value>
+        <value lang="ru">Несовместимость</value>
+        <value lang="th">ขัดแย้งกัน</value>
+        <value lang="zh">不兼容</value>
+        <value lang="zh_TW">不相容</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_MANUFACTURED">
+        <value lang="de">Produkt hergestellt als</value>
+        <value lang="en">Product Manufactured As</value>
+        <value lang="es">Producto fabricado como</value>
+        <value lang="fr">Produit fini</value>
+        <value lang="it">Prodotto costruito come</value>
+        <value lang="ro">Produs Construit Ca</value>
+        <value lang="ru">Продукт произведенный как</value>
+        <value lang="th">การผลิตสินค้าเหมือน</value>
+        <value lang="zh">生产的产品作为</value>
+        <value lang="zh_TW">生產的產品作為</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_OBSOLESCENCE">
+        <value lang="de">Neue Version, Ersatz</value>
+        <value lang="en">New Version, Replacement</value>
+        <value lang="es">Nueva versión, Reemplazo</value>
+        <value lang="fr">Nouvelle version de remplacement</value>
+        <value lang="it">Nuova versione, sostituzione</value>
+        <value lang="ro">Noua Versiune, Substitutie</value>
+        <value lang="ru">Новая версия, замещение</value>
+        <value lang="th">เวอร์ชันใหม่, การแทนที่</value>
+        <value lang="zh">新版本，替换</value>
+        <value lang="zh_TW">新版本，替換</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_REFURB">
+        <value lang="de">Verbesserter Ersatz</value>
+        <value lang="en">Refurbished Equivalent</value>
+        <value lang="es">Equivalente renovado</value>
+        <value lang="fr">Echange standard</value>
+        <value lang="it">Equivalente rinnovato</value>
+        <value lang="ru">Замененный эквивалент</value>
+        <value lang="th">เท่ากับทำใหม่</value>
+        <value lang="zh">翻新品</value>
+        <value lang="zh_TW">翻新品</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_REPAIR_SRV">
+        <value lang="de">Reparaturdienstleistung</value>
+        <value lang="en">Repair Service</value>
+        <value lang="es">Servicio de reparación</value>
+        <value lang="fr">Service de réparation</value>
+        <value lang="it">Servizio riparazioni</value>
+        <value lang="ru">Услуги ремонта</value>
+        <value lang="th">บริการซ่อมแซม</value>
+        <value lang="zh">维修服务</value>
+        <value lang="zh_TW">維修服務</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_REVISION">
+        <value lang="de">Revision</value>
+        <value lang="en">Revision</value>
+        <value lang="es">Posibilidad</value>
+        <value lang="fr">Révision</value>
+        <value lang="it">Revisione</value>
+        <value lang="ro">Revizie</value>
+        <value lang="ru">Исправление</value>
+        <value lang="th">การปรับปรุงใหม่</value>
+        <value lang="zh">改进型</value>
+        <value lang="zh_TW">改進型</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_SUBSTITUTE">
+        <value lang="de">Gleich oder Ersatz</value>
+        <value lang="en">Equivalent or Substitute</value>
+        <value lang="es">Equivalente o Sustituto</value>
+        <value lang="fr">Équivalent ou remplaçant</value>
+        <value lang="it">Equivalente o sostituto</value>
+        <value lang="ro">Echivalent sau Substituit </value>
+        <value lang="ru">Эквивалент или заменитель</value>
+        <value lang="th">เท่ากับหรือแทนที่</value>
+        <value lang="zh">等价或替代</value>
+        <value lang="zh_TW">等價或替代</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_UPGRADE">
+        <value lang="de">Upgrade oder Up-Sell</value>
+        <value lang="en">Upgrade or Up-Sell</value>
+        <value lang="es">Actualización o Versión superior</value>
+        <value lang="fr">Version supérieure ou plus récente</value>
+        <value lang="it">Aggiornato o aumentato</value>
+        <value lang="ro">Actualizat sau Marit </value>
+        <value lang="ru">Модернизация или дооснащение</value>
+        <value lang="th">Upgrade or Up-Sell</value>
+        <value lang="zh">升级或向上销售</value>
+        <value lang="zh_TW">升級或向上銷售</value>
+    </property>
+    <property key="ProductAssocType.description.PRODUCT_VARIANT">
+        <value lang="de">Produktvariante</value>
+        <value lang="en">Product Variant</value>
+        <value lang="es">Variante de producto</value>
+        <value lang="fr">Article décliné</value>
+        <value lang="it">Variante prodotto</value>
+        <value lang="ro">Variante Produs</value>
+        <value lang="ru">Вариант продукта</value>
+        <value lang="th">การเปลี่ยนแปลงสินค้า</value>
+        <value lang="zh">产品变型</value>
+        <value lang="zh_TW">產品變型</value>
+    </property>
+    <property key="ProductAssocType.description.UNIQUE_ITEM">
+        <value lang="de">Unikat</value>
+        <value lang="en">Unique Item</value>
+        <value lang="es">Artículo único</value>
+        <value lang="fr">Référence unique</value>
+        <value lang="it">Riga univoca</value>
+        <value lang="ro">Linie Univoca</value>
+        <value lang="ru">Уникальная позиция</value>
+        <value lang="th">รายการลักษณะเฉพาะ</value>
+        <value lang="zh">独有的明细</value>
+        <value lang="zh_TW">獨有的明細</value>
+    </property>
+    <property key="ProductCategoryContentType.description.CATEGORY_IMAGE_ALT">
+        <value lang="de">Kategorie Bild Alternativtext</value>
+        <value lang="en">Category Image Alt Text</value>
+        <value lang="it">Testo alternativo immagine categoria</value>
+        <value lang="zh">分类图片替代文字</value>
+        <value lang="zh_TW">分類圖片替代文字</value>
+    </property>
+    <property key="ProductCategoryContentType.description.CATEGORY_IMAGE_URL">
+        <value lang="de">Kategorie Bild URL</value>
+        <value lang="en">Category Image URL</value>
+        <value lang="es">URL de imagen de la categoría</value>
+        <value lang="fr">URL de catégorie d'image</value>
+        <value lang="it">URL immagine categoria</value>
+        <value lang="ro">URL Imagine Categorie</value>
+        <value lang="ru">URL изображения категории</value>
+        <value lang="th">หมวดหมู่รูปภาพ URL</value>
+        <value lang="zh">分类图片网址</value>
+        <value lang="zh_TW">分類圖片網址</value>
+    </property>
+    <property key="ProductCategoryContentType.description.CATEGORY_NAME">
+        <value lang="de">Kategorie Name</value>
+        <value lang="en">Category Name</value>
+        <value lang="es">Nombre de categoría</value>
+        <value lang="fr">Nom de catégorie</value>
+        <value lang="it">Nome categoria</value>
+        <value lang="ro">Nume Categorie</value>
+        <value lang="ru">Имя категории</value>
+        <value lang="th">ชื่อหมวดหมู่</value>
+        <value lang="zh">分类名称</value>
+        <value lang="zh_TW">分類名稱</value>
+    </property>
+    <property key="ProductCategoryContentType.description.DESCRIPTION">
+        <value lang="de">Beschreibung</value>
+        <value lang="en">Description</value>
+        <value lang="es">Descripción</value>
+        <value lang="fr">Description</value>
+        <value lang="it">Descrizione</value>
+        <value lang="ro">Descriere</value>
+        <value lang="ru">Описание</value>
+        <value lang="th">คำอธิบาย</value>
+        <value lang="zh">描述</value>
+        <value lang="zh_TW">描述</value>
+    </property>
+    <property key="ProductCategoryContentType.description.FOOTER">
+        <value lang="de">Fusszeile</value>
+        <value lang="en">Footer</value>
+        <value lang="es">Pie de página</value>
+        <value lang="fr">Note de bas de page</value>
+        <value lang="it">Intestazione fine pagina</value>
+        <value lang="ro">Intestare Sfarsit Pagina</value>
+        <value lang="ru">Нижняя часть страницы</value>
+        <value lang="th">ท้ายกระดาษ</value>
+        <value lang="zh">页脚</value>
+        <value lang="zh_TW">頁腳</value>
+    </property>
+    <property key="ProductCategoryContentType.description.GIFT_CARD_CATEGORY">
+        <value lang="de">Gutschein</value>
+        <value lang="en">Gift Card</value>
+    </property>
+    <property key="ProductCategoryContentType.description.LINK1_ALT_TEXT">
+        <value lang="de">Link 1 Alternativtext</value>
+        <value lang="en">Link 1 Alt Text</value>
+        <value lang="it">Testo alternativo link 1</value>
+        <value lang="zh">链接1替代文字</value>
+        <value lang="zh_TW">鏈結1替代文字</value>
+    </property>
+    <property key="ProductCategoryContentType.description.LINK2_ALT_TEXT">
+        <value lang="de">Link 2 Alternativtext</value>
+        <value lang="en">Link 2 Alt Text</value>
+        <value lang="it">Testo alternativo link 2</value>
+        <value lang="zh">链接2替代文字</value>
+        <value lang="zh_TW">鏈結2替代文字</value>
+    </property>
+    <property key="ProductCategoryContentType.description.LONG_DESCRIPTION">
+        <value lang="de">Beschreibung - lang</value>
+        <value lang="en">Description - Long</value>
+        <value lang="es">Descripción - Larga</value>
+        <value lang="fr">Description - Longue</value>
+        <value lang="it">Descrizione - lunga</value>
+        <value lang="ro">Descriere - Lunga</value>
+        <value lang="ru">Полное описание</value>
+        <value lang="th">การอธิบาย</value>
+        <value lang="zh">描述 - 详细</value>
+        <value lang="zh_TW">描述 - 詳細</value>
+    </property>
+    <property key="ProductCategoryType.description.CATALOG_CATEGORY">
+        <value lang="de">Katalog</value>
+        <value lang="en">Catalog</value>
+        <value lang="es">Catálogo</value>
+        <value lang="fr">Catalogue</value>
+        <value lang="it">Catalogo</value>
+        <value lang="ro">Catalog</value>
+        <value lang="ru">Каталог</value>
+        <value lang="th">หมวดหมู่</value>
+        <value lang="zh">目录</value>
+        <value lang="zh_TW">目錄</value>
+    </property>
+    <property key="ProductCategoryType.description.CROSS_SELL_CATEGORY">
+        <value lang="de">Cross Sell</value>
+        <value lang="en">Cross Sell</value>
+        <value lang="es">Cruzado</value>
+        <value lang="fr">Croisé</value>
+        <value lang="it">Vendite trasversali</value>
+        <value lang="ro">Vanzari Transversale</value>
+        <value lang="ru">Перекрестные продажи</value>
+        <value lang="th">Cross Sell</value>
+        <value lang="zh">交叉销售</value>
+        <value lang="zh_TW">交叉銷售</value>
+    </property>
+    <property key="ProductCategoryType.description.GIFT_CARD_CATEGORY">
+        <value lang="de">Gutscheine</value>
+        <value lang="en">Gift Cards</value>
+    </property>
+    <property key="ProductCategoryType.description.INDUSTRY_CATEGORY">
+        <value lang="de">Industrie</value>
+        <value lang="en">Industry</value>
+        <value lang="es">Industria</value>
+        <value lang="fr">Industrie</value>
+        <value lang="it">Industria</value>
+        <value lang="ro">Industria</value>
+        <value lang="ru">Отраслевая</value>
+        <value lang="th">อุตสาหกรรม</value>
+        <value lang="zh">产业</value>
+        <value lang="zh_TW">產業</value>
+    </property>
+    <property key="ProductCategoryType.description.INTERNAL_CATEGORY">
+        <value lang="de">Intern</value>
+        <value lang="en">Internal</value>
+        <value lang="es">Interno</value>
+        <value lang="fr">Interne</value>
+        <value lang="it">Interna</value>
+        <value lang="ro">Interna</value>
+        <value lang="ru">Внутренняя</value>
+        <value lang="th">ภายใน</value>
+        <value lang="zh">内部</value>
+        <value lang="zh_TW">內部</value>
+    </property>
+    <property key="ProductCategoryType.description.MATERIALS_CATEGORY">
+        <value lang="de">Materialien</value>
+        <value lang="en">Materials</value>
+        <value lang="es">Materiales</value>
+        <value lang="fr">Matériel</value>
+        <value lang="it">Materiali</value>
+        <value lang="ro">Materiale</value>
+        <value lang="ru">Материалы</value>
+        <value lang="th">วัตถุ</value>
+        <value lang="zh">材料</value>
+        <value lang="zh_TW">材料</value>
+    </property>
+    <property key="ProductCategoryType.description.MIXMATCH_CATEGORY">
+        <value lang="de">Austauschbar</value>
+        <value lang="en">Mix and Match</value>
+        <value lang="es">Intercambiable</value>
+        <value lang="fr">Interchangeable</value>
+        <value lang="it">Intercambiabili</value>
+        <value lang="ro">Amesteca si Confrunta</value>
+        <value lang="ru">Смешанная</value>
+        <value lang="th">รวมและเหมือนกัน</value>
+        <value lang="zh">混合和匹配</value>
+        <value lang="zh_TW">混合和匹配</value>
+    </property>
+    <property key="ProductCategoryType.description.QUICKADD_CATEGORY">
+        <value lang="de">Rasches Hinzufügen</value>
+        <value lang="en">Quick Add</value>
+        <value lang="es">Añadir rápido</value>
+        <value lang="fr">Ajout rapide</value>
+        <value lang="it">Aggiunta veloce</value>
+        <value lang="ro">Adaugare rapida</value>
+        <value lang="ru">Быстрое добавление</value>
+        <value lang="th">เพิ่มอย่างรวดเร็ว</value>
+        <value lang="zh">快速添加</value>
+        <value lang="zh_TW">快速添加</value>
+    </property>
+    <property key="ProductCategoryType.description.SEARCH_CATEGORY">
+        <value lang="de">Suche</value>
+        <value lang="en">Search</value>
+        <value lang="es">Buscar</value>
+        <value lang="fr">Recherche</value>
+        <value lang="it">Ricerca</value>
+        <value lang="ro">Cauta</value>
+        <value lang="ru">Поиск</value>
+        <value lang="th">การค้นหา</value>
+        <value lang="zh">搜索</value>
+        <value lang="zh_TW">搜索</value>
+    </property>
+    <property key="ProductCategoryType.description.TAX_CATEGORY">
+        <value lang="de">Steuern</value>
+        <value lang="en">Tax</value>
+        <value lang="es">Impuesto</value>
+        <value lang="fr">Taxe</value>
+        <value lang="it">Tasse</value>
+        <value lang="ro">Taxe</value>
+        <value lang="ru">Налогообложение</value>
+        <value lang="th">ภาษี</value>
+        <value lang="zh">税</value>
+        <value lang="zh_TW">稅</value>
+    </property>
+    <property key="ProductCategoryType.description.USAGE_CATEGORY">
+        <value lang="de">Verwendungszweck</value>
+        <value lang="en">Usage</value>
+        <value lang="es">Uso</value>
+        <value lang="fr">Usage</value>
+        <value lang="it">Uso</value>
+        <value lang="ro">Uz</value>
+        <value lang="ru">Использование</value>
+        <value lang="th">วิธีใช้</value>
+        <value lang="zh">用途</value>
+        <value lang="zh_TW">用途</value>
+    </property>
+    <property key="ProductContentType.description.ADDITIONAL_IMAGE_1">
+        <value lang="de">Zusatzbild 1</value>
+        <value lang="en">Image - Additional View 1</value>
+        <value lang="it">Immagine - Vista adggiuntiva 1</value>
+        <value lang="zh">图像 - 额外检查1</value>
+        <value lang="zh_TW">圖像 - 額外檢查1</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_1_SMALL">
+        <value lang="de">Zusatzbild 1 klein</value>
+        <value lang="en">Image - Additional View 1 Small</value>
+        <value lang="it">Immagine - Vista adggiuntiva 1 piccola</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_1_MEDIUM">
+        <value lang="de">Zusatzbild 1 mittel</value>
+        <value lang="en">Image - Additional View 1 Medium</value>
+        <value lang="it">Immagine - Vista adggiuntiva 1 media</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_1_LARGE">
+        <value lang="de">Zusatzbild 1 groß</value>
+        <value lang="en">Image - Additional View 1 Large</value>
+        <value lang="it">Immagine - Vista adggiuntiva 1 grande</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_1_DETAIL">
+        <value lang="de">Zusatzbild 1 Detail</value>
+        <value lang="en">Image - Additional View 1 Detail</value>
+        <value lang="it">Immagine - Vista adggiuntiva 1 dettaglio</value>
+    </property>
+    <property key="ProductContentType.description.ADDITIONAL_IMAGE_2">
+        <value lang="de">Zusatzbild 2</value>
+        <value lang="en">Image - Additional View 2</value>
+        <value lang="it">Immagine - Vista adggiuntiva 2</value>
+        <value lang="zh">图像 - 额外检查2</value>
+        <value lang="zh_TW">圖像 - 額外檢查2</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_2_SMALL">
+        <value lang="de">Zusatzbild 2 klein</value>
+        <value lang="en">Image - Additional View 2 Small</value>
+        <value lang="it">Immagine - Vista adggiuntiva 2 piccola</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_2_MEDIUM">
+        <value lang="de">Zusatzbild 2 mittel</value>
+        <value lang="en">Image - Additional View 2 Medium</value>
+        <value lang="it">Immagine - Vista adggiuntiva 2 media</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_2_LARGE">
+        <value lang="de">Zusatzbild 2 groß</value>
+        <value lang="en">Image - Additional View 2 Large</value>
+        <value lang="it">Immagine - Vista adggiuntiva 2 grande</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_2_DETAIL">
+        <value lang="de">Zusatzbild 2 Detail</value>
+        <value lang="en">Image - Additional View 2 Detail</value>
+        <value lang="it">Immagine - Vista adggiuntiva 2 dettaglio</value>
+    </property>
+    <property key="ProductContentType.description.ADDITIONAL_IMAGE_3">
+        <value lang="de">Zusatzbild 3</value>
+        <value lang="en">Image - Additional View 3</value>
+        <value lang="it">Immagine - Vista adggiuntiva 3</value>
+        <value lang="zh">图像 - 额外检查3</value>
+        <value lang="zh_TW">圖像 - 額外檢查3</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_3_SMALL">
+        <value lang="de">Zusatzbild 3 klein</value>
+        <value lang="en">Image - Additional View 3 Small</value>
+        <value lang="it">Immagine - Vista adggiuntiva 3 piccola</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_3_MEDIUM">
+        <value lang="de">Zusatzbild 3 mittel</value>
+        <value lang="en">Image - Additional View 3 Medium</value>
+        <value lang="it">Immagine - Vista adggiuntiva 3 media</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_3_LARGE">
+        <value lang="de">Zusatzbild 3 groß</value>
+        <value lang="en">Image - Additional View 3 Large</value>
+        <value lang="it">Immagine - Vista adggiuntiva 3 grande</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_3_DETAIL">
+        <value lang="de">Zusatzbild 3 Detail</value>
+        <value lang="en">Image - Additional View 3 Detail</value>
+        <value lang="it">Immagine - Vista adggiuntiva 3 dettaglio</value>
+    </property>
+    <property key="ProductContentType.description.ADDITIONAL_IMAGE_4">
+        <value lang="de">Zusatzbild 4</value>
+        <value lang="en">Image - Additional View 4</value>
+        <value lang="it">Immagine - Vista adggiuntiva 4</value>
+        <value lang="zh">图像 - 额外检查4</value>
+        <value lang="zh_TW">圖像 - 額外檢查4</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_4_SMALL">
+        <value lang="de">Zusatzbild 4 klein</value>
+        <value lang="en">Image - Additional View 4 Small</value>
+        <value lang="it">Immagine - Vista adggiuntiva 4 piccola</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_4_MEDIUM">
+        <value lang="de">Zusatzbild 4 mittel</value>
+        <value lang="en">Image - Additional View 4 Medium</value>
+        <value lang="it">Immagine - Vista adggiuntiva 4 media</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_4_LARGE">
+        <value lang="de">Zusatzbild 4 groß</value>
+        <value lang="en">Image - Additional View 4 Large</value>
+        <value lang="it">Immagine - Vista adggiuntiva 4 grande</value>
+    </property>
+    <property key="ProductContentType.description.XTRA_IMG_4_DETAIL">
+        <value lang="de">Zusatzbild 4 Detail</value>
+        <value lang="en">Image - Additional View 4 Detail</value>
+        <value lang="it">Immagine - Vista adggiuntiva 4 dettaglio</value>
+    </property>
+    <property key="ProductContentType.description.ADDTOCART_IMAGE">
+        <value lang="de">Zum Warenkorb hinzufügen Bild</value>
+        <value lang="en">Add To Cart Image</value>
+        <value lang="it">Aggiungi immagine al carrello</value>
+        <value lang="zh">添加到购物车图像</value>
+        <value lang="zh_TW">添加到購物車圖像</value>
+    </property>
+    <property key="ProductContentType.description.ADDTOCART_LABEL">
+        <value lang="de">Zum Warenkorb hinzufügen Label</value>
+        <value lang="en">Add To Cart Label</value>
+        <value lang="it">Aggiungi label al carrello</value>
+        <value lang="zh">添加到购物车标签</value>
+        <value lang="zh_TW">添加到購物車標簽</value>
+    </property>
+    <property key="ProductContentType.description.DELIVERY_INFO">
+        <value lang="de">Lieferinformation</value>
+        <value lang="en">Delivery Info</value>
+        <value lang="it">Informazioni sulla consegna</value>
+        <value lang="zh">投递信息</value>
+        <value lang="zh_TW">投遞資訊</value>
+    </property>
+    <property key="ProductContentType.description.DESCRIPTION">
+        <value lang="de">Beschreibung</value>
+        <value lang="en">Description</value>
+        <value lang="es">Descripción</value>
+        <value lang="fr">Description</value>
+        <value lang="it">Descrizione</value>
+        <value lang="ro">Descriere</value>
+        <value lang="ru">Описание</value>
+        <value lang="th">คำอธิบาย</value>
+        <value lang="zh">描述</value>
+        <value lang="zh_TW">描述</value>
+    </property>
+    <property key="ProductContentType.description.DETAIL_IMAGE_ALT">
+        <value lang="de">Bild Alt Text - Details</value>
+        <value lang="en">Image Alt Text - Detail    </value>
+        <value lang="es">Texto alternativo para la imagen - Detalle    </value>
+        <value lang="fr">Texte alternatif de l'image - Détail</value>
+        <value lang="it">Immagine testo alternativo - dettaglio    </value>
+        <value lang="ru">Альтер. текст изображения - детальное    </value>
+        <value lang="th">ข้อความตัวเลือกรูปภาพ - รายละเอียด    </value>
+        <value lang="zh">图像替代文字 - 详细</value>
+        <value lang="zh_TW">圖像替代文字 - 詳細</value>
+    </property>
+    <property key="ProductContentType.description.DETAIL_IMAGE_URL">
+        <value lang="de">Bild - Details</value>
+        <value lang="en">Image - Detail</value>
+        <value lang="es">Imagen - Detalle</value>
+        <value lang="fr">Image détaillée</value>
+        <value lang="it">Immagine - dettaglio</value>
+        <value lang="ro">Imagine - Detaliu</value>
+        <value lang="ru">Изображение - детальное</value>
+        <value lang="th">รูปภาพ - รายละเอียด</value>
+        <value lang="zh">图像 - 详细</value>
+        <value lang="zh_TW">圖像 - 詳細</value>
+    </property>
+    <property key="ProductContentType.description.DIGITAL_DOWNLOAD">
+        <value lang="de">Herunterladen</value>
+        <value lang="en">Digital Download</value>
+        <value lang="es">Descarga digital</value>
+        <value lang="fr">Téléchargement numérique</value>
+        <value lang="it">Download digitale</value>
+        <value lang="ro">Download Digital</value>
+        <value lang="ru">Загрузка цифрового конт.</value>
+        <value lang="th">ดาวน์โหลดดิจิตอล</value>
+        <value lang="zh">数字下载</value>
+        <value lang="zh_TW">數字下載</value>
+    </property>
+    <property key="ProductContentType.description.DIRECTIONS">
+        <value lang="de">Anweisungen</value>
+        <value lang="en">Directions</value>
+        <value lang="es">Direcciones</value>
+        <value lang="fr">Directions</value>
+        <value lang="it">Direzioni</value>
+        <value lang="ro">Directii</value>
+        <value lang="ru">Направления</value>
+        <value lang="th">คำแนะนำ</value>
+        <value lang="zh">方向</value>
+        <value lang="zh_TW">方向</value>
+    </property>
+    <property key="ProductContentType.description.FULFILLMENT_EMAIL">
+        <value lang="de">E-Mail zur Ausführung</value>
+        <value lang="en">Fulfillment Email</value>
+        <value lang="es">Email de cumplimiento</value>
+        <value lang="fr">Courriel de réalisation</value>
+        <value lang="it">Adempimento email</value>
+        <value lang="ro">Transmitere Email</value>
+        <value lang="ru">Выполнение по эл.почте</value>
+        <value lang="th">การทำอีเมลให้สำเร็จ</value>
+        <value lang="zh">执行电子邮件</value>
+        <value lang="zh_TW">執行電子郵件</value>
+    </property>
+    <property key="ProductContentType.description.FULFILLMENT_EXTASYNC">
+        <value lang="de">Ausführung Extern (Asynchron)</value>
+        <value lang="en">Fulfillment External (Async)</value>
+        <value lang="es">Cumplimiento externo (asíncrono)</value>
+        <value lang="fr">Réalisation externe (Async)</value>
+        <value lang="it">Adempimento esterno (Async)</value>
+        <value lang="ro">Executare Externa (Async)</value>
+        <value lang="ru">Выполнение внешнее (Асинхр.)</value>
+        <value lang="th">การทำให้สำเร็จภายใน (Async)</value>
+        <value lang="zh">执行外部 (异步)</value>
+        <value lang="zh_TW">執行外部 (異步)</value>
+    </property>
+    <property key="ProductContentType.description.FULFILLMENT_EXTSYNC">
+        <value lang="de">Ausführung Extern (Synchron)</value>
+        <value lang="en">Fulfillment External (Sync)</value>
+        <value lang="es">Cumplimiento externo (síncrono)</value>
+        <value lang="fr">Réalisation externe (Sync)</value>
+        <value lang="it">Adempimento esterno (Sync)</value>
+        <value lang="ro">Executare Externa (Sync)</value>
+        <value lang="ru">Выполнение внешнее (Синхр.)</value>
+        <value lang="th">การทำให้สำเร็จภายใน (Async)</value>
+        <value lang="zh">执行外部 (同步)</value>
+        <value lang="zh_TW">執行外部 (同步)</value>
+    </property>
+    <property key="ProductContentType.description.INGREDIENTS">
+        <value lang="de">Inhaltsstoffe</value>
+        <value lang="en">Ingredients</value>
+        <value lang="es">Ingredientes</value>
+        <value lang="fr">Éléments</value>
+        <value lang="it">Ingredienti</value>
+        <value lang="ro">Ingrediente</value>
+        <value lang="ru">Ингредиенты</value>
+        <value lang="th">ส่วนประกอบ</value>
+        <value lang="zh">成份</value>
+        <value lang="zh_TW">成份</value>
+    </property>
+    <property key="ProductContentType.description.LARGE_IMAGE_ALT">
+        <value lang="de">Bild Alt Text - Long</value>
+        <value lang="en">Image Alt Text - Large</value>
+        <value lang="es">Texto alternativo de la imagen - grande</value>
+        <value lang="fr">Texte alternatif de l'image - Long</value>
+        <value lang="it">Immagine testo alternativo - grande</value>
+        <value lang="ru">Альтер. текст изображения - большое</value>
+        <value lang="th">ทางเลือกข้อความรูปภาพ - ขนาดใหญ่</value>
+        <value lang="zh">图像替代文字 - 大</value>
+        <value lang="zh_TW">圖像替代文字 - 大</value>
+    </property>
+    <property key="ProductContentType.description.LARGE_IMAGE_URL">
+        <value lang="de">Bild - Gross</value>
+        <value lang="en">Image - Large</value>
+        <value lang="es">Imagen - Grande</value>
+        <value lang="fr">Image grande</value>
+        <value lang="it">Immagine - grande</value>
+        <value lang="ro">Imagine - Mare</value>
+        <value lang="ru">Изображение - большое</value>
+        <value lang="th">รูปภาพ - ใหญ่</value>
+        <value lang="zh">图像 - 大</value>
+        <value lang="zh_TW">圖像 - 大</value>
+    </property>
+    <property key="ProductContentType.description.LONG_DESCRIPTION">
+        <value lang="de">Beschreibung - Lang</value>
+        <value lang="en">Description - Long</value>
+        <value lang="es">Descripción - Larga</value>
+        <value lang="fr">Description longue</value>
+        <value lang="it">Descrizione - lunga</value>
+        <value lang="ro">Descriere - Lunga</value>
+        <value lang="ru">Полное описание</value>
+        <value lang="th">คำอธิบาย - ยาว</value>
+        <value lang="zh">描述 - 详细</value>
+        <value lang="zh_TW">描述 - 詳細</value>
+    </property>
+    <property key="ProductContentType.description.MEDIUM_IMAGE_ALT">
+        <value lang="de">Bild Alt Text - Mittel</value>
+        <value lang="en">Image Alt Text - Medium</value>
+        <value lang="es">Texto alternativo de la imagen - mediana</value>
+        <value lang="fr">Texte alternatif de l'image - Moyen</value>
+        <value lang="it">Immagine testo alternativo - media</value>
+        <value lang="ru">Альтер. текст изображения - среднее</value>
+        <value lang="th">ทางเลือกข้อความรูปภาพ - ขนาดกลาง</value>
+        <value lang="zh">图像替代文字 - 中</value>
+        <value lang="zh_TW">圖像替代文字 - 中</value>
+    </property>
+    <property key="ProductContentType.description.MEDIUM_IMAGE_URL">
+        <value lang="de">Bild - Mittel</value>
+        <value lang="en">Image - Medium</value>
+        <value lang="es">Imagen - Mediana</value>
+        <value lang="fr">Image moyenne</value>
+        <value lang="it">Immagine - media</value>
+        <value lang="ro">Imagine - Medie</value>
+        <value lang="ru">Изображение - среднее</value>
+        <value lang="th">รูปภาพ - กลาง</value>
+        <value lang="zh">图像 - 中</value>
+        <value lang="zh_TW">圖像 - 中</value>
+    </property>
+    <property key="ProductContentType.description.ONLINE_ACCESS">
+        <value lang="de">Online Zugriff</value>
+        <value lang="en">Online Access</value>
+        <value lang="es">Acceso en línea</value>
+        <value lang="fr">Accès en ligne</value>
+        <value lang="it">Accesso online</value>
+        <value lang="ro">Acces Online</value>
+        <value lang="ru">Онлайновый доступ</value>
+        <value lang="th">สิทธ์ในการออนไลน์</value>
+        <value lang="zh">在线访问</value>
+        <value lang="zh_TW">在線訪問</value>
+    </property>
+    <property key="ProductContentType.description.ORIGINAL_IMAGE_URL">
+        <value lang="de">Bild - Original</value>
+        <value lang="en">Image - Original</value>
+        <value lang="it">Immagine - originale</value>
+        <value lang="zh">图像 - 原图</value>
+        <value lang="zh_TW">圖像 - 原圖</value>
+    </property>
+    <property key="ProductContentType.description.PRICE_DETAIL_TEXT">
+        <value lang="de">Preisdetail Text</value>
+        <value lang="en">Price Detail Text</value>
+        <value lang="es">Texto detallado de precio</value>
+        <value lang="fr">Texte du détail de prix</value>
+        <value lang="it">Testo dettaglio prezzo</value>
+        <value lang="ro">Test Detaliu Pret</value>
+        <value lang="ru">Детали цены</value>
+        <value lang="th">ข้อมูลราคา</value>
+        <value lang="zh">价格详细文字</value>
+        <value lang="zh_TW">價格詳細文字</value>
+    </property>
+    <property key="ProductContentType.description.PRODUCT_NAME">
+        <value lang="de">Produktname</value>
+        <value lang="en">Product Name</value>
+        <value lang="es">Nombre de Producto</value>
+        <value lang="fr">Nom de l'article</value>
+        <value lang="it">Nome prodotto</value>
+        <value lang="ro">Nume Produs</value>
+        <value lang="ru">Название продукта</value>
+        <value lang="th">ชื่อสินค้า</value>
+        <value lang="zh">产品名称</value>
+        <value lang="zh_TW">產品名稱</value>
+    </property>
+    <property key="ProductContentType.description.SHORT_SALES_PITCH">
+        <value lang="en">Short Sales Pitch</value>
+        <value lang="it">Piccolo discorso di vendita</value>
+        <value lang="zh">简短的销售话述</value>
+        <value lang="zh_TW">簡短的銷售話述</value>
+    </property>
+    <property key="ProductContentType.description.SMALL_IMAGE_ALT">
+        <value lang="de">Bild Alt Text - Klein</value>
+        <value lang="en">Image Alt Text - Small</value>
+        <value lang="es">Texto alternativo de imagen - pequeña</value>
+        <value lang="fr">Texte de l'image en alternance - Petit</value>
+        <value lang="it">Immagine testo alternativo - piccola</value>
+        <value lang="ru">Альтер. текст изображения - маленькое</value>
+        <value lang="th">ทางเลือกข้อความรูปภาพ - เล็ก</value>
+        <value lang="zh">图像替代文字 - 小</value>
+        <value lang="zh_TW">圖像替代文字 - 小</value>
+    </property>
+    <property key="ProductContentType.description.SMALL_IMAGE_URL">
+        <value lang="de">Bild - Klein</value>
+        <value lang="en">Image - Small</value>
+        <value lang="es">Imagen - Pequeña</value>
+        <value lang="fr">Image petite</value>
+        <value lang="it">Immagine - piccola</value>
+        <value lang="ro">Imagine - Mica</value>
+        <value lang="ru">Изображение - маленькое</value>
+        <value lang="th">รูปภาพ - เล็ก</value>
+        <value lang="zh">图像 - 小</value>
+        <value lang="zh_TW">圖像 - 小</value>
+    </property>
+    <property key="ProductContentType.description.SPECIALINSTRUCTIONS">
+        <value lang="de">Besondere Instruktionen</value>
+        <value lang="en">Special Instructions</value>
+        <value lang="es">Instrucciones especiales</value>
+        <value lang="fr">Instructions spéciales</value>
+        <value lang="it">Instruzioni speciali</value>
+        <value lang="ro">Instructiuni Speciale</value>
+        <value lang="ru">Специальные инструкции</value>
+        <value lang="th">คำแนะนำพิเศษ</value>
+        <value lang="zh">特别说明</value>
+        <value lang="zh_TW">特別說明</value>
+    </property>
+    <property key="ProductContentType.description.TERMS_AND_CONDS">
+        <value lang="en">Terms and Conditions</value>
+        <value lang="it">Termini e condizioni</value>
+        <value lang="zh">条件</value>
+        <value lang="zh_TW">條件</value>
+    </property>
+    <property key="ProductContentType.description.UNIQUE_INGREDIENTS">
+        <value lang="de">Einzigartige Inhaltsstoffe</value>
+        <value lang="en">Unique Ingredients</value>
+        <value lang="es">Ingredientes únicos</value>
+        <value lang="fr">Élément unique</value>
+        <value lang="it">Ingredienti unici</value>
+        <value lang="ro">Ingredienti Unici</value>
+        <value lang="ru">Уникальные ингредиенты</value>
+        <value lang="th">ส่วนประกอบพิเศษ</value>
+        <value lang="zh">独有的成份</value>
+        <value lang="zh_TW">獨有的成份</value>
+    </property>
+    <property key="ProductContentType.description.WARNINGS">
+        <value lang="de">Warnungen</value>
+        <value lang="en">Warnings</value>
+        <value lang="es">Advertencias</value>
+        <value lang="fr">Avertissements</value>
+        <value lang="it">Avvertimenti</value>
+        <value lang="ro">Avertimente</value>
+        <value lang="ru">Предупреждения</value>
+        <value lang="th">คำเตือน</value>
+        <value lang="zh">警告</value>
+        <value lang="zh_TW">警告</value>
+    </property>
+    <property key="ProductFeature.description.HAZMAT">
+        <value lang="de">Gefahrgut</value>
+        <value lang="en">HAZMAT</value>
+        <value lang="es">Material peligroso</value>
+        <value lang="fr">Produits dangereux</value>
+        <value lang="it">Prodotto danneggiato</value>
+        <value lang="th">HAZMAT</value>
+        <value lang="zh">危险品</value>
+        <value lang="zh_TW">危險品</value>
+    </property>
+    <property key="ProductFeatureApplType.description.DISTINGUISHING_FEAT">
+        <value lang="de">Unterscheidendes Merkmal</value>
+        <value lang="en">Distinguishing</value>
+        <value lang="es">Distinguible</value>
+        <value lang="fr">Distinct</value>
+        <value lang="it">Distinte</value>
+        <value lang="ro">Distincte</value>
+        <value lang="ru">Отличительная</value>
+        <value lang="th">ลักษณะนิสัย</value>
+        <value lang="zh">有区别</value>
+        <value lang="zh_TW">有區別</value>
+    </property>
+    <property key="ProductFeatureApplType.description.OPTIONAL_FEATURE">
+        <value lang="de">Optional</value>
+        <value lang="en">Optional</value>
+        <value lang="es">Opcional</value>
+        <value lang="fr">Optionnel</value>
+        <value lang="it">Opzionale</value>
+        <value lang="ro">Optional</value>
+        <value lang="ru">Дополнительная</value>
+        <value lang="th">ทางเลือก</value>
+        <value lang="zh">可选的</value>
+        <value lang="zh_TW">可選的</value>
+    </property>
+    <property key="ProductFeatureApplType.description.REQUIRED_FEATURE">
+        <value lang="de">Benötigt</value>
+        <value lang="en">Required</value>
+        <value lang="es">Requerido</value>
+        <value lang="fr">Requis</value>
+        <value lang="it">Richiesta</value>
+        <value lang="ro">Cerere</value>
+        <value lang="ru">Требуемая</value>
+        <value lang="th">ต้องการ</value>
+        <value lang="zh">必须的</value>
+        <value lang="zh_TW">必須的</value>
+    </property>
+    <property key="ProductFeatureApplType.description.SELECTABLE_FEATURE">
+        <value lang="de">Auswählbar</value>
+        <value lang="en">Selectable</value>
+        <value lang="es">Seleccionable</value>
+        <value lang="fr">Sélectionnable</value>
+        <value lang="it">Selezionabile</value>
+        <value lang="ro">Selectionabile</value>
+        <value lang="ru">Выбираемая</value>
+        <value lang="th">สามารถเลือกได้</value>
+        <value lang="zh">可选择的</value>
+        <value lang="zh_TW">可選擇的</value>
+    </property>
+    <property key="ProductFeatureApplType.description.STANDARD_FEATURE">
+        <value lang="de">Standart</value>
+        <value lang="en">Standard</value>
+        <value lang="es">Estándard</value>
+        <value lang="fr">Standard</value>
+        <value lang="it">Standard</value>
+        <value lang="ro">Standard</value>
+        <value lang="ru">Стандартная</value>
+        <value lang="th">มาตรฐาน</value>
+        <value lang="zh">标准</value>
+        <value lang="zh_TW">標准</value>
+    </property>
+    <property key="ProductFeatureCategory.description.1000">
+        <value lang="en">Hazmat Features</value>
+        <value lang="es">Características de Peligroso</value>
+        <value lang="fr">Substances dangeureuse</value>
+        <value lang="it">Caratteristiche danneggiate</value>
+        <value lang="th">Hazmat Features</value>
+        <value lang="zh">危险品特征</value>
+        <value lang="zh_TW">危險品特征</value>
+    </property>
+    <property key="ProductFeatureCategory.description.1001">
+        <value lang="de">Modelljahr Merkmale</value>
+        <value lang="en">Model Year Features</value>
+        <value lang="it">Caratteristiche anno modello</value>
+        <value lang="zh">年型号特征</value>
+        <value lang="zh_TW">年型號特征</value>
+    </property>
+    <property key="ProductFeatureCategory.description.1002">
+        <value lang="de">Ausrüstungsklasse Merkmale</value>
+        <value lang="en">Equipment Class Features</value>
+        <value lang="it">Caratteristiche classe attrezzatura</value>
+        <value lang="zh">设备分类特征</value>
+        <value lang="zh_TW">設備分類特征</value>
+    </property>
+    <property key="ProductFeatureCategory.description.2000">
+        <value lang="de">Gutschein Merkmale</value>
+        <value lang="en">Gift Card Features</value>
+        <value lang="it">Caratteristiche carta regalo</value>
+        <value lang="zh">礼品卡特征</value>
+        <value lang="zh_TW">禮品卡特征</value>
+    </property>
+    <property key="ProductFeatureCategory.description.2100">
+        <value lang="de">Konto Merkmale</value>
+        <value lang="en">Account Features</value>
+        <value lang="it">Caratteristiche utenza</value>
+        <value lang="zh">账户特征</value>
+        <value lang="zh_TW">賬戶特征</value>
+    </property>
+    <property key="ProductFeatureCategory.description.3000">
+        <value lang="de">Geschmack</value>
+        <value lang="en">Taste</value>
+        <value lang="it">Caratteristiche gusto</value>
+        <value lang="zh">味道</value>
+        <value lang="zh_TW">味道</value>
+    </property>
+    <property key="ProductFeatureCategory.description.8000">
+        <value lang="de">Lizenz Merkmale</value>
+        <value lang="en">License Features</value>
+        <value lang="it">Caratteristiche licenza</value>
+        <value lang="zh">版权特征</value>
+        <value lang="zh_TW">版權特征</value>
+    </property>
+    <property key="ProductFeatureCategory.description.9000">
+        <value lang="en">Widget Features</value>
+        <value lang="it">Caratteristiche widget</value>
+        <value lang="zh">预留名称特征</value>
+        <value lang="zh_TW">預留名稱特征</value>
+    </property>
+    <property key="ProductFeatureIactnType.description.FEATURE_IACTN_DEPEND">
+        <value lang="de">Abhängiges Merkmal</value>
+        <value lang="en">Dependent Feature</value>
+        <value lang="es">Dependencias</value>
+        <value lang="fr">Dépendants</value>
+        <value lang="it">Dipendenza</value>
+        <value lang="th">FEATURE_IACTN_DEPEND</value>
+        <value lang="zh">依赖特征</value>
+        <value lang="zh_TW">依賴特征</value>
+    </property>
+    <property key="ProductFeatureIactnType.description.FEATURE_IACTN_INCOMP">
+        <value lang="de">Inkompatibles Merkmal</value>
+        <value lang="en">Incompatible Feature</value>
+        <value lang="es">Incompatibilidad</value>
+        <value lang="fr">Incompatibles</value>
+        <value lang="it">Incompatibile</value>
+        <value lang="th">FEATURE_IACTN_INCOMP</value>
+        <value lang="zh">不兼容特征</value>
+        <value lang="zh_TW">不相容特征</value>
+    </property>
+    <property key="ProductFeatureType.description.ACCESSORY">
+        <value lang="de">Zubehör</value>
+        <value lang="en">Accessory</value>
+        <value lang="es">Accesorio</value>
+        <value lang="fr">Accessoire</value>
+        <value lang="it">Accessorio</value>
+        <value lang="ro">Accesoriu</value>
+        <value lang="ru">Принадлежности</value>
+        <value lang="th">ส่วนประกอบ</value>
+        <value lang="zh">附属品</value>
+        <value lang="zh_TW">附屬品</value>
+    </property>
+    <property key="ProductFeatureType.description.AMOUNT">
+        <value lang="de">Betrag</value>
+        <value lang="en">Amount</value>
+        <value lang="es">Cantidad</value>
+        <value lang="fr">Quantité</value>
+        <value lang="it">Importo</value>
+        <value lang="ro">Valoare</value>
+        <value lang="ru">Количество</value>
+        <value lang="th">จำนวน</value>
+        <value lang="zh">金额</value>
+        <value lang="zh_TW">金額</value>
+    </property>
+    <property key="ProductFeatureType.description.ARTIST">
+        <value lang="de">Künstler</value>
+        <value lang="en">Artist</value>
+        <value lang="es">Artista</value>
+        <value lang="fr">Artiste</value>
+        <value lang="it">Artista</value>
+        <value lang="ro">Artist</value>
+        <value lang="ru">Оформление</value>
+        <value lang="th">ศิลปะ</value>
+        <value lang="zh">艺术家</value>
+        <value lang="zh_TW">藝術家</value>
+    </property>
+    <property key="ProductFeatureType.description.BILLING_FEATURE">
+        <value lang="de">Verrechnungsmerkmal</value>
+        <value lang="en">Billing Feature</value>
+        <value lang="es">Característica de facturación</value>
+        <value lang="fr">Caractéristiques</value>
+        <value lang="it">Caratteristica fatturazione</value>
+        <value lang="ro">Caracteristica Facturare</value>
+        <value lang="ru">Оплата</value>
+        <value lang="th">ลักษณะใบเสร็จรับเงิน</value>
+        <value lang="zh">账单特征</value>
+        <value lang="zh_TW">賬單特征</value>
+    </property>
+    <property key="ProductFeatureType.description.BRAND">
+        <value lang="de">Marke</value>
+        <value lang="en">Brand</value>
+        <value lang="es">Marca</value>
+        <value lang="fr">Marque</value>
+        <value lang="it">Marca</value>
+        <value lang="ro">Marca</value>
+        <value lang="ru">Брэнд</value>
+        <value lang="th">ยี่ห้อ</value>
+        <value lang="zh">品牌</value>
+        <value lang="zh_TW">品牌</value>
+    </property>
+    <property key="ProductFeatureType.description.CARE">
+        <value lang="de">Pflege</value>
+        <value lang="en">Care</value>
+        <value lang="es">Cuidado</value>
+        <value lang="fr">Soin</value>
+        <value lang="it">Cura</value>
+        <value lang="ro">Cura</value>
+        <value lang="ru">Обслуживание</value>
+        <value lang="th">การปกป้อง</value>
+        <value lang="zh">关心</value>
+        <value lang="zh_TW">關心</value>
+    </property>
+    <property key="ProductFeatureType.description.COLOR">
+        <value lang="de">Farbe</value>
+        <value lang="en">Color</value>
+        <value lang="es">Color</value>
+        <value lang="fr">Couleur</value>
+        <value lang="it">Colore</value>
+        <value lang="ro">Culoare</value>
+        <value lang="ru">Цвет</value>
+        <value lang="th">สี</value>
+        <value lang="zh">颜色</value>
+        <value lang="zh_TW">顏色</value>
+    </property>
+    <property key="ProductFeatureType.description.DIMENSION">
+        <value lang="de">Abmessungen</value>
+        <value lang="en">Dimension</value>
+        <value lang="es">Dimensión</value>
+        <value lang="fr">Dimension</value>
+        <value lang="it">Dimensione</value>
+        <value lang="ro">Dimensiune</value>
+        <value lang="ru">Размеры</value>
+        <value lang="th">มิติ</value>
+        <value lang="zh">尺寸</value>
+        <value lang="zh_TW">尺寸</value>
+    </property>
+    <property key="ProductFeatureType.description.EQUIP_CLASS">
+        <value lang="de">Ausrüstungsklasse</value>
+        <value lang="en">Equipment Class</value>
+        <value lang="es">Clase de equipo</value>
+        <value lang="fr">Classe d'équipement</value>
+        <value lang="it">Classe apparecchiatura</value>
+        <value lang="ro">Clasa Aparatura</value>
+        <value lang="ru">Класс оборудования</value>
+        <value lang="th">ชั้นอุปกรณ์</value>
+        <value lang="zh">设备类</value>
+        <value lang="zh_TW">設備類</value>
+    </property>
+    <property key="ProductFeatureType.description.FABRIC">
+        <value lang="de">Stoff/Gewebe</value>
+        <value lang="en">Fabric</value>
+        <value lang="es">Tela</value>
+        <value lang="fr">Fabrication</value>
+        <value lang="it">Tessuto</value>
+        <value lang="ro">Tesut</value>
+        <value lang="ru">Материал</value>
+        <value lang="th">สิ่งทอ</value>
+        <value lang="zh">织物</value>
+        <value lang="zh_TW">織物</value>
+    </property>
+    <property key="ProductFeatureType.description.GENRE">
+        <value lang="de">Gattung</value>
+        <value lang="en">Genre</value>
+        <value lang="es">Género</value>
+        <value lang="fr">Genre</value>
+        <value lang="it">Genere</value>
+        <value lang="ro">Fel</value>
+        <value lang="ru">Жанр</value>
+        <value lang="th">ชนิด</value>
+        <value lang="zh">流派</value>
+        <value lang="zh_TW">流派</value>
+    </property>
+    <property key="ProductFeatureType.description.GIFT_WRAP">
+        <value lang="de">Geschenkverpackung</value>
+        <value lang="en">Gift Wrap</value>
+        <value lang="es">Envoltura de regalo</value>
+        <value lang="fr">Emballage de cadeau</value>
+        <value lang="it">Involucro regalo</value>
+        <value lang="ro">Invelis Cadou</value>
+        <value lang="ru">Подарочная упаковка</value>
+        <value lang="th">กระดาษห่อของขวัญ</value>
+        <value lang="zh">礼品包装</value>
+        <value lang="zh_TW">禮品包裝</value>
+    </property>
+    <property key="ProductFeatureType.description.HARDWARE_FEATURE">
+        <value lang="de">Hardware-Merkmal</value>
+        <value lang="en">Hardware Feature</value>
+        <value lang="es">Característica de hardware</value>
+        <value lang="fr">Matériaux utilisés</value>
+        <value lang="it">Caratteristica hardware</value>
+        <value lang="ro">Caracteristica Hardware</value>
+        <value lang="ru">Техническая особенность</value>
+        <value lang="th">ลักษณะฮาร์ดแวร์</value>
+        <value lang="zh">硬件特征</value>
+        <value lang="zh_TW">硬體特征</value>
+    </property>
+    <property key="ProductFeatureType.description.HAZMAT">
+        <value lang="de">Gefahrengut</value>
+        <value lang="en">Hazmat</value>
+        <value lang="es">Peligroso</value>
+        <value lang="fr">Caractère dangereux</value>
+        <value lang="it">Danneggiato</value>
+        <value lang="ro">Hazmat</value>
+        <value lang="ru">Hazmat</value>
+        <value lang="th">Hazmat</value>
+        <value lang="zh">危险物品</value>
+        <value lang="zh_TW">危險物品</value>
+    </property>
+    <property key="ProductFeatureType.description.LICENSE">
+        <value lang="de">Lizenz</value>
+        <value lang="en">License</value>
+        <value lang="es">Licencia</value>
+        <value lang="fr">License</value>
+        <value lang="it">Licenza</value>
+        <value lang="ro">Licenta</value>
+        <value lang="ru">Лицензия</value>
+        <value lang="th">ใบอนุญาต</value>
+        <value lang="zh">版权</value>
+        <value lang="zh_TW">版權</value>
+    </property>
+    <property key="ProductFeatureType.description.MODEL_YEAR">
+        <value lang="de">Modelljahr</value>
+        <value lang="en">Model Year</value>
+        <value lang="es">Año de modelo</value>
+        <value lang="fr">Année modèle</value>
+        <value lang="it">Anno modello</value>
+        <value lang="ro">Anno Model</value>
+        <value lang="ru">Год выпуска модели</value>
+        <value lang="th">ปีโมเดล</value>
+        <value lang="zh">年度款式</value>
+        <value lang="zh_TW">年度款式</value>
+    </property>
+    <property key="ProductFeatureType.description.NET_WEIGHT">
+        <value lang="de">Nettogewicht</value>
+        <value lang="en">Net Weight</value>
+        <value lang="es">Peso neto</value>
+        <value lang="fr">Poids net</value>
+        <value lang="it">Peso netto</value>
+        <value lang="ro">Greutate Neta</value>
+        <value lang="ru">Вес нетто</value>
+        <value lang="th">น้ำหนักสุทธิ</value>
+        <value lang="zh">净重</value>
+        <value lang="zh_TW">淨重</value>
+    </property>
+    <property key="ProductFeatureType.description.ORIGIN">
+        <value lang="de">Herkunft</value>
+        <value lang="en">Origin</value>
+        <value lang="es">Origen</value>
+        <value lang="fr">Origine</value>
+        <value lang="it">Origine</value>
+        <value lang="ro">Origine</value>
+        <value lang="ru">Происхождение</value>
+        <value lang="th">ต้นกำเนิด</value>
+        <value lang="zh">来源</value>
+        <value lang="zh_TW">來源</value>
+    </property>
+    <property key="ProductFeatureType.description.OTHER_FEATURE">
+        <value lang="de">Anderes Merkmal</value>
+        <value lang="en">Other Feature</value>
+        <value lang="es">Otra característica</value>
+        <value lang="fr">Autre caractéristique</value>
+        <value lang="it">Altra caratteristica</value>
+        <value lang="ro">Alta Caracteristica</value>
+        <value lang="ru">Другие особенности</value>
+        <value lang="th">ลักษณะอื่นๆ</value>
+        <value lang="zh">其它特征</value>
+        <value lang="zh_TW">其他特征</value>
+    </property>
+    <property key="ProductFeatureType.description.PRODUCT_QUALITY">
+        <value lang="de">Produktqualität</value>
+        <value lang="en">Product Quality</value>
+        <value lang="es">Calidad de producto</value>
+        <value lang="fr">Qualité</value>
+        <value lang="it">Qualità prodotto</value>
+        <value lang="ro">Calitate Produs</value>
+        <value lang="ru">Качество продукта</value>
+        <value lang="th">คุณภาพสินค้า</value>
+        <value lang="zh">产品质量</value>
+        <value lang="zh_TW">產品質量</value>
+    </property>
+    <property key="ProductFeatureType.description.SIZE">
+        <value lang="de">Größe</value>
+        <value lang="de_CH">Grösse</value>
+        <value lang="en">Size</value>
+        <value lang="es">Tamaño</value>
+        <value lang="fr">Taille</value>
+        <value lang="it">Larghezza</value>
+        <value lang="ro">Latime </value>
+        <value lang="ru">Размер</value>
+        <value lang="th">ขนาด</value>
+        <value lang="zh">大小</value>
+        <value lang="zh_TW">大小</value>
+    </property>
+    <property key="ProductFeatureType.description.SOFTWARE_FEATURE">
+        <value lang="de">Software-Merkmal</value>
+        <value lang="en">Software Feature</value>
+        <value lang="es">Característica de software</value>
+        <value lang="fr">Caractéristique du logiciel</value>
+        <value lang="it">Caratteristica software</value>
+        <value lang="ro">Caracteristica Software</value>
+        <value lang="ru">Программная особенность</value>
+        <value lang="th">ลักษณะซอฟต์แวร์</value>
+        <value lang="zh">软件特征</value>
+        <value lang="zh_TW">軟件特征</value>
+    </property>
+    <property key="ProductFeatureType.description.STYLE">
+        <value lang="de">Stil</value>
+        <value lang="en">Style</value>
+        <value lang="es">Estilo</value>
+        <value lang="fr">Modèle</value>
+        <value lang="it">Stile</value>
+        <value lang="ro">Stil</value>
+        <value lang="ru">Стиль</value>
+        <value lang="th">สไตล์</value>
+        <value lang="zh">样式</value>
+        <value lang="zh_TW">樣式</value>
+    </property>
+    <property key="ProductFeatureType.description.SYMPTOM">
+        <value lang="de">Symptom</value>
+        <value lang="en">Symptom</value>
+        <value lang="es">Síntoma</value>
+        <value lang="fr">Symptôme</value>
+        <value lang="it">Sintomo</value>
+        <value lang="ro">Sintom</value>
+        <value lang="ru">Признак</value>
+        <value lang="th">อาการ</value>
+        <value lang="zh">症状</value>
+        <value lang="zh_TW">症狀</value>
+    </property>
+    <property key="ProductFeatureType.description.TOPIC">
+        <value lang="de">Thema</value>
+        <value lang="en">Topic</value>
+        <value lang="es">Asunto</value>
+        <value lang="fr">Matière</value>
+        <value lang="it">Argomento</value>
+        <value lang="ro">Argument</value>
+        <value lang="ru">Тема</value>
+        <value lang="th">ใจความ</value>
+        <value lang="zh">话题</value>
+        <value lang="zh_TW">話題</value>
+    </property>
+    <property key="ProductFeatureType.description.TYPE">
+        <value lang="de">Typ</value>
+        <value lang="en">Type</value>
+        <value lang="es">Tipo</value>
+        <value lang="fr">Type</value>
+        <value lang="it">Tipo</value>
+        <value lang="ro">Tip</value>
+        <value lang="ru">Тип</value>
+        <value lang="th">ประเภท</value>
+        <value lang="zh">类型</value>
+        <value lang="zh_TW">類型</value>
+    </property>
+    <property key="ProductFeatureType.description.WARRANTY">
+        <value lang="de">Gewährleistung</value>
+        <value lang="en">Warranty</value>
+        <value lang="es">Garantía</value>
+        <value lang="fr">Garantie</value>
+        <value lang="it">Garanzia</value>
+        <value lang="ro">Garantie</value>
+        <value lang="ru">Гарантия</value>
+        <value lang="th">การรับประกัน</value>
+        <value lang="zh">保修</value>
+        <value lang="zh_TW">保修</value>
+    </property>
+    <property key="ProductFeatureType.description.YEAR_MADE">
+        <value lang="de">Herstellungsjahr</value>
+        <value lang="en">Year Made</value>
+        <value lang="es">Año de fabricación</value>
+        <value lang="fr">Année de construction</value>
+        <value lang="it">Anno di fabbricazione</value>
+        <value lang="ro">An Fabricatie</value>
+        <value lang="ru">Год изготовления</value>
+        <value lang="th">ทำปี</value>
+        <value lang="zh">年生产</value>
+        <value lang="zh_TW">年生產</value>
+    </property>
+    <property key="ProductGlAccountType.description.COGS">
+        <value lang="de">Kosten der verkauften Waren (COGS)</value>
+        <value lang="en">COGS</value>
+        <value lang="es">Costo de bienes vendidos</value>
+        <value lang="fr">Coût des biens vendus</value>
+        <value lang="it">Costo del venduto</value>
+        <value lang="th">COGS</value>
+        <value lang="zh">产品销售成本</value>
+        <value lang="zh_TW">產品銷售成本</value>
+    </property>
+    <property key="ProductGlAccountType.description.INVENTORY">
+        <value lang="de">Bestand</value>
+        <value lang="en">Inventory</value>
+        <value lang="es">Inventario</value>
+        <value lang="fr">Stock</value>
+        <value lang="it">Inventario</value>
+        <value lang="nl">Voorraad</value>
+        <value lang="th">สินค้าคงเหลือ</value>
+        <value lang="zh">库存</value>
+        <value lang="zh_TW">庫存</value>
+    </property>
+    <property key="ProductGlAccountType.description.SALES">
+        <value lang="de">Verkauf</value>
+        <value lang="en">sales</value>
+        <value lang="es">Ventas</value>
+        <value lang="fr">Ventes</value>
+        <value lang="it">vendite</value>
+        <value lang="th">ขาย</value>
+        <value lang="zh">销售</value>
+        <value lang="zh_TW">銷售</value>
+    </property>
+    <property key="ProductMaintType.description.CHASSIS_LUBE">
+        <value lang="en">Chassis Lubrication</value>
+        <value lang="it">Lubrificazione telaio</value>
+        <value lang="zh">底盘润滑</value>
+        <value lang="zh_TW">底盤潤滑</value>
+    </property>
+    <property key="ProductMaintType.description.CHECK_BATTERY">
+        <value lang="de">Batterie prüfen</value>
+        <value lang="en">Check Battery</value>
+        <value lang="it">Controllo batteria</value>
+        <value lang="zh">检查电池</value>
+        <value lang="zh_TW">檢查電池</value>
+    </property>
+    <property key="ProductMaintType.description.HVAC_CHECK_REFR">
+        <value lang="en">Check/Recharge Refrigerant</value>
+        <value lang="it">Controllo/Ricarica refrigerante</value>
+        <value lang="zh">检查/补充制冷剂</value>
+        <value lang="zh_TW">檢查/補充制冷劑</value>
+    </property>
+    <property key="ProductMaintType.description.HVAC_MAINT">
+        <value lang="de">HVAC Wartung</value>
+        <value lang="en">HVAC Maintenance</value>
+        <value lang="it">Manutenzione HVAC</value>
+        <value lang="zh">中央空调维修保养</value>
+        <value lang="zh_TW">中央空調維修保養</value>
+    </property>
+    <property key="ProductMaintType.description.HVAC_REPLACE_FILTER">
+        <value lang="de">Ersetze Luftfilter</value>
+        <value lang="en">Replace Air Filter</value>
+        <value lang="it">Sostituzione filtro aria</value>
+        <value lang="zh">换空滤</value>
+        <value lang="zh_TW">換空濾</value>
+    </property>
+    <property key="ProductMaintType.description.OIL_CHANGE">
+        <value lang="de">Ölwechsel</value>
+        <value lang="en">Oil Change</value>
+        <value lang="es">Cambio de aceite</value>
+        <value lang="fr">Changer l'huile</value>
+        <value lang="it">Cambio olio</value>
+        <value lang="ro">Schimb Ulei</value>
+        <value lang="ru">Замена масла</value>
+        <value lang="th">เปลี่ยนน้ำมัน</value>
+        <value lang="zh">换油</value>
+        <value lang="zh_TW">換油</value>
+    </property>
+    <property key="ProductMaintType.description.REFUEL">
+        <value lang="de">Auftanken</value>
+        <value lang="en">Re-Fuel</value>
+        <value lang="es">Rellenado</value>
+        <value lang="fr">Refaire le plein</value>
+        <value lang="it">Rifornimento</value>
+        <value lang="ro">Reforniment</value>
+        <value lang="ru">Заправка</value>
+        <value lang="th">เติมน้ำมัน</value>
+        <value lang="zh">加油</value>
+        <value lang="zh_TW">加油</value>
+    </property>
+    <property key="ProductMaintType.description.REPLACE_BATTERY">
+        <value lang="de">Batterie ersetzen</value>
+        <value lang="en">Replace Battery</value>
+        <value lang="es">Reemplazar batería</value>
+        <value lang="fr">Remplacer Batteries</value>
+        <value lang="it">Sostituzione batteria</value>
+        <value lang="ro">Substitutie Baterie</value>
+        <value lang="ru">Замена батарей</value>
+        <value lang="th">แทนที่แบตเตอรี่</value>
+        <value lang="zh">更换电池</value>
+        <value lang="zh_TW">更換電池</value>
+    </property>
+    <property key="ProductMaintType.description.ROTATE_TIRES">
+        <value lang="en">Rotate Tires</value>
+        <value lang="it">Invertire le gomme</value>
+        <value lang="zh">轮胎轮换</value>
+        <value lang="zh_TW">輪胎輪換</value>
+    </property>
+    <property key="ProductMaintType.description.SERP_BELT">
+        <value lang="de">Keilriemen Ersatz</value>
+        <value lang="en">Serpentine Belt Replacement</value>
+        <value lang="es">Cambio de correa</value>
+        <value lang="fr">Remplacement de courroie serpentine</value>
+        <value lang="it">Sostituzione cinghia di distribuzione</value>
+        <value lang="ro">Substitutie Curea de Distributie</value>
+        <value lang="ru">Замена приводных ремней</value>
+        <value lang="th">การแทนที่ทางโค้งคดเคี้ยว</value>
+        <value lang="zh">更换平带</value>
+        <value lang="zh_TW">更換平帶</value>
+    </property>
+    <property key="ProductMaintType.description.TUNE_UP">
+        <value lang="en">Tune Up</value>
+        <value lang="it">Mettere a punto</value>
+        <value lang="zh">调音</value>
+        <value lang="zh_TW">調音</value>
+    </property>
+    <property key="ProductMaintType.description.VEHICLE_MAINT">
+        <value lang="de">Fahrzeug Instandhaltung</value>
+        <value lang="en">Vehicle Maintenance</value>
+        <value lang="es">Mantenimiento de vehículo</value>
+        <value lang="fr">Révision du véhicule</value>
+        <value lang="it">Manutenzione veicolo</value>
+        <value lang="ro">Intretinere Vehicol</value>
+        <value lang="ru">Обслуживание транспортных средств</value>
+        <value lang="th">การบำรุงรักษายานพาหนะ</value>
+        <value lang="zh">车辆维护</value>
+        <value lang="zh_TW">車輛維護</value>
+    </property>
+    <property key="ProductMaintType.description.WASH">
+        <value lang="de">Reinigen</value>
+        <value lang="en">Wash</value>
+        <value lang="es">Lavado</value>
+        <value lang="fr">Laver</value>
+        <value lang="it">Lavaggio</value>
+        <value lang="ro">Curatire</value>
+        <value lang="ru">Мойка</value>
+        <value lang="th">ล้าง</value>
+        <value lang="zh">清洗</value>
+        <value lang="zh_TW">清洗</value>
+    </property>
+    <property key="ProductMeterType.description.COPY_COUNT">
+        <value lang="de">Kopierzähler</value>
+        <value lang="en">Copy Count Meter</value>
+        <value lang="es">Contador de copias</value>
+        <value lang="fr">Compteur de copie</value>
+        <value lang="it">Copia conta metri</value>
+        <value lang="ro">Copiaza Conta Metri</value>
+        <value lang="ru">Количество копий</value>
+        <value lang="th">คัดลอกจำนวนมิเตอร์</value>
+        <value lang="zh">复制计数表</value>
+        <value lang="zh_TW">複制計數表</value>
+    </property>
+    <property key="ProductMeterType.description.DISTANCE">
+        <value lang="de">Distanzzähler</value>
+        <value lang="en">Distance Meter</value>
+        <value lang="es">Medidor de distancia</value>
+        <value lang="fr">Compteur de distance</value>
+        <value lang="it">Contatore distanza</value>
+        <value lang="ro">Contor Distanta</value>
+        <value lang="ru">Счетчик расстояния</value>
+        <value lang="th">มิเตอร์ระยะทาง</value>
+        <value lang="zh">里程表</value>
+        <value lang="zh_TW">里程表</value>
+    </property>
+    <property key="ProductMeterType.description.MOTOR_TIME">
+        <value lang="de">Motorstunden Zähler</value>
+        <value lang="en">Motor Time Meter</value>
+        <value lang="es">Medidor de tiempo de motor</value>
+        <value lang="fr">Compteur de temps moteur</value>
+        <value lang="it">Contatore vita motore</value>
+        <value lang="ro">Contator Timp Motor</value>
+        <value lang="ru">Счетчик времени наработки двигателя</value>
+        <value lang="th">มิเตอร์เวลาเครื่องยนต์</value>
+        <value lang="zh">马达计时器</value>
+        <value lang="zh_TW">馬達計時器</value>
+    </property>
+    <property key="ProductMeterType.description.ODOMETER">
+        <value lang="de">Hodometer</value>
+        <value lang="en">Odometer</value>
+        <value lang="fr">Odomètre</value>
+        <value lang="it">Odometro</value>
+        <value lang="zh">里程表</value>
+        <value lang="zh_TW">里程表</value>
+    </property>
+    <property key="ProductMeterType.description.SPEEDOMETER">
+        <value lang="de">Geschwindigkeitsmesser</value>
+        <value lang="en">Speedometer</value>
+        <value lang="es">Velocímetro</value>
+        <value lang="fr">Indicateur de vitesse</value>
+        <value lang="it">Misuratore della velocità</value>
+        <value lang="ro">Masurator de Viteza</value>
+        <value lang="ru">Спидометр</value>
+        <value lang="th">มิเตอร์ความเร็ว</value>
+        <value lang="zh">速度表</value>
+        <value lang="zh_TW">速度表</value>
+    </property>
+    <property key="ProductMeterType.description.TACHOMETER">
+        <value lang="de">Tachometer</value>
+        <value lang="en">Tachometer</value>
+        <value lang="es">Tacómetro</value>
+        <value lang="fr">Compte-tours</value>
+        <value lang="it">Tachimetro</value>
+        <value lang="ro">Tachimetru</value>
+        <value lang="ru">Тахометр</value>
+        <value lang="th">เครื่องวัดความเร็ว</value>
+        <value lang="zh">转速表</value>
+        <value lang="zh_TW">轉速表</value>
+    </property>
+    <property key="ProductMeterType.description.USE_COUNT">
+        <value lang="de">Verwendungszähler</value>
+        <value lang="en">Use Count Meter</value>
+        <value lang="es">Contador de usos</value>
+        <value lang="fr">Utiliser le compteur</value>
+        <value lang="it">Usa conta metri</value>
+        <value lang="ro">Foloseste Conta Metri</value>
+        <value lang="ru">Количество использования</value>
+        <value lang="th">เครื่องงนับการใช้</value>
+        <value lang="zh">使用计数表</value>
+        <value lang="zh_TW">使用計數表</value>
+    </property>
+    <property key="ProductMeterType.description.TRIP_METER">
+        <value lang="en">Use Trip Meter</value>
+        <value lang="fr">Utiliser le compteur de distance par trajet</value>
+    </property>
+    <property key="ProductMeterType.description.TACHOGRAPH">
+        <value lang="de">Tachograph benutzen</value>
+        <value lang="en">Use Tacograph</value>
+        <value lang="fr">Utiliser le tacographe</value>
+    </property>
+    <property key="ProductMeterType.description.TAXIMETER">
+        <value lang="de">Taxameter benutzen</value>
+        <value lang="en">Use Taximeter</value>
+        <value lang="fr">Utiliser le taximètre</value>
+    </property>
+    <property key="ProductMeterType.description.EVENT_DATA_RECORDER">
+        <value lang="de">Ereignissdatenschreiber</value>
+        <value lang="en">Use Event Data Recorder</value>
+        <value lang="fr">Utiliser l'enregistreur d'évènements</value>
+    </property>
+    <property key="ProductMeterType.description.PEDOMETER">
+        <value lang="de">Pedometer benutzen</value>
+        <value lang="en">Use Pedometer</value>
+        <value lang="fr">Utiliser le podomètre</value>
+    </property>
+    <property key="ProductPriceActionType.description.PRICE_FLAT">
+        <value lang="de">Pauschalbetrag übersteuern</value>
+        <value lang="en">Flat Amount Override</value>
+        <value lang="es">Reemplazo de precio</value>
+        <value lang="fr">Remplacement du prix</value>
+        <value lang="it">Sostituzione importo fisso</value>
+        <value lang="ro">Substitutie Valoare Fixa</value>
+        <value lang="ru">Замещение фиксированного количества</value>
+        <value lang="th">ยกเลิกจำนวนที่ไม่ชัดเจน</value>
+        <value lang="zh">替代固定金额</value>
+        <value lang="zh_TW">替代固定金額</value>
+    </property>
+    <property key="ProductPriceActionType.description.PRICE_FOL">
+        <value lang="de">Pauschalbetrag ändern</value>
+        <value lang="en">Flat Amount Modify</value>
+        <value lang="es">Modificación de precio</value>
+        <value lang="fr">Ajout au prix public</value>
+        <value lang="it">Modifica importo fisso</value>
+        <value lang="ro">Modifica Valoarea Fixa</value>
+        <value lang="ru">Изменение фиксированного количества</value>
+        <value lang="th">ปรับปรุงจำนวนที่ไม่ชัดเจน</value>
+        <value lang="zh">修改固定金额</value>
+        <value lang="zh_TW">修改固定金額</value>
+    </property>
+    <property key="ProductPriceActionType.description.PRICE_PFLAT">
+        <value lang="de">Aktionspreis übersteuern</value>
+        <value lang="en">Promo Amount Override</value>
+        <value lang="es">Reemplazo de precio promocional</value>
+        <value lang="fr">Remplacement du prix promotionnel</value>
+        <value lang="it">Sostituzione importo promozione</value>
+        <value lang="ro">Substitutie Valoare Promotie</value>
+        <value lang="ru">Замещение акционного количества</value>
+        <value lang="th">ยกเลิกจำนวนโปรโมชัน</value>
+        <value lang="zh">替代促销金额</value>
+        <value lang="zh_TW">替代促銷金額</value>
+    </property>
+    <property key="ProductPriceActionType.description.PRICE_POAC">
+        <value lang="de">Prozent von Durchschnittskosten</value>
+        <value lang="en">Percent Of Average Cost</value>
+        <value lang="es">Porcentaje del precio promedio</value>
+        <value lang="fr">Pourcentage du coût moyen</value>
+        <value lang="it">Percentuale del costo medio</value>
+        <value lang="ro">Procent din Costul Mediu</value>
+        <value lang="ru">Процент от средней стоимости</value>
+        <value lang="th">อัตราร้อยละของถัวเฉลี่ย</value>
+        <value lang="zh">平均花费的百分数</value>
+        <value lang="zh_TW">平均花費的百分數</value>
+    </property>
+    <property key="ProductPriceActionType.description.PRICE_POD">
+        <value lang="de">Prozent vom Standardpreis</value>
+        <value lang="en">Percent Of Default Price</value>
+        <value lang="es">Porcentaje de precio por defecto</value>
+        <value lang="fr">Pourcentage du prix par défaut</value>
+        <value lang="it">Percentuale del prezzo di default</value>
+        <value lang="ro">Procent din Pretul din Default</value>
+        <value lang="ru">Процент от обычной цены</value>
+        <value lang="th">อัตราร้อยละของราคาเริ่มต้น</value>
+        <value lang="zh">缺省价格的百分数</value>
+        <value lang="zh_TW">預設價格的百分數</value>
+    </property>
+    <property key="ProductPriceActionType.description.PRICE_POL">
+        <value lang="de">Prozent vom Listenpreis</value>
+        <value lang="en">Percent Of List Price</value>
+        <value lang="es">Porcentaje de precio de lista</value>
+        <value lang="fr">Pourcentage du prix public</value>
+        <value lang="it">Percentuale del prezzo di listino</value>
+        <value lang="ro">Procent din Pretul din Lista</value>
+        <value lang="ru">Процент от прейскурантной цены</value>
+        <value lang="th">อัตราร้อยละของรายการราคา</value>
+        <value lang="zh">标价的百分数</value>
+        <value lang="zh_TW">標價的百分數</value>
+    </property>
+    <property key="ProductPriceActionType.description.PRICE_POM">
+        <value lang="de">Prozent von Gewinnmarge</value>
+        <value lang="en">Percent Of Margin</value>
+        <value lang="es">Porcentaje de margen</value>
+        <value lang="fr">Pourcentage de la marge</value>
+        <value lang="it">Percentuale del margine</value>
+        <value lang="ro">Procent Din Margine</value>
+        <value lang="ru">Процент от маржи</value>
+        <value lang="th">อัตราร้อยละของผลต่าง</value>
+        <value lang="zh">利润百分比</value>
+        <value lang="zh_TW">利潤百分比</value>
+    </property>
+    <property key="ProductPriceActionType.description.PRICE_POWHS">
+        <value lang="en">Percent Of Wholesale</value>
+        <value lang="fr">Pourcentage de la vente en gros</value>
+    </property>
+    <property key="ProductPriceActionType.description.PRICE_WFLAT">
+        <value lang="de">Grosshandelspreis übersteuern</value>
+        <value lang="en">Wholesale Amount Override</value>
+        <value lang="es">Reemplazo de la cantidad de venta</value>
+        <value lang="fr">Remplacement de la quantité en gros</value>
+        <value lang="it">Sostituzione importo all'ingrosso</value>
+        <value lang="ro">Substitutie Valoare la Intrare</value>
+        <value lang="ru">Замещение оптового количества</value>
+        <value lang="th">ยกเลิกจำนวนการขนส่ง</value>
+        <value lang="zh">替代总代理金额</value>
+        <value lang="zh_TW">替代總代理金額</value>
+    </property>
+    <property key="ProductPricePurpose.description.COMPONENT_PRICE">
+        <value lang="de">Komponentenpreis</value>
+        <value lang="en">Component Price</value>
+        <value lang="es">Precio de componente</value>
+        <value lang="fr">Prix du composant</value>
+        <value lang="it">Prezzo componente</value>
+        <value lang="ro">Pret Componente</value>
+        <value lang="ru">Цена комплектующих</value>
+        <value lang="th">ส่วนประกอบราคา</value>
+        <value lang="zh">元件价格</value>
+        <value lang="zh_TW">元件價格</value>
+    </property>
+    <property key="ProductPricePurpose.description.PURCHASE">
+        <value lang="de">Einkauf/Initial</value>
+        <value lang="en">Purchase/Initial</value>
+        <value lang="es">Compra/Inicial</value>
+        <value lang="fr">Achat/Initial</value>
+        <value lang="it">Acquisto/Iniziale</value>
+        <value lang="ro">Cumparare/Initiala</value>
+        <value lang="ru">Закупка/Начальный</value>
+        <value lang="th">การสั่งซื้อ/เริ่มแรก</value>
+        <value lang="zh">购买/初始</value>
+        <value lang="zh_TW">購買/初始</value>
+    </property>
+    <property key="ProductPricePurpose.description.RECURRING_CHARGE">
+        <value lang="de">Wiederkehrende Kosten</value>
+        <value lang="en">Recurring Charge</value>
+        <value lang="es">Cargo recurrente</value>
+        <value lang="fr">Charge/coût récurrent</value>
+        <value lang="it">Ricarico periodico</value>
+        <value lang="ro">Incarcare Periodica</value>
+        <value lang="ru">Периодические платежи</value>
+        <value lang="th">Recurring Charge</value>
+        <value lang="zh">经常费用</value>
+        <value lang="zh_TW">經常費用</value>
+    </property>
+    <property key="ProductPricePurpose.description.USAGE_CHARGE">
+        <value lang="de">Benützungsgebühr</value>
+        <value lang="en">Usage Charge</value>
+        <value lang="es">Cargo de uso</value>
+        <value lang="fr">Charge/coût d'usage</value>
+        <value lang="it">Usa ricarico</value>
+        <value lang="ro">Foloseste Incarcare</value>
+        <value lang="ru">Оплата использования</value>
+        <value lang="th">ค่าธรรมเนียมการใช้</value>
+        <value lang="zh">使用费</value>
+        <value lang="zh_TW">使用費</value>
+    </property>
+    <property key="ProductPriceType.description.AVERAGE_COST">
+        <value lang="de">Durchschnittskosten</value>
+        <value lang="en">Average Cost</value>
+        <value lang="es">Coste promedio</value>
+        <value lang="fr">Coût moyen</value>
+        <value lang="it">Costo medio</value>
+        <value lang="ro">Cost Mediu</value>
+        <value lang="ru">Средняя стоимость</value>
+        <value lang="th">ต้นทุนเฉลี่ย</value>
+        <value lang="zh">平均花费</value>
+        <value lang="zh_TW">平均花費</value>
+    </property>
+    <property key="ProductPriceType.description.COMPETITIVE_PRICE">
+        <value lang="de">Konkurrenzfähiger Preis</value>
+        <value lang="en">Competitive Price</value>
+        <value lang="es">Precio competitivo</value>
+        <value lang="fr">Prix compétitif</value>
+        <value lang="it">Prezzo competitivo</value>
+        <value lang="ro">Pret Competitiv</value>
+        <value lang="ru">Конкурентная цена</value>
+        <value lang="th">ราคาเปรียบเทียบ</value>
+        <value lang="zh">竞争对手价格</value>
+        <value lang="zh_TW">競爭對手價格</value>
+    </property>
+    <property key="ProductPriceType.description.COMPONENT_PRICE">
+        <value lang="de">Komponentenpreis</value>
+        <value lang="en">Component Price</value>
+        <value lang="es">Precio de componente</value>
+        <value lang="fr">Prix du composant</value>
+        <value lang="it">Prezzo componente</value>
+        <value lang="th">ส่วนประกอบราคา</value>
+        <value lang="zh">组件价格</value>
+        <value lang="zh_TW">元件價格</value>
+    </property>
+    <property key="ProductPriceType.description.DEFAULT_PRICE">
+        <value lang="de">Standardpreis</value>
+        <value lang="en">Default Price</value>
+        <value lang="es">Precio por defecto</value>
+        <value lang="fr">Prix par défaut</value>
+        <value lang="it">Prezzo di default</value>
+        <value lang="ro">Pret de Default</value>
+        <value lang="ru">Обычная цена</value>
+        <value lang="th">ราคาเริ่มต้น</value>
+        <value lang="zh">缺省价格</value>
+        <value lang="zh_TW">預設價格</value>
+    </property>
+    <property key="ProductPriceType.description.LIST_PRICE">
+        <value lang="de">Listenpreis</value>
+        <value lang="en">List Price</value>
+        <value lang="es">Precio de lista</value>
+        <value lang="fr">Prix public</value>
+        <value lang="it">Prezzo di listino</value>
+        <value lang="ro">Pret de Listare</value>
+        <value lang="ru">Прейскурантная цена</value>
+        <value lang="th">รายการราคา</value>
+        <value lang="zh">标价</value>
+        <value lang="zh_TW">標價</value>
+    </property>
+    <property key="ProductPriceType.description.MAXIMUM_PRICE">
+        <value lang="de">Maximum Preis</value>
+        <value lang="en">Maximum Price</value>
+        <value lang="es">Precio máximo</value>
+        <value lang="fr">Prix maximum</value>
+        <value lang="it">Prezzo massimo</value>
+        <value lang="ro">Pret Maxim</value>
+        <value lang="ru">Максимальная цена</value>
+        <value lang="th">ราคาสูงสุด</value>
+        <value lang="zh">最高价</value>
+        <value lang="zh_TW">最高價</value>
+    </property>
+    <property key="ProductPriceType.description.MINIMUM_ORDER_PRICE">
+        <value lang="de">Minimum Bestellpreis</value>
+        <value lang="en">Minimum order Price</value>
+    </property>
+    <property key="ProductPriceType.description.MINIMUM_PRICE">
+        <value lang="de">Minimum Preis</value>
+        <value lang="en">Minimum Price</value>
+        <value lang="es">Precio mínimo</value>
+        <value lang="fr">Prix minimum</value>
+        <value lang="it">Prezzo minimo</value>
+        <value lang="ro">Pret Minim</value>
+        <value lang="ru">Минимальная цена</value>
+        <value lang="th">ราคาน้อยสุด</value>
+        <value lang="zh">最低价</value>
+        <value lang="zh_TW">最低價</value>
+    </property>
+    <property key="ProductPriceType.description.PROMO_PRICE">
+        <value lang="de">Aktionspreis</value>
+        <value lang="en">Promotional Price</value>
+        <value lang="es">Precio promocional</value>
+        <value lang="fr">Prix promotionnel</value>
+        <value lang="it">Prezzo promozionale</value>
+        <value lang="ro">Pret Promotional </value>
+        <value lang="ru">Акционная цена</value>
+        <value lang="th">ราคาโปรโมชัน</value>
+        <value lang="zh">促销价</value>
+        <value lang="zh_TW">促銷價</value>
+    </property>
+    <property key="ProductPriceType.description.RECURRING_CHARGE">
+        <value lang="de">Wiederkehrende Kosten</value>
+        <value lang="en">Recurring Charge</value>
+        <value lang="es">Cargo recurrente</value>
+        <value lang="fr">Charge périodique</value>
+        <value lang="it">Ricarico ricorrente</value>
+        <value lang="th">RECURRING_CHARGE</value>
+        <value lang="zh">经常性费用</value>
+        <value lang="zh_TW">經常性費用</value>
+    </property>
+    <property key="ProductPriceType.description.SPECIAL_PROMO_PRICE">
+        <value lang="de">Sonderaktionspreis</value>
+        <value lang="en">Special Promo Price</value>
+        <value lang="fr">Prix spécial promo</value>
+        <value lang="it">Prezzo promozionale speciale</value>
+        <value lang="ro">Pret Promotional Special</value>
+        <value lang="ru">Специальная цена</value>
+        <value lang="th">ราคาโปรโมชันพิเศษ</value>
+        <value lang="zh">特别促销价</value>
+        <value lang="zh_TW">特別促銷價</value>
+    </property>
+    <property key="ProductPriceType.description.USAGE_CHARGE">
+        <value lang="de">Benutzungsgebühr</value>
+        <value lang="en">Usage Charge</value>
+        <value lang="es">Cargo por uso</value>
+        <value lang="fr">Charge d'utilisation</value>
+        <value lang="it">Uso Ricarico</value>
+        <value lang="th">ค่าธรรมเนียมการใช้</value>
+        <value lang="zh">使用费</value>
+        <value lang="zh_TW">使用費</value>
+    </property>
+    <property key="ProductPriceType.description.WHOLESALE_PRICE">
+        <value lang="de">Grosshandelspreis</value>
+        <value lang="en">Wholesale Price</value>
+        <value lang="es">Precio de toda la venta</value>
+        <value lang="fr">Prix de gros</value>
+        <value lang="it">Prezzo all'ingrosso</value>
+        <value lang="ro">Pret la Ingros</value>
+        <value lang="ru">Оптовая цена</value>
+        <value lang="th">ราคาขายส่ง</value>
+        <value lang="zh">总代理价</value>
+        <value lang="zh_TW">總代理價</value>
+    </property>
+    <property key="ProductStoreGroup.description._NA_">
+        <value lang="de">Nicht anwendbar</value>
+        <value lang="en">Not Applicable</value>
+        <value lang="es">No aplicable</value>
+        <value lang="fr">Non applicable</value>
+        <value lang="it">Non applicabile</value>
+        <value lang="ro">Ne Aplicabil</value>
+        <value lang="ru">Не применимо</value>
+        <value lang="th">ไม่ใช้ประโยชน์ได้</value>
+        <value lang="zh">不可用</value>
+        <value lang="zh_TW">不可用</value>
+    </property>
+    <property key="ProductStoreGroup.productStoreGroupName._NA_">
+        <value lang="de">Nicht anwendbar</value>
+        <value lang="en">Not Applicable</value>
+        <value lang="fr">Non applicable</value>
+        <value lang="it">Non applicabile</value>
+        <value lang="ro">Ne Aplicabil</value>
+        <value lang="ru">Не применимо</value>
+        <value lang="th">ไม่ใช้ประโยชน์ได้</value>
+        <value lang="zh">不可用</value>
+        <value lang="zh_TW">不可用</value>
+    </property>
+    <property key="ProductType.description.AGGREGATED">
+        <value lang="de">Konfigurierbares Produkt</value>
+        <value lang="en">Configurable Good</value>
+        <value lang="es">Producto configurable</value>
+        <value lang="fr">Produit configurable</value>
+        <value lang="it">Bene configurabile</value>
+        <value lang="ro">Bun Configurabil</value>
+        <value lang="ru">Товар требующий конфигурации</value>
+        <value lang="th">สามารถสร้างสินค้า</value>
+        <value lang="zh">可配置商品</value>
+        <value lang="zh_TW">可配置商品</value>
+    </property>
+    <property key="ProductType.description.AGGREGATED_CONF">
+        <value lang="de">Konfigurierbare Ware konfigurieren</value>
+        <value lang="en">Configurable Good Configuration</value>
+        <value lang="it">Configurazione beni configurabili</value>
+        <value lang="zh">可配置商品配置</value>
+        <value lang="zh_TW">可配置商品配置</value>
+    </property>
+    <property key="ProductType.description.ASSET_USAGE">
+        <value lang="de">Anlageverwendung</value>
+        <value lang="en">Fixed Asset Usage</value>
+        <value lang="es">Uso de activo fijo</value>
+        <value lang="fr">Usage d'immobilisation</value>
+        <value lang="it">Uso cespite</value>
+        <value lang="ro">Folosire Mijloc Fix</value>
+        <value lang="ru">Использование ОС</value>
+        <value lang="th">วิธีการใช้ทรัพย์สินไม่หมุนเวียน</value>
+        <value lang="zh">固定资产用途</value>
+        <value lang="zh_TW">固定資產用途</value>
+    </property>
+    <property key="ProductType.description.DIGITAL_GOOD">
+        <value lang="de">Digitales Produkt</value>
+        <value lang="en">Digital Good</value>
+        <value lang="es">Producto digital</value>
+        <value lang="fr">Produit immatériel</value>
+        <value lang="it">Bene digitale</value>
+        <value lang="ro">Bun Digital</value>
+        <value lang="ru">Цифровой товар</value>
+        <value lang="th">สินค้าดิจิตอล</value>
+        <value lang="zh">数字商品</value>
+        <value lang="zh_TW">數字商品</value>
+    </property>
+    <property key="ProductType.description.FINDIG_GOOD">
+        <value lang="de">Fertigprodukt/Digitales Produkt</value>
+        <value lang="en">Finished/Digital Good</value>
+        <value lang="es">Producto Digital/Terminado</value>
+        <value lang="fr">Produit fini immatériel</value>
+        <value lang="it">Bene finito/digitale</value>
+        <value lang="ro">Bun Finit/Digital</value>
+        <value lang="ru">Готовый/цифровой товар</value>
+        <value lang="th">เสร็จสิ้น/สินค้าดิจิตอล</value>
+        <value lang="zh">成品/数字商品</value>
+        <value lang="zh_TW">成品/數字商品</value>
+    </property>
+    <property key="ProductType.description.FINISHED_GOOD">
+        <value lang="de">Fertigprodukt</value>
+        <value lang="en">Finished Good</value>
+        <value lang="es">Producto terminado</value>
+        <value lang="fr">Produit fini</value>
+        <value lang="it">Bene finito</value>
+        <value lang="ro">Bun Finit</value>
+        <value lang="ru">Готовый товар</value>
+        <value lang="th">สินค้าเคลือบเงา</value>
+        <value lang="zh">成品</value>
+        <value lang="zh_TW">成品</value>
+    </property>
+    <property key="ProductType.description.GOOD">
+        <value lang="de">Waren</value>
+        <value lang="en">Good</value>
+        <value lang="es">Bien</value>
+        <value lang="fr">Bien</value>
+        <value lang="it">Bene</value>
+        <value lang="ro">Bun</value>
+        <value lang="ru">Товар</value>
+        <value lang="th">สินค้า</value>
+        <value lang="zh">商品</value>
+        <value lang="zh_TW">商品</value>
+    </property>
+    <property key="ProductType.description.MARKETING_PKG">
+        <value lang="de">Marketingpaket</value>
+        <value lang="en">Marketing Package</value>
+        <value lang="it">Pacco di vendita</value>
+    </property>
+    <property key="ProductType.description.MARKETING_PKG_AUTO">
+        <value lang="de">Marketingpaket</value>
+        <value lang="en">Marketing Package: Auto Manufactured</value>
+        <value lang="es">Paquete de marketing</value>
+        <value lang="fr">Conditionnement marketing</value>
+        <value lang="it">Pacco di vendita</value>
+        <value lang="ru">Маркетинговый пакет</value>
+        <value lang="th">แพคเกจการตลาด</value>
+        <value lang="zh">促销包</value>
+        <value lang="zh_TW">促銷包</value>
+    </property>
+    <property key="ProductType.description.MARKETING_PKG_PICK">
+        <value lang="de">Marketingpaket: Zusammensetzung wählen</value>
+        <value lang="en">Marketing Package: Pick Assembly</value>
+        <value lang="es">Paquete de marketing: ensamblado durante recogida en almacén</value>
+        <value lang="fr">Conditionnement marketing: assemblage durant le prélèvement</value>
+        <value lang="it">Pacco di vendita: assemblato durante il prelievo</value>
+        <value lang="th">แพคเกจการตลาด: การเลือกการรวมกลุ่ม</value>
+        <value lang="zh">促销包：分拣组装</value>
+        <value lang="zh_TW">促銷包：分揀組裝</value>
+    </property>
+    <property key="ProductType.description.RAW_MATERIAL">
+        <value lang="de">Rohmaterial</value>
+        <value lang="en">Raw Material</value>
+        <value lang="es">Materia prima</value>
+        <value lang="fr">Matières Premières</value>
+        <value lang="it">Materia prima</value>
+        <value lang="ro">Materie Prima</value>
+        <value lang="ru">Необработанный материал</value>
+        <value lang="th">วัตถุดิบ</value>
+        <value lang="zh">原材料</value>
+        <value lang="zh_TW">原材料</value>
+    </property>
+    <property key="ProductType.description.SERVICE">
+        <value lang="de">Dienstleistung</value>
+        <value lang="en">Service</value>
+        <value lang="es">Servicio</value>
+        <value lang="fr">Service</value>
+        <value lang="it">Servizio</value>
+        <value lang="ro">Serviciu</value>
+        <value lang="ru">Услуга</value>
+        <value lang="th">บริการ</value>
+        <value lang="zh">服务</value>
+        <value lang="zh_TW">服務</value>
+    </property>
+    <property key="ProductType.description.SUBASSEMBLY">
+        <value lang="de">Zwischenprodukt</value>
+        <value lang="en">Subassembly</value>
+        <value lang="es">Producto intermedio</value>
+        <value lang="fr">Semi-fini</value>
+        <value lang="it">Subassemblato</value>
+        <value lang="ro">Subasamblat</value>
+        <value lang="ru">Комплектующие</value>
+        <value lang="th">การรวมกลุ่มย่อย</value>
+        <value lang="zh">部件</value>
+        <value lang="zh_TW">部件</value>
+    </property>
+    <property key="ProductType.description.WIP">
+        <value lang="de">In Arbeit</value>
+        <value lang="en">Work In Process</value>
+        <value lang="es">Trabajo en proceso</value>
+        <value lang="fr">Travaux</value>
+        <value lang="it">Semilavorato</value>
+        <value lang="ro">Semifabricat</value>
+        <value lang="ru">Незавершенная работа</value>
+        <value lang="th">งานที่ก้าวหน้า</value>
+        <value lang="zh">在制品</value>
+        <value lang="zh_TW">在制品</value>
+    </property>
+    <property key="QuantityBreakType.description.ORDER_VALUE">
+        <value lang="de">Preiskomponente Auftragswert Sprung</value>
+        <value lang="en">Price Component Order Value Break</value>
+        <value lang="es">Dividir el valor de la orden en precios de sus componentes</value>
+        <value lang="fr">Rupture par valeur à la commande des prix de composant</value>
+        <value lang="it">Intervallo prezzo componente valore ordine</value>
+        <value lang="ru">Порого ценового компонента от объема заказа</value>
+        <value lang="th">หยุดค่ารายการส่วนประกอบราคา</value>
+        <value lang="zh">组件价格订单价值台阶</value>
+        <value lang="zh_TW">元件價格訂單價值台階</value>
+    </property>
+    <property key="QuantityBreakType.description.QUANTITY">
+        <value lang="de">Preiskomponente Menge Sprung</value>
+        <value lang="en">Price Component Quantity Break</value>
+        <value lang="es">Dividir la cantidad en el precio de sus componentes</value>
+        <value lang="fr">Rupture par quantité des prix de composant</value>
+        <value lang="it">Intervallo Prezzo Componente Quantità</value>
+        <value lang="ru">Количественный порог ценового компонента</value>
+        <value lang="th">หยุดค่าจำนวนส่วนประกอบราคา</value>
+        <value lang="zh">组件价格数量台阶</value>
+        <value lang="zh_TW">元件價格數量台階</value>
+    </property>
+    <property key="QuantityBreakType.description.SHIP_PRICE">
+        <value lang="de">Lieferpreis Sprung</value>
+        <value lang="en">Shipping Price Break</value>
+        <value lang="es">Dividir precio de envío</value>
+        <value lang="fr">Rupture par prix d'expédition</value>
+        <value lang="it">Intervallo prezzo spedizione</value>
+        <value lang="ru">Ценовый порог поставки</value>
+        <value lang="th">หยุดราคาการขนส่ง</value>
+        <value lang="zh">运价台阶</value>
+        <value lang="zh_TW">運價台階</value>
+    </property>
+    <property key="QuantityBreakType.description.SHIP_QUANTITY">
+        <value lang="de">Liefermenge Sprung</value>
+        <value lang="en">Shipping Quantity Break</value>
+        <value lang="es">Dividir cantidad de envío</value>
+        <value lang="fr">Rupture par quantité d'expédition</value>
+        <value lang="it">Intervallo quantità spedizione</value>
+        <value lang="ru">Количественный порог поставки</value>
+        <value lang="th">หยุดจำนวนการขนส่ง</value>
+        <value lang="zh">运送数量台阶</value>
+        <value lang="zh_TW">運送數量台階</value>
+    </property>
+    <property key="QuantityBreakType.description.SHIP_WEIGHT">
+        <value lang="de">Liefergewicht Sprung</value>
+        <value lang="en">Shipping Weight Break</value>
+        <value lang="es">Dividir peso de envío</value>
+        <value lang="fr">Rupture par poids à l'expédition</value>
+        <value lang="it">Intervallo peso spedizione</value>
+        <value lang="ru">Весовой порог поставки</value>
+        <value lang="th">หยุดน้ำหนักการขนส่ง</value>
+        <value lang="zh">运送重量台阶</value>
+        <value lang="zh_TW">運送重量台階</value>
+    </property>
+    <property key="RejectionReason.description.SRJ_DAMAGED">
+        <value lang="de">Beschädigt</value>
+        <value lang="en">Damaged</value>
+        <value lang="es">Dañado</value>
+        <value lang="fr">Endommagé</value>
+        <value lang="it">Danneggiato</value>
+        <value lang="ro">Stricat</value>
+        <value lang="ru">Повреждено</value>
+        <value lang="th">รายจ่าย</value>
+        <value lang="zh">已损坏的</value>
+        <value lang="zh_TW">已損壞的</value>
+    </property>
+    <property key="RejectionReason.description.SRJ_NOT_ORDERED">
+        <value lang="de">Nicht in Auftrag gegeben</value>
+        <value lang="en">Not Ordered</value>
+        <value lang="es">No ordenado</value>
+        <value lang="fr">Non commandé</value>
+        <value lang="it">Non ordinato</value>
+        <value lang="ro">Ne Ordonat</value>
+        <value lang="ru">Не заказывалось</value>
+        <value lang="th">ไม่ใช่รายการสั่งซื้อ</value>
+        <value lang="zh">未订购的</value>
+        <value lang="zh_TW">未訂購的</value>
+    </property>
+    <property key="RejectionReason.description.SRJ_OVER_SHIPPED">
+        <value lang="de">Zuviel geliefert</value>
+        <value lang="en">Over Shipped</value>
+        <value lang="es">Sobre-expedido</value>
+        <value lang="fr">Expédié en excédent</value>
+        <value lang="it">Sovra spedito</value>
+        <value lang="ro">Sopra Expediat</value>
+        <value lang="ru">Поставка лишнего</value>
+        <value lang="th">การขนส่งมาก</value>
+        <value lang="zh">超载</value>
+        <value lang="zh_TW">超載</value>
+    </property>
+    <property key="ShipmentContactMechType.description.SHIP_FROM_ADDRESS">
+        <value lang="de">Lieferung Herkunft</value>
+        <value lang="en">Ship From Address</value>
+        <value lang="es">Envío-Dirección de origen</value>
+        <value lang="fr">Adresse d'origine de l'expédition</value>
+        <value lang="it">Spedisci dall'indirizzo</value>
+        <value lang="th">การขนส่งจากที่อยู่</value>
+        <value lang="zh">发货地址</value>
+        <value lang="zh_TW">發貨位址</value>
+    </property>
+    <property key="ShipmentContactMechType.description.SHIP_FROM_TELECOM">
+        <value lang="de">Lieferung Herkunft Telefonnummer</value>
+        <value lang="en">Ship From Telecom</value>
+        <value lang="es">Envío-Número de teléfono origen</value>
+        <value lang="fr">N° de téléphone de l'origine de l'expédition</value>
+        <value lang="it">Spedisci dal numero di telefono</value>
+        <value lang="th">การขนส่งจากโทรคมนาคม</value>
+        <value lang="zh">发货电话</value>
+        <value lang="zh_TW">發貨電話</value>
+    </property>
+    <property key="ShipmentContactMechType.description.SHIP_TO_ADDRESS">
+        <value lang="de">Lieferung Zieladresse</value>
+        <value lang="en">Ship To Address</value>
+        <value lang="es">Envío-Dirección origen</value>
+        <value lang="fr">Adresse d'expédition</value>
+        <value lang="it">Spedisci all'indirizzo</value>
+        <value lang="th">การขนส่งถึงที่อยู่</value>
+        <value lang="zh">收货地址</value>
+        <value lang="zh_TW">收貨位址</value>
+    </property>
+    <property key="ShipmentContactMechType.description.SHIP_TO_EMAIL">
+        <value lang="de">Lieferung Ziel E-Mail Adresse</value>
+        <value lang="en">Ship To Email</value>
+        <value lang="es">Envío-E-mail destino</value>
+        <value lang="fr">Courriel de l'expédition</value>
+        <value lang="it">Spedisci all'email</value>
+        <value lang="th">การขนส่งถึงอีเมล</value>
+        <value lang="zh">收货电子邮件</value>
+        <value lang="zh_TW">收貨電子郵件</value>
+    </property>
+    <property key="ShipmentContactMechType.description.SHIP_TO_TELECOM">
+        <value lang="de">Lieferung Ziel Telefonnummer</value>
+        <value lang="en">Ship To Telecom</value>
+        <value lang="es">Envío-Número de teléfono destino</value>
+        <value lang="fr">N° de téléphone de l'expédition</value>
+        <value lang="it">Spedisci al numero di telefono</value>
+        <value lang="th">การขนส่งถึงโทรคมนาคม</value>
+        <value lang="zh">收货电话</value>
+        <value lang="zh_TW">收貨電話</value>
+    </property>
+    <property key="ShipmentType.description.DROP_SHIPMENT">
+        <value lang="de">Direktlieferung</value>
+        <value lang="en">Drop Shipment</value>
+        <value lang="es">Entregar envío</value>
+        <value lang="fr">Expédition par un tiers</value>
+        <value lang="it">Spedizione Esterna</value>
+        <value lang="ro">Drop Shipment</value>
+        <value lang="ru">Прямая поставка</value>
+        <value lang="th">หยุดการขนส่ง</value>
+        <value lang="zh">直送</value>
+        <value lang="zh_TW">直送</value>
+    </property>
+    <property key="ShipmentType.description.INCOMING_SHIPMENT">
+        <value lang="de">Eingehend</value>
+        <value lang="en">Incoming</value>
+        <value lang="es">Entrante</value>
+        <value lang="fr">A recevoir</value>
+        <value lang="it">Ingresso</value>
+        <value lang="ro">Intrare</value>
+        <value lang="ru">Входящая</value>
+        <value lang="th">รายได้</value>
+        <value lang="zh">运进</value>
+        <value lang="zh_TW">運進</value>
+    </property>
+    <property key="ShipmentType.description.MANUFACTURING_SHIP">
+        <value lang="de">Fertigung Lieferung</value>
+        <value lang="en">Manufacturing Ship</value>
+        <value lang="es">Recibir manufactura</value>
+        <value lang="fr">Expédition de fabrication</value>
+        <value lang="it">Spedizione di produzione</value>
+        <value lang="th">การผลิตการขนส่ง</value>
+        <value lang="zh">制造中的船舶</value>
+        <value lang="zh_TW">制造中的船舶</value>
+    </property>
+    <property key="ShipmentType.description.OUTGOING_SHIPMENT">
+        <value lang="de">Ausgehend</value>
+        <value lang="en">Outgoing</value>
+        <value lang="es">Saliente</value>
+        <value lang="fr">Sortant</value>
+        <value lang="it">Uscita</value>
+        <value lang="ro">Iesire</value>
+        <value lang="ru">Исходящая</value>
+        <value lang="th">ออกจากสถานที่</value>
+        <value lang="zh">运出</value>
+        <value lang="zh_TW">運出</value>
+    </property>
+    <property key="ShipmentType.description.PURCHASE_RETURN">
+        <value lang="de">Einkauf Retoure</value>
+        <value lang="en">Purchase Return</value>
+        <value lang="es">Devolución de compra</value>
+        <value lang="fr">Retour d'achat</value>
+        <value lang="it">Reso di acquisto</value>
+        <value lang="ro">Returnare Cumparari</value>
+        <value lang="ru">Возврат закупленного</value>
+        <value lang="th">คืนค่าการสั่งซื้อ</value>
+        <value lang="zh">购物退货</value>
+        <value lang="zh_TW">購物退貨</value>
+    </property>
+    <property key="ShipmentType.description.PURCHASE_SHIPMENT">
+        <value lang="de">Einkauf Lieferung</value>
+        <value lang="en">Purchase Shipment</value>
+        <value lang="es">Envío de compra</value>
+        <value lang="fr">Expédition d'achat</value>
+        <value lang="it">Spedizione di acquisto</value>
+        <value lang="ro">Expediere Cumparaturi</value>
+        <value lang="ru">Поставка закупленного</value>
+        <value lang="th">การขนส่งการสั่งซื้อ</value>
+        <value lang="zh">购物送货</value>
+        <value lang="zh_TW">購物送貨</value>
+    </property>
+    <property key="ShipmentType.description.SALES_RETURN">
+        <value lang="de">Verkauf Retoure</value>
+        <value lang="en">Sales Return</value>
+        <value lang="es">Devolución de ventas</value>
+        <value lang="fr">Retour de vente</value>
+        <value lang="it">Reso di vendita</value>
+        <value lang="ro">Returnare din Vanzari</value>
+        <value lang="ru">Возврат проданного</value>
+        <value lang="th">คืนค่าการขาย</value>
+        <value lang="zh">销售退货</value>
+        <value lang="zh_TW">銷售退貨</value>
+    </property>
+    <property key="ShipmentType.description.SALES_SHIPMENT">
+        <value lang="de">Verkauf Lieferung</value>
+        <value lang="en">Sales Shipment</value>
+        <value lang="es">Envío de ventas</value>
+        <value lang="fr">Expédition de vente</value>
+        <value lang="it">Spedizione di vendita</value>
+        <value lang="ro">Expediere Vanzari</value>
+        <value lang="ru">Поставка проданного</value>
+        <value lang="th">การขนส่งการขาย</value>
+        <value lang="zh">销售送货</value>
+        <value lang="zh_TW">銷售送貨</value>
+    </property>
+    <property key="ShipmentType.description.TRANSFER">
+        <value lang="de">Transfer</value>
+        <value lang="en">Transfer</value>
+        <value lang="es">Transferencia</value>
+        <value lang="fr">Transfert</value>
+        <value lang="it">Trasferimento</value>
+        <value lang="ro">Transferiment</value>
+        <value lang="ru">Передача</value>
+        <value lang="th">การขนส่ง</value>
+        <value lang="zh">传送</value>
+        <value lang="zh_TW">傳送</value>
+    </property>
+    <property key="SubscriptionType.description.NEWSGROUP_SUBSCR">
+        <value lang="de">Newsgruppe</value>
+        <value lang="en">Newsgroup</value>
+        <value lang="es">Grupo de noticias</value>
+        <value lang="fr">Groupe de nouvelles</value>
+        <value lang="it">Notiziario</value>
+        <value lang="ro">Notitiar</value>
+        <value lang="ru">Новости</value>
+        <value lang="th">กลุ่มข่าว</value>
+        <value lang="zh">新闻组</value>
+        <value lang="zh_TW">新聞組</value>
+    </property>
+    <property key="SubscriptionType.description.OTHER_SUBSCR">
+        <value lang="de">Andere</value>
+        <value lang="en">Other</value>
+        <value lang="es">Otro</value>
+        <value lang="fr">Autre</value>
+        <value lang="it">Altro</value>
+        <value lang="ro">Alte</value>
+        <value lang="ru">Друго</value>
+        <value lang="th">อื่น ๆ</value>
+        <value lang="zh">其它</value>
+        <value lang="zh_TW">其他</value>
+    </property>
+    <property key="SubscriptionType.description.PRODUCT_INFO_SUBSCR">
+        <value lang="de">Produktinformationen</value>
+        <value lang="en">Product Info</value>
+        <value lang="es">Información de producto</value>
+        <value lang="fr">Information sur le produit</value>
+        <value lang="it">Informazioni prodotto</value>
+        <value lang="ro">Informatii Produs</value>
+        <value lang="ru">Информация о продукте</value>
+        <value lang="th">ข้อมูลสินค้า</value>
+        <value lang="zh">产品信息</value>
+        <value lang="zh_TW">產品資訊</value>
+    </property>
+    <property key="SubscriptionType.description.PRODUCT_SUBSCR">
+        <value lang="de">Produkt</value>
+        <value lang="en">Product</value>
+        <value lang="es">Producto</value>
+        <value lang="fr">Article</value>
+        <value lang="it">Prodotto</value>
+        <value lang="ru">Продукт</value>
+        <value lang="th">สินค้า</value>
+        <value lang="zh">产品</value>
+        <value lang="zh_TW">產品</value>
+    </property>
+    <property key="VarianceReason.description.VAR_DAMAGED">
+        <value lang="de">Beschädigt</value>
+        <value lang="en">Damaged</value>
+        <value lang="es">Dañado</value>
+        <value lang="fr">Endommagé</value>
+        <value lang="it">Danneggiato</value>
+        <value lang="ro">Stricat</value>
+        <value lang="ru">Повреждено</value>
+        <value lang="th">รายจ่าย</value>
+        <value lang="zh">已损坏</value>
+        <value lang="zh_TW">已損壞</value>
+    </property>
+    <property key="VarianceReason.description.VAR_FOUND">
+        <value lang="de">Gefunden</value>
+        <value lang="en">Found</value>
+        <value lang="es">Encontrado</value>
+        <value lang="fr">Trouvé</value>
+        <value lang="it">Trovato</value>
+        <value lang="ro">Gasit</value>
+        <value lang="ru">Найдено</value>
+        <value lang="th">พบ</value>
+        <value lang="zh">已找到</value>
+        <value lang="zh_TW">已找到</value>
+    </property>
+    <property key="VarianceReason.description.VAR_INTEGR">
+        <value lang="de">Integration</value>
+        <value lang="en">Integration</value>
+        <value lang="es">Integración</value>
+        <value lang="fr">Intégré</value>
+        <value lang="it">Integrazione</value>
+        <value lang="ro">Integrare</value>
+        <value lang="ru">Интеграция</value>
+        <value lang="th">การรวมเข้าด้วยกัน</value>
+        <value lang="zh">完整</value>
+        <value lang="zh_TW">完整</value>
+    </property>
+    <property key="VarianceReason.description.VAR_LOST">
+        <value lang="de">Verloren</value>
+        <value lang="en">Lost</value>
+        <value lang="es">Perdido</value>
+        <value lang="fr">Perdu</value>
+        <value lang="it">Perso</value>
+        <value lang="ro">Pierdut</value>
+        <value lang="ru">Утеряно</value>
+        <value lang="th">สูญเสีย</value>
+        <value lang="zh">丢失</value>
+        <value lang="zh_TW">丟失</value>
+    </property>
+    <property key="VarianceReason.description.VAR_MISSHIP_ORDERED">
+        <value lang="en">Mis-shipped Item Ordered (+)</value>
+        <value lang="it">Riga non-spedita ordinata (+)</value>
+        <value lang="zh">已订购的误装明细 (+)</value>
+        <value lang="zh_TW">已訂購的誤裝明細 (+)</value>
+    </property>
+    <property key="VarianceReason.description.VAR_MISSHIP_SHIPPED">
+        <value lang="en">Mis-shipped Item Shipped (-)</value>
+        <value lang="it">Riga non-spedita spedita (-)</value>
+        <value lang="zh">已装运的误装明细 (-)</value>
+        <value lang="zh_TW">已裝運的誤裝明細 (-)</value>
+    </property>
+    <property key="VarianceReason.description.VAR_SAMPLE">
+        <value lang="de">Muster</value>
+        <value lang="en">Sample (Giveaway)</value>
+        <value lang="es">Muestra (regalada)</value>
+        <value lang="fr">Échantillon</value>
+        <value lang="it">Campione (Dato via)</value>
+        <value lang="ro">Esantion (Introdu Strada)</value>
+        <value lang="ru">Проба (испорчен)</value>
+        <value lang="th">ตัวอย่าง (เปิดเผย)</value>
+        <value lang="zh">样品 (派送)</value>
+        <value lang="zh_TW">樣品 (派送)</value>
+    </property>
+    <property key="VarianceReason.description.VAR_STOLEN">
+        <value lang="de">Gestohlen</value>
+        <value lang="en">Stolen</value>
+        <value lang="es">Robado</value>
+        <value lang="fr">Volé</value>
+        <value lang="it">Rubato</value>
+        <value lang="ro">Furat</value>
+        <value lang="ru">Украдено</value>
+        <value lang="th">ของเถื่อน</value>
+        <value lang="zh">被盗</value>
+        <value lang="zh_TW">被盜</value>
+    </property>
+    <property key="ProductCategoryLinkType.description.PCLT_SEARCH_PARAM">
+        <value lang="de">Suchparameter</value>
+        <value lang="en">Search Parameters</value>
+        <value lang="fr">Paramètres de recherche</value>
+    </property>
+    <property key="ProductCategoryLinkType.description.PCLT_ABS_URL">
+        <value lang="de">Absolute URL</value>
+        <value lang="en">Absolute URL</value>
+        <value lang="fr">URL absolue</value>
+    </property>
+    <property key="ProductCategoryLinkType.description.PCLT_CAT_ID">
+        <value lang="de">Kategorie ID</value>
+        <value lang="en">Category ID</value>
+        <value lang="fr">Ref. de catégorie</value>
+    </property>
+
+    <!-- Field Descriptions -->
+    <!--  ProdCatalog -->
+    <property key="FieldDescription.ProdCatalog.prodCatalogId">
+        <value lang="en">This cannot be changed without re-creating the Product Catalog.</value>
+    </property>
+    <property key="FieldDescription.ProdCatalog.catalogName">
+        <value lang="en">This will be shown to your customers, so think of image when giving your catalog a name.</value>
+    </property>
+    <property key="FieldDescription.ProdCatalog.useQuickAdd">
+        <value lang="en">Set this to Y if you want to give users the option to quick add products.</value>
+    </property>
+    <property key="FieldDescription.ProdCatalog.styleSheet">
+        <value lang="en">The path to your distinctive style sheet which will govern the appearance of your catalog goes here.</value>
+    </property>
+    <property key="FieldDescription.ProdCatalog.headerLogo">
+        <value lang="en">This will be seen by your customers. Maintain your image and message with the logo presented.</value>
+    </property>
+    <property key="FieldDescription.ProdCatalog.contentPathPrefix">
+        <value lang="en">If specified will be prepended to image and other content paths. Should start with a slash but not end with one.</value>
+    </property>
+    <property key="FieldDescription.ProdCatalog.templatePathPrefix">
+        <value lang="en">If specified will be prepended to template paths. Should start with a slash but not end with one.</value>
+    </property>
+    <property key="FieldDescription.ProdCatalog.viewAllowPermReqd">
+        <value lang="en">If Y, administrators can only add products to 'View Allow' categories if they have the permission CATALOG_VIEW_ALLOW</value>
+    </property>
+    <property key="FieldDescription.ProdCatalog.purchaseAllowPermReqd">
+        <value lang="en">If Y, administrators can only add products to 'Purchase Allow' categories if they have the permission CATALOG_VIEW_ALLOW</value>
+    </property>
+
+    <!--  ProductStore -->
+    <property key="FieldDescription.ProductStore.productStoreId">
+        <value lang="en">The id for the product store..</value>
+    </property>
+    <property key="FieldDescription.ProductStore.primaryStoreGroupId">
+        <value lang="en">What group this store belongs to. Stores can be grouped together with a price for each store group. It can be left blank if there are no store groups set up.</value>
+        <!-- Store groups cannot be set up in the catalog manager and must be inserted directly into the database. -->
+    </property>
+    <property key="FieldDescription.ProductStore.storeName">
+        <value lang="en">This is the name of the store that this catalog represents.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.companyName">
+        <value lang="en">This is the name of the company that this catalog represents.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.title">
+        <value lang="en">This value gets displayed in the header section of the ecommerce store.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.subtitle">
+        <value lang="en">This value gets displayed in the header section of the ecommerce store.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.payToPartyId">
+        <value lang="en">Note that this corresponds with the organizationPartyId that GL transactions will be posted to.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.daysToCancelNonPay">
+        <value lang="en">Triggers cancellation of orders for non-payment after the number of days entered here.</value>
+        <!-- There is an automated service that can be scheduled (see Job Scheduler in Webtools) nightly to cancel orders which have not been paid. This defines how many days an order can be outstanding and unpaid before it is canceled. A value of zero here will leave all orders open indefinitely. -->
+    </property>
+    <property key="FieldDescription.ProductStore.manualAuthIsCapture">
+        <value lang="en">Drop-down Y/N box on the question of whether a Manual Authorization is captured.</value> <!--  TODO - what does this really mean? -->
+    </property>
+    <property key="FieldDescription.ProductStore.prorateShipping">
+        <value lang="en">When some share of the cost of shipping is covered under an account other than the bill-to.</value> <!--  TODO - what does this really mean? -->
+    </property>
+    <property key="FieldDescription.ProductStore.prorateTaxes">
+        <value lang="en"></value>
+    </property>
+    <property key="FieldDescription.ProductStore.viewCartOnAdd">
+        <value lang="en">Controls whether the user is taken to the shopping cart immediately after adding a product to his cart.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.autoSaveCart">
+        <value lang="en">Drop-down Y/N box on the question of automatically saving the contents of the shopping cart.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.autoApproveReviews">
+        <value lang="en">If the site allows users to enter product reviews, this controls whether the reviews must be approved, or whether they are automatically shown on the site.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.isDemoStore">
+        <value lang="en">If Yes, any orders created will not be sent, credit card charges will not be made, etc.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.isImmediatelyFulfilled">
+        <value lang="en">If Yes, the order will be immediately fulfilled through system-generated processes in ofbiz (e.g. for POS sales).  If no, it will be held for manual review.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.inventoryFacilityId">
+        <value lang="en">This is where the stock levels are drawn from.</value>
+        <!-- Used for knowing where to change product inventory as items are sold. See the 'Facility Manager' to create a facility. All existing facilities are presented here. -->
+    </property>
+    <property key="FieldDescription.ProductStore.oneInventoryFacility">
+        <value lang="en">If this is a 'Single Inventory' facility. With newer or less complex businesses, you will find the Single Inventory concept much easier to work with.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.checkInventory">
+        <value lang="en">This determines whether the system checks inventory levels when processing an order.</value>
+        <!--  If inventory IS checked (Y), the item cannot be ordered or rather the order cannot be fulfilled if there is insufficient QOH or ATP. If Inventory is not checked, however, the order may be accepted but items not available will be processed as a back-order. You need a system in place to track, replenish and fulfill back-ordered items if you set this flag to N. -->
+    </property>
+    <property key="FieldDescription.ProductStore.reserveInventory">
+        <value lang="en">Causes inventory to be reserved for items ordered in the store. The inventory may still be on hand but will no longer be available for other orders.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.reserveOrderEnumId">
+        <value lang="en">Choose how inventory should be reserved.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.requireInventory">
+        <value lang="en">If sufficient inventory not on hand, order will not be processed when this flag is set to Yes.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.balanceResOnOrderCreation">
+        <value lang="en">If set to Y, when a new sales order is created with backordered items, then reservations on the facility/product are reassigned according to the priority given by the shipBeforeDate field.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.requirementMethodEnumId">
+        <value lang="en">Refers to warehouse stocking level triggers.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.orderNumberPrefix">
+        <value lang="en">All orders will be prefixed by this. For example, if you wished accounting to be able to quickly differentiate orders between stores.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.defaultLocaleString">
+        <value lang="en">Default locale, for language, number, and currency formats.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.defaultCurrencyUomId">
+        <value lang="en">Which national currency will be used if none is specified. Use webtools to find codes for non-US locations.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.defaultSalesChannelEnumId">
+        <value lang="en">Unless the sales channel has been specified in the transaction, it will be assumed that the sale came in through the selected path.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.allowPassword">
+        <value lang="en">If No, when a customer creates an account they will not be asked for a password and they have to wait for their account to be enabled and a password to be sent to them.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.defaultPassword">
+        <value lang="en">If you allow others access with a password, what is the default password that anyone could use if they knew it?</value>
+    </property>
+    <property key="FieldDescription.ProductStore.explodeOrderItems">
+        <value lang="en">If set to Y then any shopping cart item with a quantity greater than one will be split into separate order items with a quantity of 1 each.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.checkGcBalance">
+        <value lang="en"></value>
+    </property>
+    <property key="FieldDescription.ProductStore.retryFailedAuths">
+        <value lang="en">How many times can an unsuccessful attempt to authorize an order be allowed?</value>
+    </property>
+    <property key="FieldDescription.ProductStore.headerApprovedStatus">
+        <value lang="en">This is the message you want your customers to see when their order is approved.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.itemApprovedStatus">
+        <value lang="en">What to set order items status to when orders are approved, declined, or canceled. Based on the standard defined status codes in Open for Business.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.digitalItemApprovedStatus">
+        <value lang="en">What to set order items status to when Digital Item orders are approved, declined, or canceled. Based on the standard defined status codes in Open for Business.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.headerDeclinedStatus">
+        <value lang="en">This is the message you want your customers to see when their order is declined. Based on the standard defined status codes in Open for Business.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.itemDeclinedStatus">
+        <value lang="en">This is the message you want the customer to see when one of their items is declined for some reason.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.headerCancelStatus">
+        <value lang="en">This is the message that you want the client to see when their order is cancelled.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.itemCancelStatus">
+        <value lang="en">The message shown when an item they ordered is cancelled.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.authDeclinedMessage">
+        <value lang="en">Message shown when payment authorization is declined.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.authFraudMessage">
+        <value lang="en">Message sent when fraud is suspected.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.authErrorMessage">
+        <value lang="en">Message sent when a processing error is encountered.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.visualThemeId">
+        <value lang="en">For controlling the look and feel and a web-based store.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.storeCreditAccountEnumId">
+        <value lang="en">Specify the type (Billing Account or Financial Account) of Store Credit Account used for refund return.</value>
+        <!-- This field is override by ReturnHeader.billingAccountId or ReturnHeader.finAccountId, whichever is specified but if only finAccountId is specified explicitly then system will first try to locate any billing account with -ve amount. If found, then amount is credit to this billing account else the amount will be credit to the financial account of the user. -->
+    </property>
+    <property key="FieldDescription.ProductStore.usePrimaryEmailUsername">
+        <value lang="en">If set to Y then in the create customer form no entry box will be presented for a username - the primary email address will be used for username.</value>
+        <!-- If set to N, the default, there is a checkbox a user can select to use the email address as a username, but they also have the option of entering a username. -->
+    </property>
+    <property key="FieldDescription.ProductStore.requireCustomerRole">
+        <value lang="en">If set to Y then the customer must be associated with the store in the Customer role in order to be able to login (e.g. B2B)</value>
+        <!-- If they are not associated with the store in the Customer role, they will receive an error message when they try to login. Note that this means entering an assignment of Customer as Role for every customer that wants to by. This could delay them from being able to make purchases. It also means giving attention to every prospect until they become identified as a Customer. -->
+    </property>
+    <property key="FieldDescription.ProductStore.autoInvoiceDigitalItems">
+        <value lang="en">If Y, digital items will be immediately invoiced when the order is placed.</value>
+        <!--  If N, will need to wait for some sort of fulfillment process to set the item status to complete which would then trigger the invoice creation. -->
+    </property>
+    <property key="FieldDescription.ProductStore.reqShipAddrForDigItems">
+        <value lang="en">Require Shipping Address for Digital Items? Note this only has an effect if there are ONLY digital goods in the cart.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.showCheckoutGiftOptions">
+        <value lang="en">If set to N the options related to gifts (the 'is gift' and 'gift message' options) will not be shown during checkout.</value>
+        <!--  This is meant for use in business oriented stores or others where the gift options do not make sense. -->
+    </property>
+    <property key="FieldDescription.ProductStore.selectPaymentTypePerItem">
+        <value lang="en">If Yes, allows customer to pay for some order items with one payment type, others with another type.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.showPricesWithVatTax">
+        <value lang="en">Should the displayed prices include (Y) or not include (N) the VAT Tax amount?</value>
+    </property>
+    <property key="FieldDescription.ProductStore.showTaxIsExempt">
+        <value lang="en">Will it be appropriate to indicate when an item is exempt from tax?</value>
+    </property>
+    <property key="FieldDescription.ProductStore.vatTaxAuthGeoId">
+        <value lang="en">What is the Geographical ID for the VAT taxing authority?</value>
+    </property>
+    <property key="FieldDescription.ProductStore.vatTaxAuthPartyId">
+        <value lang="en">What is the Party ID of the Vat Taxing Authority?</value>
+    </property>
+    <property key="FieldDescription.ProductStore.enableAutoSuggestionList">
+        <value lang="en">The auto-suggestion list is a special ShoppingList that the addSuggestionsToShoppingList service will maintain for cross-sells of ordered items.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.enableDigProdUpload">
+        <value lang="en">Unless this is set to Yes, the sale of Digital Products from your Store will not be permitted.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.prodSearchExcludeVariants">
+        <value lang="en">If set to Y an additional constraint will of isVariant!=Y will be added to all product searches for the store.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.digProdUploadCategoryId">
+        <value lang="en">Which Category of Digital Products may be uploaded?</value>
+    </property>
+    <property key="FieldDescription.ProductStore.autoOrderCcTryExp">
+        <value lang="en">For auto-orders try other Credit Card expiration dates (if date is wrong or general failure where type not known).</value>
+    </property>
+    <property key="FieldDescription.ProductStore.autoOrderCcTryOtherCards">
+        <value lang="en">For auto-orders try other Credit Cards for the customer.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.autoOrderCcTryLaterNsf">
+        <value lang="en">For auto-orders if Credit Cards fails for NSF (Not Sufficient Funds) try again later.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.autoOrderCcTryLaterMax">
+        <value lang="en">For auto-orders if Credit Cards fails for NSF try again how many times.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.storeCreditValidDays">
+        <value lang="en">How many days that store credit is valid for. Null value implies no expiration.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.autoApproveInvoice">
+        <value lang="en">If Y or empty, sales invoices created from orders will be marked ready.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.autoApproveOrder">
+        <value lang="en">If N, orders will not be automatically approved when payment is authorized.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.shipIfCaptureFails">
+        <value lang="en">If N, the captureOrderPayments will cause a service error if credit card capture fails.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.setOwnerUponIssuance">
+        <value lang="en">If Y or empty, set the inventory item owner upon issuance.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.reqReturnInventoryReceive">
+        <value lang="en">If set to Y return will automatically go to the Received status when Accepted instead of waiting for actual receipt of the return.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.addToCartRemoveIncompat">
+        <value lang="en">If Y then on add to cart remove all products in cart with a ProductAssoc record related to or from the product and with the PRODUCT_INCOMPATABLE type.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.addToCartReplaceUpsell">
+        <value lang="en">If Y then on add to cart remove all products in cart with a ProductAssoc record related from the product and with the PRODUCT_UPGRADE type.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.splitPayPrefPerShpGrp">
+        <value lang="en">If Y then before the order is stored the OrderPaymentPreference record will be split, one for each OrderItemShipGroup.</value>
+    </property>
+    <property key="FieldDescription.ProductStore.showOutOfStockProducts">
+        <value lang="en">If N then out of stock products will not be displayed on site</value>
+    </property>
+
+</resource>

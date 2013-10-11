@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Product Category</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna categoria prodotti</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar Categoria de Produto</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯產品分類</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Product Infomation</value></content>
+<content><country></country><lang>it</lang><value>Informazione prodotti</value></content>
+<content><country></country><lang>pt_BR</lang><value>Informações do produto</value></content>
+<content><country></country><lang>zh_TW</lang><value>產品資訊</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Setup Application</value></content>
+<content><country></country><lang>fr</lang><value>Configuration de l'application</value></content>
+<content><country></country><lang>it</lang><value>Applicazione di configurazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Aplicativo de configuração</value></content>
+<content><country></country><lang>zh_TW</lang><value>設置應用程式</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OFBiz: Setup Application </value></content>
+<content><country></country><lang>it</lang><value>OFBiz: componente di configurazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>OFBiz: Aplicativo de instalação</value></content>
+<content><country></country><lang>zh_TW</lang><value>OFBiz: 設置應用程式</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>ar</lang><value>جزء من عائلة أوفبيز للتطبيقات الحرة للتسيير</value></content>
+<content><country></country><lang>de</lang><value>Teil der Open For Business Familie von Open Source Software</value></content>
+<content><country></country><lang>en</lang><value>Part of the Open For Business Family of Open Source Software</value></content>
+<content><country></country><lang>es</lang><value>Parte de la familia de software Open For Business de código abierto</value></content>
+<content><country></country><lang>fr</lang><value>Un module de la famille Open For Business, logiciel libre de gestion d'entreprise.</value></content>
+<content><country></country><lang>it</lang><value>Un modulo della famiglia di software open source Open For Business</value></content>
+<content><country></country><lang>nl</lang><value>Deel van de Open For Business-suite van Open Source Software</value></content>
+<content><country></country><lang>pt_BR</lang><value>Parte da família OfBiz de software de fonte aberta</value></content>
+<content><country></country><lang>pt_PT</lang><value>Parte da família OfBiz de software de fonte aberta</value></content>
+<content><country></country><lang>ro</lang><value>Partea de Deschidere Pentru Afaceri Familiale din Open Source Software</value></content>
+<content><country></country><lang>ru</lang><value>Входит в состав семейства Open For Business</value></content>
+<content><country></country><lang>th</lang><value>ส่วนหนึ่งของธุรกิจแบบครอบครัวที่เป็นซอฟต์แวร์โอเพนซอส</value></content>
+<content><country></country><lang>zh</lang><value>开源软件OFBiz家族的一部分</value></content>
+<content><country></country><lang>zh_CN</lang><value>OFBiz的一部分</value></content>
+<content><country></country><lang>zh_TW</lang><value>開放源碼軟體OFBiz家族一份子</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Create New Organization</value></content>
+<content><country></country><lang>it</lang><value>Creare nuova organizzazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Criar Nova Organização</value></content>
+<content><country></country><lang>zh_TW</lang><value>建立新的組織</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Organization Information</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna informazioni organizzazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar informações da Organização</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯組織資訊</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Edit Product Store</value></content>
+<content><country></country><lang>it</lang><value>Aggiorna negozio prodotti</value></content>
+<content><country></country><lang>nl</lang><value>Wijzigen winkel</value></content>
+<content><country></country><lang>pt_BR</lang><value>Editar Loja de Produtos</value></content>
+<content><country></country><lang>zh_TW</lang><value>編輯產品商店</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Setup only works if there are no organizations defined yet</value></content>
+<content><country></country><lang>it</lang><value>Configura solo i lavori se non c'è ancora nessuna organizzazione definita</value></content>
+<content><country></country><lang>pt_BR</lang><value>Instalação só funciona se não houver organizações definidas</value></content>
+<content><country></country><lang>zh_TW</lang><value>只有當沒有相關組織時才能設置</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Facility</value></content>
+<content><country></country><lang>it</lang><value>Stabilimento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Instalação</value></content>
+<content><country></country><lang>zh_TW</lang><value>場所</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Description</value></content>
+<content><country></country><lang>it</lang><value>Descrizione stabilimento</value></content>
+<content><country></country><lang>pt_BR</lang><value>Descrição</value></content>
+<content><country></country><lang>zh_TW</lang><value>說明</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Facility Name is missing</value></content>
+<content><country></country><lang>it</lang><value>Stabilimento mancante</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nome da Instalação está faltando</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>First Customer</value></content>
+<content><country></country><lang>it</lang><value>Primo cliente</value></content>
+<content><country></country><lang>pt_BR</lang><value>Primeiro Cliente</value></content>
+<content><country></country><lang>zh_TW</lang><value>第一位客戶</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>First Product</value></content>
+<content><country></country><lang>it</lang><value>Primo prodotto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Primeiro produto</value></content>
+<content><country></country><lang>zh_TW</lang><value>第一項產品</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Initial Setup</value></content>
+<content><country></country><lang>it</lang><value>Configurazione iniziale</value></content>
+<content><country></country><lang>pt_BR</lang><value>Configuração inicial</value></content>
+<content><country></country><lang>zh_TW</lang><value>初始設置</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Setup New Component</value></content>
+<content><country></country><lang>it</lang><value>Configura nuovo componente</value></content>
+<content><country></country><lang>pt_BR</lang><value>Configurar novo componente</value></content>
+<content><country></country><lang>zh_TW</lang><value>設置新的元件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Organization</value></content>
+<content><country></country><lang>it</lang><value>Organizzazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Organização</value></content>
+<content><country></country><lang>zh_TW</lang><value>組織</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Organization Information</value></content>
+<content><country></country><lang>it</lang><value>Informazioni organizzazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Informação da Organização</value></content>
+<content><country></country><lang>zh_TW</lang><value>組織資訊</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Organization name</value></content>
+<content><country></country><lang>it</lang><value>Nome organizzazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nome da organização</value></content>
+<content><country></country><lang>zh_TW</lang><value>組織名稱</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Organization name is missing</value></content>
+<content><country></country><lang>it</lang><value>Nome organizzazione è mancante</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nome da organização está faltando</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Organization Party Id</value></content>
+<content><country></country><lang>it</lang><value>Soggetto organizzazione</value></content>
+<content><country></country><lang>pt_BR</lang><value>Id da Organização</value></content>
+<content><country></country><lang>zh_TW</lang><value>組織成員ID</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You do not have sufficient data to access this page.</value></content>
+<content><country></country><lang>it</lang><value>Tu non hai sufficienti diritti per accedere a questa pagina.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Você não tem dados suficientes para acessar essa página.</value></content>
+<content><country></country><lang>zh_TW</lang><value>您沒有進入此頁面的權限。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Product Catalog</value></content>
+<content><country></country><lang>it</lang><value>Catalogo prodotti</value></content>
+<content><country></country><lang>pt_BR</lang><value>Catálogo de Produtos</value></content>
+<content><country></country><lang>zh_TW</lang><value>產品目錄</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Product Store</value></content>
+<content><country></country><lang>it</lang><value>Negozio prodotti</value></content>
+<content><country></country><lang>pt_BR</lang><value>Loja de Produtos</value></content>
+<content><country></country><lang>zh_TW</lang><value>產品商店</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Product Store name</value></content>
+<content><country></country><lang>it</lang><value>Nome negozio prodotti</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nome da Loja de Produtos</value></content>
+<content><country></country><lang>zh_TW</lang><value>產品商店名稱</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Store Name is missing</value></content>
+<content><country></country><lang>it</lang><value>Nome negozio è mancante</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nome da loja está faltando</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Results</value></content>
+<content><country></country><lang>it</lang><value>Risultati</value></content>
+<content><country></country><lang>pt_BR</lang><value>Resultados</value></content>
+<content><country></country><lang>zh_TW</lang><value>結果</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Set to complete</value></content>
+<content><country></country><lang>it</lang><value>Imposta a completato</value></content>
+<content><country></country><lang>pt_BR</lang><value>Marcar como completo</value></content>
+<content><country></country><lang>zh_TW</lang><value>完成設定</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The First Customer of</value></content>
+<content><country></country><lang>it</lang><value>Il primo cliente di</value></content>
+<content><country></country><lang>pt_BR</lang><value>O primeiro cliente de</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Web Site</value></content>
+<content><country></country><lang>it</lang><value>Sito web</value></content>
+<content><country></country><lang>pt_BR</lang><value>Web Site</value></content>
+<content><country></country><lang>zh_TW</lang><value>網站</value></content>
+</contents></phrase> </phrases>

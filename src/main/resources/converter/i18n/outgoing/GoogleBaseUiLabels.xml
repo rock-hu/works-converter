@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Action Type</value></content>
+<content><country></country><lang>fr</lang><value>Type d'action</value></content>
+<content><country></country><lang>it</lang><value>Tipo Azione</value></content>
+<content><country></country><lang>th</lang><value>ประเภทการปฏิบัติ</value></content>
+<content><country></country><lang>zh</lang><value>操作类型</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Country Code</value></content>
+<content><country></country><lang>fr</lang><value>Code pays</value></content>
+<content><country></country><lang>it</lang><value>Codice Paese</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเทศ</value></content>
+<content><country></country><lang>zh</lang><value>国家代码</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Test mode</value></content>
+<content><country></country><lang>fr</lang><value>Mode test</value></content>
+<content><country></country><lang>it</lang><value>In Modo Test</value></content>
+<content><country></country><lang>th</lang><value>วิธีการทดสอบ</value></content>
+<content><country></country><lang>zh</lang><value>测试状态</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Tracking Code Id</value></content>
+<content><country></country><lang>fr</lang><value>Réf. de code de traçage</value></content>
+<content><country></country><lang>it</lang><value>Codice Tracciatura</value></content>
+<content><country></country><lang>th</lang><value>Tracking Code Id</value></content>
+<content><country></country><lang>zh</lang><value>跟踪码标识</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Web Site Mount Point</value></content>
+<content><country></country><lang>fr</lang><value>Point de montage de site Web</value></content>
+<content><country></country><lang>it</lang><value>Mount Point Sito Web</value></content>
+<content><country></country><lang>th</lang><value>Web Site Mount Point</value></content>
+<content><country></country><lang>zh</lang><value>网站加载点</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Web Site Url</value></content>
+<content><country></country><lang>fr</lang><value>Url de site Web</value></content>
+<content><country></country><lang>it</lang><value>Url Sito Web</value></content>
+<content><country></country><lang>th</lang><value>Web Site Url</value></content>
+<content><country></country><lang>zh</lang><value>网站网址</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Add Google Base Configuration</value></content>
+<content><country></country><lang>it</lang><value>Aggiungi configurazione a Google Base</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Google Base Integration</value></content>
+<content><country></country><lang>fr</lang><value>Intégration de Google Base</value></content>
+<content><country></country><lang>it</lang><value>Applicazione Per Esportare i Prodotti Su Google Base</value></content>
+<content><country></country><lang>th</lang><value>ฐานข้อมูลสาธารณะทั้งหมด</value></content>
+<content><country></country><lang>zh</lang><value>Google Base集成</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Auto Update Options</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทแบบอัตโนมัติ</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Ofbiz</value></content>
+<content><country></country><lang>fr</lang><value>Ofbiz</value></content>
+<content><country></country><lang>it</lang><value>Ofbiz</value></content>
+<content><country></country><lang>th</lang><value>Ofbiz</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Google Base Configurations</value></content>
+<content><country></country><lang>it</lang><value>Configurazioni Google Base</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Select your country destination</value></content>
+<content><country></country><lang>fr</lang><value>Sélectionner votre pays de destination</value></content>
+<content><country></country><lang>it</lang><value>Seleziona il paese di destinazione</value></content>
+<content><country></country><lang>th</lang><value>เลือกประเทศเป้าหมายของคุณ</value></content>
+<content><country></country><lang>zh</lang><value>选择你的国家和目标</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>DE - euro</value></content>
+<content><country></country><lang>fr</lang><value>DE- euro</value></content>
+<content><country></country><lang>it</lang><value>DE - euro</value></content>
+<content><country></country><lang>th</lang><value>DE - euro</value></content>
+<content><country></country><lang>zh</lang><value>DE - 欧元</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>UK - £</value></content>
+<content><country></country><lang>fr</lang><value>UK - £</value></content>
+<content><country></country><lang>it</lang><value>UK - £</value></content>
+<content><country></country><lang>th</lang><value>UK - £</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>IT - euro</value></content>
+<content><country></country><lang>fr</lang><value>IT - euro</value></content>
+<content><country></country><lang>it</lang><value>IT - euro</value></content>
+<content><country></country><lang>th</lang><value>IT - euro</value></content>
+<content><country></country><lang>zh</lang><value>IT - 欧元</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>US - $</value></content>
+<content><country></country><lang>fr</lang><value>US - $</value></content>
+<content><country></country><lang>it</lang><value>US - $</value></content>
+<content><country></country><lang>th</lang><value>US - $</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Deactivated</value></content>
+<content><country></country><lang>fr</lang><value>Désactivé</value></content>
+<content><country></country><lang>it</lang><value>Disattiva</value></content>
+<content><country></country><lang>th</lang><value>ใช้การไม่ได้</value></content>
+<content><country></country><lang>zh</lang><value>失效</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>IO Error creating XML document for Google: </value></content>
+<content><country></country><lang>it</lang><value>Errore I/O durante la creazione del documento XML per Google: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>IO Error loading resource: </value></content>
+<content><country></country><lang>it</lang><value>Errore I/O caricando la risorsa: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Not Requested</value></content>
+<content><country></country><lang>fr</lang><value>Non demandé</value></content>
+<content><country></country><lang>it</lang><value>Non Richiesto</value></content>
+<content><country></country><lang>th</lang><value>ไม่ต้องการ</value></content>
+<content><country></country><lang>zh</lang><value>未请求的</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Publish</value></content>
+<content><country></country><lang>fr</lang><value>Publié</value></content>
+<content><country></country><lang>it</lang><value>Pubblica</value></content>
+<content><country></country><lang>th</lang><value>ประกาศ</value></content>
+<content><country></country><lang>zh</lang><value>发布</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Publish Draft</value></content>
+<content><country></country><lang>fr</lang><value>Publié l'ébauche </value></content>
+<content><country></country><lang>it</lang><value>Pubblica come Bozza</value></content>
+<content><country></country><lang>th</lang><value>ประกาศเอกสารฉบับร่าง</value></content>
+<content><country></country><lang>zh</lang><value>发布草稿</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>(Yes=Validate the xml document request to Google Base, No=Send the xml document request to Google Base)</value></content>
+<content><country></country><lang>fr</lang><value>(Oui=Valider la demande de document xml  à Google Base, Non=Envoyer la demande de document xml à Google Base)</value></content>
+<content><country></country><lang>it</lang><value>(Si=Valida la richiesta del documento xml su Google Base, No=Invia la richiesta del documento xml a Google Base)</value></content>
+<content><country></country><lang>th</lang><value>(Yes=Validate the xml document request to Google Base, No=Send the xml document request to Google Base)</value></content>
+<content><country></country><lang>zh</lang><value>(Yes=验证请求Google Base的xml文档，No=发送xml文档请求到Google Base)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Export To Google Base</value></content>
+<content><country></country><lang>fr</lang><value>Exporter vers Google Base</value></content>
+<content><country></country><lang>it</lang><value>Esporta Su Google Base</value></content>
+<content><country></country><lang>th</lang><value>การส่งออกถึงฐานข้อมูลสาธารณะ</value></content>
+<content><country></country><lang>zh</lang><value>导出到Google Base</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to read from product entity: </value></content>
+<content><country></country><lang>it</lang><value>Non è possibile leggere dall'entità product: </value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You do not have permission to view this page. ("GOOGLEBASE_VIEW" needed)</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'avez pas la permission de voir cette page (nécessite l'autorisation "GOOGLEBASE_VIEW" )</value></content>
+<content><country></country><lang>it</lang><value>Tu non sei autorizzato per vedere questa pagina. (necessario permesso "GOOGLEBASE_VIEW")</value></content>
+<content><country></country><lang>th</lang><value>คุณไม่มีการอนุญาตให้แสดงหน้านี้. ("GOOGLEBASE_VIEW" ต้องการ)</value></content>
+<content><country></country><lang>zh</lang><value>你没有浏览这个页面的权限(需要GOOGLEBASE_VIEW)。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Allow Google Base Recommended</value></content>
+<content><country></country><lang>th</lang><value>อนุญาติให้เพิ่มฟิลด์ที่แนะนำ</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Export Products to Google Base</value></content>
+<content><country></country><lang>fr</lang><value>Exporter les articles vers Google Base</value></content>
+<content><country></country><lang>it</lang><value>Esportazioni Prodotti su Google Base</value></content>
+<content><country></country><lang>th</lang><value>การส่งออกสินค้าไปยังฐานข้อมูลสาธารณะ</value></content>
+<content><country></country><lang>zh</lang><value>导出产品到Google Base</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error getting search results: ${errSearchResult}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur d'obtention des résultats de recherche: ${errSearchResult}.</value></content>
+<content><country></country><lang>it</lang><value>Error getting search results: ${errSearchResult}.</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดการเรียกผลลัพธ์ที่ได้จากการค้นหา: ${errSearchResult}.</value></content>
+<content><country></country><lang>zh</lang><value>得到搜索结果时出错：${errSearchResult}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception during exporting product to Google Base.</value></content>
+<content><country></country><lang>fr</lang><value>Exception pendant l'exportation de l'article vers Google Base.</value></content>
+<content><country></country><lang>it</lang><value>Exception during exporting product to Google Base.</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นระหว่างการส่งออกสินค้าถึงฐานข้อมูลสาธารณะ</value></content>
+<content><country></country><lang>zh</lang><value>导出产品到Google Base时出错。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No results found, probably because there was an error or were no constraints.</value></content>
+<content><country></country><lang>fr</lang><value>Aucun résultats trouvés, probablement parce qu'il y a eu une erreur ou il n'y avait pas de contraintes</value></content>
+<content><country></country><lang>it</lang><value>No results found, probably because there was an error or were no constraints.</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบผลลัพธ์, บางทีเพราะว่ามีข้อผิดพลาดหรือไม่มีข้อจำกัด</value></content>
+<content><country></country><lang>zh</lang><value>没有找到结果，可能是因为有错误或没有约束条件。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cannot retrieve User Login</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de récupérer l'identifiant de connexion</value></content>
+<content><country></country><lang>it</lang><value>Non è ricavare User Login</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถเรียกข้อมูลการลอกอินเข้าสู่ระบบของผู้ใช้คืนมา</value></content>
+<content><country></country><lang>zh</lang><value>无法获得登录用户</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error during authentication with Google Account</value></content>
+<content><country></country><lang>fr</lang><value>Erreur durant l'authentification du compte Google</value></content>
+<content><country></country><lang>it</lang><value>Errore durante l'autenticazione su Google Account</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดระหว่างเครื่องหมายที่รับรองว่าเป็นของแท้ด้วยบัญชีกูเกิล</value></content>
+<content><country></country><lang>zh</lang><value>认证Google账户时出错</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error in the response from Google:</value></content>
+<content><country></country><lang>fr</lang><value>Erreur dans la réponse de Google</value></content>
+<content><country></country><lang>it</lang><value>Errore nella risposta di Google :</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดในตอบสนองจากกูเกิล:</value></content>
+<content><country></country><lang>zh</lang><value>从Google得到的响应中有错误：</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception occurred during building data items to Google Base</value></content>
+<content><country></country><lang>fr</lang><value>Une exception s'est produite durant la contruction des données d'articles vers Google Base</value></content>
+<content><country></country><lang>it</lang><value>Eccezione accaduta durante la creazione dei dati prodotti per Google Base</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นที่เกิดขึ้นระหว่างการสร้างรายการข้อมูลไปยังฐานข้อมูลสาธารณะ</value></content>
+<content><country></country><lang>zh</lang><value>生成到Google Base的数据明细时出错</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception in exportProductCategoryToGoogle</value></content>
+<content><country></country><lang>fr</lang><value>Exception dans l'export des catégories d'articles vers Google</value></content>
+<content><country></country><lang>it</lang><value>Eccezione in exportProductCategoryToGoogle</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นในการส่งออกหมวดหมู่สินค้าไปยังกูเกิล</value></content>
+<content><country></country><lang>zh</lang><value>导出产品分类到Google时出错</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception in exportToGoogle</value></content>
+<content><country></country><lang>fr</lang><value>Exception dans l'export vers Google</value></content>
+<content><country></country><lang>it</lang><value>Eccezione in exportToGoogle</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นในการส่งออกไปยังกูเกิล</value></content>
+<content><country></country><lang>zh</lang><value>导出到Google时出错</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception reading response from Google</value></content>
+<content><country></country><lang>fr</lang><value>Exception dans la lecture de réponse de Google</value></content>
+<content><country></country><lang>it</lang><value>Eccezione leggendo la risposta da Google</value></content>
+<content><country></country><lang>th</lang><value>ข้อยกเว้นการตอบสนองการอ่านจากกูเกิล</value></content>
+<content><country></country><lang>zh</lang><value>读取从Google获得的响应时出错</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Country Code must be either US, UK or DE.</value></content>
+<content><country></country><lang>fr</lang><value>Code de pays doit être l'un ou l'autre US, UK ou DE</value></content>
+<content><country></country><lang>it</lang><value>Codice paese deve essere US, UK o DE.</value></content>
+<content><country></country><lang>th</lang><value>รหัสประเทศต้องเป็น US , UK หรือไม่ก็ DE</value></content>
+<content><country></country><lang>zh</lang><value>国家代码必须是US、UK或DE。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Missing parameter productCategoryId</value></content>
+<content><country></country><lang>fr</lang><value>La réf. de paramètre de catégorie d'article manque</value></content>
+<content><country></country><lang>it</lang><value>Parametro productCategoryId mancante</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบพารามิเตอร์รหัสหมวดหมู่สินค้า</value></content>
+<content><country></country><lang>zh</lang><value>缺少productCategoryId参数</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No products available in the selected productCategoryId</value></content>
+<content><country></country><lang>fr</lang><value>Aucun article disponible dans la réf. de catégorie d'articles sélectionnée</value></content>
+<content><country></country><lang>it</lang><value>Nessun prodotto disponibile nella categoria prodotto selezionata</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีสินค้าที่ใช้ได้ในการลือกรหัสหมวดหมู่สินค้า</value></content>
+<content><country></country><lang>zh</lang><value>没有与所选的productCategoryId对应的产品</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Product items sent correclty to Google Base</value></content>
+<content><country></country><lang>fr</lang><value>Les données d'articles ont été envoyés correctement vers Google</value></content>
+<content><country></country><lang>it</lang><value>Prodotti inviati correttamente su Google Base</value></content>
+<content><country></country><lang>th</lang><value>ส่งรายการสินค้าอย่างถูกต้องไปยังฐานข้อมูลสาธารณะ</value></content>
+<content><country></country><lang>zh</lang><value>成功发送产品明细到Google Base</value></content>
+</contents></phrase> </phrases>

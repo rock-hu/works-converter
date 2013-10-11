@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Entität</value></content>
+<content><country></country><lang>en</lang><value>Entity</value></content>
+<content><country></country><lang>es</lang><value>Entidad</value></content>
+<content><country></country><lang>fr</lang><value>Entité</value></content>
+<content><country></country><lang>it</lang><value>Entità</value></content>
+<content><country></country><lang>ro</lang><value>Entitate</value></content>
+<content><country></country><lang>ru</lang><value>Сущность</value></content>
+<content><country></country><lang>th</lang><value>เอกลักษณ์</value></content>
+<content><country></country><lang>zh</lang><value>实体</value></content>
+<content><country></country><lang>zh_TW</lang><value>實體</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Event</value></content>
+<content><country></country><lang>en</lang><value>Event</value></content>
+<content><country></country><lang>es</lang><value>Evento</value></content>
+<content><country></country><lang>fr</lang><value>Evènement</value></content>
+<content><country></country><lang>it</lang><value>Evento</value></content>
+<content><country></country><lang>ro</lang><value>Eveniment</value></content>
+<content><country></country><lang>ru</lang><value>Событие</value></content>
+<content><country></country><lang>th</lang><value>เหตุการณ์</value></content>
+<content><country></country><lang>zh</lang><value>事件</value></content>
+<content><country></country><lang>zh_TW</lang><value>事件</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Request</value></content>
+<content><country></country><lang>en</lang><value>Request</value></content>
+<content><country></country><lang>es</lang><value>Petición</value></content>
+<content><country></country><lang>fr</lang><value>Requête</value></content>
+<content><country></country><lang>it</lang><value>Richiesta</value></content>
+<content><country></country><lang>ro</lang><value>Cerere</value></content>
+<content><country></country><lang>ru</lang><value>Запрос</value></content>
+<content><country></country><lang>th</lang><value>คำร้อง</value></content>
+<content><country></country><lang>zh</lang><value>访问请求</value></content>
+<content><country></country><lang>zh_TW</lang><value>訪問請求</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Service</value></content>
+<content><country></country><lang>en</lang><value>Service</value></content>
+<content><country></country><lang>es</lang><value>Servicio</value></content>
+<content><country></country><lang>fr</lang><value>Service</value></content>
+<content><country></country><lang>it</lang><value>Servizio</value></content>
+<content><country></country><lang>ro</lang><value>Serviciu</value></content>
+<content><country></country><lang>ru</lang><value>Служба</value></content>
+<content><country></country><lang>th</lang><value>บริการ</value></content>
+<content><country></country><lang>zh</lang><value>服务</value></content>
+<content><country></country><lang>zh_TW</lang><value>服務</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ansicht</value></content>
+<content><country></country><lang>en</lang><value>View</value></content>
+<content><country></country><lang>es</lang><value>Vista</value></content>
+<content><country></country><lang>fr</lang><value>Vue</value></content>
+<content><country></country><lang>it</lang><value>Vista</value></content>
+<content><country></country><lang>ro</lang><value>Afisare</value></content>
+<content><country></country><lang>ru</lang><value>Представление</value></content>
+<content><country></country><lang>th</lang><value>ข้อคิดเห็น</value></content>
+<content><country></country><lang>zh</lang><value>浏览</value></content>
+<content><country></country><lang>zh_TW</lang><value>瀏覽</value></content>
+</contents></phrase> </phrases>

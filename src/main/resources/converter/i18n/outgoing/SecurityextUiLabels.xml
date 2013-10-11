@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler beim Zugriff auf Passwort: ${errorMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Error accessing password: ${errorMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Error con password : ${errorMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur concernant le mot de passe: ${errorMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Errore accesso password:: ${errorMessage}.</value></content>
+<content><country></country><lang>nl</lang><value>Fout bij toegang verkrijgen tot wachtwoord: ${errorMessage}.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Erro ao acessar a senha: $ {errorMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare acces parola:${errorMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка доступа к паролю: ${errorMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดในการใช้รหัสผ่าน: ${errorMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>访问密码时出错：${errorMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用密碼錯誤: ${errorMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler beim Zugriff auf das Passwort-Änderungsprotokoll: ${errorMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Error accessing password change history: ${errorMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur lors de l'accès à l'historique des mots de passe : ${errorMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Errore di accesso alla storia dei cambi password: ${errorMessage}.</value></content>
+<content><country></country><lang>nl</lang><value>Fout bij toegang verkrijgen tot wachtwoord wijzigingsgeschiedenis: ${errorMessage}.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Erro ao acessar o histórico de alteração de senha: $ {errorMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดในการใช้รหัสผ่านเปลี่ยนข้อมูล: ${errorMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>访问密码修改历史记录时出错：${errorMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用密碼變更歷史記錄錯誤: ${errorMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler beim Speichern des neuen Passworts, die E-Mail, die sie erhalten wird nicht das korrekte Passwort enthalten, das alte Passwort ist weiterhin gültig: ${errorMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Error saving new password, the email that you receive will not have the correct password in it, your old password is still being used: ${errorMessage}.</value></content>
+<content><country></country><lang>es</lang><value>Error al grabar nuevo password: el email que recibirá no tendrá el password correcto; se seguirá usando el password anterior</value></content>
+<content><country></country><lang>fr</lang><value>Erreur survenue pendant l'enregistrement du nouveau mot de passe, le courriel que vous allez recevoir ne comportera pas le mot de passe correct, votre ancien mot de passe est toujours valide: ${errorMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Errore nel salvataggio della nuova password, l'email che riceverai non ha una password corretta, la tua vecchia password è ancora valida: ${errorMessage}.</value></content>
+<content><country></country><lang>nl</lang><value>Fout bij het opslaan van het nieuwe wachtwoord, de email die u zal ontvangen bevat niet het correcte wachtwoord, uw oude wachtwoord is nog geldig: ${errorMessage}.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Erro ao salvar a nova senha, o e-mail que você recebe não vai ter a senha correta, sua senha antiga ainda está sendo usada: $ {errorMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка сохранения нового пароля, полученное вами сообщение будет содержать неверный пароль, по прежнему используется ваш старый пароль: ${errorMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดขณะกำลังบันทึกรหัสผ่านใหม่, อีเมลนั่นที่คุณได้รับจะไม่มีรหัสผ่านที่ถูกต้องในนั้น, รหัสผ่านเก่าของคุณยังคงใช้ได้อยู่: ${errorMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>保存新密码时出错，你收到的电子邮件中的密码不会是正确的，仍会使用你的旧密码：${errorMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>儲存密碼錯誤, 你收到電子郵件密碼不正確, 仍舊使用舊密碼: ${errorMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler: Passwort konnte nicht per E-Mail verschickt werden. Versuchen Sie es später noch einmal oder wenden Sie sich an den Kundenservice.</value></content>
+<content><country></country><lang>en</lang><value>Error occurred: unable to email password.  Please try again later or contact customer service.</value></content>
+<content><country></country><lang>es</lang><value>Error: no se pudo enviar password por correo. Intente nuevamente o contacte el servicio a cliente</value></content>
+<content><country></country><lang>fr</lang><value>Erreur : impossible d'envoyer le mot de passe par courriel. Merci de réessayer ultérieurement ou de contacter votre service commercial.</value></content>
+<content><country></country><lang>it</lang><value>Errore: non è possibile mandare la password per e-mail. Riprovare più tardi o contattare il servizio clienti.</value></content>
+<content><country></country><lang>nl</lang><value>Fout: het nieuwe wachtwoord kan niet gemaild worden. Probeert u het later a.u.b. of neem contact op met de klantenservice.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ocorreu um erro: não foi possível enviar a senha. Por favor, tente novamente mais tarde ou contate o serviço ao cliente.</value></content>
+<content><country></country><lang>ro</lang><value>Eroare aparuta: nu este posibila trimiterea parolei e-mail.Va rugam  incercati mai tarziu sau contactati serviciul clienti. loginevents.error_saving_new_password_email_not_correct_password=Eroare la  salvarea noii parole, e-mail-ul la care tu vei primi mesate nu are o parola corecta, vechia parola este deja folosita: ${errorMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Произошла ошибка: невозможно отправить пароль по эл. почте.  Повторите попытку позже или свяжитесь со службой поддержки.</value></content>
+<content><country></country><lang>th</lang><value>สิ่งที่เกิดขึ้นผิดพลาด: ไม่สามารถถึงรหัสผ่านอีเมล.  กรุณาลองอีกครั้งหรือติดต่อบริการลูกค้า.</value></content>
+<content><country></country><lang>zh</lang><value>发生错误：无法发送带有密码的电子邮件。请重试或与客户服务联系。</value></content>
+<content><country></country><lang>zh_TW</lang><value>發生錯誤: 無法送出帶有密碼的電子郵件, 請重試或連絡客服。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler: Passwort konnte nicht per E-Mail verschickt werden. Versuchen Sie es später noch einmal oder wenden Sie sich an den Kundenservice. (Fehler war: ${errorMessage}).</value></content>
+<content><country></country><lang>en</lang><value>Error occurred: unable to email password.  Please try again later or contact customer service. (error was: ${errorMessage}).</value></content>
+<content><country></country><lang>es</lang><value>Error occurred: unable to email password.  Please try again later or contact customer service.</value></content>
+<content><country></country><lang>fr</lang><value>Erreur : impossible d'envoyer le mot de passe par courriel. Merci de réessayer ultérieurement ou de contacter votre service commercial. (erreur: ${errorMessage}).</value></content>
+<content><country></country><lang>it</lang><value>Errore: non è possibile mandare la password per e-mail. Riprovare più tardi o contattare il servizio clienti. (errore: ${errorMessage})</value></content>
+<content><country></country><lang>nl</lang><value>Fout: het nieuwe wachtwoord kan niet gemaild worden. Probeert u het later a.u.b. of neem contact op met de klantenservice.(fout is ${errorMessage}).</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ocorreu um erro: não foi possível enviar a senha. Por favor, tente novamente mais tarde ou contate o serviço ao cliente. (Erro foi: $ {errorMessage}).</value></content>
+<content><country></country><lang>ro</lang><value>Eroare aparuta: nu este posibila trimiterea parolei e-mail.Va rugam  incercati mai tarziu sau contactati serviciul clienti.(eroarea era: ${errorMessage}).</value></content>
+<content><country></country><lang>ru</lang><value>Произошла ошибка: невозможно отправить пароль по эл. почте.  Повторите попытку позже или свяжитесь со службой поддержки. (ошибка: ${errorMessage}).</value></content>
+<content><country></country><lang>th</lang><value>สิ่งที่เกิดขึ้นผิดพลาด: ไม่สามารถถึงรหัสผ่านอีเมล.  กรุณาลองอีกครั้งหรือติดต่อบริการลูกค้า. (ผิดพลาดคือ: ${errorMessage}).</value></content>
+<content><country></country><lang>zh</lang><value>发生错误：无法发送带有密码的电子邮件。请重试或与客户服务联系(错误是：${errorMessage})。</value></content>
+<content><country></country><lang>zh_TW</lang><value>發生錯誤: 無法送出帶有密碼的電子郵件, 請重試或連絡客服(錯誤為: ${errorMessage})。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>${errorMessage}</value></content>
+<content><country></country><lang>en</lang><value>following error occurred during login: ${errorMessage}</value></content>
+<content><country></country><lang>es</lang><value>Error al hacer login</value></content>
+<content><country></country><lang>fr</lang><value>${errorMessage}</value></content>
+<content><country></country><lang>it</lang><value>${errorMessage}</value></content>
+<content><country></country><lang>nl</lang><value>De volgende fout kwam voor tijdens het inloggen: ${errorMessage}</value></content>
+<content><country></country><lang>pt_BR</lang><value> ${errorMessage}</value></content>
+<content><country></country><lang>ro</lang><value>A aparut urmatoarea eroare in timpul logarii: ${errorMessage}</value></content>
+<content><country></country><lang>ru</lang><value>Во время регистрации в системе произошла следующая ошибка: ${errorMessage}</value></content>
+<content><country></country><lang>th</lang><value>ผิดพลาดตามสิ่งที่เกิดขึ้นระหว่างการลอกอินเข้าสู่ระบบ: ${errorMessage}</value></content>
+<content><country></country><lang>zh</lang><value>登录时发生下列错误：${errorMessage}</value></content>
+<content><country></country><lang>zh_TW</lang><value>登入時發生錯誤: ${errorMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ein neues Passwort wurde erzeugt und Ihnen per E-Mail zugeschickt. Überprüfen Sie bitte Ihren E-Mail-Eingang.</value></content>
+<content><country></country><lang>en</lang><value>A new password has been created and sent to you. Please check your Email.</value></content>
+<content><country></country><lang>es</lang><value>Un nuevo password ha sido creado y enviado. Por favor revise su e-mail</value></content>
+<content><country></country><lang>fr</lang><value>Un nouveau mot de passe a été crée et envoyé. Merci de vérifier votre courriel.</value></content>
+<content><country></country><lang>it</lang><value>Una nuova password è stata creata ed inviata. Controlla le email.</value></content>
+<content><country></country><lang>nl</lang><value>Er is een nieuw wachtwoord naar uw emailadres verzonden.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Uma nova senha foi criada e enviada para você. Por favor, verifique seu e-mail.</value></content>
+<content><country></country><lang>ro</lang><value>Ti-a fost creata si trimisa  o noua parola. Te rugam sa controlezi posta ta Email.</value></content>
+<content><country></country><lang>ru</lang><value>Новый пароль создан и выслан вам. Пожалуйста, проверьте свою эл. почту.</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านใหม่มีการสร้างและส่งถึงคุณ. กรุณาตรวจสอบอีเมลของคุณ.</value></content>
+<content><country></country><lang>zh</lang><value>新建了一个新密码并发送给你了。请检查你的电子邮件。</value></content>
+<content><country></country><lang>zh_TW</lang><value>建立一個新密碼並寄出給你, 請檢查電子郵件。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ihr Passwort wurde Ihnen per E-Mail zugeschickt. Überprüfen sie Ihren E-Mail-Eingang.</value></content>
+<content><country></country><lang>en</lang><value>Your password has been sent to you. Please check your Email.</value></content>
+<content><country></country><lang>es</lang><value>Su password ha sido enviado. Revise su e-mail</value></content>
+<content><country></country><lang>fr</lang><value>Votre nouveau mot de passe vous a été envoyé. Merci de vérifier votre courriel.</value></content>
+<content><country></country><lang>it</lang><value>La tua password ti è stata inviata. Controlla le email.</value></content>
+<content><country></country><lang>nl</lang><value>Er is een nieuw wachtwoord naar uw emailadres verzonden.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Sua senha foi enviada para você. Por favor, verifique seu e-mail.</value></content>
+<content><country></country><lang>ro</lang><value>Parola ta a fost trimisa. Te rugam s controlezi posta Email.</value></content>
+<content><country></country><lang>ru</lang><value>Ваш пароль был выслан в ваш адрес. Пожалуйста, проверьте свою эл. почту.</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านของคุณได้ส่งถึงคุณ. กรุณาตรวจสอบอีเมลของคุณ.</value></content>
+<content><country></country><lang>zh</lang><value>你的密码已经发送给你了。请检查你的电子邮件。</value></content>
+<content><country></country><lang>zh_TW</lang><value>密碼已經寄出給你, 請檢查電子郵件。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Es wurde kein Passwort-Hinweis angegeben, versuchen Sie sich das Passwort zumailen zu lassen.</value></content>
+<content><country></country><lang>en</lang><value>No password hint was specified, try having the password emailed instead.</value></content>
+<content><country></country><lang>es</lang><value>No se especificó una pista para el password.</value></content>
+<content><country></country><lang>fr</lang><value>Aucune spécification de mot de passé n'a été spécifiée, essayez de le recevoir par courriel.</value></content>
+<content><country></country><lang>it</lang><value>Nessun suggerimento password è stato specificato, provare a richiedere l'invio della password per e-mail.</value></content>
+<content><country></country><lang>nl</lang><value>Er is geen wachtwoord hint opgegeven, u kunt proberen een nieuw wachtwoord via de email op te vragen.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi especificado dica de senha, tente enviar a senha por e-mail em seu lugar.</value></content>
+<content><country></country><lang>ro</lang><value>Nu a fost specificat nici-un sugeriment pentru parola, Va rugam contactati serviciul clienti.</value></content>
+<content><country></country><lang>ru</lang><value>Подсказка пароля не указана, попробуйте отправку пароля эл. почтой.</value></content>
+<content><country></country><lang>th</lang><value>ไม่ระบุรหัสผ่านที่ซ่อน, ตรวจสอบรหัสผ่านแทนที่จะอีเมล.</value></content>
+<content><country></country><lang>zh</lang><value>没有指定密码提示，请尝试使用电子邮件邮寄密码。</value></content>
+<content><country></country><lang>zh_TW</lang><value>無密碼提示, 請試試以電子郵件寄送密碼。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Es wurde keine primäre E-Mailadresse vergeben, bitte wenden Sie sich an den Kundenservice.</value></content>
+<content><country></country><lang>en</lang><value>No Primary Email Address has been set, please contact customer service.</value></content>
+<content><country></country><lang>es</lang><value>No se ha actualizado dirección e-mail.</value></content>
+<content><country></country><lang>fr</lang><value>Pas d'adresse courriel créée, merci de contacter votre service commercial.</value></content>
+<content><country></country><lang>it</lang><value>Indirizzo email primario non impostato, prego contattare il servizio clienti.</value></content>
+<content><country></country><lang>nl</lang><value>Er is geen primair emailadres ingesteld, neem a.u.b. contact op met de klantenservice.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nenhum endereço de email principal foi definida, por favor entre em contato com o serviço de atendimento ao cliente.</value></content>
+<content><country></country><lang>ro</lang><value>Nici-o Adresa Primara Email a fost inregistrata, Va rugam contactati serviciul clienti.</value></content>
+<content><country></country><lang>ru</lang><value>Не установлен основной адрес эл. почты, пожалуйста связывайтесь со службой поддержки.</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีการตั้งค่าที่อยู่อีเมลในขั้นแรก, กรุณาติดต่อบริการลูกค้า</value></content>
+<content><country></country><lang>zh</lang><value>没有设置电子邮件地址，请与客户服务联系。</value></content>
+<content><country></country><lang>zh_TW</lang><value>無電子郵件, 請與客服連絡。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Der Passwort-Hinweis ist: ${passwordHint}.</value></content>
+<content><country></country><lang>en</lang><value>The Password Hint is: ${passwordHint}.</value></content>
+<content><country></country><lang>es</lang><value>Su pista de password es:</value></content>
+<content><country></country><lang>fr</lang><value>La description du mot de passe est: ${passwordHint}.</value></content>
+<content><country></country><lang>it</lang><value>Il suggerimento password è: ${passwordHint}.</value></content>
+<content><country></country><lang>nl</lang><value>Uw wachtwoord hint is: ${passwordHint}.</value></content>
+<content><country></country><lang>pt_BR</lang><value>A dica de senha é: ${passwordHint}.</value></content>
+<content><country></country><lang>ro</lang><value>Sugerimentul Parolei este: ${passwordHint}.</value></content>
+<content><country></country><lang>ru</lang><value>Подсказка пароля: ${passwordHint}.</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านที่ซ่อนคือ: ${passwordHint}.</value></content>
+<content><country></country><lang>zh</lang><value>密码提示是：${passwordHint}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>密碼提示: ${passwordHint}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ihr Passwort wurde erfolgreich geändert</value></content>
+<content><country></country><lang>en</lang><value>Your password has been changed successfully</value></content>
+<content><country></country><lang>fr</lang><value>Votre mot de passe a été changé avec succès</value></content>
+<content><country></country><lang>it</lang><value>La password è stata cambiata con successo</value></content>
+<content><country></country><lang>nl</lang><value>Uw wachtwoord is aangepast</value></content>
+<content><country></country><lang>pt_BR</lang><value>Sua senha foi alterada com sucesso</value></content>
+<content><country></country><lang>zh_TW</lang><value>你的密碼已成功變更。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Es wurde kein Passwort eingegeben.</value></content>
+<content><country></country><lang>en</lang><value>password was empty reenter</value></content>
+<content><country></country><lang>es</lang><value>El password no puede ser vacío</value></content>
+<content><country></country><lang>fr</lang><value>Le mot de passe était vide, SVP recommencez.</value></content>
+<content><country></country><lang>it</lang><value>La password è vuota, prego inserirla di nuovo.</value></content>
+<content><country></country><lang>nl</lang><value>Het wachtwoord is leeg, toets a.u.b. opnieuw in.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Senha foi não foi re-inserida</value></content>
+<content><country></country><lang>ro</lang><value>Parola este goala, va rugam re-introduceti.</value></content>
+<content><country></country><lang>ru</lang><value>Пароль пустой, введите повторно.</value></content>
+<content><country></country><lang>th</lang><value>กลับเข้าไปสู่รหัสผ่านที่ว่างเปล่า</value></content>
+<content><country></country><lang>zh</lang><value>密码是空的，请重新输入。</value></content>
+<content><country></country><lang>zh_TW</lang><value>密碼是空的, 請重新輸入。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler bei der Konfiguration; bitte wenden Sie sich an den Kundenservice.</value></content>
+<content><country></country><lang>en</lang><value>Problems with configuration; please contact customer service.</value></content>
+<content><country></country><lang>es</lang><value>Problemas con configuración. Contacte el servicio al cliente</value></content>
+<content><country></country><lang>fr</lang><value>Problèmes avec la connexion, merci de contacter votre service commercial.</value></content>
+<content><country></country><lang>it</lang><value>Problemi con la configurazione; per favore contattare il servizio clienti.</value></content>
+<content><country></country><lang>nl</lang><value>Er is een probleem opgetreden met de configuratie. Neem a.u.b. contact op met de klantenservice.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Problemas com a configuração, por favor entre em contato com o serviço de atendimento ao cliente.</value></content>
+<content><country></country><lang>ro</lang><value>Probleme la configurare; Va rugam contactati serviciul clienti.</value></content>
+<content><country></country><lang>ru</lang><value>Проблемы с конфигурацией; свяжитесь со службой поддержки.</value></content>
+<content><country></country><lang>th</lang><value>ปัญหาโครงร่างภายนอก; กรุณาติดต่อบริการลูกค้า</value></content>
+<content><country></country><lang>zh</lang><value>配置出错；请与客户服务联系。</value></content>
+<content><country></country><lang>zh_TW</lang><value>設定有問題: 請連絡客服。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You cannot login to this tenant</value></content>
+<content><country></country><lang>pt_BR</lang><value>Você não pode acessar este inquilino</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法登入使用此承租戶</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Anmeldung bei der Anwendung nicht erfolgreich</value></content>
+<content><country></country><lang>en</lang><value>You cannot login to this application</value></content>
+<content><country></country><lang>es</lang><value>No puedo conectarse a esta aplicación (faltan permisos)</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de se connecter à cette application.</value></content>
+<content><country></country><lang>it</lang><value>L'autenticazione per questa applicazione non è stata completata (permessi non sufficienti).</value></content>
+<content><country></country><lang>nl</lang><value>Het inloggen kan niet voltooid worden (niet bevoegd)</value></content>
+<content><country></country><lang>pt_BR</lang><value>Você não pode efetuar o login no aplicativo</value></content>
+<content><country></country><lang>ro</lang><value>Autentificarea acestei aplicatii nu a fost completata (drepturi insuficiente).</value></content>
+<content><country></country><lang>ru</lang><value>Регистрация для этого приложения не может быть завершена (отсутствуют требуемые права).</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถลอกอินเข้าสู่โปรแกรมประยุกต์นี้</value></content>
+<content><country></country><lang>zh</lang><value>无法登录这个应用程序</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法登入使用此應用程式</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Dieser User ist bereits eingeloggt.</value></content>
+<content><country></country><lang>en</lang><value>This user is already logged in.</value></content>
+<content><country></country><lang>es</lang><value>El usuario ya se encuentra conectado</value></content>
+<content><country></country><lang>fr</lang><value>L'utilisateur est déjà connecté.</value></content>
+<content><country></country><lang>it</lang><value>L'utente è già autenticato.</value></content>
+<content><country></country><lang>nl</lang><value>Deze gebruiker is al ingelogd.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Este usuário já se registrou.</value></content>
+<content><country></country><lang>ro</lang><value>Acest utilizator este deja logat.</value></content>
+<content><country></country><lang>ru</lang><value>Этот пользователь уже выполнил вход в систему.</value></content>
+<content><country></country><lang>th</lang><value>ผู้ใช้ลอกอินเข้าสู่ระบบเรียบร้อยแล้ว</value></content>
+<content><country></country><lang>zh</lang><value>这个用户已经登录了。</value></content>
+<content><country></country><lang>zh_TW</lang><value>此使用者已經登入。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ein Benutzer mit dem Namen "${userLoginId}" konnte nicht gefunden werden. Bitte erneut eingeben.</value></content>
+<content><country></country><lang>en</lang><value>A user with the Username "${userLoginId}" was not found, please re-enter.</value></content>
+<content><country></country><lang>es</lang><value>El usuario "${userLoginId}" no fue encontrado, por favor intente de nuevo.</value></content>
+<content><country></country><lang>fr</lang><value>Le nom d'utilisateur "${userLoginId}" est inconnu, entrez le de nouveau SVP.</value></content>
+<content><country></country><lang>it</lang><value>L'utente "${userLoginId}" non è stato trovato, prego inserirlo di nuovo.</value></content>
+<content><country></country><lang>nl</lang><value>Er is geen gebruiker gevonden met de gebruikersnaam "${userLoginId}", probeer het a.u.b. opnieuw.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Um usuário com o nome de usuário "$ {userLoginId}" não foi encontrado, por favor tente novamente.</value></content>
+<content><country></country><lang>ro</lang><value>Utilizatorul cu nume "${userLoginId}" nu a fost gasit, va rog re-introduceti.</value></content>
+<content><country></country><lang>ru</lang><value>Пользователь с именем "${userLoginId}" не найден, пожалуйста повторите ввод.</value></content>
+<content><country></country><lang>th</lang><value>ผู้ใช้ที่ใช้ชื่อผู้เข้าใช้ "${userLoginId}" ไม่พบ, กรุณากรอกข้อมูลใหม่</value></content>
+<content><country></country><lang>zh</lang><value>没有找到用户名为"${userLoginId}" 的用户，请重新输入。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有名為 "${userLoginId}" 的使用者, 請重新輸入。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Benutzername konnte nicht gefunden werden. Bitte erneut eingeben.</value></content>
+<content><country></country><lang>en</lang><value>The Username was not found, please re-enter.</value></content>
+<content><country></country><lang>es</lang><value>El usuario "${userLoginId}" no fue encontrado, por favor intente de nuevo.</value></content>
+<content><country></country><lang>fr</lang><value>Le nom d'utilisateur est inconnu, entrez le de nouveau, SVP.</value></content>
+<content><country></country><lang>it</lang><value>L'utente non è stato trovato, prego inserirlo di nuovo.</value></content>
+<content><country></country><lang>nl</lang><value>De gebruikersnaam is niet gevonden, toets a.u.b. opnieuw in.</value></content>
+<content><country></country><lang>pt_BR</lang><value>O nome de usuário não foi encontrado, por favor tente novamente.</value></content>
+<content><country></country><lang>ro</lang><value>Nume Utilizator nu a fost gasit, va rugam reintroduceti.</value></content>
+<content><country></country><lang>ru</lang><value>Это имя пользователя не найдено, введите повторно.</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบชื่อผู้เข้าใช้, กรุณากรอกข้อมูลอีกครั้ง</value></content>
+<content><country></country><lang>zh</lang><value>没有找到用户名，请重新输入。</value></content>
+<content><country></country><lang>zh_TW</lang><value>無此使用者, 請重新輸入。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Es wurde kein Benutzername eingegeben.</value></content>
+<content><country></country><lang>en</lang><value>username was empty reenter</value></content>
+<content><country></country><lang>es</lang><value>El usuario no puede ser vacío, por favor intente de nuevo.</value></content>
+<content><country></country><lang>fr</lang><value>Le nom d'utilisateur est vide, taper le de nouveau SVP.</value></content>
+<content><country></country><lang>it</lang><value>L'utente è vuoto, prego inserirlo di nuovo.</value></content>
+<content><country></country><lang>nl</lang><value>De gebruikersnaam is leeg, toets a.u.b. opnieuw in.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nome de usuário vazio, por favor tente novamente</value></content>
+<content><country></country><lang>ro</lang><value>Nume Utilizator este gol, va rugam reintroduceti.</value></content>
+<content><country></country><lang>ru</lang><value>Имя пользователя пустое, введите повторно.</value></content>
+<content><country></country><lang>th</lang><value>ชื่อผู้เข้าใช้ว่าง, กรุณากรอกข้อมูลอีกครั้ง</value></content>
+<content><country></country><lang>zh</lang><value>用户名是空的，请重新输入</value></content>
+<content><country></country><lang>zh_TW</lang><value>空的使用者名稱, 請重新輸入。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das neue Passwort fehlt.</value></content>
+<content><country></country><lang>en</lang><value>New Password is missing.</value></content>
+<content><country></country><lang>es</lang><value>Falta nuevo password</value></content>
+<content><country></country><lang>fr</lang><value>Le nouveau mot de passe manque</value></content>
+<content><country></country><lang>it</lang><value>La nuova password è mancante.</value></content>
+<content><country></country><lang>nl</lang><value>Het nieuwe wachtwoord is leeg</value></content>
+<content><country></country><lang>pt_BR</lang><value>A Nova senha está faltando.</value></content>
+<content><country></country><lang>ro</lang><value>Noua Parola lipseste.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует новый пароль.</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบรหัสผ่านใหม่</value></content>
+<content><country></country><lang>zh</lang><value>缺少新密码。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有新的密碼。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das Bestätigungspasswort fehlt.</value></content>
+<content><country></country><lang>en</lang><value>New Password Verify is missing</value></content>
+<content><country></country><lang>es</lang><value>Falta verificación de nuevo password</value></content>
+<content><country></country><lang>fr</lang><value>La vérification du nouveau mot de passe manque</value></content>
+<content><country></country><lang>it</lang><value>La verifica della nuova password è mancante</value></content>
+<content><country></country><lang>nl</lang><value>Nieuw verificatie wachtwoord is leeg</value></content>
+<content><country></country><lang>pt_BR</lang><value>A verificação da Nova Senha está faltando</value></content>
+<content><country></country><lang>ro</lang><value>Lipseste Parola de verificare.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует новый проверочный пароль</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบการตรวจสอบรหัสผ่านใหม่</value></content>
+<content><country></country><lang>zh</lang><value>缺少新密码验证</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有新的確認碼。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das (alte) Passwort fehlt.</value></content>
+<content><country></country><lang>en</lang><value>The (old) Password is missing.</value></content>
+<content><country></country><lang>es</lang><value>Falta antiguo password</value></content>
+<content><country></country><lang>fr</lang><value>L'ancien mot de passe manque</value></content>
+<content><country></country><lang>it</lang><value>La vecchia password è mancante.</value></content>
+<content><country></country><lang>nl</lang><value>Het oude wachtwoord is leeg</value></content>
+<content><country></country><lang>pt_BR</lang><value>A Senha (antiga) está ausente.</value></content>
+<content><country></country><lang>ro</lang><value>Vechea Parola lipseste.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует пароль (старый).</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบรหัสผ่านเก่า</value></content>
+<content><country></country><lang>zh</lang><value>缺少(旧)密码。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有(舊的)密碼。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das neue Passwort ist nicht identisch mit dem Bestätigungspasswort</value></content>
+<content><country></country><lang>en</lang><value>New Password does not equal Verify Password</value></content>
+<content><country></country><lang>es</lang><value>Los passwords no concuerdan</value></content>
+<content><country></country><lang>fr</lang><value>Le nouveau mot de passe ne correspond pas à la vérification de ce nouveau mot de passe</value></content>
+<content><country></country><lang>it</lang><value>La nuova password non è ugugale alla password di verifica</value></content>
+<content><country></country><lang>nl</lang><value>Het nieuwe wachtwoord komt niet overeen met het verificatie wachtwoord</value></content>
+<content><country></country><lang>pt_BR</lang><value>New Password não é igual À Confirmação de senha</value></content>
+<content><country></country><lang>ro</lang><value>Noua Parola nu este egala cu  Parola de Verificare</value></content>
+<content><country></country><lang>ru</lang><value>Новый пароль не равен проверочному</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านใหม่ไม่ตรงกับรหัสผ่านที่ยืนยันความถูกต้อง</value></content>
+<content><country></country><lang>zh</lang><value>新密码不等于验证密码</value></content>
+<content><country></country><lang>zh_TW</lang><value>新密碼與確認碼不相符。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Ihr Passwort wurde erfolgreich geändert.</value></content>
+<content><country></country><lang>en</lang><value>Password successfully updated.</value></content>
+<content><country></country><lang>es</lang><value>Password actualizado</value></content>
+<content><country></country><lang>fr</lang><value>Mot de passe mis à jour.</value></content>
+<content><country></country><lang>it</lang><value>Password aggiornta con successo.</value></content>
+<content><country></country><lang>nl</lang><value>Wachtwoord met succes veranderd.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Senha atualizada com sucesso.</value></content>
+<content><country></country><lang>ro</lang><value>Parola actualizata cu succes.</value></content>
+<content><country></country><lang>ru</lang><value>Пароль успешно обновлен.</value></content>
+<content><country></country><lang>th</lang><value>อัพเดทรหัสผ่านเป็นผลสำเร็จ</value></content>
+<content><country></country><lang>zh</lang><value>密码已成功更新。</value></content>
+<content><country></country><lang>zh_TW</lang><value>密碼更新成功。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das Konto mit dem Benutzernamen "${username}" wurde gesperrt</value></content>
+<content><country></country><lang>en</lang><value>The account for user login id "${username}" has been disabled.</value></content>
+<content><country></country><lang>es</lang><value>La cuenta  "${username}" ha sido deshabilitada</value></content>
+<content><country></country><lang>fr</lang><value>Le compte de l'utilisateur "${username}" a été neutralisé.</value></content>
+<content><country></country><lang>it</lang><value>L'utente "${username}" è stato disabilitato</value></content>
+<content><country></country><lang>nl</lang><value>De gebruikersnaam: "${username}" is geblokkeerd.</value></content>
+<content><country></country><lang>pt_BR</lang><value>A conta de logon user id "$ {nome}" foi desativada.</value></content>
+<content><country></country><lang>ro</lang><value>Utilizatorul "${username}" a fost dezactivat.</value></content>
+<content><country></country><lang>ru</lang><value>Пользователь с именем "${username}" заблокирован.</value></content>
+<content><country></country><lang>th</lang><value>บัญชีสำหรับรหัสการลอกอินเข้าสู่ระบบของผู้ใช้ "${username}" ไม่สามารถ.</value></content>
+<content><country></country><lang>zh</lang><value>用户登录标识为"${username}"的账户已被禁用。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用者帳戶 "${username}" 已被停用。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das Passwort konnte nicht geändert werden (Lesefehler): ${errorMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Could not change password (read failure): ${errorMessage}.</value></content>
+<content><country></country><lang>es</lang><value>No se pudo cambiar el password. Error de lectura ${errorMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de changer le mot de passe (erreur de lecture) : ${errormessage}.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile cambiare la password (lettura fallita): ${errorMessage}.</value></content>
+<content><country></country><lang>nl</lang><value>Het wachtwoord kan niet veranderd worden (leesfout): ${errorMessage}.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível alterar a senha (falha de leitura): $ {errorMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila schimbiarea parolei (citare falita): ${errorMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно изменить пароль (ошибка чтения): ${errorMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถเปลี่ยนรหัสผ่าน (การอ่านล้มเหลว): ${errorMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>无法修改密码(读错误)：${errorMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法修改密碼(讀取錯誤): ${errorMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Passwort konnte nicht geändert werden, Benutzername mit der ID "${userLoginId}" existiert nicht.</value></content>
+<content><country></country><lang>en</lang><value>Could not change password, UserLogin with ID "${userLoginId}" does not exist.</value></content>
+<content><country></country><lang>es</lang><value>No se pudo cambiar el password. El usuario con Id "${userLoginId}"  no existe</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de changer le mot de passe, l'identifiant de connexion "${userLoginId}" n'existe pas.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile cambiare la password, l'utente "${userLoginId}" non esiste.</value></content>
+<content><country></country><lang>nl</lang><value>Het wachtwoord kan niet veranderd worden. De gebruikersnaam met "${userLoginId}" bestaat niet.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível alterar a senha, UserLogin com ID "$ {userLoginId}" não existe.</value></content>
+<content><country></country><lang>ro</lang><value>Nu este  posibila schimbarea parolei, Cod Utilizator "${userLoginId}" inexistent.</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно изменить пароль, Имя пользователя с кодом "${userLoginId}" не существует.</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถเปลี่ยนรหัสผ่าน, การลอกอินเข้าสู่ระบบของผู้ใช้ด้วยรหัส "${userLoginId}"ไม่มีอยู่</value></content>
+<content><country></country><lang>zh</lang><value>无法修改密码，用户登录标识"${userLoginId}"不存在。</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法修改密碼, 使用者名稱 ${userLoginId} 不存在。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das Passwort konnte nicht geändert werden (Schreibfehler): ${errorMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Could not change password (write failure): ${errorMessage}.</value></content>
+<content><country></country><lang>es</lang><value>No se puede cambiar password.${errorMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de changer le mot de passe (erreur d'écriture) : ${errormessage}.\r\n</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile cambiare la password (scrittura fallita): ${errorMessage}.</value></content>
+<content><country></country><lang>nl</lang><value>Het wachtwoord kan niet veranderd worden. (schrijffout): ${errorMessage}.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível alterar a senha (falha de escrita): $ {errorMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila schimbarea parolei (scriere falita): ${errorMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно изменить пароль (ошибка записи): ${errorMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถเปลี่ยนรหัสผ่าน (การเขียนล้มเหลว): ${errorMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>无法修改密码(写错误)：${errorMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法修改密碼(寫入錯誤): ${errorMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Konnte user-login nicht erstellen (Lesefehler): ${errorMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Could not create login user (read failure): ${errorMessage}.</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear usuario. ${errorMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer l'utilisateur (erreur de lecture) : ${errormessage}.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare l'utente (lettura fallita): ${errorMessage}.</value></content>
+<content><country></country><lang>nl</lang><value>De gebruikersnaam kan niet worden aangemaakt. (leesfout): ${errorMessage}.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível criar o login do usuário (falha de leitura): $ {errorMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila crearea utilizatorului(citare falita): ${errorMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно создать имя пользователя (ошибка чтения): ${errorMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างการลอกอินเข้าสู่ระบบของผู้ใช้ (การอ่านล้มเหลว): ${errorMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>无法创建登录用户(读错误)：${errorMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法建立使用者(讀取錯誤): ${errorMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Benutzername "${userLoginId}" existiert bereits</value></content>
+<content><country></country><lang>en</lang><value>Could not create login user: user with ID "${userLoginId}" already exists.</value></content>
+<content><country></country><lang>es</lang><value>El usuario "${userLoginId}" ya existe</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer l'utilisateur "${userLoginId}", il existe déjà.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare l'utente "${userLoginId}", già esistente.</value></content>
+<content><country></country><lang>nl</lang><value>De gebruikersnaam kan niet worden aangemaakt: de gebruikersnaam "${userLoginId}" bestaat al.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível criar login do usuário: usuário com ID "$ {userLoginId}", o mesmo já existe.</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila crearea utilizatorului: Cod cu "${userLoginId}" deja existent.</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно создать имя: пользователь с кодом "${userLoginId}" уже существует.</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างการลอกอินเข้าสู่ระบบของผู้ใช้: ผู้ใช้ด้วยรหัส "${userLoginId}" ยังคงมีอยู่แล้ว.</value></content>
+<content><country></country><lang>zh</lang><value>无法创建登录用户：用户标识"${userLoginId}"已存在。</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法建立使用者, 使用者名稱 ${userLoginId} 已存在。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Konnte user-login nicht erstellen (Schreibfehler): ${errorMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Couldn't create login user (write failure): ${errorMessage}.</value></content>
+<content><country></country><lang>es</lang><value>No se pudo crear usuario. Error de escritura ${errorMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de créer l'utilisateur (erreur d'écriture) : ${errormessage}.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare l'utente (scrittura fallita): ${errorMessage}.</value></content>
+<content><country></country><lang>nl</lang><value>De gebruikersnaam kan niet worden aangemaakt (schrijffout): ${errorMessage}.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível criar login de usuário (falha de escrita): $ {errorMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila crearea utilizatorului (scriere falita): ${errorMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно создать имя пользователяr (ошибка записи): ${errorMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถสร้างการลอกอินเข้าสู่ระบบของผู้ใช้ (การเขียนล้มเหลว): ${errorMessage}.</value></content>
+<content><country></country><lang>zh</lang><value>无法创建登录用户(写错误)：${errorMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法建立使用者(寫入錯誤): ${errorMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Vorheriger Benutzername konnte nicht gesperrt werden (Schreibfehler): ${errorMessage}.</value></content>
+<content><country></country><lang>en</lang><value>Couldn't disable old login user (write failure): ${errorMessage}.</value></content>
+<content><country></country><lang>es</lang><value>No se pudo deshabilitar usuario.${errorMessage}.</value></content>
+<content><country></country><lang>fr</lang><value>Impossible d'annuler l'ancien compte utilisateur (erreur d'écriture) : ${errorMessage}.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile disabilitare l'utente (scrittura fallita): ${errorMessage}.</value></content>
+<content><country></country><lang>nl</lang><value>De oude gebruikersnaam kan niet geblokkeerd worden (schrijffout): ${errorMessage}.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não foi possível desabilitar o login de usuário antigo (falha de escrita): $ {errorMessage}.</value></content>
+<content><country></country><lang>ro</lang><value>Nu este posibila dezactivarea vechiului utilizator (scriere falita): ${errorMessage}.</value></content>
+<content><country></country><lang>ru</lang><value>Невозможно заблокировать старое имя пользователя (ошибка записи): ${errorMessage}.</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถใช้การลอกอินเข้าสู่ระบบของผู้ใช้เก่า  (การเขียนช้มเหลว): ${errorMessage}. </value></content>
+<content><country></country><lang>zh</lang><value>无法禁用旧的登录用户(写错误)：${errorMessage}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>無法停用舊有使用者(寫入錯誤): ${errorMessage}。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>LDAP Anmeldung nicht möglich</value></content>
+<content><country></country><lang>en</lang><value>LDAP authentication failed.</value></content>
+<content><country></country><lang>fr</lang><value>L'authentification LDAP a échouée.</value></content>
+<content><country></country><lang>it</lang><value>Autenticazione LDAP fallita.</value></content>
+<content><country></country><lang>nl</lang><value>LDAP authenticatie mislukt.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Autenticação LDAP falhou.</value></content>
+<content><country></country><lang>zh</lang><value>LDAP认证失败。</value></content>
+<content><country></country><lang>zh_TW</lang><value>LDAP驗證失敗。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sie müssen mit den erforderlichen Berechtigungen angemeldet sein um ein user-login mit einer Party ID anzulegen, für eine Party die bereits existiert.</value></content>
+<content><country></country><lang>en</lang><value>You must be logged in and have permission to create a user login with a party ID for a party that already exists.</value></content>
+<content><country></country><lang>es</lang><value>Debe estar conectado y contar con permisos para crear un usuario a un participante existente</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez être connecté et avoir l'autorisation de créer un compte utilisateur avec une réf. d'acteur d'un acteur qui existe déjà.</value></content>
+<content><country></country><lang>it</lang><value>Devi autenticarti ed avere i permessi per creare un'utente con un codice soggetto già esistente.</value></content>
+<content><country></country><lang>nl</lang><value>U moet ingelogd zijn en toegang hebben om een gebruikersnaam en relatie ID aan te maken voor een reeds bestaande relatie.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Você deve estar logado e ter permissão para criar um login de usuário com uma identificação do participante para um participante que já existe.</value></content>
+<content><country></country><lang>ro</lang><value>Trebbie sa te autentifici si sa ai dreptul sa creezi un utilizator cu Cod subiect pentru un subiect deja existent.</value></content>
+<content><country></country><lang>ru</lang><value>Вы должны войти в систему и у вас должны быть права на создание имени пользователя для существующего участника.</value></content>
+<content><country></country><lang>th</lang><value>คุณต้องมีการลอกอินเข้าสู่ระบบและมีการอนุญาตถึงการสร้างการลอกอิยของผู้ใช้ด้วยรหัสกลุ่มผู้ใช้สำหรับกลุ่มผู้ใช้ที่ยังคงมีอยู่แล้ว</value></content>
+<content><country></country><lang>zh</lang><value>你必须登录，并且必须有权使用一个已有的会员标识创建用户登录。</value></content>
+<content><country></country><lang>zh_TW</lang><value>需登入具有權限帳戶, 才能將替舊有成員建立一個新的使用者登入帳戶。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sie müssen angemeldet sein und die über erforderlichen Berechtigungen verfügen um ein user-login mit einer party-id anzulegen, für eine party die bereits existiert.</value></content>
+<content><country></country><lang>en</lang><value>You must be logged in and have permission to create a user login with a party ID for a party that already exists.</value></content>
+<content><country></country><lang>es</lang><value>Debe estar conectado y contar con permisos para crear un usuario a un participante existente</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez être connecté et avoir l'autorisation de créer un compte utilisateur avec une réf. d'acteur d'un acteur qui existe déjà.</value></content>
+<content><country></country><lang>it</lang><value>Devi autenticarti ed avere i permessi per creare un'utente con un codice soggetto già esistente.</value></content>
+<content><country></country><lang>nl</lang><value>U moet ingelogd zijn en toegang hebben om een gebruikersnaam en relatie ID aan te maken voor een reeds bestaande relatie.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Você deve estar logado e ter permissão para criar um login de usuário com uma identificação do participante para um participante que já existe.</value></content>
+<content><country></country><lang>ro</lang><value>Trebuie sa te autentifici si sa ai dreptul de a crea un utilizator cu un Cod subiect pentru un subiect deja existent.</value></content>
+<content><country></country><lang>ru</lang><value>Вы должны войти в систему и у вас должны быть права на создание имени пользователя для существующего участника.</value></content>
+<content><country></country><lang>th</lang><value>คุณต้องมีการลอกอินเข้าสู่ระบบและมีการอนุญาตถึงการสร้างการลอกอิยของผู้ใช้ด้วยรหัสกลุ่มผู้ใช้สำหรับกลุ่มผู้ใช้ที่ยังคงมีอยู่แล้ว</value></content>
+<content><country></country><lang>zh</lang><value>你必须登录，并且有权限用已存在的会员标识创建用户登录。</value></content>
+<content><country></country><lang>zh_TW</lang><value>需登入具有權限帳戶, 才能將替舊有成員建立一個新的使用者登入帳戶。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das neue Passwort darf nicht identisch mit dem alten Passwort sein.</value></content>
+<content><country></country><lang>en</lang><value>The new password must be different from the old one.</value></content>
+<content><country></country><lang>fr</lang><value>Le nouveau mot de passe doit être différent de l'ancien.</value></content>
+<content><country></country><lang>it</lang><value>La nuova password deve essere diversa dalla vecchia.</value></content>
+<content><country></country><lang>nl</lang><value>Uw nieuwe wachtwoord moet verschillen van het oude wachtwoord.</value></content>
+<content><country></country><lang>pt_BR</lang><value>A nova senha deve ser diferente do antiga.</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านใหม่ต้องแตกต่างจากอันเดิม</value></content>
+<content><country></country><lang>zh</lang><value>新密码必须与旧的不同。</value></content>
+<content><country></country><lang>zh_TW</lang><value>新密碼要和舊密碼不相同。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sie verfügen nicht über die erforderliche Berechtigungen um das Passwort für diesen Benutzernamen zu ändern.</value></content>
+<content><country></country><lang>en</lang><value>You do not have permission to update the password for this user login.</value></content>
+<content><country></country><lang>es</lang><value>No tiene permisos para modificar el password para este usuario</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'avez pas l'autorisation de mettre à jour le mot de passe pour ce compte utilisateur.</value></content>
+<content><country></country><lang>it</lang><value>Non sei autorizzato ad aggiornare la password per questo utente.</value></content>
+<content><country></country><lang>nl</lang><value>U heeft geen toegang tot het aanpassen van het wachtwoord van deze gebruikersnaam.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Você não tem permissão para atualizar a senha para o login do usuário.</value></content>
+<content><country></country><lang>ro</lang><value>Nu esti autorizat sa actualizezi parola pentru acest utilizator.</value></content>
+<content><country></country><lang>ru</lang><value>У вас недостаточно прав для обновления пароля этого пользователя.</value></content>
+<content><country></country><lang>th</lang><value>คุณไม่มีการอนุญาตถึงการอัพเดทรหัสผ่านสำหรับการลอกอินของผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>你没有权限为这个用户更新密码。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒權限變更此使用者的密碼。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sie verfügen nicht über die erforderlichen Berechtigungen die Sicherheitsinformationen für diese Benutzeranmeldung zu ändern.</value></content>
+<content><country></country><lang>en</lang><value>You do not have permission to update the security info for this user login.</value></content>
+<content><country></country><lang>es</lang><value>Usted no cuenta con permisos para actualizar la información de este usuario.</value></content>
+<content><country></country><lang>fr</lang><value>Vous n'avez pas l'autorisation de mettre à jour l'information de sécurité pour ce compte utilisateur.</value></content>
+<content><country></country><lang>it</lang><value>Tu non sei autorizzato ad aggiornare le informazioni sulla sicurezza per questo utente.</value></content>
+<content><country></country><lang>nl</lang><value>U heeft geen toegang tot het aanpassen van de veiligheidsinformatie van deze gebruikersnaam.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Você não tem permissão para atualizar a informação de segurança para esse login de usuário.</value></content>
+<content><country></country><lang>ro</lang><value>Tu nu esti  autorizat sa actualizezi informatiile de siguranta ale acestui utilizator.</value></content>
+<content><country></country><lang>ru</lang><value>У вас нет прав измениять информацию по безопасности для этого имени пользователя.</value></content>
+<content><country></country><lang>th</lang><value>คุณไม่มีการอนุญาตถึงการอัพเดทข้อมูลความปลอดภัยสำหรับการลอกอินของผู้ใช้นี้</value></content>
+<content><country></country><lang>zh</lang><value>你无权为这个登录用户更新安全信息。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒權限變更此使用者的安全資料。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Eine erneute Freigabe ist nicht geplant.</value></content>
+<content><country></country><lang>en</lang><value>It is not scheduled to be re-enabled.</value></content>
+<content><country></country><lang>es</lang><value>No se ha programado para ser reactivado</value></content>
+<content><country></country><lang>fr</lang><value>Le renouvellement n'est pas envisagé.</value></content>
+<content><country></country><lang>it</lang><value>La riabilitazione non è stata programmata.</value></content>
+<content><country></country><lang>nl</lang><value>Het is niet gepland om weer te activeren.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Não está programado para ser reativado.</value></content>
+<content><country></country><lang>ro</lang><value>Aceasta nu a fost planificata pentru  re-abilitare.</value></content>
+<content><country></country><lang>ru</lang><value>Не запланирован для разблокирования.</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถใช้งานตารางเวลาได้อีกครั้ง</value></content>
+<content><country></country><lang>zh</lang><value>没有把重新启用列入计划。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有重新啟用的安排。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das alte Passwort ist falsch, bitte erneut eingeben.</value></content>
+<content><country></country><lang>en</lang><value>Old Password was not correct, please re-enter.</value></content>
+<content><country></country><lang>es</lang><value>El password antiguo no es correcto, por favor ingreselo nuevamente</value></content>
+<content><country></country><lang>fr</lang><value>L'ancien mot de passe n'est pas correct, réessayez SVP.</value></content>
+<content><country></country><lang>it</lang><value>La vecchia password non è corretta, riprovare prego.</value></content>
+<content><country></country><lang>nl</lang><value>Het oude wachtwoord is niet juist, geef het a.u.b. opnieuw in.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Senha antiga não estava correta, por favor tente novamente.</value></content>
+<content><country></country><lang>ro</lang><value>Vecchia Patola nu este corecta, va rog re-introduceti.</value></content>
+<content><country></country><lang>ru</lang><value>Старый пароль не корректный, пожалуйста введите правильный.</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านเดิมไม่ถูกต้อง, กรุณากรอกข้อมูลอีกครั้ง</value></content>
+<content><country></country><lang>zh</lang><value>旧密码不正确，请重新输入。</value></content>
+<content><country></country><lang>zh_TW</lang><value>舊有密碼不正確, 請重新輸入。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Eine Party mit der angegebenen Party-ID existiert bereits und sie verfügen nicht über die erforderlichen Berechtigungen ein user-login mit dieser Party-ID zu erstellen.</value></content>
+<content><country></country><lang>en</lang><value>Party with specified party ID exists and you do not have permission to create a user login with this party ID.</value></content>
+<content><country></country><lang>es</lang><value>El participante existe y usted no tiene permisos para crear usuarios a este participante</value></content>
+<content><country></country><lang>fr</lang><value>L'acteur avec la réf. spécifiée existe et vous n'avez pas l'autorisation de créer un compte utilisateur avec cette réf. d'acteur.</value></content>
+<content><country></country><lang>it</lang><value>Il soggetto con il codice specificato esiste già e non hai i permessi per creare un'utente con questo codice soggetto.</value></content>
+<content><country></country><lang>nl</lang><value>De relatie met opgegeven relatie ID bestaat al en u heeft geen toegang tot het aanmaken van een gebruikersnaam met deze relatie ID.</value></content>
+<content><country></country><lang>pt_BR</lang><value>participante com a id especificada existe e você não tem permissão para criar um login de usuário com essa id de participante.</value></content>
+<content><country></country><lang>ro</lang><value>Subiectul cu Codul specificat exista deja si nu ai dreptul sa creezi un utilizator cu  acest Cod subiect.</value></content>
+<content><country></country><lang>ru</lang><value>Участник с указанным кодом найден, но у вас недостаточно прав создавать имя пользователя для этого участника.</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มผู้ใช้ด้วยการระบุรหัสกลุ่มผู้ใช้ที่ยังคงมีอยู่และคุณไม่มีการอนุญาตถึงการสร้างการลอกอินของผู้ใช้ด้วยรหัสกลุ่มผู้ใช้นี้.</value></content>
+<content><country></country><lang>zh</lang><value>指定的会员标识已存在，你无权用这个会员标识创建用户登录。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用的成員ID已存在, 無法以此ID建立新的使用者。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Party mit angegebener Party ID existiert bereits und sie verfügen nicht über die erforderliche Berechtigung ein user-login mit dieser Party ID anzulegen.</value></content>
+<content><country></country><lang>en</lang><value>Party with specified party ID exists and you do not have permission to create a user login with this party ID.</value></content>
+<content><country></country><lang>es</lang><value>Usted no tiene permiso para crear usuarios para este participante</value></content>
+<content><country></country><lang>fr</lang><value>L'acteur avec la réf. spécifiée existe et vous n'avez pas l'autorisation de créer un compte utilisateur avec cette réf. d'acteur.</value></content>
+<content><country></country><lang>it</lang><value>Il soggetto con il codice specificato esiste già e non hai i permessi per creare un'utente con questo codice soggetto.</value></content>
+<content><country></country><lang>nl</lang><value>Relatie met de opgegeven ID bestaat al en u heeft geen toegang tot het aanmaken van een gebruikersnaam met deze relatie ID.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Participante com a id especificada existe e você não tem permissão para criar um login de usuário com essa id de participante.</value></content>
+<content><country></country><lang>ro</lang><value>Subiectul cu Codul specificat exista deja, Nu ai drept sa creezi un utilizator cu acest cod Subiect.</value></content>
+<content><country></country><lang>ru</lang><value>Участник с указанным кодом найден, но у вас недостаточно прав создавать имя пользователя для этого участника.</value></content>
+<content><country></country><lang>th</lang><value>กลุ่มผู้ใช้ด้วยการระบุรหัสกลุ่มผู้ใช้ที่ยังคงมีอยู่และคุณไม่มีการอนุญาตถึงการสร้างการลอกอินของผู้ใช้ด้วยรหัสกลุ่มผู้ใช้นี้.</value></content>
+<content><country></country><lang>zh</lang><value>指定的会员标识已存在，你无权使用这个标识创建用户登录。</value></content>
+<content><country></country><lang>zh_TW</lang><value>使用的成員ID已存在, 無法以此ID建立新的使用者。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das Passwort stimmt nicht mit der zweiten Eingabe des Passwortes überein.</value></content>
+<content><country></country><lang>en</lang><value>Password did not match verify password.</value></content>
+<content><country></country><lang>es</lang><value>Los passwords no concuerdan, verificar</value></content>
+<content><country></country><lang>fr</lang><value>Le nouveau mot de passe ne correspond pas à sa vérification.</value></content>
+<content><country></country><lang>it</lang><value>La password non corrisponde alla password di verifica.</value></content>
+<content><country></country><lang>nl</lang><value>Wachtwoorden komen niet overeen.</value></content>
+<content><country></country><lang>pt_BR</lang><value>A senha não coincide, verifique a senha.</value></content>
+<content><country></country><lang>ro</lang><value>Parola nu corespunde Parolei de verificare.</value></content>
+<content><country></country><lang>ru</lang><value>Пароль не соответствует проверочному.</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านไม่ตรงกับรหัสผ่านที่ยืนยันความถูกต้อง</value></content>
+<content><country></country><lang>zh</lang><value>密码与验证密码不一致。</value></content>
+<content><country></country><lang>zh_TW</lang><value>密碼與驗證碼不相符。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Der Passwort-Hinweis darf nicht das Passwort enthalten.</value></content>
+<content><country></country><lang>en</lang><value>Password hint may not contain the password.</value></content>
+<content><country></country><lang>es</lang><value>Su pista no puede contener el password</value></content>
+<content><country></country><lang>fr</lang><value>L'indication d'aide au mot de passe ne peut pas contenir le mot de passe.</value></content>
+<content><country></country><lang>it</lang><value>Il suggerimento password non può contenere la password.</value></content>
+<content><country></country><lang>nl</lang><value>Wachtwoord hint mag het wachtwoord niet bevatten.</value></content>
+<content><country></country><lang>pt_BR</lang><value>A dica de senha não pode conter a senha.</value></content>
+<content><country></country><lang>ro</lang><value>Sugerimentul Parolei nu poate sa contina parola.</value></content>
+<content><country></country><lang>ru</lang><value>Подсказка пароля не может содержать сам пароль.</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านที่ซ่อนอาจจะไม่มีรหัสผ่าน</value></content>
+<content><country></country><lang>zh</lang><value>密码提示里不能含有密码。</value></content>
+<content><country></country><lang>zh_TW</lang><value>密碼提示中不能有密碼。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das Passwort ist falsch</value></content>
+<content><country></country><lang>en</lang><value>Password incorrect.</value></content>
+<content><country></country><lang>es</lang><value>Password incorrecto</value></content>
+<content><country></country><lang>fr</lang><value>Mot de passe incorrect.</value></content>
+<content><country></country><lang>it</lang><value>Password non corretta.</value></content>
+<content><country></country><lang>nl</lang><value>Wachtwoord is niet juist.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Senha incorreta.</value></content>
+<content><country></country><lang>ro</lang><value>Parola incorecta.</value></content>
+<content><country></country><lang>ru</lang><value>Неверный пароль.</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านไม่ถูกต้อง</value></content>
+<content><country></country><lang>zh</lang><value>密码不正确。</value></content>
+<content><country></country><lang>zh_TW</lang><value>密碼不正確。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das Passwort darf nicht mit dem Benutzernamen übereinstimmen.</value></content>
+<content><country></country><lang>en</lang><value>Password may not equal the Username.</value></content>
+<content><country></country><lang>es</lang><value>El password no puede ser igual al nombre de usuario</value></content>
+<content><country></country><lang>fr</lang><value>Le mot de passe ne peut pas être identique au nom d'utilisateur.0</value></content>
+<content><country></country><lang>it</lang><value>La password non può essere uguale al Nome Utente.</value></content>
+<content><country></country><lang>nl</lang><value>Wachtwoord mag niet hetzelfde zijn als gebruikersnaam.</value></content>
+<content><country></country><lang>pt_BR</lang><value>A senha não pode ser igual o nome de usuário.</value></content>
+<content><country></country><lang>ro</lang><value>Parola nu poate fi egala cu Nume  Utilizator.</value></content>
+<content><country></country><lang>ru</lang><value>Пароль не может быть таким же, как и имя пользователя.</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านอาจจะไม่เม่ากับชื่อผู้เข้าใช้</value></content>
+<content><country></country><lang>zh</lang><value>密码不能与用户名一样。</value></content>
+<content><country></country><lang>zh_TW</lang><value>密碼不能和使用者名稱相同。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Passwort fehlt.</value></content>
+<content><country></country><lang>en</lang><value>Password missing.</value></content>
+<content><country></country><lang>es</lang><value>Falta password</value></content>
+<content><country></country><lang>fr</lang><value>Le mot de passe manque</value></content>
+<content><country></country><lang>it</lang><value>Password mancante.</value></content>
+<content><country></country><lang>nl</lang><value>Wachtwoord is leeg.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Senha faltando.</value></content>
+<content><country></country><lang>ro</lang><value>Lipseste Parola.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует пароль.</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบรหัสผ่าน</value></content>
+<content><country></country><lang>zh</lang><value>缺少密码。</value></content>
+<content><country></country><lang>zh_TW</lang><value>沒有密碼。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das Passwort darf nicht eines Ihrer letzen ${passwordChangeHistoryLimit} Passwörter sein.</value></content>
+<content><country></country><lang>en</lang><value>Password cannot be one of your last ${passwordChangeHistoryLimit} passwords.</value></content>
+<content><country></country><lang>fr</lang><value>Le mot de passe ne peut être un de vos derniers ${passwordChangeHistoryLimit} mots de passe.</value></content>
+<content><country></country><lang>it</lang><value>La password non può essere una delle tue ultime ${passwordChangeHistoryLimit} password.</value></content>
+<content><country></country><lang>nl</lang><value>Het wachtwoord mag niet overeenkomen met uw laatste ${passwordChangeHistoryLimit} wachtwoorden.</value></content>
+<content><country></country><lang>pt_BR</lang><value>A senha não pode ser uma da suas últimas ${passwordChangeHistoryLimit} senhas.</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านไม่สามารถเป็นหนึ่งของสิ่งสุดท้ายของคุณ ${passwordChangeHistoryLimit} รหัสผ่าน.</value></content>
+<content><country></country><lang>zh</lang><value>密码不能是你用过的最近的${passwordChangeHistoryLimit}个密码之一。</value></content>
+<content><country></country><lang>zh_TW</lang><value>密碼不能是最近 ${passwordChangeHistoryLimit} 次用過的密碼。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das Passwort muß aus mindestens ${minPasswordLength} Zeichen bestehen.</value></content>
+<content><country></country><lang>en</lang><value>Password must be at least ${minPasswordLength} characters long.</value></content>
+<content><country></country><lang>es</lang><value>El password debe tener al menos ${minPasswordLength} caracteres</value></content>
+<content><country></country><lang>fr</lang><value>Le mot de passe doit être d'au moins ${minPasswordLength} caractères.</value></content>
+<content><country></country><lang>it</lang><value>La password deve essere lunga almeno ${minPasswordLength} caratteri.</value></content>
+<content><country></country><lang>nl</lang><value>Wachtwoord moet op zijn minst ${minPasswordLength} karakters lang zijn.</value></content>
+<content><country></country><lang>pt_BR</lang><value>A senha deve ter pelo menos ${minPasswordLength} caracteres.</value></content>
+<content><country></country><lang>ro</lang><value>Parola trebuie sa fie lunga de cel putin ${minPasswordLength} caractere.</value></content>
+<content><country></country><lang>ru</lang><value>Длина пароля должна быть как минимум ${minPasswordLength} символов.</value></content>
+<content><country></country><lang>th</lang><value>ความยาวตัวอักษรของรหัสผ่านต้องเป็นอย่างน้อยที่สุด ${minPasswordLength} .</value></content>
+<content><country></country><lang>zh</lang><value>密码必须至少有${minPasswordLength} 个字符。</value></content>
+<content><country></country><lang>zh_TW</lang><value>密碼至少要有 ${minPasswordLength} 個字元。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Das Passwort oder zweite Eingabe des Passwortes fehlt.</value></content>
+<content><country></country><lang>en</lang><value>Password or verify password missing.</value></content>
+<content><country></country><lang>es</lang><value>Falta password o verificación de password</value></content>
+<content><country></country><lang>fr</lang><value>Le mot de passe ou la vérification de mot de passe manque</value></content>
+<content><country></country><lang>it</lang><value>La password o verifica password è mancante.</value></content>
+<content><country></country><lang>nl</lang><value>Wachtwoord of herhaal wachtwoord is leeg</value></content>
+<content><country></country><lang>pt_BR</lang><value>Verificar se a senha está ausente.</value></content>
+<content><country></country><lang>ro</lang><value>Parola sau verificarea parolei lipseste.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствуют пароль или проверочный пароль.</value></content>
+<content><country></country><lang>th</lang><value>รหัสผ่านหรือไม่พบการยืนยันรหัสผ่านที่ถูกต้อง.</value></content>
+<content><country></country><lang>zh</lang><value>缺少密码或验证密码。</value></content>
+<content><country></country><lang>zh_TW</lang><value>缺少密碼或驗證密碼。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>(seit ${disabledDateTime})</value></content>
+<content><country></country><lang>en</lang><value>since ${disabledDateTime}.</value></content>
+<content><country></country><lang>es</lang><value>A partir de la fecha</value></content>
+<content><country></country><lang>fr</lang><value>depuis ${disabledDateTime}.</value></content>
+<content><country></country><lang>it</lang><value>dal ${disabledDateTime}.</value></content>
+<content><country></country><lang>nl</lang><value>sinds ${disabledDateTime}.</value></content>
+<content><country></country><lang>pt_BR</lang><value>desde ${disabledDateTime}.</value></content>
+<content><country></country><lang>ro</lang><value>pina la ${disabledDateTime}.</value></content>
+<content><country></country><lang>ru</lang><value>с ${disabledDateTime}.</value></content>
+<content><country></country><lang>th</lang><value>ตั้งแต่ ${disabledDateTime}.</value></content>
+<content><country></country><lang>zh</lang><value>自${disabledDateTime}以来。</value></content>
+<content><country></country><lang>zh_TW</lang><value>從 ${disabledDateTime} 開始。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Benutzer konnte nicht gefunden werden</value></content>
+<content><country></country><lang>en</lang><value>User not found.</value></content>
+<content><country></country><lang>es</lang><value>Usuario no encontrado</value></content>
+<content><country></country><lang>fr</lang><value>Utilisateur non trouvé.</value></content>
+<content><country></country><lang>it</lang><value>Utente non trovato.</value></content>
+<content><country></country><lang>nl</lang><value>Gebruikersnaam niet gevonden.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Usuário não encontrado.</value></content>
+<content><country></country><lang>ro</lang><value>Nu gaseste Utilizatorul.</value></content>
+<content><country></country><lang>ru</lang><value>Пользователь не найден.</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบผู้เข้าใช้</value></content>
+<content><country></country><lang>zh</lang><value>没有找到用户。</value></content>
+<content><country></country><lang>zh_TW</lang><value>没找到使用者。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Benutzername fehlt.</value></content>
+<content><country></country><lang>en</lang><value>Username missing.</value></content>
+<content><country></country><lang>es</lang><value>Falta usuario</value></content>
+<content><country></country><lang>fr</lang><value>Le nom d'utilisateur manque.</value></content>
+<content><country></country><lang>it</lang><value>Nome Utente mancante.</value></content>
+<content><country></country><lang>nl</lang><value>Gebruikersnaam is leeg.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Nome de usuário ausente.</value></content>
+<content><country></country><lang>ro</lang><value>Nume Utilizator lipseste.</value></content>
+<content><country></country><lang>ru</lang><value>Отсутствует имя пользователя.</value></content>
+<content><country></country><lang>th</lang><value>ไม่พบชื่อผู้เข้าใช้</value></content>
+<content><country></country><lang>zh</lang><value>缺少用户名。</value></content>
+<content><country></country><lang>zh_TW</lang><value>缺少使用者名稱。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Es wird am/um ${reEnableTime} wieder freigegeben.</value></content>
+<content><country></country><lang>en</lang><value>It will be re-enabled ${reEnableTime}.</value></content>
+<content><country></country><lang>es</lang><value>Será reactivado en ${reEnableTime}.</value></content>
+<content><country></country><lang>fr</lang><value>Il sera renouvellé : ${reEnableTime}.</value></content>
+<content><country></country><lang>it</lang><value>Sarà riabilitato il ${reEnableTime}.</value></content>
+<content><country></country><lang>nl</lang><value>Hij zal weer geactiveerd zijn op ${reEnableTime}.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Será reativado ${reEnableTime}.</value></content>
+<content><country></country><lang>ro</lang><value>Aceasta a fost re-abilitata in ${reEnableTime}.</value></content>
+<content><country></country><lang>ru</lang><value>Он будет разблокирован ${reEnableTime}.</value></content>
+<content><country></country><lang>th</lang><value>มันจะไม่สามารถใช้ได้อีกครั้ง ${reEnableTime}.</value></content>
+<content><country></country><lang>zh</lang><value>将重新启用 ${reEnableTime}。</value></content>
+<content><country></country><lang>zh_TW</lang><value>將重新啟用 ${reEnableTime}。</value></content>
+</contents></phrase> </phrases>

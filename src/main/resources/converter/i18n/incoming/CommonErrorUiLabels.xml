@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="ImageTransform.error_occurs_during_reading">
+        <value lang="da">Der opstår en fejl under læsning</value>
+        <value lang="en">An error occurs during reading</value>
+        <value lang="fr">Une erreur est survenue lors de la lecture</value>
+        <value lang="hi_IN">पढ़ने के दौरान एक त्रुटि हो रही है</value>
+        <value lang="it">E' successo un'errore durante la lettura</value>
+        <value lang="nl">Er is een fout opgetreden tijdens het lezen</value>
+        <value lang="pt_BR">Um erro ocorreu durante a leitura</value>
+        <value lang="zh">读取时发生了一个错误</value>
+        <value lang="zh_TW">讀取時發生了一個錯誤</value>
+    </property>
+    <property key="ImageTransform.error_prevents_the document_from_being_fully_parsed">
+        <value lang="da">Fejl forhinder dokumentet i at blive fuldt ud oversat</value>
+        <value lang="en">Error prevents the document from being fully parsed</value>
+        <value lang="fr">Une erreur empêche que le document soit entièrement analysé</value>
+        <value lang="hi_IN">त्रुटि दस्तावेज़ को पूरी तरह पार्स करने से रोक रही है</value>
+        <value lang="it">Errore previene il documento da essere completamente parsato</value>
+        <value lang="nl">Een fout verhinderd het volledig parsen van het document</value>
+        <value lang="pt_BR">Erro impede que o documento seja totalmente analisado</value>
+        <value lang="zh">发生错误阻止了文档完全解析</value>
+        <value lang="zh_TW">發生錯誤阻止了文檔完全解析</value>
+    </property>
+    <property key="ImageTransform.errors_occured_during_parsing">
+        <value lang="da">Der opstod fejl under oversættelse</value>
+        <value lang="en">Errors occured during parsing</value>
+        <value lang="fr">Des erreurs sont survenues lors de l'analyse</value>
+        <value lang="hi_IN">पार्सिंग के दौरान त्रुटियाँ हुई</value>
+        <value lang="it">Errore accaduti durante il parsing</value>
+        <value lang="nl">Er zijn fouten opgetreden tijdens het parsen</value>
+        <value lang="pt_BR">Ocorreram erros durante a análise (Parsing)</value>
+        <value lang="zh">解析时发生错误</value>
+        <value lang="zh_TW">解析時發生錯誤</value>
+    </property>
+    <property key="ImageTransform.final_scale_factor_is_null">
+        <value lang="da">Endelig skala faktor er null</value>
+        <value lang="en">Final scale factor is null</value>
+        <value lang="fr">Le facteur final de redimensionnement est nul</value>
+        <value lang="hi_IN">अंतिम पैमाने पहलू null है</value>
+        <value lang="it">Fattore di scala finale è nullo</value>
+        <value lang="nl">De definitieve schaalfactor is leeg</value>
+        <value lang="pt_BR">Fator de escala final é nulo</value>
+        <value lang="zh">最终的缩放因子是null</value>
+        <value lang="zh_TW">最終的縮放因數是null</value>
+    </property>
+    <property key="ImageTransform.height_scale_factor_is_null">
+        <value lang="da">Høj skala faktor er null</value>
+        <value lang="en">Height scale factor is null</value>
+        <value lang="fr">Le ratio 'hauteur' de redimensionnement est nul</value>
+        <value lang="hi_IN">ऊँचाई पैमाने पहलू null है</value>
+        <value lang="it">Fattore di scala altezza è nullo</value>
+        <value lang="nl">Schaalfactor hoogte is leeg</value>
+        <value lang="pt_BR">Fator da escala de Altura é nula</value>
+        <value lang="zh">高度缩放因子是null</value>
+        <value lang="zh_TW">高度縮放因數是null</value>
+    </property>
+    <property key="ImageTransform.input_is_null">
+        <value lang="da">Input er null</value>
+        <value lang="en">Input is null</value>
+        <value lang="fr">La valeur saisie est nulle</value>
+        <value lang="hi_IN">इनपुट null है</value>
+        <value lang="it">Input è nullo</value>
+        <value lang="nl">De ingave is leeg</value>
+        <value lang="pt_BR">A entrada é nula</value>
+        <value lang="zh">输入是null</value>
+        <value lang="zh_TW">輸入是null</value>
+    </property>
+    <property key="ImageTransform.one_default_dimension_is_null">
+        <value lang="da">En standard dimension er null</value>
+        <value lang="en">One default dimension is null</value>
+        <value lang="fr">Une des dimensions par défaut est nulle</value>
+        <value lang="hi_IN">एक डिफ़ॉल्ट आयाम null है</value>
+        <value lang="it">Dimensione uno di default è nullo</value>
+        <value lang="nl">Een standaad dimensie is leeg</value>
+        <value lang="pt_BR">Uma dimensão padrão é null</value>
+        <value lang="zh">一个缺省的纬度是null</value>
+        <value lang="zh_TW">一個缺省的緯度是null</value>
+    </property>
+    <property key="ImageTransform.root_element_has_not_been_set">
+        <value lang="da">Rod element er ikke sat</value>
+        <value lang="en">Root element has not been set</value>
+        <value lang="fr">L'élement racine n'a pas pu être chargé</value>
+        <value lang="hi_IN">रूट तत्व निर्धारित नहीं किया गया है</value>
+        <value lang="it">Elemento root non è stato impostato</value>
+        <value lang="nl">Root element is niet ingesteld</value>
+        <value lang="pt_BR">Elemento raiz não foi definido</value>
+        <value lang="zh">已经设置了根元素</value>
+        <value lang="zh_TW">已經設置了根元素</value>
+    </property>
+    <property key="ImageTransform.unknown_buffered_image_type">
+        <value lang="da">Ukendt buffered billedtype</value>
+        <value lang="en">Unknown buffered image type</value>
+        <value lang="fr">Le type d'image bufferisée est inconnu</value>
+        <value lang="hi_IN">buffered छवि का अज्ञात प्रकार</value>
+        <value lang="it">Tipo di immagine sconosciuta bufferizzata</value>
+        <value lang="nl">Onbekend gebufferde afbeeldingsoort</value>
+        <value lang="pt_BR">Tipo de imagem em buffer Desconhecido</value>
+        <value lang="zh">未知的缓冲的图片类型</value>
+        <value lang="zh_TW">未知的緩衝的圖片類型</value>
+    </property>
+    <property key="ImageTransform.width_scale_factor_is_null">
+        <value lang="da">Bredde skala faktor er null</value>
+        <value lang="en">Width scale factor is null</value>
+        <value lang="fr">Le ratio 'largeur' de redimensionnement est nul</value>
+        <value lang="hi_IN">चौड़ाई पैमाने कारक(Width scale factor) null है</value>
+        <value lang="it">Fattore di scala altezza è nullo</value>
+        <value lang="nl">Schaalfactor breedte is leeg</value>
+        <value lang="pt_BR">Fator da escala de Largura é nula</value>
+        <value lang="zh">宽度缩放因子是null</value>
+        <value lang="zh_TW">寬度縮放因數是null</value>
+    </property>
+</resource>

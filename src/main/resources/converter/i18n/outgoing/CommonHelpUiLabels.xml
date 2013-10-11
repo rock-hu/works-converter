@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Hjælp emne ikke fundet</value></content>
+<content><country></country><lang>de</lang><value>Hilfe Thema nicht gefunden.</value></content>
+<content><country></country><lang>en</lang><value>Help topic not found.</value></content>
+<content><country></country><lang>es</lang><value>No se ha encontrado el tema de ayuda.</value></content>
+<content><country></country><lang>fr</lang><value>Sujet d'aide non trouvé.</value></content>
+<content><country></country><lang>it</lang><value>Voce aiuto non trovata.</value></content>
+<content><country></country><lang>pt_BR</lang><value>Tópico de ajuda não foi encontrado.</value></content>
+<content><country></country><lang>zh</lang><value>帮助主题没有找到。</value></content>
+<content><country></country><lang>zh_TW</lang><value>幫助主題沒有找到。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>da</lang><value>Open for Business hjælp</value></content>
+<content><country></country><lang>de</lang><value>Open for Business Hilfe</value></content>
+<content><country></country><lang>en</lang><value>Open for Business Help</value></content>
+<content><country></country><lang>es</lang><value>Ayuda de Open for Business</value></content>
+<content><country></country><lang>fr</lang><value>Aide OFBiz (Open for Business)</value></content>
+<content><country></country><lang>it</lang><value>Aiuto</value></content>
+<content><country></country><lang>pt_BR</lang><value>Ajuda do OFBiz</value></content>
+<content><country></country><lang>zh</lang><value>OFBiz帮助</value></content>
+<content><country></country><lang>zh_TW</lang><value>OFBiz幫助</value></content>
+</contents></phrase> </phrases>

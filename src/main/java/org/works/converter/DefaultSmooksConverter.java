@@ -21,28 +21,23 @@ import org.xml.sax.SAXException;
 
 public class DefaultSmooksConverter implements SmooksConverter {
 
-	private static final Logger logger = Logger
-			.getLogger(DefaultSmooksConverter.class);
+	private static final Logger logger = Logger.getLogger(DefaultSmooksConverter.class);
 
 	private static final int BUFFER_SIZE = 1024;
 
 	@Override
-	public void converter(File incoming, File outgoing, String targetFileExt,
-			FilenameFilter nameFilter, File smooksConfig)
-			throws SmooksException, IOException {
+	public void converter(File incoming, File outgoing, String targetFileExt, FilenameFilter nameFilter,
+			File smooksConfig) throws SmooksException, IOException {
 
 		if (incoming == null || outgoing == null || smooksConfig == null) {
-			throw new SmooksException(
-					"incoming folder,outgoing folder or smooks config file can,t be null.");
+			throw new SmooksException("incoming folder,outgoing folder or smooks config file can,t be null.");
 		}
 
 		if (!incoming.exists() || !incoming.isDirectory()) {
-			throw new SmooksException(
-					"incoming folder must exist and only support folder.");
+			throw new SmooksException("incoming folder must exist and only support folder.");
 		}
 		if (!outgoing.exists() || !outgoing.isDirectory()) {
-			throw new SmooksException(
-					"outgoing folder must exist and only support folder.");
+			throw new SmooksException("outgoing folder must exist and only support folder.");
 		}
 
 		if (!smooksConfig.exists() || !smooksConfig.isFile()) {
@@ -52,32 +47,34 @@ public class DefaultSmooksConverter implements SmooksConverter {
 		String[] baseFilenames = incoming.list(nameFilter);
 
 		String incomgBasePath = incoming.getAbsolutePath();
-		String outgoingBasePath = incoming.getAbsolutePath();
+		String outgoingBasePath = outgoing.getAbsolutePath();
 
 		for (String filename : baseFilenames) {
-			//FIXME:
-			converter(new File(incomgBasePath + File.separator + filename),
-					new File(incomgBasePath + File.separator + filename), smooksConfig);
+			// FIXME:
+			File source = new File(incomgBasePath + File.separator + filename);
+
+			File target = new File(outgoingBasePath + File.separator + filename.substring(0, filename.lastIndexOf("."))
+					+ targetFileExt);
+			if (!target.exists()) {
+				target.createNewFile();
+			}
+			converter(source, target, smooksConfig);
 		}
 
 	}
 
 	@Override
-	public void converter(File incoming, File outgoing, File smooksConfig)
-			throws SmooksException, IOException {
+	public void converter(File incoming, File outgoing, File smooksConfig) throws SmooksException, IOException {
 
 		if (incoming == null || outgoing == null || smooksConfig == null) {
-			throw new SmooksException(
-					"incoming file,outgoing file or smooks config file can,t be null.");
+			throw new SmooksException("incoming file,outgoing file or smooks config file can,t be null.");
 		}
 
 		if (!incoming.exists() || !incoming.isFile()) {
-			throw new SmooksException(
-					"incoming file must exist and only support single file.");
+			throw new SmooksException("incoming file must exist and only support single file.");
 		}
 		if (!outgoing.exists() || !outgoing.isFile()) {
-			throw new SmooksException(
-					"outgoing file must exist and only support single file.");
+			throw new SmooksException("outgoing file must exist and only support single file.");
 		}
 
 		if (!smooksConfig.exists() || !smooksConfig.isFile()) {
@@ -93,14 +90,13 @@ public class DefaultSmooksConverter implements SmooksConverter {
 		try {
 			outputByte = new ByteResult();
 			is = new FileInputStream(incoming);
-			smooks = new Smooks(smooksConfig.getAbsolutePath());
+			smooks = new Smooks(new FileInputStream(smooksConfig));
 			executionContext = smooks.createExecutionContext();
 
-			smooks.filterSource(executionContext, new StreamSource(
-					new InputStreamReader(is)), outputByte);
+			smooks.filterSource(executionContext, new StreamSource(new InputStreamReader(is)), outputByte);
 
 			fc = new FileOutputStream(outgoing).getChannel();
-			bb = ByteBuffer.allocate(BUFFER_SIZE);
+			bb = ByteBuffer.allocate(outputByte.getResult().length);
 			bb.put(outputByte.getResult());
 			bb.flip();
 			fc.write(bb);
@@ -112,7 +108,7 @@ public class DefaultSmooksConverter implements SmooksConverter {
 		} catch (SAXException e) {
 			throw new SmooksException(e.getMessage(), e);
 		} finally {
-			if (fc.isOpen()) {
+			if (fc != null && fc.isOpen()) {
 				fc.close();
 			}
 		}

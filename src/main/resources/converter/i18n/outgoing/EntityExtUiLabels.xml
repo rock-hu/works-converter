@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cannot do Entity Sync Push because entitySyncId [] is set for Pull Only.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile fare Entity Sync Push perchè entitySyncId [] è impostato in Pull Only.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Could not find delegator with specified name ${overrideDelegatorName}</value></content>
+<content><country></country><lang>it</lang><value>Could not find delegator with specified name ${overrideDelegatorName}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>EntitySync XML document ${fileName} is not valid!</value></content>
+<content><country></country><lang>it</lang><value>EntitySync XML documento ${fileName} non è valido!</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error calling remote pull and report EntitySync service with name: ${remotePullAndReportEntitySyncDataName}</value></content>
+<content><country></country><lang>it</lang><value>Errore durante la chiamata del pull remoto e report EntitySync servizio con il nome: ${remotePullAndReportEntitySyncDataName}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error calling service to store data locally</value></content>
+<content><country></country><lang>it</lang><value>Errore durante la chiamata del servizio di registrazione locale dei dati</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error cleaning out EntitySyncRemove info: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Error cleaning out EntitySyncRemove info: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error getting list of entities in group: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore ad ottenere la lista delle entità nel gruppo: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error unwrapping ByteWrapper records: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore unwrapping ByteWrapper records: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error saving Entity Sync Data for entitySyncId ${entitySyncId}: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore durante il salvataggio Entity Sync Data per entitySyncId ${entitySyncId}: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Exception saving Entity Sync Data for entitySyncId ${entitySyncId}: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Eccezione durante il salvataggio Entity Sync Data per entitySyncId ${entitySyncId}: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>File not found: ${fileName}</value></content>
+<content><country></country><lang>it</lang><value>File non trovato: ${fileName}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No files available for reading in this root directory: ${rootDirectory}</value></content>
+<content><country></country><lang>it</lang><value>Nessun file disponibile da leggere nella directory principale: ${rootDirectory}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Offline EntitySync XML file not found (${fileName})</value></content>
+<content><country></country><lang>it</lang><value>File Offline EntitySync XML non trovato (${fileName})</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problem reading file: ${fileName}</value></content>
+<content><country></country><lang>it</lang><value>Problema durante la lettura del file: ${fileName}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Root directory does not exist or is not readable.</value></content>
+<content><country></country><lang>it</lang><value>Directory principale non esiste o non è leggibile.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You do not have permission to run this service.</value></content>
+<content><country></country><lang>it</lang><value>Tu non hai il permesso di eseguire questo servizio.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>This service is not implemented yet.</value></content>
+<content><country></country><lang>it</lang><value>Questo servizio non è ancora implementato.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to load EntitySync XML ${entitySyncId} - Problem at '${startTime}' Error: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile caricare il EntitySync XML ${entitySyncId} - Problema alle '${startTime}' Errore: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to locate root directory ${rootDirectory}</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile localizzare la directory principale ${rootDirectory}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to get root directory URI</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile localizzare la directory principale URI</value></content>
+</contents></phrase> </phrases>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to log in; XUI not configured properly</value></content>
+<content><country></country><lang>fr</lang><value>Impossible de continuer : XUI n'est pas configuré correctement</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile fare il log in; XUI non configurato propriamente</value></content>
+<content><country></country><lang>th</lang><value>ไม่สามารถเข้าสู่ระบบได้ : XUI ไม่สามารถจัดการข้อมูลได้อย่างถูกต้อง</value></content>
+<content><country></country><lang>zh</lang><value>无法登录；XUI配置不正确</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>UserLogin returned not valid (null)</value></content>
+<content><country></country><lang>fr</lang><value>Identifiant de connexion retourné non valide (null)</value></content>
+<content><country></country><lang>it</lang><value>UserLogin restituito non valido (null)</value></content>
+<content><country></country><lang>th</lang><value>ชื่อผู้เข้าใช้ระบบไม่ถูกต้อง (ค่าว่าง)</value></content>
+<content><country></country><lang>zh</lang><value>返回的用户登录无效(null)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>User name does not match already logged in user!</value></content>
+<content><country></country><lang>fr</lang><value>Cet identifiant ne correspond pas à celui en cours !</value></content>
+<content><country></country><lang>it</lang><value>Nome utente non confrontato per l'utente autenticato!</value></content>
+<content><country></country><lang>th</lang><value>ชื่อผู้เข้าใช้ระบบไม่ตรงกับข้อมูลที่บันทึกไว้กรุณาตรวจสอบ</value></content>
+<content><country></country><lang>zh</lang><value>用户名与已经登录的用户不一致！</value></content>
+</contents></phrase> </phrases>

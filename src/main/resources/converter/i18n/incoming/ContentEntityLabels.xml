@@ -1,0 +1,2731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="CharacterSet.description.ISO-8859-1">
+        <value lang="da">ISO-8859-1</value>
+        <value lang="de">ISO-8859-1</value>
+        <value lang="en">ISO-8859-1</value>
+        <value lang="es">ISO-8859-1 Inglés</value>
+        <value lang="fr">ISO-8859-1</value>
+        <value lang="it">ISO-8859-1</value>
+        <value lang="th">ISO-8859-1</value>
+    </property>
+    <property key="CharacterSet.description.ISO-8859-10">
+        <value lang="da">ISO-8859-10</value>
+        <value lang="de">ISO-8859-10</value>
+        <value lang="en">ISO-8859-10</value>
+        <value lang="es">ISO-8859-10 ?</value>
+        <value lang="fr">ISO-8859-10</value>
+        <value lang="it">ISO-8859-10</value>
+        <value lang="th">ISO-8859-10</value>
+    </property>
+    <property key="CharacterSet.description.ISO-8859-2">
+        <value lang="da">ISO-8859-2</value>
+        <value lang="de">ISO-8859-2</value>
+        <value lang="en">ISO-8859-2</value>
+        <value lang="es">ISO-8859-2 ?</value>
+        <value lang="fr">ISO-8859-2</value>
+        <value lang="it">ISO-8859-2</value>
+        <value lang="th">ISO-8859-2</value>
+    </property>
+    <property key="CharacterSet.description.ISO-8859-3">
+        <value lang="da">ISO-8859-3</value>
+        <value lang="de">ISO-8859-3</value>
+        <value lang="en">ISO-8859-3</value>
+        <value lang="es">ISO-8859-3 ?</value>
+        <value lang="fr">ISO-8859-3</value>
+        <value lang="it">ISO-8859-3</value>
+        <value lang="th">ISO-8859-3</value>
+    </property>
+    <property key="CharacterSet.description.ISO-8859-4">
+        <value lang="da">ISO-8859-4</value>
+        <value lang="de">ISO-8859-4</value>
+        <value lang="en">ISO-8859-4</value>
+        <value lang="es">ISO-8859-4 ?</value>
+        <value lang="fr">ISO-8859-4</value>
+        <value lang="it">ISO-8859-4</value>
+        <value lang="th">ISO-8859-4</value>
+    </property>
+    <property key="CharacterSet.description.ISO-8859-5">
+        <value lang="da">ISO-8859-5</value>
+        <value lang="de">ISO-8859-5</value>
+        <value lang="en">ISO-8859-5</value>
+        <value lang="es">ISO-8859-5 ?</value>
+        <value lang="fr">ISO-8859-5</value>
+        <value lang="it">ISO-8859-5</value>
+        <value lang="th">ISO-8859-5</value>
+    </property>
+    <property key="CharacterSet.description.ISO-8859-6">
+        <value lang="da">ISO-8859-6</value>
+        <value lang="de">ISO-8859-6</value>
+        <value lang="en">ISO-8859-6</value>
+        <value lang="es">ISO-8859-6 Latino/árabe</value>
+        <value lang="fr">ISO-8859-6</value>
+        <value lang="it">ISO-8859-6</value>
+        <value lang="th">ISO-8859-6</value>
+    </property>
+    <property key="CharacterSet.description.ISO-8859-7">
+        <value lang="da">ISO-8859-7</value>
+        <value lang="de">ISO-8859-7</value>
+        <value lang="en">ISO-8859-7</value>
+        <value lang="es">ISO-8859-7 ?</value>
+        <value lang="fr">ISO-8859-7</value>
+        <value lang="it">ISO-8859-7</value>
+        <value lang="th">ISO-8859-7</value>
+    </property>
+    <property key="CharacterSet.description.ISO-8859-8">
+        <value lang="da">ISO-8859-8</value>
+        <value lang="de">ISO-8859-8</value>
+        <value lang="en">ISO-8859-8</value>
+        <value lang="es">ISO-8859-8 Latino/Hebreo</value>
+        <value lang="fr">ISO-8859-8</value>
+        <value lang="it">ISO-8859-8</value>
+        <value lang="th">ISO-8859-8</value>
+    </property>
+    <property key="CharacterSet.description.ISO-8859-9">
+        <value lang="da">ISO-8859-9</value>
+        <value lang="de">ISO-8859-9</value>
+        <value lang="en">ISO-8859-9</value>
+        <value lang="es">ISO-8859-9 ?</value>
+        <value lang="fr">ISO-8859-9</value>
+        <value lang="it">ISO-8859-9</value>
+        <value lang="th">ISO-8859-9</value>
+    </property>
+    <property key="CharacterSet.description.US-ASCII">
+        <value lang="da">US-ASCII</value>
+        <value lang="de">US-ASCII</value>
+        <value lang="en">US-ASCII</value>
+        <value lang="es">US-ASCII</value>
+        <value lang="fr">US-ASCII</value>
+        <value lang="it">US-ASCII</value>
+        <value lang="th">US-ASCII</value>
+    </property>
+    <property key="CharacterSet.description.UTF-16">
+        <value lang="da">UTF-16</value>
+        <value lang="de">UTF-16</value>
+        <value lang="en">UTF-16</value>
+        <value lang="es">Unicode 16 bit</value>
+        <value lang="fr">UTF-16</value>
+        <value lang="it">UTF-16</value>
+        <value lang="th">UTF-16</value>
+    </property>
+    <property key="CharacterSet.description.UTF-8">
+        <value lang="da">UTF-8</value>
+        <value lang="de">UTF-8</value>
+        <value lang="en">UTF-8</value>
+        <value lang="es">Unicode 8 bit</value>
+        <value lang="fr">UTF-8</value>
+        <value lang="it">UTF-8</value>
+        <value lang="th">UTF-8</value>
+    </property>
+    <property key="ContentAssocPredicate.description.categorizes">
+        <value lang="da">kategorier</value>
+        <value lang="de">kategorisiert</value>
+        <value lang="en">categorizes</value>
+        <value lang="es">Clasifica</value>
+        <value lang="fr">Classifie</value>
+        <value lang="it">Categorie</value>
+        <value lang="th">จัดหมวดหมู่</value>
+        <value lang="zh">分类</value>
+        <value lang="zh_TW">分類</value>
+    </property>
+    <property key="ContentAssocPredicate.description.defines">
+        <value lang="da">definerer</value>
+        <value lang="de">definiert</value>
+        <value lang="en">defines</value>
+        <value lang="es">Define</value>
+        <value lang="fr">Définit</value>
+        <value lang="it">Definizione</value>
+        <value lang="th">กำหนด</value>
+        <value lang="zh">定义</value>
+        <value lang="zh_TW">定義</value>
+    </property>
+    <property key="ContentAssocPredicate.description.extends">
+        <value lang="da">udvider</value>
+        <value lang="de">erweitert</value>
+        <value lang="en">extends</value>
+        <value lang="es">amplía</value>
+        <value lang="fr">Etend</value>
+        <value lang="it">Estendi</value>
+        <value lang="th">ยืดเวลาออกไป</value>
+        <value lang="zh">扩展</value>
+        <value lang="zh_TW">擴展</value>
+    </property>
+    <property key="ContentAssocPredicate.description.member-of">
+        <value lang="da">medlem-af</value>
+        <value lang="de">Mitglied von</value>
+        <value lang="en">member-of</value>
+        <value lang="es">es miembro de</value>
+        <value lang="fr">Est membre de</value>
+        <value lang="it">Mrembro-di</value>
+        <value lang="th">สมาชิกของ</value>
+        <value lang="zh">成员属于</value>
+        <value lang="zh_TW">成員屬于</value>
+    </property>
+    <property key="ContentAssocPredicate.description.references">
+        <value lang="da">referencer</value>
+        <value lang="de">referenziert</value>
+        <value lang="en">references</value>
+        <value lang="es">referencia</value>
+        <value lang="fr">Référence</value>
+        <value lang="it">Riferimenti</value>
+        <value lang="th">อ้างอิง</value>
+        <value lang="zh">引用</value>
+        <value lang="zh_TW">引用</value>
+    </property>
+    <property key="ContentAssocPredicate.description.related-to">
+        <value lang="da">relateret-til</value>
+        <value lang="de">in Beziehung mit</value>
+        <value lang="en">related-to</value>
+        <value lang="es">se relaciona con</value>
+        <value lang="fr">Apparenté à</value>
+        <value lang="it">Relativo-a</value>
+        <value lang="th">เกี่ยวข้องกัน</value>
+        <value lang="zh">关联到</value>
+        <value lang="zh_TW">關聯到</value>
+    </property>
+    <property key="ContentAssocPredicate.description.topifies">
+        <value lang="da">omdan afsnit</value>
+        <value lang="de">ist besser als</value>
+        <value lang="en">topifies</value>
+        <value lang="es">Archivos principales</value>
+        <value lang="fr">Transforme en sujet</value>
+        <value lang="it">File principale</value>
+        <value lang="th">topifies</value>
+        <value lang="zh">Topify</value>
+        <value lang="zh_TW">Topify</value>
+    </property>
+    <property key="ContentAssocType.description.ALTERNATE_LOCALE">
+        <value lang="da">Alternativ locale</value>
+        <value lang="de">Sekundäres Locale</value>
+        <value lang="en">Alternate Locale</value>
+        <value lang="es">Ubicación secundaria</value>
+        <value lang="fr">Traduction alternative</value>
+        <value lang="it">Locale Alternativo</value>
+        <value lang="ro">Local Alternativ</value>
+        <value lang="th">ทางเลือก</value>
+        <value lang="zh">改变语言</value>
+        <value lang="zh_TW">改變語言</value>
+    </property>
+    <property key="ContentAssocType.description.ATTRIBUTE">
+        <value lang="da">Attribut</value>
+        <value lang="de">Attribut</value>
+        <value lang="en">Attribute</value>
+        <value lang="es">Atributo</value>
+        <value lang="fr">Attribut</value>
+        <value lang="it">Attributo</value>
+        <value lang="ro">Atribut</value>
+        <value lang="th">คุณสมบัติ</value>
+        <value lang="zh">属性</value>
+        <value lang="zh_TW">屬性</value>
+    </property>
+    <property key="ContentAssocType.description.AUTHOR">
+        <value lang="da">Forfatter</value>
+        <value lang="de">Autor</value>
+        <value lang="en">Author</value>
+        <value lang="es">Autor</value>
+        <value lang="fr">Auteur</value>
+        <value lang="it">Autore</value>
+        <value lang="ro">Autor</value>
+        <value lang="th">ผู้สร้าง</value>
+        <value lang="zh">作者</value>
+        <value lang="zh_TW">作者</value>
+    </property>
+    <property key="ContentAssocType.description.COMPDOC_PART">
+        <value lang="da">Sammensat dokumentdel</value>
+        <value lang="de">Zusammengesetzter Dokumentteil</value>
+        <value lang="en">Composite Document Part</value>
+        <value lang="fr">Partie du document composé</value>
+        <value lang="it">Parte Documento Composito</value>
+        <value lang="ro">Parte Document Compus</value>
+        <value lang="th">ประกอบด้วยส่วนของเอกสาร</value>
+        <value lang="zh">合成文档部分</value>
+        <value lang="zh_TW">合成文檔部分</value>
+    </property>
+    <property key="ContentAssocType.description.DEPARTMENT">
+        <value lang="da">Afdeling</value>
+        <value lang="de">Abteilung</value>
+        <value lang="en">Department</value>
+        <value lang="es">Departamento</value>
+        <value lang="fr">Département</value>
+        <value lang="it">Dipartimento</value>
+        <value lang="ro">Departament</value>
+        <value lang="th">แผนก</value>
+        <value lang="zh">部门</value>
+        <value lang="zh_TW">部門</value>
+    </property>
+    <property key="ContentAssocType.description.DESCRIPTION">
+        <value lang="da">Beskrivelse</value>
+        <value lang="de">Beschreibung</value>
+        <value lang="en">Description</value>
+        <value lang="es">Descripción</value>
+        <value lang="fr">Description</value>
+        <value lang="it">Descrizione</value>
+        <value lang="ro">Descrere</value>
+        <value lang="th">รายละเอียด</value>
+        <value lang="zh">描述</value>
+        <value lang="zh_TW">描述</value>
+    </property>
+    <property key="ContentAssocType.description.GRAPH_LINK">
+        <value lang="da">Graf link</value>
+        <value lang="de">Grafik Link</value>
+        <value lang="en">Graph Link</value>
+        <value lang="es">Imagen de enlace</value>
+        <value lang="fr">Lien graphique</value>
+        <value lang="it">Grafico Link</value>
+        <value lang="ro">Grafic Link</value>
+        <value lang="th">เชื่อมต่อกับกราฟ</value>
+        <value lang="zh">图形链接</value>
+        <value lang="zh_TW">圖形鏈結</value>
+    </property>
+    <property key="ContentAssocType.description.INSTANCE">
+        <value lang="da">Instans af</value>
+        <value lang="de">Instanz von</value>
+        <value lang="en">Instance Of</value>
+        <value lang="fr">Exemple de</value>
+        <value lang="it">Instanza Di</value>
+        <value lang="ro">Instanta De</value>
+        <value lang="th">ตัวอย่างของ</value>
+        <value lang="zh">实例源自</value>
+        <value lang="zh_TW">實例源自</value>
+    </property>
+    <property key="ContentAssocType.description.LIST_ENTRY">
+        <value lang="da">Liste indgang</value>
+        <value lang="de">Listeneintrag</value>
+        <value lang="en">List Entry</value>
+        <value lang="es">Lista de ingreso</value>
+        <value lang="fr">Entrée de liste</value>
+        <value lang="it">Lista Voce</value>
+        <value lang="ro">Lista Date</value>
+        <value lang="th">รายการกรอกข้อมูล</value>
+        <value lang="zh">条目列表</value>
+        <value lang="zh_TW">條目列表</value>
+    </property>
+    <property key="ContentAssocType.description.PUBLISH_LINK">
+        <value lang="da">Udgiv link</value>
+        <value lang="de">Link zur Veröffentlichung</value>
+        <value lang="en">Publish link</value>
+        <value lang="es">Publicar</value>
+        <value lang="fr">Lien de publication</value>
+        <value lang="it">Pubblica link</value>
+        <value lang="ro">Publica link</value>
+        <value lang="th">เชื่อมต่อกับการพิมพ์</value>
+        <value lang="zh">发布链接</value>
+        <value lang="zh_TW">發布鏈結</value>
+    </property>
+    <property key="ContentAssocType.description.RELATED_CONTENT">
+        <value lang="da">Relateret indhold</value>
+        <value lang="de">in Beziehung stehender Inhalt</value>
+        <value lang="en">Related content</value>
+        <value lang="es">Contenido asociado</value>
+        <value lang="fr">Contenu relatif</value>
+        <value lang="it">Contenuto Relativo</value>
+        <value lang="ro">Contenut Relativ</value>
+        <value lang="th">เชื่อมกับหัวข้อ</value>
+        <value lang="zh">内嵌内容</value>
+        <value lang="zh_TW">內嵌內容</value>
+    </property>
+    <property key="ContentAssocType.description.RESPONSE">
+        <value lang="da">Svar</value>
+        <value lang="de">Antwort</value>
+        <value lang="en">Response</value>
+        <value lang="es">Respuesta</value>
+        <value lang="fr">Réponse</value>
+        <value lang="it">Risposta</value>
+        <value lang="ro">Raspuns</value>
+        <value lang="th">คำตอบ</value>
+        <value lang="zh">回答</value>
+        <value lang="zh_TW">回答</value>
+    </property>
+    <property key="ContentAssocType.description.STRUCTURE_DEF">
+        <value lang="da">Definition af dokumentstruktur</value>
+        <value lang="de">Dokumentstruktur Definition</value>
+        <value lang="en">Document Structure Definition</value>
+        <value lang="es">Definición de estructura de documento</value>
+        <value lang="fr">Définition de la structure du document</value>
+        <value lang="it">Definizione Struttura Documento</value>
+        <value lang="ro">Definitie Structura Document</value>
+        <value lang="th">โครงสร้างของเอกสาร</value>
+        <value lang="zh">文档结构定义</value>
+        <value lang="zh_TW">文檔結構定義</value>
+    </property>
+    <property key="ContentAssocType.description.SUBSITE">
+        <value lang="da">Subside</value>
+        <value lang="de">Untergeordnete Seite</value>
+        <value lang="en">SubSite</value>
+        <value lang="es">Subsitio</value>
+        <value lang="fr">Sous-site</value>
+        <value lang="it">Sotto Sito</value>
+        <value lang="ro">Sub Sit</value>
+        <value lang="th">ที่ตั้งย่อย</value>
+        <value lang="zh">子站点</value>
+        <value lang="zh_TW">子站點</value>
+    </property>
+    <property key="ContentAssocType.description.SUB_CONTENT">
+        <value lang="da">Subsektion</value>
+        <value lang="de">Untergeordneter Abschnitt</value>
+        <value lang="en">Sub Section</value>
+        <value lang="es">Sub sección</value>
+        <value lang="fr">Sous-section</value>
+        <value lang="it">Sotto Sezione</value>
+        <value lang="ro">Sub Sectie</value>
+        <value lang="th">กลุ่มย่อย</value>
+        <value lang="zh">小段</value>
+        <value lang="zh_TW">小段</value>
+    </property>
+    <property key="ContentAssocType.description.SUMMARY">
+        <value lang="da">Resumé</value>
+        <value lang="de">Zusammenfassung</value>
+        <value lang="en">Summary</value>
+        <value lang="es">Resumen</value>
+        <value lang="fr">Résumé</value>
+        <value lang="it">Sommario</value>
+        <value lang="ro">Sumar</value>
+        <value lang="th">สรุป</value>
+        <value lang="zh">摘要</value>
+        <value lang="zh_TW">摘要</value>
+    </property>
+    <property key="ContentAssocType.description.TEMPLATE_MEMBER">
+        <value lang="da">Skabelon medlem</value>
+        <value lang="de">Vorlage Mitglied</value>
+        <value lang="en">Template Member</value>
+        <value lang="fr">Gabarit de membre</value>
+        <value lang="it">Membro Template</value>
+        <value lang="ro">Membru Template</value>
+        <value lang="th">รูปแบบสมาชิก</value>
+        <value lang="zh">模板成员</value>
+        <value lang="zh_TW">範本成員</value>
+    </property>
+    <property key="ContentAssocType.description.TOPIC">
+        <value lang="da">Afsnit</value>
+        <value lang="de">Thema</value>
+        <value lang="en">Topic</value>
+        <value lang="es">Tema</value>
+        <value lang="fr">Matière</value>
+        <value lang="it">Argomento</value>
+        <value lang="ro">Argument</value>
+        <value lang="th">หัวข้อ</value>
+        <value lang="zh">主题</value>
+        <value lang="zh_TW">主題</value>
+    </property>
+    <property key="ContentAssocType.description.TREE_CHILD">
+        <value lang="da">Barn af træstruktur</value>
+        <value lang="de">Untergeordnetes Element</value>
+        <value lang="en">Tree Child</value>
+        <value lang="es">Mostrar hijos</value>
+        <value lang="fr">Arborescence enfant</value>
+        <value lang="it">Albero Figlio</value>
+        <value lang="ro">Arbore Fiu</value>
+        <value lang="th">แผนผังรูปต้นไม้ระยะต้นๆ</value>
+        <value lang="zh">子树</value>
+        <value lang="zh_TW">子樹</value>
+    </property>
+    <property key="ContentAssocType.description.TXFORM_DEF">
+        <value lang="da">Transformations definition</value>
+        <value lang="de">Transformation Definition</value>
+        <value lang="en">Transformation Definition</value>
+        <value lang="es">Definición de transformación</value>
+        <value lang="fr">Définition de transformation</value>
+        <value lang="it">Definizione Trasformazione</value>
+        <value lang="ro">Definitie Transformatie</value>
+        <value lang="th">คำอธิบายการเปลี่ยนรูป</value>
+        <value lang="zh">转换定义</value>
+        <value lang="zh_TW">轉換定義</value>
+    </property>
+    <property key="ContentOperation.description.CHILD_CREATE">
+        <value lang="da">Opret barn</value>
+        <value lang="de">Untergeordnetes Element erstellen</value>
+        <value lang="en">Child Create</value>
+        <value lang="es">Crear hijo</value>
+        <value lang="fr">Création d'enfant</value>
+        <value lang="it">Creare Figlio</value>
+        <value lang="ro">Creare Fiu</value>
+        <value lang="th">สร้าง</value>
+        <value lang="zh">新建子内容</value>
+        <value lang="zh_TW">新建子內容</value>
+    </property>
+    <property key="ContentOperation.description.CHILD_DELETE">
+        <value lang="da">Slet barn</value>
+        <value lang="de">Untergeordnetes Element löschen</value>
+        <value lang="en">Child Delete</value>
+        <value lang="es">Borrar hijo</value>
+        <value lang="fr">Suppression d'enfant</value>
+        <value lang="it">Cancellare Figlio</value>
+        <value lang="ro">Stergere Fiu</value>
+        <value lang="th">ลบ</value>
+        <value lang="zh">删除子内容</value>
+        <value lang="zh_TW">刪除子內容</value>
+    </property>
+    <property key="ContentOperation.description.CHILD_UPDATE">
+        <value lang="da">Opdater barn</value>
+        <value lang="de">Untergeordnetes Element bearbeiten</value>
+        <value lang="en">Child Update</value>
+        <value lang="es">Actualizar hijo</value>
+        <value lang="fr">Mise à jour d'enfant </value>
+        <value lang="it">Aggiornare Figlio</value>
+        <value lang="ro">Actualizare Fiu</value>
+        <value lang="th">เปลี่ยนแปลง</value>
+        <value lang="zh">更新子内容</value>
+        <value lang="zh_TW">更新子內容</value>
+    </property>
+    <property key="ContentOperation.description.CHILD_VIEW">
+        <value lang="da">Vis barn</value>
+        <value lang="de">Untergeordnetes Element anzeigen</value>
+        <value lang="en">Child View</value>
+        <value lang="es">Ver hijo</value>
+        <value lang="fr">Visualisation d'enfant</value>
+        <value lang="it">Mostra Figlio</value>
+        <value lang="ro">Afiseaza Fiu</value>
+        <value lang="th">ดู</value>
+        <value lang="zh">浏览子内容</value>
+        <value lang="zh_TW">瀏覽子內容</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_ADMIN">
+        <value lang="da">Indholdsadministration</value>
+        <value lang="de">Inhalt Verwaltung</value>
+        <value lang="en">Content Admin</value>
+        <value lang="es">A</value>
+        <value lang="fr">Administrateur de contenu</value>
+        <value lang="it">Amministra Contenuto</value>
+        <value lang="ro">Administreaza Continutul</value>
+        <value lang="th">หัวข้อของผู้ดแลระบบ</value>
+        <value lang="zh">内容管理</value>
+        <value lang="zh_TW">內容管理</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_CREATE">
+        <value lang="da">Opret indhold</value>
+        <value lang="de">Inhalt erstellen</value>
+        <value lang="en">Content Create</value>
+        <value lang="es">Crear contenido</value>
+        <value lang="fr">Création de Contenu</value>
+        <value lang="it">Creare Contenuto</value>
+        <value lang="ro">Creare Continut</value>
+        <value lang="th">หัวข้อที่สร้าง</value>
+        <value lang="zh">内容创建</value>
+        <value lang="zh_TW">內容創建</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_CREATE_SUB">
+        <value lang="da">Opret subindhold</value>
+        <value lang="de">Untergeordneten Inhalt erstellen</value>
+        <value lang="en">Create SubContent</value>
+        <value lang="es">Crear subcontenido</value>
+        <value lang="fr">Création de sous-contenu</value>
+        <value lang="it">Creare Sotto Contenuto</value>
+        <value lang="ro">Creare Sub Continut</value>
+        <value lang="th">สร้างหัวข้อย่อย</value>
+        <value lang="zh">新建子内容</value>
+        <value lang="zh_TW">新建子內容</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_DELETE">
+        <value lang="da">Slet indhold</value>
+        <value lang="de">Inhalt löschen</value>
+        <value lang="en">Content Delete</value>
+        <value lang="es">Borrar contenido</value>
+        <value lang="fr">Effacer le contenu</value>
+        <value lang="it">Cancella Contenuto</value>
+        <value lang="ro">Sterge Continut</value>
+        <value lang="th">หัวข้อที่ลบ</value>
+        <value lang="zh">内容删除</value>
+        <value lang="zh_TW">內容刪除</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_LINK">
+        <value lang="da">Indholdslink</value>
+        <value lang="de">Inhalt Link</value>
+        <value lang="en">Content Link</value>
+        <value lang="es">Enlace a contenido</value>
+        <value lang="fr">Lien de contenu</value>
+        <value lang="it">Link Contenuto</value>
+        <value lang="ro">Link Continut</value>
+        <value lang="th">หัวข้อที่เชื่อมต่อ</value>
+        <value lang="zh">内容链接</value>
+        <value lang="zh_TW">內容鏈結</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_LINK_FROM">
+        <value lang="da">Indholdslink fra</value>
+        <value lang="de">Inhalt Link von</value>
+        <value lang="en">Content Link From</value>
+        <value lang="fr">Lien de contenu depuis</value>
+        <value lang="it">Link Contenuto Da</value>
+        <value lang="ro">Link Continut De la</value>
+        <value lang="th">หัวข้อที่เชื่อมต่อจาก</value>
+        <value lang="zh">内容链接来自</value>
+        <value lang="zh_TW">內容鏈結來自</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_LINK_TO">
+        <value lang="da">Indholdslink til</value>
+        <value lang="de">Inhalt Link zu</value>
+        <value lang="en">Content Link To</value>
+        <value lang="fr">Lien de contenu vers</value>
+        <value lang="it">Link Contenuto A</value>
+        <value lang="ro">Link Continut la </value>
+        <value lang="th">หัวข้อที่เชื่อมถึง</value>
+        <value lang="zh">把内容链接到</value>
+        <value lang="zh_TW">把內容鏈結到</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_PUBLISH">
+        <value lang="da">Udgiv indhold</value>
+        <value lang="de">Inhalt veröffentlichen</value>
+        <value lang="en">Content Publish</value>
+        <value lang="fr">Publication de Contenu</value>
+        <value lang="it">Pubblica Contenuto</value>
+        <value lang="ro">Publica Continut</value>
+        <value lang="th">หัวข้อที่ประกาศ</value>
+        <value lang="zh">内容发布</value>
+        <value lang="zh_TW">內容發布</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_PUBLISH_SELF">
+        <value lang="da">Udgiv indhold</value>
+        <value lang="de">Inhalt veröffentlichen</value>
+        <value lang="en">Content Publish</value>
+        <value lang="fr">Publication de contenu</value>
+        <value lang="it">Pubblica Contenuto</value>
+        <value lang="ro">Publicare Continut</value>
+        <value lang="th">หัวข้อที่ประกาศ</value>
+        <value lang="zh">内容发布</value>
+        <value lang="zh_TW">內容發布</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_RESPOND">
+        <value lang="da">Svar på indhold</value>
+        <value lang="de">Inhalt beantworten</value>
+        <value lang="en">Content Respond</value>
+        <value lang="fr">Répondre au contenu</value>
+        <value lang="it">Risposta Contenuto</value>
+        <value lang="ro">Raspuns Continut</value>
+        <value lang="th">หัวข้อคำตอบ</value>
+        <value lang="zh">内容回答</value>
+        <value lang="zh_TW">內容回答</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_UPDATE">
+        <value lang="da">Opdater indhold</value>
+        <value lang="de">Inhalt aktualisieren</value>
+        <value lang="en">Content Update</value>
+        <value lang="fr">Mise à jour de contenu</value>
+        <value lang="it">Aggiorna Contenuto</value>
+        <value lang="ro">Actualizeaza Continut</value>
+        <value lang="th">หัวข้อที่เปลี่ยนแปลง</value>
+        <value lang="zh">内容更新</value>
+        <value lang="zh_TW">內容更新</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_VIEW">
+        <value lang="da">Vis indhold</value>
+        <value lang="de">Inhalt anzeigen</value>
+        <value lang="en">Content View</value>
+        <value lang="fr">Visualisation de contenu</value>
+        <value lang="it">Mostra Contenuto</value>
+        <value lang="ro">Afiseaza Continutul</value>
+        <value lang="th">หัวข้อที่ดู</value>
+        <value lang="zh">内容浏览</value>
+        <value lang="zh_TW">內容瀏覽</value>
+    </property>
+    <property key="ContentOperation.description.CONTENT_VIEW_SHORT">
+        <value lang="da">Vis kort beskrivelse</value>
+        <value lang="de">Kurzbeschreibung anzeigen</value>
+        <value lang="en">View Short Desc</value>
+        <value lang="fr">Visualisation de description courte</value>
+        <value lang="it">Mostra Descrizione Corta</value>
+        <value lang="ro">Afiseaza Descriere Scurt</value>
+        <value lang="th">แสดงรายละเอียดสั้นๆ</value>
+        <value lang="zh">浏览简短描述</value>
+        <value lang="zh_TW">瀏覽簡短描述</value>
+    </property>
+    <property key="ContentOperation.description.HAS_ADMIN_ROLE">
+        <value lang="da">Har administrator rolle</value>
+        <value lang="de">Hat Rolle Administrator</value>
+        <value lang="en">Has Admin Role</value>
+        <value lang="fr">A le rôle d'administrateur</value>
+        <value lang="it">Ha Ruolo Amministratore</value>
+        <value lang="ro">Are Drept de Administrator</value>
+        <value lang="th">มีข้อบังคับของผู้ดูแลระบบ</value>
+        <value lang="zh">具有管理员角色</value>
+        <value lang="zh_TW">具有管理員角色</value>
+    </property>
+    <property key="ContentOperation.description.HAS_AUTHOR_ROLE">
+        <value lang="da">Har forfatter rolle</value>
+        <value lang="de">Hat Rolle Autor</value>
+        <value lang="en">Has Author Role</value>
+        <value lang="fr">A le rôle d'auteur</value>
+        <value lang="it">Ha Ruolo Autore</value>
+        <value lang="ro">Are Drept de Autor</value>
+        <value lang="th">มีข้อบังคับของผู้สร้าง</value>
+        <value lang="zh">具有作者角色</value>
+        <value lang="zh_TW">具有作者角色</value>
+    </property>
+    <property key="ContentOperation.description.HAS_EDITOR_ROLE">
+        <value lang="da">Har redaktør rolle</value>
+        <value lang="de">Hat Rolle Redakteur</value>
+        <value lang="en">Has Editor Role</value>
+        <value lang="fr">A le rôle de rédacteur</value>
+        <value lang="it">Ha Ruolo Editore</value>
+        <value lang="ro">Are Drept de Editor</value>
+        <value lang="th">มีข้อบังคับของผู้แก้ไข</value>
+        <value lang="zh">具有编辑角色</value>
+        <value lang="zh_TW">具有編輯角色</value>
+    </property>
+    <property key="ContentOperation.description.HAS_OWNER_ROLE">
+        <value lang="da">Har ejer rolle</value>
+        <value lang="de">Hat Rolle Besitzer</value>
+        <value lang="en">Has Owner Role</value>
+        <value lang="fr">A le rôle de propriétaire</value>
+        <value lang="it">Ha Ruolo Utente</value>
+        <value lang="ro">Are Drept de Utilizator</value>
+        <value lang="th">มีข้อบังคับของผู้ใช้</value>
+        <value lang="zh">具有用户角色</value>
+        <value lang="zh_TW">具有用戶角色</value>
+    </property>
+    <property key="ContentOperation.description.HAS_PUBLISHER_ROLE">
+        <value lang="da">Har udgiver rolle</value>
+        <value lang="de">Hat Rolle Herausgeber</value>
+        <value lang="en">Has Publisher Role</value>
+        <value lang="fr">A le rôle d'éditeur</value>
+        <value lang="it">Ha Ruolo Pubblicatore</value>
+        <value lang="ro">Are Drept de Publicator</value>
+        <value lang="th">มีข้อบังคับของผู้ประกาศ</value>
+        <value lang="zh">具有发布者角色</value>
+        <value lang="zh_TW">具有發布者角色</value>
+    </property>
+    <property key="ContentOperation.description.HAS_USER_ROLE">
+        <value lang="da">Har bruger rolle</value>
+        <value lang="de">Hat Rolle Benutzer</value>
+        <value lang="en">Has User Role</value>
+        <value lang="fr">A le rôle d'utilisateur</value>
+        <value lang="it">Ha Ruolo Utente</value>
+        <value lang="ro">Are Drept de Utilizator</value>
+        <value lang="th">มีข้อบังคับของผู้ใช้</value>
+        <value lang="zh">具有用户角色</value>
+        <value lang="zh_TW">具有用戶角色</value>
+    </property>
+    <property key="ContentOperation.description._NA_">
+        <value lang="da">Ikke gældende</value>
+        <value lang="de">Nicht anwendbar</value>
+        <value lang="en">Not Applicable</value>
+        <value lang="es">No aplicable</value>
+        <value lang="fr">Non applicable</value>
+        <value lang="it">Non Applicabile</value>
+        <value lang="ro">Ne Aplicabil</value>
+        <value lang="th">ไม่สามารถนำไปใช้ได้</value>
+        <value lang="zh">不可用</value>
+        <value lang="zh_TW">不可用</value>
+    </property>
+    <property key="ContentPurposeType.description.ADVERTISEMENT">
+        <value lang="da">Annonce</value>
+        <value lang="de">Werbung</value>
+        <value lang="en">Advertisement</value>
+        <value lang="fr">Publicité</value>
+        <value lang="it">Pubblicità</value>
+        <value lang="ro">Publicitate</value>
+        <value lang="th">การประกาศ</value>
+        <value lang="zh">广告</value>
+        <value lang="zh_TW">廣告</value>
+    </property>
+    <property key="ContentPurposeType.description.ARTICLE">
+        <value lang="da">Artikel</value>
+        <value lang="de">Artikel</value>
+        <value lang="en">Article</value>
+        <value lang="es">Artículo</value>
+        <value lang="fr">Article</value>
+        <value lang="it">Articolo</value>
+        <value lang="ro">Articol</value>
+        <value lang="th">ข้อย่อย</value>
+        <value lang="zh">文章</value>
+        <value lang="zh_TW">文章</value>
+    </property>
+    <property key="ContentPurposeType.description.COMMENT">
+        <value lang="da">Kommentar</value>
+        <value lang="de">Kommentar</value>
+        <value lang="en">Comment</value>
+        <value lang="es">Comentario</value>
+        <value lang="fr">Commentaire</value>
+        <value lang="it">Commento</value>
+        <value lang="ro">Comentariu</value>
+        <value lang="th">ข้อคิดเห็น</value>
+        <value lang="zh">评论</value>
+        <value lang="zh_TW">評論</value>
+    </property>
+    <property key="ContentPurposeType.description.COMPANY_INFO">
+        <value lang="da">Firmainformation</value>
+        <value lang="de">Unternehmensinformationen</value>
+        <value lang="en">Company Info</value>
+        <value lang="fr">Information sur l'entreprise</value>
+        <value lang="it">Informazione Azienda</value>
+        <value lang="ro">Informatie Firma</value>
+        <value lang="th">ข้อมูลบริษัท</value>
+        <value lang="zh">公司信息</value>
+        <value lang="zh_TW">公司資訊</value>
+    </property>
+    <property key="ContentPurposeType.description.DESCRIPTION">
+        <value lang="da">Beskrivelse</value>
+        <value lang="de">Beschreibung</value>
+        <value lang="en">Description</value>
+        <value lang="fr">Description</value>
+        <value lang="it">Descrizione</value>
+        <value lang="ro">Descriere</value>
+        <value lang="th">รายละเอียด</value>
+        <value lang="zh">描述</value>
+        <value lang="zh_TW">描述</value>
+    </property>
+    <property key="ContentPurposeType.description.FAQ">
+        <value lang="da">FAQ</value>
+        <value lang="de">Häufig gestellte Fragen (FAQ)</value>
+        <value lang="en">FAQ</value>
+        <value lang="fr">FAQ</value>
+        <value lang="it">Domande Frequenti</value>
+        <value lang="ro">Intrebari Frecvente</value>
+        <value lang="th">คำถามที่ถามบ่อยๆ</value>
+        <value lang="zh">问答</value>
+        <value lang="zh_TW">問答</value>
+    </property>
+    <property key="ContentPurposeType.description.FEEDBACK">
+        <value lang="da">Tilbagemelding</value>
+        <value lang="de">Rückmeldung</value>
+        <value lang="en">Feedback</value>
+        <value lang="fr">Remarques</value>
+        <value lang="it">Riscontro</value>
+        <value lang="ro">Riscontru</value>
+        <value lang="th">ผลตอบรับ</value>
+        <value lang="zh">反馈</value>
+        <value lang="zh_TW">反饋</value>
+    </property>
+    <property key="ContentPurposeType.description.GENERAL_INFO">
+        <value lang="da">Generel information</value>
+        <value lang="de">Generelle Informationen</value>
+        <value lang="en">General Info</value>
+        <value lang="fr">Informations générales</value>
+        <value lang="it">Informazione Generale</value>
+        <value lang="ro">Informatii Generale</value>
+        <value lang="th">ข้อมูลทั่วไป</value>
+        <value lang="zh">通用信息</value>
+        <value lang="zh_TW">通用資訊</value>
+    </property>
+    <property key="ContentPurposeType.description.MAIN_ARTICLE">
+        <value lang="da">Hovedindhold</value>
+        <value lang="de">Hauptinhalt</value>
+        <value lang="en">Main Content</value>
+        <value lang="fr">Contenu principal</value>
+        <value lang="it">Contenuto Principale</value>
+        <value lang="ro">Continut Principal</value>
+        <value lang="th">หัวข้อหลัก</value>
+        <value lang="zh">主要内容</value>
+        <value lang="zh_TW">主要內容</value>
+    </property>
+    <property key="ContentPurposeType.description.MESSAGE">
+        <value lang="da">Besked</value>
+        <value lang="de">Mitteilung</value>
+        <value lang="en">Message</value>
+        <value lang="fr">Message</value>
+        <value lang="it">Messaggio</value>
+        <value lang="ro">Mesaj</value>
+        <value lang="th">ข้อความ</value>
+        <value lang="zh">消息</value>
+        <value lang="zh_TW">消息</value>
+    </property>
+    <property key="ContentPurposeType.description.OWNER">
+        <value lang="da">Ejer</value>
+        <value lang="de">Besitzer</value>
+        <value lang="en">Owner</value>
+        <value lang="fr">Propriétaire</value>
+        <value lang="it">Proprietario</value>
+        <value lang="ro">Proprietar</value>
+        <value lang="th">เจ้าของ</value>
+        <value lang="zh">拥有人</value>
+        <value lang="zh_TW">擁有人</value>
+    </property>
+    <property key="ContentPurposeType.description.PRODUCT_INFO">
+        <value lang="da">Produkt</value>
+        <value lang="de">Produktinformationen</value>
+        <value lang="en">Product Info</value>
+        <value lang="fr">information sur le produit</value>
+        <value lang="it">Informazione Prodotto</value>
+        <value lang="ro">Informatii Produs</value>
+        <value lang="th">ข้อมูลสินค้า</value>
+        <value lang="zh">产品信息</value>
+        <value lang="zh_TW">產品資訊</value>
+    </property>
+    <property key="ContentPurposeType.description.PROJECT_INFO">
+        <value lang="da">Projektinformation</value>
+        <value lang="en">Project Info</value>
+        <value lang="it">Informazione progetto</value>
+        <value lang="zh">项目信息</value>
+        <value lang="zh_TW">專案資訊</value>
+    </property>
+    <property key="ContentPurposeType.description.RESPONSE">
+        <value lang="da">Svar</value>
+        <value lang="de">Antwort</value>
+        <value lang="en">Response</value>
+        <value lang="fr">Réponse</value>
+        <value lang="it">Risposta</value>
+        <value lang="ro">Raspuns</value>
+        <value lang="th">คำตอบ</value>
+        <value lang="zh">回答</value>
+        <value lang="zh_TW">回答</value>
+    </property>
+    <property key="ContentPurposeType.description.SECTION">
+        <value lang="da">Sektion</value>
+        <value lang="de">Abschnitt</value>
+        <value lang="en">Section</value>
+        <value lang="fr">Section</value>
+        <value lang="it">Sezione</value>
+        <value lang="ro">Sectiune</value>
+        <value lang="th">กลุ่ม</value>
+        <value lang="zh">章节</value>
+        <value lang="zh_TW">章節</value>
+    </property>
+    <property key="ContentPurposeType.description.SOURCE">
+        <value lang="da">Generel kilde</value>
+        <value lang="de">Quelle</value>
+        <value lang="en">General Source</value>
+        <value lang="fr">Source générale</value>
+        <value lang="it">Sorgente Generale</value>
+        <value lang="ro">Sursa Generala</value>
+        <value lang="th">แหล่งที่มาทั่วไป</value>
+        <value lang="zh">常用资料</value>
+        <value lang="zh_TW">常用資料</value>
+    </property>
+    <property key="ContentPurposeType.description.SUB_ARTICLE">
+        <value lang="da">Subindhold</value>
+        <value lang="de">Untergeordneter Inhalt</value>
+        <value lang="en">Sub Content</value>
+        <value lang="fr">Sous-contenu</value>
+        <value lang="it">Sotto Contenuto</value>
+        <value lang="ro">Sub Continut</value>
+        <value lang="th">หัวข้อย่อย</value>
+        <value lang="zh">章节内容</value>
+        <value lang="zh_TW">章節內容</value>
+    </property>
+    <property key="ContentPurposeType.description.SUMMARY">
+        <value lang="da">Resumé</value>
+        <value lang="de">Zusammenfassung</value>
+        <value lang="en">Summary</value>
+        <value lang="fr">Résumé</value>
+        <value lang="it">Sommario</value>
+        <value lang="ro">Breviar</value>
+        <value lang="th">สรุป</value>
+        <value lang="zh">摘要</value>
+        <value lang="zh_TW">摘要</value>
+    </property>
+    <property key="ContentPurposeType.description.TOPIC">
+        <value lang="da">Tema</value>
+        <value lang="de">Thema</value>
+        <value lang="en">Topic</value>
+        <value lang="fr">Sujet</value>
+        <value lang="it">Argomento</value>
+        <value lang="ro">Argument</value>
+        <value lang="th">หัวข้อ</value>
+        <value lang="zh">话题</value>
+        <value lang="zh_TW">話題</value>
+    </property>
+    <property key="ContentPurposeType.description.USER">
+        <value lang="da">Bruger</value>
+        <value lang="de">Benutzer</value>
+        <value lang="en">User</value>
+        <value lang="fr">Utilisateur</value>
+        <value lang="it">Utente</value>
+        <value lang="ro">Utilizator</value>
+        <value lang="th">ผู้ใช้</value>
+        <value lang="zh">用户</value>
+        <value lang="zh_TW">用戶</value>
+    </property>
+    <property key="ContentPurposeType.description._NA_">
+        <value lang="da">Ikke relevant</value>
+        <value lang="de">Nicht anwendbar</value>
+        <value lang="en">Not Applicable</value>
+        <value lang="fr">Non applicable</value>
+        <value lang="it">Non Applicabile</value>
+        <value lang="ro">Ne Aplicabil</value>
+        <value lang="th">ไม่สามารถนำไปใช้ได้</value>
+        <value lang="zh">不可用</value>
+        <value lang="zh_TW">不可用</value>
+    </property>
+    <property key="ContentType.description.ANNOTATION">
+        <value lang="da">Note</value>
+        <value lang="de">Anmerkung</value>
+        <value lang="en">Annotation</value>
+        <value lang="fr">Annotation</value>
+        <value lang="it">Annotazione</value>
+        <value lang="ro">Anotare</value>
+        <value lang="th">คำอธิบายประกอบ</value>
+        <value lang="zh">说明</value>
+        <value lang="zh_TW">說明</value>
+    </property>
+    <property key="ContentType.description.BLOG_ROOT">
+        <value lang="da">Blog rod</value>
+        <value lang="en">Blog Root</value>
+        <value lang="it">Blog principal</value>
+        <value lang="zh">博客的根</value>
+        <value lang="zh_TW">部落格的頂層</value>
+    </property>
+    <property key="ContentType.description.DECORATOR">
+        <value lang="da">Dekoratør</value>
+        <value lang="en">Decorator</value>
+        <value lang="it">Decoratore</value>
+        <value lang="zh">修饰程序</value>
+        <value lang="zh_TW">修飾程式</value>
+    </property>
+    <property key="ContentType.description.FAQ_ROOT">
+        <value lang="da">FAQ rod</value>
+        <value lang="en">FAQ Root</value>
+        <value lang="it">FAQ principale</value>
+        <value lang="zh">常见问题的根</value>
+        <value lang="zh_TW">常見問題的根</value>
+    </property>
+    <property key="ContentType.description.MENU_CONTAINER">
+        <value lang="da">Menu container</value>
+        <value lang="en">Menu Container</value>
+        <value lang="it">Contenitore menu</value>
+        <value lang="zh">菜单容器</value>
+        <value lang="zh_TW">功能表容器</value>
+    </property>
+    <property key="ContentType.description.COMPDOC_INSTANCE">
+        <value lang="da">Sammensat dokumentinstans</value>
+        <value lang="de">Zusammengesetzte Dokumenteninstanz</value>
+        <value lang="en">Composite Document Instance</value>
+        <value lang="fr">Exemple de document composé</value>
+        <value lang="it">Istanza Documento Composito</value>
+        <value lang="ro">Istanza Document Compus</value>
+        <value lang="th">ตัวอย่างส่วนประกอบของเอกสาร</value>
+        <value lang="zh">合成文档实例</value>
+        <value lang="zh_TW">合成文檔實例</value>
+    </property>
+    <property key="ContentType.description.COMPDOC_TEMPLATE">
+        <value lang="da">Sammensat dokumentskabelon</value>
+        <value lang="de">Zusammengesetzte Dokumentenvorlage</value>
+        <value lang="en">Composite Document Template</value>
+        <value lang="fr">Gabarit de document composé</value>
+        <value lang="it">Template Documento Composito</value>
+        <value lang="ro">Template Document Compus</value>
+        <value lang="th">รูปแบบส่วนประกอบของเอกสาร</value>
+        <value lang="zh">合成文档模板</value>
+        <value lang="zh_TW">合成文檔範本</value>
+    </property>
+    <property key="ContentType.description.CONTENT_LIST">
+        <value lang="da">Indholdsfortegnelse</value>
+        <value lang="de">Liste Inhalt</value>
+        <value lang="en">Content List</value>
+        <value lang="fr">Liste de contenu</value>
+        <value lang="it">Lista Contenuto</value>
+        <value lang="ro">Lista Continut</value>
+        <value lang="th">รายการหัวข้อ</value>
+        <value lang="zh">内容列表</value>
+        <value lang="zh_TW">內容列表</value>
+    </property>
+    <property key="ContentType.description.DEPARTMENT">
+        <value lang="da">Afdeling</value>
+        <value lang="de">Abteilung</value>
+        <value lang="en">Department</value>
+        <value lang="fr">Département</value>
+        <value lang="it">Dipartimento</value>
+        <value lang="ro">Departament</value>
+        <value lang="th">แผนก</value>
+        <value lang="zh">部门</value>
+        <value lang="zh_TW">部門</value>
+    </property>
+    <property key="ContentType.description.DOCUMENT">
+        <value lang="da">Dokument</value>
+        <value lang="de">Dokument</value>
+        <value lang="en">Document</value>
+        <value lang="fr">Document</value>
+        <value lang="it">Documento</value>
+        <value lang="ro">Document</value>
+        <value lang="th">เอกสาร</value>
+        <value lang="zh">文档</value>
+        <value lang="zh_TW">文檔</value>
+    </property>
+    <property key="ContentType.description.FORUM_ROOT">
+        <value lang="da">Forum rod udgivelsespunkt</value>
+        <value lang="de">Forum Basis Veröffentlichungsort</value>
+        <value lang="en">Forum root publish point</value>
+        <value lang="fr">Racine de publication du forum</value>
+        <value lang="it">Radice Forum punto pubblico</value>
+        <value lang="ro">Radice Forum punct public</value>
+        <value lang="th">ที่มาของข้อคิดเห็น</value>
+        <value lang="zh">论坛根发布点</value>
+        <value lang="zh_TW">論壇根發布點</value>
+    </property>
+    <property key="ContentType.description.GRAPH_ROOT">
+        <value lang="da">Graf rod</value>
+        <value lang="de">Grafik Basis</value>
+        <value lang="en">Graph Root</value>
+        <value lang="fr">Racine du graphisme</value>
+        <value lang="it">Radice Grafico</value>
+        <value lang="ro">Radacina Grafic</value>
+        <value lang="th">ที่มาของกราฟ</value>
+        <value lang="zh">图形的根</value>
+        <value lang="zh_TW">圖形的根</value>
+    </property>
+    <property key="ContentType.description.OUTLINE_NODE">
+        <value lang="da">Oversigt node</value>
+        <value lang="de">Überblick Knoten</value>
+        <value lang="en">Outline Node</value>
+        <value lang="fr">Noeud d'ébauche</value>
+        <value lang="it">Nodo Contorno</value>
+        <value lang="ro">Nod Contur</value>
+        <value lang="th">สรุปส่วนสำคัญ</value>
+        <value lang="zh">轮廓节点</value>
+        <value lang="zh_TW">輪廓節點</value>
+    </property>
+    <property key="ContentType.description.PAGE_NODE">
+        <value lang="da">Side node</value>
+        <value lang="de">Seite Knoten</value>
+        <value lang="en">Page Node</value>
+        <value lang="fr">Noeud de page</value>
+        <value lang="it">Nodo Pagina</value>
+        <value lang="ro">Nod Pagina</value>
+        <value lang="th">หน้า</value>
+        <value lang="zh">页面节点</value>
+        <value lang="zh_TW">頁面節點</value>
+    </property>
+    <property key="ContentType.description.PEOPLE">
+        <value lang="da">Mennesker</value>
+        <value lang="de">Leute</value>
+        <value lang="en">People</value>
+        <value lang="fr">Personnes</value>
+        <value lang="it">Gente</value>
+        <value lang="ro">Lume</value>
+        <value lang="th">ประชาชน</value>
+        <value lang="zh">人们</value>
+        <value lang="zh_TW">人們</value>
+    </property>
+    <property key="ContentType.description.PERSON">
+        <value lang="da">Person</value>
+        <value lang="de">Person</value>
+        <value lang="en">Person</value>
+        <value lang="fr">Personne</value>
+        <value lang="it">Persona</value>
+        <value lang="ro">Persoana</value>
+        <value lang="th">บุคคล</value>
+        <value lang="zh">人</value>
+        <value lang="zh_TW">人</value>
+    </property>
+    <property key="ContentType.description.PLACEHOLDER">
+        <value lang="da">Pladsholder</value>
+        <value lang="de">Platzhalter</value>
+        <value lang="en">Place Holder</value>
+        <value lang="fr">Paramètre fictif</value>
+        <value lang="it">Place Holder</value>
+        <value lang="ro">Place Holder</value>
+        <value lang="th">เจ้าของสถานที่</value>
+        <value lang="zh">占位符</value>
+        <value lang="zh_TW">占位符</value>
+    </property>
+    <property key="ContentType.description.STRUCTURE_DEF">
+        <value lang="da">Strukturdefinition (som DTD)</value>
+        <value lang="de">Strukturdefinition (wie DTD)</value>
+        <value lang="en">Structure Definition (like DTD)</value>
+        <value lang="fr">Définition de structure (comme DTD)</value>
+        <value lang="it">Definizione Struttura (come DTD)</value>
+        <value lang="ro">Definitie Struttura (ca DTD)</value>
+        <value lang="th">คำอธิบายโครงสร้าง</value>
+        <value lang="zh">结构定义(类似DTD)</value>
+        <value lang="zh_TW">結構定義(類似DTD)</value>
+    </property>
+    <property key="ContentType.description.STRUCTURE_LEAF">
+        <value lang="da">Struktur element</value>
+        <value lang="de">Struktur Element</value>
+        <value lang="en">Structure Leaf</value>
+        <value lang="fr">Feuille de structure</value>
+        <value lang="it">Foglia Struttura</value>
+        <value lang="ro">Foaie Structura</value>
+        <value lang="th">หน้าโครงสร้าง</value>
+        <value lang="zh">结构的叶</value>
+        <value lang="zh_TW">結構的葉</value>
+    </property>
+    <property key="ContentType.description.STRUCTURE_NODE">
+        <value lang="da">Struktur node</value>
+        <value lang="de">Struktur Knoten</value>
+        <value lang="en">Structure Node</value>
+        <value lang="fr">Noeud de structure</value>
+        <value lang="it">Nodo Struttura</value>
+        <value lang="ro">Nod Structura</value>
+        <value lang="th">ส่วนโครงสร้าง</value>
+        <value lang="zh">结构节点</value>
+        <value lang="zh_TW">結構節點</value>
+    </property>
+    <property key="ContentType.description.SUBPAGE_NODE">
+        <value lang="da">Underside node</value>
+        <value lang="de">Untergeordnete Seite Knoten</value>
+        <value lang="en">Sub Page Node</value>
+        <value lang="fr">Noeud de sous-page</value>
+        <value lang="it">Nodo Sotto Pagina</value>
+        <value lang="ro">Nod Sub Pagina</value>
+        <value lang="th">ส่วนของหน้าย่อย</value>
+        <value lang="zh">子页面节点</value>
+        <value lang="zh_TW">子頁面節點</value>
+    </property>
+    <property key="ContentType.description.TEMPLATE">
+        <value lang="da">Skabelon eller formular</value>
+        <value lang="de">Vorlage oder Formular</value>
+        <value lang="en">Template or Form</value>
+        <value lang="fr">Gabarit de forme</value>
+        <value lang="it">Template o Form</value>
+        <value lang="ro">Template sau Form</value>
+        <value lang="th">Template หรือ รูปแบบ</value>
+        <value lang="zh">模板或表单</value>
+        <value lang="zh_TW">範本或表單</value>
+    </property>
+    <property key="ContentType.description.TOPIC">
+        <value lang="da">Afsnit</value>
+        <value lang="de">Inhalt</value>
+        <value lang="en">Topic</value>
+        <value lang="fr">Sujet</value>
+        <value lang="it">Argomento</value>
+        <value lang="ro">Argument</value>
+        <value lang="th">หัวข้อ</value>
+        <value lang="zh">主题</value>
+        <value lang="zh_TW">主題</value>
+    </property>
+    <property key="ContentType.description.TREE_ROOT">
+        <value lang="da">Træ rod</value>
+        <value lang="de">Baum Wurzel</value>
+        <value lang="en">Tree Root</value>
+        <value lang="fr">Racine d'arborescence</value>
+        <value lang="it">Radice Albero</value>
+        <value lang="ro">Radacina Arbore</value>
+        <value lang="th">ที่มาของแผนผังรูปต้นไม้</value>
+        <value lang="zh">树状结构的根</value>
+        <value lang="zh_TW">樹狀結構的根</value>
+    </property>
+    <property key="ContentType.description.TXFORM_DEF">
+        <value lang="da">Transformationsdefinition (som XSLT)</value>
+        <value lang="de">Transformationsdefinition (wie XSLT)</value>
+        <value lang="en">Transformation Definition (like XSLT)</value>
+        <value lang="fr">Définition de transformation (comme XSLT)</value>
+        <value lang="it">Definizione Trasformazione (come XSLT)</value>
+        <value lang="ro">Definitie Transformare (ca XSLT)</value>
+        <value lang="th">การกำหนดการแปรรูป (เหมือนกับ XSLT)</value>
+        <value lang="zh">转换定义(类似XSLT)</value>
+        <value lang="zh_TW">轉換定義(類似XSLT)</value>
+    </property>
+    <property key="ContentType.description.WEB_SITE_PUB_PT">
+        <value lang="da">Udgivelsespunkt</value>
+        <value lang="de">Veröffentlichungsort</value>
+        <value lang="en">Publish Point</value>
+        <value lang="fr">Point de publication</value>
+        <value lang="it">Punto Pubblico</value>
+        <value lang="ro">Punct Public</value>
+        <value lang="th">ความคิดเห็นที่ลงประกาศ</value>
+        <value lang="zh">发布点</value>
+        <value lang="zh_TW">發布點</value>
+    </property>
+    <property key="DataCategory.categoryName.BUSINESS">
+        <value lang="da">Forretning</value>
+        <value lang="de">Geschäft</value>
+        <value lang="en">Business</value>
+        <value lang="fr">Affaires</value>
+        <value lang="it">Affari</value>
+        <value lang="ro">Afaceri</value>
+        <value lang="th">ธุรกิจ</value>
+        <value lang="zh">商务</value>
+        <value lang="zh_TW">商務</value>
+    </property>
+    <property key="DataCategory.categoryName.BUS_MANU">
+        <value lang="da">Produktion</value>
+        <value lang="de">Produktion</value>
+        <value lang="en">Manufacturing</value>
+        <value lang="fr">Fabrication</value>
+        <value lang="it">Produzione</value>
+        <value lang="ro">Productie</value>
+        <value lang="th">การผลิต</value>
+        <value lang="zh">制造</value>
+        <value lang="zh_TW">制造</value>
+    </property>
+    <property key="DataCategory.categoryName.BUS_RETAIL">
+        <value lang="da">Detail</value>
+        <value lang="de">Einzelhandel</value>
+        <value lang="en">Retail</value>
+        <value lang="fr">Détail</value>
+        <value lang="it">Commercio Dettaglio</value>
+        <value lang="ro">Comert Detaliat</value>
+        <value lang="th">การขายปลีก</value>
+        <value lang="zh">零售</value>
+        <value lang="zh_TW">零售</value>
+    </property>
+    <property key="DataCategory.categoryName.BUS_SERVICE">
+        <value lang="da">Service</value>
+        <value lang="de">Dienstleistung</value>
+        <value lang="en">Service</value>
+        <value lang="fr">Service</value>
+        <value lang="it">Servizio</value>
+        <value lang="ro">Serviciu</value>
+        <value lang="th">การบริการ</value>
+        <value lang="zh">服务</value>
+        <value lang="zh_TW">服務</value>
+    </property>
+    <property key="DataCategory.categoryName.FINANCIAL">
+        <value lang="da">Financiel</value>
+        <value lang="de">Finanziell</value>
+        <value lang="en">Financial</value>
+        <value lang="fr">Financier</value>
+        <value lang="it">Finanza</value>
+        <value lang="ro">Finanta</value>
+        <value lang="th">การเงิน</value>
+        <value lang="zh">财务</value>
+        <value lang="zh_TW">財務</value>
+    </property>
+    <property key="DataCategory.categoryName.LEGAL">
+        <value lang="da">Juridisk</value>
+        <value lang="de">Rechtlich</value>
+        <value lang="en">Legal</value>
+        <value lang="fr">Légal</value>
+        <value lang="it">Legale</value>
+        <value lang="ro">Legala</value>
+        <value lang="th">ถูกต้องตามกฎหมาย</value>
+        <value lang="zh">法律</value>
+        <value lang="zh_TW">法律</value>
+    </property>
+    <property key="DataCategory.categoryName.PERSONAL">
+        <value lang="da">Personlig</value>
+        <value lang="de">Persönlich</value>
+        <value lang="en">Personal</value>
+        <value lang="fr">Personnel</value>
+        <value lang="it">Personale</value>
+        <value lang="ro">Personal</value>
+        <value lang="th">ส่วนบุคคล</value>
+        <value lang="zh">人</value>
+        <value lang="zh_TW">人</value>
+    </property>
+    <property key="DataCategory.categoryName.POLITICAL">
+        <value lang="da">Politisk</value>
+        <value lang="de">Politisch</value>
+        <value lang="en">Political</value>
+        <value lang="fr">Politique</value>
+        <value lang="it">Politica</value>
+        <value lang="ro">Politica</value>
+        <value lang="th">การเมือง</value>
+        <value lang="zh">政策</value>
+        <value lang="zh_TW">政策</value>
+    </property>
+    <property key="DataCategory.categoryName.ROOT">
+        <value lang="da">Rod</value>
+        <value lang="de">Basis</value>
+        <value lang="en">ROOT</value>
+        <value lang="fr">Racine</value>
+        <value lang="it">Radice</value>
+        <value lang="th">ต้นกำเนิด</value>
+        <value lang="zh">根</value>
+        <value lang="zh_TW">根</value>
+    </property>
+    <property key="DataCategory.categoryName.TECHNOLOGY">
+        <value lang="da">Teknologi</value>
+        <value lang="de">Technologie</value>
+        <value lang="en">Technology</value>
+        <value lang="fr">Technologie</value>
+        <value lang="it">Tecnologia</value>
+        <value lang="ro">Tehnologie</value>
+        <value lang="th">เทคโนโลยี</value>
+        <value lang="zh">技术</value>
+        <value lang="zh_TW">技術</value>
+    </property>
+    <property key="DataCategory.categoryName.TECH_HARD">
+        <value lang="da">Hardware</value>
+        <value lang="de">Hardware</value>
+        <value lang="en">Hardware</value>
+        <value lang="fr">Matériel informatique</value>
+        <value lang="it">Hardware</value>
+        <value lang="ro">Hardware</value>
+        <value lang="th">ฮาร์ดแวร์</value>
+        <value lang="zh">硬件</value>
+        <value lang="zh_TW">硬體</value>
+    </property>
+    <property key="DataCategory.categoryName.TECH_SERV">
+        <value lang="da">Service</value>
+        <value lang="de">Technische Dienstleistung</value>
+        <value lang="en">Service</value>
+        <value lang="fr">Service</value>
+        <value lang="it">Servizi</value>
+        <value lang="ro">Servicii</value>
+        <value lang="th">การบริการ</value>
+        <value lang="zh">服务</value>
+        <value lang="zh_TW">服務</value>
+    </property>
+    <property key="DataCategory.categoryName.TECH_SOFT">
+        <value lang="da">Software</value>
+        <value lang="de">Software</value>
+        <value lang="en">Software</value>
+        <value lang="fr">Logiciel</value>
+        <value lang="it">Software</value>
+        <value lang="ro">Software</value>
+        <value lang="th">ซอฟต์แวร์</value>
+        <value lang="zh">软件</value>
+        <value lang="zh_TW">軟件</value>
+    </property>
+    <property key="DataCategory.categoryName.TECH_SOFT_JAVA">
+        <value lang="da">Java</value>
+        <value lang="de">Java</value>
+        <value lang="en">Java</value>
+        <value lang="fr">Java</value>
+        <value lang="it">Java</value>
+        <value lang="ro">Java</value>
+        <value lang="th">ภาษาจาวา</value>
+        <value lang="zh">Java</value>
+        <value lang="zh_TW">Java</value>
+    </property>
+    <property key="DataCategory.categoryName.TECH_SOFT_LINUX">
+        <value lang="da">Linux</value>
+        <value lang="de">Linux</value>
+        <value lang="en">Linux</value>
+        <value lang="fr">Linux</value>
+        <value lang="it">Linux</value>
+        <value lang="ro">Linux</value>
+        <value lang="th">ระบบปฏิบัติการลีนุกซ์</value>
+        <value lang="zh">Linux</value>
+        <value lang="zh_TW">Linux</value>
+    </property>
+    <property key="DataCategory.categoryName.TECH_SOFT_OFBIZ">
+        <value lang="da">Open for Business</value>
+        <value lang="de">Open for Business</value>
+        <value lang="en">Open for Business</value>
+        <value lang="fr">Open for Business</value>
+        <value lang="it">Open for Business</value>
+        <value lang="ro">Open for Business</value>
+        <value lang="th">เปิดสำหรับทางธุรกิจ</value>
+        <value lang="zh">OFBiz</value>
+        <value lang="zh_TW">OFBiz</value>
+    </property>
+    <property key="DataCategory.categoryName.TEMPLATE">
+        <value lang="da">Skabelon</value>
+        <value lang="en">Template</value>
+        <value lang="it">Template</value>
+        <value lang="zh">模板</value>
+        <value lang="zh_TW">範本</value>
+    </property>
+    <property key="DataResourceType.description.AUDIO_OBJECT">
+        <value lang="da">Audio</value>
+        <value lang="en">Audio</value>
+        <value lang="it">Audio</value>
+        <value lang="zh">音频</value>
+        <value lang="zh_TW">音頻</value>
+    </property>
+    <property key="DataResourceType.description.CONTEXT_FILE">
+        <value lang="da">Fil (relativ til webapp rod)</value>
+        <value lang="de">Datei (relativ zu webapp Basisverzeichnis)</value>
+        <value lang="en">File (rel to webapp root)</value>
+        <value lang="fr">Dossier (relative à la racine d'application web)</value>
+        <value lang="it">File (relativo alla radice dell'applicazione web)</value>
+        <value lang="ro">Fisier (relativ la radacina aplicatiei web)</value>
+        <value lang="th">ไฟล์ (เกี่ยวกับที่มาของโปรแกรมประยุกต์)</value>
+        <value lang="zh">文件(相对于webapp根目录)</value>
+        <value lang="zh_TW">文件(相對于webapp根目錄)</value>
+    </property>
+    <property key="DataResourceType.description.CONTEXT_FILE_BIN">
+        <value lang="da">Binær fil (relativ til webapp rod)</value>
+        <value lang="de">Binäre Datei (relativ zu webapp Basisverzeichnis)</value>
+        <value lang="en">Binary File (rel to webapp root)</value>
+        <value lang="fr">Dossier binaire (relative à la racine d'application web)</value>
+        <value lang="it">File Binario (relativo alla radice dell'applicazione web)</value>
+        <value lang="ro">Fisier Binar (relativ la radacina aplicatiei web)</value>
+        <value lang="th">2 ไฟล์ (เกี่ยวกับที่มาของโปรแกรมประยุกต์)</value>
+        <value lang="zh">二进制文件(相对于webapp根目录)</value>
+        <value lang="zh_TW">二進制文件(相對于webapp根目錄)</value>
+    </property>
+    <property key="DataResourceType.description.ELECTRONIC_TEXT">
+        <value lang="da">Lang tekst</value>
+        <value lang="de">Ausführlicher Text</value>
+        <value lang="en">Long Text</value>
+        <value lang="fr">Texte long</value>
+        <value lang="it">Testo Lungo</value>
+        <value lang="ro">Text Lung</value>
+        <value lang="th">ตัวอักษรยาว ๆ </value>
+        <value lang="zh">长文本</value>
+        <value lang="zh_TW">長文本</value>
+    </property>
+    <property key="DataResourceType.description.IMAGE_OBJECT">
+        <value lang="da">Billede</value>
+        <value lang="de">Bild</value>
+        <value lang="en">Image</value>
+        <value lang="fr">Image</value>
+        <value lang="it">Immagine</value>
+        <value lang="ro">Imagine</value>
+        <value lang="th">รูปภาพ</value>
+        <value lang="zh">图片</value>
+        <value lang="zh_TW">圖片</value>
+    </property>
+    <property key="DataResourceType.description.LINK">
+        <value lang="da">Hyperlink</value>
+        <value lang="de">Hypertext-Link</value>
+        <value lang="en">HyperLink</value>
+        <value lang="fr">Lien hypertexte</value>
+        <value lang="it">Link Ipertestuale</value>
+        <value lang="ro">Link Hipertextual</value>
+        <value lang="th">ลิงค์ย่อย</value>
+        <value lang="zh">超链接</value>
+        <value lang="zh_TW">超鏈結</value>
+    </property>
+    <property key="DataResourceType.description.LOCAL_FILE">
+        <value lang="da">Locale fil</value>
+        <value lang="de">Lokale Datei</value>
+        <value lang="en">Local File</value>
+        <value lang="fr">Dossier local</value>
+        <value lang="it">File Locale</value>
+        <value lang="ro">Fisier Local</value>
+        <value lang="th">ที่อยู่ของไฟล์</value>
+        <value lang="zh">本地文件</value>
+        <value lang="zh_TW">本地文件</value>
+    </property>
+    <property key="DataResourceType.description.LOCAL_FILE_BIN">
+        <value lang="da">Locale binær fil</value>
+        <value lang="de">Lokale binäre Datei</value>
+        <value lang="en">Local Binary File</value>
+        <value lang="fr">Dossier binaire local</value>
+        <value lang="it">File Binario Locale</value>
+        <value lang="ro">Fisier Binar Local</value>
+        <value lang="th">ที่อยู่ของไฟล์ที่ 2</value>
+        <value lang="zh">本地二进制文件</value>
+        <value lang="zh_TW">本地二進制文件</value>
+    </property>
+    <property key="DataResourceType.description.OFBIZ_FILE">
+        <value lang="da">Fil (relativ til OFBIZ_HOME)</value>
+        <value lang="de">Datei (relativ zum OFBIZ_HOME Verzeichnis)</value>
+        <value lang="en">File (rel to OFBIZ_HOME)</value>
+        <value lang="fr">Dossier (relatif à OFBIZ_HOME)</value>
+        <value lang="it">File (relativo alla OFBIZ_HOME)</value>
+        <value lang="ro">Fisier (relativ la OFBIZ_HOME)</value>
+        <value lang="th">ไฟล์ (เกี่ยวกับ OFBIZ_HOME)</value>
+        <value lang="zh">文件(相对于OFBIZ_HOME)</value>
+        <value lang="zh_TW">文件(相對于OFBIZ_HOME)</value>
+    </property>
+    <property key="DataResourceType.description.OFBIZ_FILE_BIN">
+        <value lang="da">Binær fil (relativ til OFBIZ_HOME)</value>
+        <value lang="de">Binäre Datei (relativ zum OFBIZ_HOME Verzeichnis)</value>
+        <value lang="en">Binary File (rel to OFBIZ_HOME)</value>
+        <value lang="fr">Dossier binaire (relatif à OFBIZ_HOME)</value>
+        <value lang="it">File Binario (relativo alla OFBIZ_HOME)</value>
+        <value lang="ro">Fisier Binar (relativ la OFBIZ_HOME)</value>
+        <value lang="th">ไฟล์ที่ 2 (เกี่ยวกับ OFBIZ_HOME)</value>
+        <value lang="zh">二进制文件(相对于OFBIZ_HOME)</value>
+        <value lang="zh_TW">二進制文件(相對于OFBIZ_HOME)</value>
+    </property>
+    <property key="DataResourceType.description.OTHER_OBJECT">
+        <value lang="da">Andre</value>
+        <value lang="de">Anderes</value>
+        <value lang="en">Other</value>
+        <value lang="fr">Autre</value>
+        <value lang="it">Altro</value>
+        <value lang="ro">Alte obiecte</value>
+        <value lang="th">อื่น ๆ</value>
+        <value lang="zh">其它</value>
+        <value lang="zh_TW">其他</value>
+    </property>
+    <property key="DataResourceType.description.SHORT_TEXT">
+        <value lang="da">Kort tekst</value>
+        <value lang="de">Kurzer Text</value>
+        <value lang="en">Short Text</value>
+        <value lang="fr">Texte court</value>
+        <value lang="it">Testo Corto</value>
+        <value lang="ro">Text Scurt</value>
+        <value lang="th">ตัวอักษรสั้น ๆ</value>
+        <value lang="zh">简短文本</value>
+        <value lang="zh_TW">簡短文本</value>
+    </property>
+    <property key="DataResourceType.description.SURVEY">
+        <value lang="da">Rundspørge</value>
+        <value lang="de">Befragung</value>
+        <value lang="en">Survey</value>
+        <value lang="fr">Sondage</value>
+        <value lang="it">Sondaggio</value>
+        <value lang="ro">Sondaj</value>
+        <value lang="th">สำรวจ</value>
+        <value lang="zh">调查</value>
+        <value lang="zh_TW">調查</value>
+    </property>
+    <property key="DataResourceType.description.SURVEY_RESPONSE">
+        <value lang="da">Rundspørge svar</value>
+        <value lang="de">Befragung Antwort</value>
+        <value lang="en">Survey Response</value>
+        <value lang="fr">Réponse de sondage</value>
+        <value lang="it">Risposta Sondaggio</value>
+        <value lang="ro">Raspuns Sondaj</value>
+        <value lang="th">สำรวจคำตอบ</value>
+        <value lang="zh">调查回答</value>
+        <value lang="zh_TW">調查回答</value>
+    </property>
+    <property key="DataResourceType.description.URL_RESOURCE">
+        <value lang="da">URL Ressource</value>
+        <value lang="de">URL Ressource</value>
+        <value lang="en">URL Resource</value>
+        <value lang="fr">Ressource URL</value>
+        <value lang="it">Risorsa URL</value>
+        <value lang="ro">Resursa URL</value>
+        <value lang="th">แหล่งที่มาของ URL</value>
+        <value lang="zh">网址资源</value>
+        <value lang="zh_TW">網址資源</value>
+    </property>
+    <property key="DataResourceType.description.VIDEO_OBJECT">
+        <value lang="da">Video</value>
+        <value lang="en">Video</value>
+        <value lang="it">Video</value>
+        <value lang="zh">视频</value>
+        <value lang="zh_TW">視頻</value>
+    </property>
+    <property key="DataTemplateType.description.FTL">
+        <value lang="da">FreeMarker</value>
+        <value lang="de">FreeMarker</value>
+        <value lang="en">FreeMarker</value>
+        <value lang="fr">FreeMarker</value>
+        <value lang="it">FreeMarker</value>
+        <value lang="ro">FreeMarker</value>
+        <value lang="th">FreeMarker</value>
+        <value lang="zh">FreeMarker</value>
+        <value lang="zh_TW">FreeMarker</value>
+    </property>
+    <property key="DataTemplateType.description.NONE">
+        <value lang="da">Ingen skabelon</value>
+        <value lang="de">Keine Vorlage</value>
+        <value lang="en">No Template</value>
+        <value lang="fr">Aucun gabarit</value>
+        <value lang="it">Nessun Template</value>
+        <value lang="ro">Nici-un Model</value>
+        <value lang="th">ไม่มี Template</value>
+        <value lang="zh">没有模板</value>
+        <value lang="zh_TW">沒有範本</value>
+    </property>
+    <property key="DataTemplateType.description.SCREEN_COMBINED">
+        <value lang="da">Screen Widget</value>
+        <value lang="de">Screen Widget</value>
+        <value lang="en">Screen widget</value>
+        <value lang="fr">Screen widget</value>
+        <value lang="it">Screen widget</value>
+        <value lang="ro">Screen widget</value>
+        <value lang="th">หน้า widget</value>
+        <value lang="zh">屏幕挂件</value>
+        <value lang="zh_TW">螢幕挂件</value>
+    </property>
+    <property key="DataTemplateType.description.VTL">
+        <value lang="da">Velocity</value>
+        <value lang="de">Velocity</value>
+        <value lang="en">Velocity</value>
+        <value lang="fr">Velocity</value>
+        <value lang="it">Velocity</value>
+        <value lang="ro">Viteza</value>
+        <value lang="th">ความเร็ว</value>
+        <value lang="zh">Velocity</value>
+        <value lang="zh_TW">Velocity</value>
+    </property>
+    <property key="DataTemplateType.description.WM">
+        <value lang="da">WebMAcro</value>
+        <value lang="de">WebMAcro</value>
+        <value lang="en">WebMacro</value>
+        <value lang="fr">WebMacro</value>
+        <value lang="it">WebMacro</value>
+        <value lang="ro">WebMacro</value>
+        <value lang="th">เว็บ Macro</value>
+        <value lang="zh">WebMacro</value>
+        <value lang="zh_TW">WebMacro</value>
+    </property>
+    <property key="DataTemplateType.description.XSLT">
+        <value lang="da">XSLT</value>
+        <value lang="de">XSLT</value>
+        <value lang="en">XSLT</value>
+        <value lang="fr">XSLT</value>
+        <value lang="it">XSLT</value>
+        <value lang="ro">XSLT</value>
+        <value lang="th">XSLT</value>
+        <value lang="zh">XSLT</value>
+        <value lang="zh_TW">XSLT</value>
+    </property>
+    <property key="DocumentType.description.BILL_OF_LADING">
+        <value lang="da">Kannossement</value>
+        <value lang="de">Seefrachtbrief</value>
+        <value lang="en">BILL_OF_LADING</value>
+        <value lang="es">Cuenta de carga</value>
+        <value lang="fr">Connaissement</value>
+        <value lang="it">Polizza di carico</value>
+        <value lang="th">รายการของสินค้า</value>
+        <value lang="zh">提货单</value>
+        <value lang="zh_TW">提貨單</value>
+    </property>
+    <property key="DocumentType.description.EXPORT_DOCUMENTATION">
+        <value lang="da">Eksportdokumentation</value>
+        <value lang="de">Exportdokumentation</value>
+        <value lang="en">EXPORT_DOCUMENTATION</value>
+        <value lang="es">Documentación de exportación</value>
+        <value lang="fr">Documentation d'export</value>
+        <value lang="it">Documentazione esportata</value>
+        <value lang="th">การเตรียมเอกสารส่งออก</value>
+        <value lang="zh">出口文件</value>
+        <value lang="zh_TW">出口文件</value>
+    </property>
+    <property key="DocumentType.description.MANIFEST">
+        <value lang="da">Manifest</value>
+        <value lang="de">Verzeichnis</value>
+        <value lang="en">MANIFEST</value>
+        <value lang="es">Manifiesto</value>
+        <value lang="fr">Manifeste</value>
+        <value lang="it">Manifesto</value>
+        <value lang="th">รายการสินค้า</value>
+    </property>
+    <property key="DocumentType.description.OTHER_SHIP_DOCUMENT">
+        <value lang="da">Andet forsendelsesdokument</value>
+        <value lang="de">Anderes Versanddokument</value>
+        <value lang="en">OTHER_SHIP_DOCUMENT</value>
+        <value lang="es">Otros documentos de envíos</value>
+        <value lang="fr">Autre document expédié</value>
+        <value lang="it">Altro documento di spedizione</value>
+        <value lang="th">เอกสารการขนส่งอื่น ๆ</value>
+        <value lang="zh">其它货运单据</value>
+        <value lang="zh_TW">其他貨運單據</value>
+    </property>
+    <property key="DocumentType.description.PACKAGING_SLIP">
+        <value lang="da">Pakkeseddel</value>
+        <value lang="de">Lieferschein</value>
+        <value lang="en">PACKAGING_SLIP</value>
+        <value lang="es">Embalaje</value>
+        <value lang="fr">Fiche de conditionnement</value>
+        <value lang="it">Lista di imballo</value>
+        <value lang="th">สลิปการห่อสินค้า</value>
+        <value lang="zh">发货清单</value>
+        <value lang="zh_TW">發貨清單</value>
+    </property>
+    <property key="DocumentType.description.PORT_CHARGE_DOCUMENT">
+        <value lang="da">Havnegebyrsdokument</value>
+        <value lang="de">Hafengebühren Dokument</value>
+        <value lang="en">PORT_CHARGE_DOCUMENT</value>
+        <value lang="es">Carga en puerto</value>
+        <value lang="fr">Document de chargement en port</value>
+        <value lang="it">Documento di carico</value>
+        <value lang="th">เอกสารการเปลี่ยนพอร์ท</value>
+        <value lang="zh">港务费单据</value>
+        <value lang="zh_TW">港務費單據</value>
+    </property>
+    <property key="DocumentType.description.SHIPPING_DOCUMENT">
+        <value lang="da">Forsendelsesdokument</value>
+        <value lang="de">Versanddokument</value>
+        <value lang="en">SHIPPING_DOCUMENT</value>
+        <value lang="es">Envío</value>
+        <value lang="fr">Document d'expédition</value>
+        <value lang="it">Documento di spedizione</value>
+        <value lang="th">เอกสารการขนส่ง</value>
+        <value lang="zh">货运单据</value>
+        <value lang="zh_TW">貨運單據</value>
+    </property>
+    <property key="MetaDataPredicate.description.author-email">
+        <value lang="da">E-mail adresse på forfatter eller skaber af emnet.</value>
+        <value lang="de">E-Mail Adresse des Autors oder Erstellers des Themas.</value>
+        <value lang="en">eMail address of the author or creator of the subject.</value>
+        <value lang="es">E-mail del autor del tema</value>
+        <value lang="fr">Adresse courriel de l'auteur ou créateur du thème</value>
+        <value lang="it">Indirizzo eMail dell'autore o creatore del soggetto.</value>
+        <value lang="ro">Adresa eMail a autorulu sau creatorului acestui subiect</value>
+        <value lang="th">ที่อยู่อีเมล์ของผู้เขียนหรือผู้สร้างหัวข้อ</value>
+        <value lang="zh">主题的作者或创建者的电子邮件地址.</value>
+        <value lang="zh_TW">主題的作者或創建者的電子郵件位址.</value>
+    </property>
+    <property key="MetaDataPredicate.description.author-name">
+        <value lang="da">Navn på forfatter eller skaber af emnet. </value>
+        <value lang="de">Name des Autors oder Erstellers des Themas.</value>
+        <value lang="en">Name of the author or creator of the subject.</value>
+        <value lang="es">Nombre del autor</value>
+        <value lang="fr">Nom de l'auteur ou créateur du thème</value>
+        <value lang="it">Nome dell'autore o creatore di questo soggetto.</value>
+        <value lang="ro">Numele autorului sau creatului acestui subiect.</value>
+        <value lang="th">ชื่อของผู้เขียนหรือผู้สร้างหัวข้อ</value>
+        <value lang="zh">主题的作者或创建者姓名。</value>
+        <value lang="zh_TW">主題的作者或創建者姓名。</value>
+    </property>
+    <property key="MetaDataPredicate.description.event-date">
+        <value lang="da">Dato og tid hvor emnets begivenhed fandt sted, fortrinsvis i det faldende standard format: [yyyy-MM-dd hh:mm:ss].</value>
+        <value lang="de">Datum und Zeitpunk des Ereignisses zum Thema, vorzugsweise in absteigendem Standart-Format: [yyyy-MM-dd hh:mm:ss].</value>
+        <value lang="en">The date and time the subject event took place, preferably in the descending standard format: [yyyy-MM-dd hh:mm:ss].</value>
+        <value lang="es">Fecha en la cual el evento tomó lugar</value>
+        <value lang="fr">La date et l'heure de l'événement thème aura lieu, de préférence dans le format standard suivant : [aaaa-mm-jj hh:mm:ss]. </value>
+        <value lang="it">La data e ora dove il soggetto dell'evento è successo, preferibilmente nel formato standard discendente: [yyyy-MM-dd hh:mm:ss].</value>
+        <value lang="ro">Data si ora cand s-a intamplat  subiectul evenimentului, de preferita in format standard descrescator: [AAAA-LL-ZZ hh:mm:ss].</value>
+        <value lang="th">วันและเวลาที่หัวข้อที่อยู่, ควรให้อยู่ในรูปแบบมาตรฐาน : [yyyy-MM-dd hh:mm:ss]</value>
+        <value lang="zh">主题事件发生的日期和时间，按标准格式的降序排列：[yyyy-MM-dd hh:mm:ss]。</value>
+        <value lang="zh_TW">主題事件發生的日期和時間，按標准格式的降序排列：[yyyy-MM-dd hh:mm:ss]。</value>
+    </property>
+    <property key="MetaDataPredicate.description.event-location">
+        <value lang="da">Lokationen hvor emnets begivenhed fand sted.</value>
+        <value lang="de">Der Ort wo das Ereignis zum Thema stattfand.</value>
+        <value lang="en">The location where subject event took place.</value>
+        <value lang="es">Ubicación donde el evento sucedió</value>
+        <value lang="fr">Endroit où l'évènement de thème aura lieu</value>
+        <value lang="it">La locazione dove il soggetto dell'evento è successo</value>
+        <value lang="ro">Locul unde  s-a intamplat subiectul evenimentului.</value>
+        <value lang="th">ที่ตั้งของหัวข้อที่วางอยู่นี้</value>
+        <value lang="zh">主题事件发生的地点。</value>
+        <value lang="zh_TW">主題事件發生的地點。</value>
+    </property>
+    <property key="MetaDataPredicate.description.event-person-name">
+        <value lang="da">Navnet på personen involveret i emnets begivenhed.</value>
+        <value lang="de">Name der Person die im Ereignis zum Thema involviert war.</value>
+        <value lang="en">The name of a person involved in the subject event.</value>
+        <value lang="es">Nombre de la persona involucrada en el evento</value>
+        <value lang="fr">Le nom de la personne impliqué dans l'évènement de thème</value>
+        <value lang="it">Il nome di una persona coinvolta nel soggetto evento.</value>
+        <value lang="ro">Numele unei persoane implicata in subiectul evenimentului.</value>
+        <value lang="th">ชื่อของบุคคลที่เกี่ยวข้องกับหัวข้อ</value>
+        <value lang="zh">主题事件中牵扯到的人员姓名。</value>
+        <value lang="zh_TW">主題事件中牽扯到的人員姓名。</value>
+    </property>
+    <property key="MimeType.description.application/msword">
+        <value lang="da">Microsoft Word</value>
+        <value lang="de">Microsoft Word</value>
+        <value lang="en">Microsoft Word</value>
+        <value lang="fr">Microsoft Word</value>
+        <value lang="it">Microsoft Word</value>
+        <value lang="ro">Microsoft Word</value>
+        <value lang="th">Microsoft Word</value>
+        <value lang="zh">微软Word</value>
+        <value lang="zh_TW">微軟Word</value>
+    </property>
+    <property key="MimeType.description.application/octet-stream">
+        <value lang="da">Vilkårlige binære data</value>
+        <value lang="de">Beliebige binäre Daten</value>
+        <value lang="en">Arbitrary Binary Data</value>
+        <value lang="fr">Donnée binaire arbitraire</value>
+        <value lang="it">Dati Binari Arbitrari</value>
+        <value lang="ro">Date Binare Arbitrare</value>
+        <value lang="th">ข้อมูลที่สอง</value>
+        <value lang="zh">二进制数据</value>
+        <value lang="zh_TW">二進制資料</value>
+    </property>
+    <property key="MimeType.description.application/pdf">
+        <value lang="da">Adobe Portable Document Format (PDF)</value>
+        <value lang="de">Adobe Portable Document Format (PDF)</value>
+        <value lang="en">Adobe Portable Document Format (PDF)</value>
+        <value lang="fr">Format de document portable Adobe (PDF)</value>
+        <value lang="it">Formato Adobe Portable Document (PDF)</value>
+        <value lang="ro">Format Adobe Portable Document (PDF)</value>
+        <value lang="th">Adobe Portable Document Format (PDF)</value>
+        <value lang="zh">Adobe PDF</value>
+        <value lang="zh_TW">Adobe PDF</value>
+    </property>
+    <property key="MimeType.description.application/postscript">
+        <value lang="da">Post script Applikation/Script</value>
+        <value lang="de">Anwendung/Postscript</value>
+        <value lang="en">Post script Application/Script</value>
+        <value lang="fr">Application postscript/Script </value>
+        <value lang="it">Applicazione/Script Postsctipt</value>
+        <value lang="ro">Aplicatie/Script Postsctipt</value>
+        <value lang="th">เขียนประกาศ โปรแกรม/เขียน</value>
+        <value lang="zh">Postsctipt应用/脚本</value>
+        <value lang="zh_TW">Postsctipt應用/腳本</value>
+    </property>
+    <property key="MimeType.description.application/vnd.ms-excel">
+        <value lang="da">Microsoft Excel</value>
+        <value lang="de">Microsoft Excel</value>
+        <value lang="en">Microsoft Excel</value>
+        <value lang="fr">Microsoft Excel</value>
+        <value lang="it">Microsoft Excel</value>
+        <value lang="th">Microsoft Excel</value>
+        <value lang="zh">微软Excel</value>
+        <value lang="zh_TW">微軟Excel</value>
+    </property>
+    <property key="MimeType.description.application/vnd.ms-powerpoint">
+        <value lang="da">Microsoft PowerPoint</value>
+        <value lang="de">Microsoft PowerPoint</value>
+        <value lang="en">Microsoft PowerPoint</value>
+        <value lang="fr">Microsoft PowerPoint</value>
+        <value lang="it">Microsoft PowerPoint</value>
+        <value lang="th">Microsoft PowerPoint</value>
+        <value lang="zh">微软PowerPoint</value>
+        <value lang="zh_TW">微軟PowerPoint</value>
+    </property>
+    <property key="MimeType.description.application/vnd.oasis.opendocument.spreadsheet">
+        <value lang="da">OpenOffice OpenDocument regneark</value>
+        <value lang="en">OpenOffice OpenDocument Spreadsheet</value>
+        <value lang="it">Foglio di lavoro OpenOffice OpenDocument</value>
+        <value lang="zh">OpenOffice文档</value>
+        <value lang="zh_TW">OpenOffice文檔</value>
+    </property>
+    <property key="MimeType.description.application/vnd.oasis.opendocument.text">
+        <value lang="da">OpenOffice OpenDocument Tekst</value>
+        <value lang="de">OpenOffice OpenDocument Text</value>
+        <value lang="en">OpenOffice OpenDocument Text</value>
+        <value lang="fr">Texte OpenOffice OpenDocument</value>
+        <value lang="it">Documento di Testo OpenOffice Open</value>
+        <value lang="ro">Document de Test OpenOffice Open</value>
+        <value lang="th">OpenOffice OpenDocument ตัวอักษร</value>
+        <value lang="zh">OpenOffice OpenDocument文本</value>
+        <value lang="zh_TW">OpenOffice OpenDocument文本</value>
+    </property>
+    <property key="MimeType.description.application/vnd.ofbiz.survey">
+        <value lang="da">Rundspørge</value>
+        <value lang="de">Befragung</value>
+        <value lang="en">Survey</value>
+        <value lang="fr">Sondage</value>
+        <value lang="it">Sondaggio</value>
+        <value lang="ro">Sondaj</value>
+        <value lang="th">สำรวจ</value>
+        <value lang="zh">调查</value>
+        <value lang="zh_TW">調查</value>
+    </property>
+    <property key="MimeType.description.application/vnd.ofbiz.survey.response">
+        <value lang="da">Rundspørge svar</value>
+        <value lang="de">Befragung Antwort</value>
+        <value lang="en">Survey Response</value>
+        <value lang="fr">Réponse de sondage</value>
+        <value lang="it">Risposta Sondaggio</value>
+        <value lang="ro">Raspuns Sondaj</value>
+        <value lang="th">สำรวจคำตอบ</value>
+        <value lang="zh">调查回答</value>
+        <value lang="zh_TW">調查回答</value>
+    </property>
+    <property key="MimeType.description.application/x-shockwave-flash">
+        <value lang="da">Shockwave Flash Movie</value>
+        <value lang="en">Shockwave Flash Movie</value>
+        <value lang="it">Filem Shockwave flash</value>
+        <value lang="zh">Flash影片</value>
+        <value lang="zh_TW">Flash影片</value>
+    </property>
+    <property key="MimeType.description.application/x-tgz">
+        <value lang="da">Gzip'et Tar arkiv fil</value>
+        <value lang="en">Gzipped Tar archive file</value>
+        <value lang="it">File archivio Gzipped Tar</value>
+        <value lang="zh">Gzip Tar压缩文件</value>
+        <value lang="zh_TW">Gzip Tar壓縮文件</value>
+    </property>
+    <property key="MimeType.description.application/x-zip-compressed">
+        <value lang="da">ZIP komprimeret fil</value>
+        <value lang="de">ZIP-komprimierte Datei</value>
+        <value lang="en">ZIP compressed file</value>
+        <value lang="fr">Dossier compressé ZIP</value>
+        <value lang="it">File ZIP compresso</value>
+        <value lang="th">ZIP การบีบอัดไฟล์</value>
+        <value lang="zh">ZIP压缩文件</value>
+        <value lang="zh_TW">ZIP壓縮文件</value>
+    </property>
+    <property key="MimeType.description.application/zip">
+        <value lang="da">ZIP Data</value>
+        <value lang="de">ZIP Daten</value>
+        <value lang="en">ZIP Data</value>
+        <value lang="fr">Données ZIP</value>
+        <value lang="it">Dati ZIP</value>
+        <value lang="ro">Date ZIP</value>
+        <value lang="th">ข้อมูล ZIP</value>
+        <value lang="zh">ZIP数据</value>
+        <value lang="zh_TW">ZIP資料</value>
+    </property>
+    <property key="MimeType.description.audio/basic">
+        <value lang="da">Basic Audio</value>
+        <value lang="de">Basic Audio</value>
+        <value lang="en">Basic Audio</value>
+        <value lang="fr">Audio basique</value>
+        <value lang="it">Audio Base</value>
+        <value lang="ro">Audio Baza</value>
+        <value lang="th">เสียงพื้นฐาน</value>
+        <value lang="zh">基本音频</value>
+        <value lang="zh_TW">基本音頻</value>
+    </property>
+    <property key="MimeType.description.audio/mpeg">
+        <value lang="da">MPEG Audio</value>
+        <value lang="de">MPEG Audio</value>
+        <value lang="en">MPEG Audio</value>
+        <value lang="fr">Audio MPEG</value>
+        <value lang="it">Audio MPEG</value>
+        <value lang="ro">Audio MPEG</value>
+        <value lang="th">เสียงประเภท MPEG</value>
+        <value lang="zh">MPEG音频</value>
+        <value lang="zh_TW">MPEG音頻</value>
+    </property>
+    <property key="MimeType.description.audio/x-ms-wax">
+        <value lang="da">WAX Audio</value>
+        <value lang="en">WAX Audio</value>
+        <value lang="it">WAX Audio</value>
+        <value lang="zh">WAX音频</value>
+        <value lang="zh_TW">WAX音頻</value>
+    </property>
+    <property key="MimeType.description.audio/x-ms-wma">
+        <value lang="da">WMA Audio</value>
+        <value lang="en">WMA Audio</value>
+        <value lang="it">WMA Audio</value>
+        <value lang="zh">WMA音频</value>
+        <value lang="zh_TW">WMA音頻</value>
+    </property>
+    <property key="MimeType.description.image/gif">
+        <value lang="da">GIF billede</value>
+        <value lang="de">GIF Bild</value>
+        <value lang="en">GIF Image</value>
+        <value lang="fr">Image GIF</value>
+        <value lang="it">Immagine GIF</value>
+        <value lang="ro">Imagine GIF</value>
+        <value lang="th">รูปภาพประเภท GIF</value>
+        <value lang="zh">GIF图像</value>
+        <value lang="zh_TW">GIF圖像</value>
+    </property>
+    <property key="MimeType.description.image/jpeg">
+        <value lang="da">JPEG/JPG billede</value>
+        <value lang="de">JPEG/JPG Bild</value>
+        <value lang="en">JPEG/JPG Image</value>
+        <value lang="fr">Image JPG/JPEG</value>
+        <value lang="it">Immagine JPEG/JPG</value>
+        <value lang="ro">Imagine JPEG/JPG</value>
+        <value lang="th">รูปภาพประเภท JPEG/JPG</value>
+        <value lang="zh">JPEG/JPG图像</value>
+        <value lang="zh_TW">JPEG/JPG圖像</value>
+    </property>
+    <property key="MimeType.description.image/pjpeg">
+        <value lang="da">Progressiv JPEG/JPG billede</value>
+        <value lang="de">Progressives JPEG/JPG Bild</value>
+        <value lang="en">Progressive JPEG/JPG Image</value>
+        <value lang="fr">Image progressive JPG/JPEG</value>
+        <value lang="it">Immagine progressiva JPEG/JPG</value>
+        <value lang="th">รูปภาพที่พัฒนาขึ้น JPEG/JPG</value>
+        <value lang="zh">渐进JPEG/JPG图像</value>
+        <value lang="zh_TW">漸進JPEG/JPG圖像</value>
+    </property>
+    <property key="MimeType.description.image/png">
+        <value lang="da">PNG billede</value>
+        <value lang="de">PNG Bild</value>
+        <value lang="en">PNG Image</value>
+        <value lang="fr">Image PNG</value>
+        <value lang="it">Immagine PNG</value>
+        <value lang="ro">Imagine PNG</value>
+        <value lang="th">รูปภาพ PNG</value>
+        <value lang="zh">PNG图像</value>
+        <value lang="zh_TW">PNG圖像</value>
+    </property>
+    <property key="MimeType.description.image/tiff">
+        <value lang="da">TIFF billede</value>
+        <value lang="de">TIFF Bild</value>
+        <value lang="en">TIFF Image</value>
+        <value lang="fr">Image TIFF</value>
+        <value lang="it">Immagine TIFF</value>
+        <value lang="ro">Imagine TIFF</value>
+        <value lang="th">รูปภาพ TIFF</value>
+        <value lang="zh">TIFF图像</value>
+        <value lang="zh_TW">TIFF圖像</value>
+    </property>
+    <property key="MimeType.description.message/external-body">
+        <value lang="da">Ekstern brødtekst besked</value>
+        <value lang="de">External Body Message</value>
+        <value lang="en">External Body Message</value>
+        <value lang="fr">Message de corps externe</value>
+        <value lang="it">Corpo Messagio Esterno</value>
+        <value lang="ro">Corp Mesajo Extern</value>
+        <value lang="th">ข้อความภายนอก</value>
+        <value lang="zh">外部主体消息</value>
+        <value lang="zh_TW">外部主體消息</value>
+    </property>
+    <property key="MimeType.description.message/http">
+        <value lang="da">HTTP besked</value>
+        <value lang="de">HTTP Message</value>
+        <value lang="en">HTTP Message</value>
+        <value lang="fr">Message HTTP</value>
+        <value lang="it">Messaggio HTTP</value>
+        <value lang="ro">Mesaj HTTP</value>
+        <value lang="th">ข้อความ HTTP</value>
+        <value lang="zh">HTTP消息</value>
+        <value lang="zh_TW">HTTP消息</value>
+    </property>
+    <property key="MimeType.description.message/news">
+        <value lang="da">Ny besked</value>
+        <value lang="de">News Mitteilung</value>
+        <value lang="en">News Message</value>
+        <value lang="fr">Nouveaux messages</value>
+        <value lang="it">News Messaggio</value>
+        <value lang="ro">Nou Mesaj</value>
+        <value lang="th">ข้อความข่าว</value>
+        <value lang="zh">新闻消息</value>
+        <value lang="zh_TW">新聞消息</value>
+    </property>
+    <property key="MimeType.description.message/partial">
+        <value lang="da">Delvis besked</value>
+        <value lang="de">Partial Message</value>
+        <value lang="en">Partial Message</value>
+        <value lang="fr">Message partiel</value>
+        <value lang="it">Messaggio Parziale</value>
+        <value lang="ro">Mesaj Partial</value>
+        <value lang="th">ข้อความบางส่วน</value>
+        <value lang="zh">部分消息</value>
+        <value lang="zh_TW">部分消息</value>
+    </property>
+    <property key="MimeType.description.message/rfc822">
+        <value lang="da">RFC 822 Headered besked</value>
+        <value lang="de">RFC 822 Headered Message</value>
+        <value lang="en">RFC 822 Headered Message</value>
+        <value lang="fr">Message en-tête RFC 822</value>
+        <value lang="it">RFC 822 Headered Message</value>
+        <value lang="ro">RFC 822 Titlu Mesaj</value>
+        <value lang="th">RFC 822 หัวข้อข้อความ</value>
+        <value lang="zh">RFC 822头信息</value>
+        <value lang="zh_TW">RFC 822頭資訊</value>
+    </property>
+    <property key="MimeType.description.message/s-http">
+        <value lang="da">HTTPS/S-HTTP besked</value>
+        <value lang="de">HTTPS/S-HTTP Message</value>
+        <value lang="en">HTTPS/S-HTTP Message</value>
+        <value lang="fr">Message HTTPS/S-HTTP</value>
+        <value lang="it">Messaggio HTTPS/S-HTTP</value>
+        <value lang="ro">Mesaj HTTPS/S-HTTP</value>
+        <value lang="th">ข้อความ HTTPS/S-HTTP </value>
+        <value lang="zh">HTTPS/S-HTTP消息</value>
+        <value lang="zh_TW">HTTPS/S-HTTP消息</value>
+    </property>
+    <property key="MimeType.description.model/mesh">
+        <value lang="da">MEsh model</value>
+        <value lang="de">MEsh Model</value>
+        <value lang="en">Mesh Model</value>
+        <value lang="fr">Modèle de grille</value>
+        <value lang="it">Mesh Model</value>
+        <value lang="ro">Mesh Model</value>
+        <value lang="th">แบบจำลองที่ทำงานร่วมกัน</value>
+        <value lang="zh">网格模型</value>
+        <value lang="zh_TW">網格模型</value>
+    </property>
+    <property key="MimeType.description.model/vrml">
+        <value lang="da">VRML model</value>
+        <value lang="de">VRML Model</value>
+        <value lang="en">VRML Model</value>
+        <value lang="fr">Modèle VRML</value>
+        <value lang="it">VRML Model</value>
+        <value lang="ro">VRML Model</value>
+        <value lang="th">แบบจำลอง VRML</value>
+        <value lang="zh">虚拟现实模型语言(VRML)模型</value>
+        <value lang="zh_TW">虛擬現實模型語言(VRML)模型</value>
+    </property>
+    <property key="MimeType.description.multipart/alternative">
+        <value lang="da">Multiple Alternative Multipart</value>
+        <value lang="de">Multiple Alternative Multipart</value>
+        <value lang="en">Mutliple Alternative Multipart</value>
+        <value lang="fr">Multiple alternative multipart</value>
+        <value lang="it">Mutliple Alternative Multipart</value>
+        <value lang="ro">Mutliple Alternative Multipart</value>
+        <value lang="th">หลายๆ ทางเลือก</value>
+        <value lang="zh">多个二选一多段内容</value>
+        <value lang="zh_TW">多個二選一多段內容</value>
+    </property>
+    <property key="MimeType.description.multipart/digest">
+        <value lang="da">Digest of Messages Multipart</value>
+        <value lang="de">Digest of Messages Multipart</value>
+        <value lang="en">Digest of Messages Multipart</value>
+        <value lang="fr">Sommaire de messages multipart</value>
+        <value lang="it">Digest of Messages Multipart</value>
+        <value lang="ro">Digest of Messages Multipart</value>
+        <value lang="th">บทสรุปของหลาย ๆ ข้อความ</value>
+        <value lang="zh">消息多段内容的摘要</value>
+        <value lang="zh_TW">消息多段內容的摘要</value>
+    </property>
+    <property key="MimeType.description.multipart/encrypted">
+        <value lang="da">Encrypted Multipart</value>
+        <value lang="de">Encrypted Multipart</value>
+        <value lang="en">Encrypted Multipart</value>
+        <value lang="fr">Multipart codé</value>
+        <value lang="it">Encrypted Multipart</value>
+        <value lang="ro">Encrypted Multipart</value>
+        <value lang="th">การสร้างรหัสลับ</value>
+        <value lang="zh">加密的多段内容</value>
+        <value lang="zh_TW">加密的多段內容</value>
+    </property>
+    <property key="MimeType.description.multipart/form-data">
+        <value lang="da">Form Data Multipart</value>
+        <value lang="de">Form Data Multipart</value>
+        <value lang="en">Form Data Multipart</value>
+        <value lang="fr">Donnée de forme multipart </value>
+        <value lang="it">Form Data Multipart</value>
+        <value lang="ro">Form Data Multipart</value>
+        <value lang="th">รูปแบบส่วนของข้อมูล</value>
+        <value lang="zh">表单数据多段内容</value>
+        <value lang="zh_TW">表單資料多段內容</value>
+    </property>
+    <property key="MimeType.description.multipart/mixed">
+        <value lang="da">Mixed Type Multipart</value>
+        <value lang="de">Mixed Type Multipart</value>
+        <value lang="en">Mixed Type Multipart</value>
+        <value lang="fr">Type multipart varié</value>
+        <value lang="it">Mixed Type Multipart</value>
+        <value lang="ro">Mixed Type Multipart</value>
+        <value lang="th">รวมประเภทซึ่งเป็นหลาย ๆ ส่วน</value>
+        <value lang="zh">混合类型多段内容</value>
+        <value lang="zh_TW">混合類型多段內容</value>
+    </property>
+    <property key="MimeType.description.multipart/related">
+        <value lang="da">Related Multipart</value>
+        <value lang="de">Related Multipart</value>
+        <value lang="en">Related Multipart</value>
+        <value lang="fr">Multipart apparenté</value>
+        <value lang="it">Related Multipart</value>
+        <value lang="ro">Related Multipart</value>
+        <value lang="th">ส่วนที่เกี่ยวข้องกัน</value>
+        <value lang="zh">内嵌的多段内容</value>
+        <value lang="zh_TW">內嵌的多段內容</value>
+    </property>
+    <property key="MimeType.description.multipart/signed">
+        <value lang="da">Signed Multipart</value>
+        <value lang="de">Signed Multipart</value>
+        <value lang="en">Signed Multipart</value>
+        <value lang="fr">Multipart signé</value>
+        <value lang="it">Signed Multipart</value>
+        <value lang="ro">Signed Multipart</value>
+        <value lang="th">ส่วนเดียว</value>
+        <value lang="zh">签名的多段内容</value>
+        <value lang="zh_TW">簽名的多段內容</value>
+    </property>
+    <property key="MimeType.description.text/css">
+        <value lang="da">CSS Tekst</value>
+        <value lang="de">CSS Text</value>
+        <value lang="en">CSS Text</value>
+        <value lang="fr">Texte CSS</value>
+        <value lang="it">Testo CSS</value>
+        <value lang="ro">Text CSS</value>
+        <value lang="th">ตัวอักษรแบบ CSS</value>
+        <value lang="zh">CSS文本</value>
+        <value lang="zh_TW">CSS文本</value>
+    </property>
+    <property key="MimeType.description.text/csv">
+        <value lang="da">Kommasepareret tekstværdi</value>
+        <value lang="de">CSV - Comma Separated Value Text</value>
+        <value lang="en">Comma Separated Value Text </value>
+        <value lang="fr">Valeur de texte séparée par une virgule (CSV)</value>
+        <value lang="it">Valore di testo separati da virgola</value>
+        <value lang="th">ใช้เครื่องหมายจุลภาคคั่นคาตัวอักษร</value>
+        <value lang="zh">逗号分隔文本</value>
+        <value lang="zh_TW">逗號分隔文本</value>
+    </property>
+    <property key="MimeType.description.text/enriched">
+        <value lang="da">Enriched Text</value>
+        <value lang="de">Enriched Text</value>
+        <value lang="en">Enriched Text</value>
+        <value lang="fr">Texte enrichi</value>
+        <value lang="it">Testo Arrichito</value>
+        <value lang="ro">Text Arhiva</value>
+        <value lang="th">ตกแต่งตัวอักษร</value>
+        <value lang="zh">增强格式文本</value>
+        <value lang="zh_TW">增強格式文本</value>
+    </property>
+    <property key="MimeType.description.text/html">
+        <value lang="da">HTML Text</value>
+        <value lang="de">HTML Text</value>
+        <value lang="en">HTML Text</value>
+        <value lang="fr">Texte HTML</value>
+        <value lang="it">Testo HTML</value>
+        <value lang="ro">Text HTML</value>
+        <value lang="th">ตัวอักษร HTML</value>
+        <value lang="zh">HTML文本</value>
+        <value lang="zh_TW">HTML文本</value>
+    </property>
+    <property key="MimeType.description.text/plain">
+        <value lang="da">Plain Text</value>
+        <value lang="de">Plain Text</value>
+        <value lang="en">Plain Text</value>
+        <value lang="fr">Texte simple</value>
+        <value lang="it">Testo Piatto</value>
+        <value lang="ro">Text Plat</value>
+        <value lang="th">ตัวอักษรธรรมดา</value>
+        <value lang="zh">纯文本</value>
+        <value lang="zh_TW">純文本</value>
+    </property>
+    <property key="MimeType.description.text/richtext">
+        <value lang="da">Rich Text</value>
+        <value lang="de">Rich Text</value>
+        <value lang="en">Rich Text</value>
+        <value lang="fr">Texte riche</value>
+        <value lang="it">Testo Ricco</value>
+        <value lang="ro">Test Bogat</value>
+        <value lang="th">ตัวอักษรสีเข้ม</value>
+        <value lang="zh">富格式文本</value>
+        <value lang="zh_TW">富格式文本</value>
+    </property>
+    <property key="MimeType.description.text/rtf">
+        <value lang="da">RTF Rich Text</value>
+        <value lang="de">RTF Rich Text</value>
+        <value lang="en">RTF Rich Text</value>
+        <value lang="fr">Texte riche (RTF)</value>
+        <value lang="it">Testo RTF Ricco</value>
+        <value lang="ro">Text RTF Bogat</value>
+        <value lang="th">ตัวอักษรแบบ RTF ที่สีเข้ม</value>
+        <value lang="zh">RTF富格式文本</value>
+        <value lang="zh_TW">RTF富格式文本</value>
+    </property>
+    <property key="MimeType.description.text/sgml">
+        <value lang="da">SGML Text</value>
+        <value lang="de">SGML Text</value>
+        <value lang="en">SGML Text</value>
+        <value lang="fr">Texte SGML</value>
+        <value lang="it">Testo SGML</value>
+        <value lang="ro">Text SGML</value>
+        <value lang="th">ตัวอักษร SGML</value>
+        <value lang="zh">SGML文本</value>
+        <value lang="zh_TW">SGML文本</value>
+    </property>
+    <property key="MimeType.description.text/tab-separated-values">
+        <value lang="da">Tab separeret værdi tekst</value>
+        <value lang="de">Tab Separated Value Text</value>
+        <value lang="en">Tab Separated Value Text</value>
+        <value lang="fr">Valeur de texte séparée par une tabulation</value>
+        <value lang="it">Tab Separato Valore Testo</value>
+        <value lang="ro">Tab Separare Valoare Text</value>
+        <value lang="th">ใช้แท็บคั่นค่าตัวอักษร</value>
+        <value lang="zh">制表键分隔文本</value>
+        <value lang="zh_TW">制表鍵分隔文本</value>
+    </property>
+    <property key="MimeType.description.text/x-diff">
+        <value lang="da">diff til patchnings filer</value>
+        <value lang="en">diff for patching files</value>
+        <value lang="it">diff per files di patch</value>
+        <value lang="zh">补丁文件</value>
+        <value lang="zh_TW">補丁文件</value>
+    </property>
+    <property key="MimeType.description.text/xml">
+        <value lang="da">XML Tekst</value>
+        <value lang="de">XML Text</value>
+        <value lang="en">XML Text</value>
+        <value lang="fr">Texte XML</value>
+        <value lang="it">Testo XML</value>
+        <value lang="ro">Text XML</value>
+        <value lang="th">ตัวอักษร XML</value>
+        <value lang="zh">XML文本</value>
+        <value lang="zh_TW">XML文本</value>
+    </property>
+    <property key="MimeType.description.text/x-vcard">
+        <value lang="da">eletronisk visitkort</value>
+        <value lang="en">electronic business card</value>
+        <value lang="it">carta business elettronica</value>
+        <value lang="zh">电子名片卡</value>
+        <value lang="zh_TW">電子名片卡</value>
+    </property>
+    <property key="MimeType.description.video/avi">
+        <value lang="da">AVI Video</value>
+        <value lang="en">AVI Video</value>
+        <value lang="it">Video AVI</value>
+        <value lang="zh">AVI视频</value>
+        <value lang="zh_TW">AVI視頻</value>
+    </property>
+    <property key="MimeType.description.video/mp4">
+        <value lang="da">MPEG-4 (H.264) Video</value>
+        <value lang="en">MPEG-4 (H.264) Video</value>
+        <value lang="it">Video MPEG-4 (H.264)</value>
+        <value lang="zh">MPEG-4 (H.264)视频</value>
+        <value lang="zh_TW">MPEG-4 (H.264)視頻</value>
+    </property>
+    <property key="MimeType.description.video/mpeg">
+        <value lang="da">MPEG/MPG Video</value>
+        <value lang="de">MPEG/MPG Video</value>
+        <value lang="en">MPEG/MPG Video</value>
+        <value lang="fr">Vidéo MPEG/MPG</value>
+        <value lang="it">Video MPEG/MPG</value>
+        <value lang="ro">Video MPEG/MPG</value>
+        <value lang="th">วิดีโอแบบ MPEG/MPG</value>
+        <value lang="zh">MPEG/MPG视频</value>
+        <value lang="zh_TW">MPEG/MPG視頻</value>
+    </property>
+    <property key="MimeType.description.video/quicktime">
+        <value lang="da">Quicktime Video</value>
+        <value lang="de">Quicktime Video</value>
+        <value lang="en">Quicktime Video</value>
+        <value lang="fr">Vidéo Quicktime</value>
+        <value lang="it">Video Quicktime</value>
+        <value lang="ro">Video Quicktime</value>
+        <value lang="th">วิดีโอแบบใช้เวลารวดเร็ว</value>
+        <value lang="zh">Quicktime视频</value>
+        <value lang="zh_TW">Quicktime視頻</value>
+    </property>
+    <property key="MimeType.description.video/x-flv">
+        <value lang="da">Flash Streaming Video</value>
+        <value lang="en">Flash Streaming Video</value>
+        <value lang="it">Video flash in streaming</value>
+        <value lang="zh">Flash流视频</value>
+        <value lang="zh_TW">Flash流視頻</value>
+    </property>
+    <property key="MimeType.description.video/x-ms-asf">
+        <value lang="da">ASF Video</value>
+        <value lang="en">ASF Video</value>
+        <value lang="it">Video ASF</value>
+        <value lang="zh">ASF视频</value>
+        <value lang="zh_TW">ASF視頻</value>
+    </property>
+    <property key="MimeType.description.video/x-ms-wm">
+        <value lang="da">WM Video</value>
+        <value lang="en">WM Video</value>
+        <value lang="it">Video WM</value>
+        <value lang="zh">WM视频</value>
+        <value lang="zh_TW">WM視頻</value>
+    </property>
+    <property key="MimeType.description.video/x-ms-wmv">
+        <value lang="da">WMV Video</value>
+        <value lang="en">WMV Video</value>
+        <value lang="it">Video WMV</value>
+        <value lang="zh">WMV视频</value>
+        <value lang="zh_TW">WMV視頻</value>
+    </property>
+    <property key="MimeType.description.video/x-ms-wmx">
+        <value lang="da">WMX Video</value>
+        <value lang="en">WMX Video</value>
+        <value lang="it">Video WMX</value>
+        <value lang="zh">WMX视频</value>
+        <value lang="zh_TW">WMX視頻</value>
+    </property>
+    <property key="MimeType.description.video/x-ms-wvx">
+        <value lang="da">WVX Video</value>
+        <value lang="en">WVX Video</value>
+        <value lang="it">Video WVX</value>
+        <value lang="zh">WVX视频</value>
+        <value lang="zh_TW">WVX視頻</value>
+    </property>
+    <property key="SurveyApplType.description.CART_ADD">
+        <value lang="da">Tilføj til indkøbskurv</value>
+        <value lang="de">Zum Warenkorb hinzufügen</value>
+        <value lang="en">Add-To Cart</value>
+        <value lang="es">Añadir al carro</value>
+        <value lang="fr">Ajouter au panier</value>
+        <value lang="it">Aggiungi Al Carrello</value>
+        <value lang="ro">Pune in cos</value>
+        <value lang="th">เพิ่มลงตะกร้า</value>
+        <value lang="zh">放入购物车</value>
+        <value lang="zh_TW">放入購物車</value>
+    </property>
+    <property key="SurveyApplType.description.CHECK_OUT">
+        <value lang="da">Check-ud</value>
+        <value lang="de">Zur Kasse gehen</value>
+        <value lang="en">Check-Out</value>
+        <value lang="es">Realizar compra</value>
+        <value lang="fr">Passer à la caisse</value>
+        <value lang="it">Check-Out</value>
+        <value lang="ro">Check-Out</value>
+        <value lang="th">ออกจากการทำรายการ</value>
+        <value lang="zh">结账</value>
+        <value lang="zh_TW">結賬</value>
+    </property>
+    <property key="SurveyApplType.description.CUSTOMER_PROFILE">
+        <value lang="da">Kundeprofil</value>
+        <value lang="de">Kundenprofil</value>
+        <value lang="en">Customer Profile</value>
+        <value lang="es">Perfil del cliente</value>
+        <value lang="fr">Profil du client</value>
+        <value lang="it">Profilo Cliente</value>
+        <value lang="ro">Profil Client</value>
+        <value lang="th">ประวัติส่วนตัวของลูกค้า</value>
+        <value lang="zh">客户档案</value>
+        <value lang="zh_TW">客戶檔案</value>
+    </property>
+    <property key="SurveyApplType.description.GENERAL_POLL">
+        <value lang="da">Generel meningsmåling</value>
+        <value lang="de">Allgemeine Umfrage</value>
+        <value lang="en">General Poll</value>
+        <value lang="es">Encuesta general</value>
+        <value lang="fr">Sondage général</value>
+        <value lang="it">Sondaggio Generale</value>
+        <value lang="ro">Sondaj General</value>
+        <value lang="th">การสำรวจทั่วไป</value>
+        <value lang="zh">通用调查</value>
+        <value lang="zh_TW">通用調查</value>
+    </property>
+    <property key="SurveyApplType.description.PORDER_PLACE">
+        <value lang="da">Indkøbsordre placering</value>
+        <value lang="de">Einkaufsauftrag erfassen</value>
+        <value lang="en">Purchase Order Placement</value>
+        <value lang="es">Colocación de orden de compras</value>
+        <value lang="fr">Placement d'ordre d'achat</value>
+        <value lang="it">Collocare Ordine Acquisto</value>
+        <value lang="ro">Introducere Comanda Cumparare</value>
+        <value lang="th">กำหนดรายการสั่งซื้อ</value>
+        <value lang="zh">下购物订单</value>
+        <value lang="zh_TW">下購物訂單</value>
+    </property>
+    <property key="SurveyApplType.description.PORDITM_PLACE">
+        <value lang="da">Indkøbsordre post placering</value>
+        <value lang="de">Einkaufsauftrag Position erfassen</value>
+        <value lang="en">Purchase Order Item Placement</value>
+        <value lang="es">Colocación de items de la orden de compras</value>
+        <value lang="fr">Placement d'une ligne de commande d'achat</value>
+        <value lang="it">Collocare Riga Ordine Acquisto</value>
+        <value lang="ro">Introducere Linie Comanda Cumparare</value>
+        <value lang="th">การกำหนดรายการสั่งซื้อสินค้า</value>
+        <value lang="zh">下购物订单明细</value>
+        <value lang="zh_TW">下購物訂單明細</value>
+    </property>
+    <property key="SurveyApplType.description.RANDOM_POLL">
+        <value lang="da">Vilkårlig meningsmåling</value>
+        <value lang="de">Zufällige Befragung</value>
+        <value lang="en">Random Poll</value>
+        <value lang="es">Encuesta al azar</value>
+        <value lang="fr">Sondage aléatoire</value>
+        <value lang="it">Sondaggio Casuale</value>
+        <value lang="ro">Sondaj Cazual</value>
+        <value lang="th">สุ่มการสำรวจ</value>
+        <value lang="zh">随机调查</value>
+        <value lang="zh_TW">隨機調查</value>
+    </property>
+    <property key="SurveyApplType.description.SORDER_PLACE">
+        <value lang="da">Salgsordre placering</value>
+        <value lang="de">Verkaufsauftrag erfassen</value>
+        <value lang="en">Sales Order Placement</value>
+        <value lang="es">Colocación de orden de ventas</value>
+        <value lang="fr">Placement d'une commande de vente</value>
+        <value lang="it">Collocare Ordine Vendita</value>
+        <value lang="ro">Introducere Comanda Vanzare</value>
+        <value lang="th">การกำหนดรายการขายสินค้า</value>
+        <value lang="zh">下销售订单</value>
+        <value lang="zh_TW">下銷售訂單</value>
+    </property>
+    <property key="SurveyQuestionType.description.BOOLEAN">
+        <value lang="da">Boolean (Ja/Nej)</value>
+        <value lang="de">Boolean (Ja/Nein)</value>
+        <value lang="en">Boolean (Yes/No)</value>
+        <value lang="es">(Yes/No)</value>
+        <value lang="fr">(Oui/Non)</value>
+        <value lang="it">Booleano (Si/No)</value>
+        <value lang="ro">Booleano (Da/Nu)</value>
+        <value lang="th">Boolean (ใช่/ไม่ใช่)</value>
+        <value lang="zh">布尔值 (是/否)</value>
+        <value lang="zh_TW">布爾值 (是/否)</value>
+    </property>
+    <property key="SurveyQuestionType.description.CONTENT">
+        <value lang="da">Indholdsrecord</value>
+        <value lang="de">Inhalt Datensatz</value>
+        <value lang="en">Content Record</value>
+        <value lang="es">Contenido</value>
+        <value lang="fr">Enregistrement de contenu</value>
+        <value lang="it">Record Contenuto</value>
+        <value lang="ro">Inregistrare Continut</value>
+        <value lang="th">หัวข้อการบันทึก</value>
+        <value lang="zh">内容记录</value>
+        <value lang="zh_TW">內容記錄</value>
+    </property>
+    <property key="SurveyQuestionType.description.COUNTRY">
+        <value lang="da">Land</value>
+        <value lang="en">Country</value>
+        <value lang="it">Paese</value>
+        <value lang="zh">国家</value>
+        <value lang="zh_TW">國家</value>
+    </property>
+    <property key="SurveyQuestionType.description.CREDIT_CARD">
+        <value lang="da">Kreditkortnummer</value>
+        <value lang="de">Kreditkartennummer</value>
+        <value lang="en">Credit Card Number</value>
+        <value lang="es">Nº tarjeta de crédito</value>
+        <value lang="fr">Numéro de la carte de crédit</value>
+        <value lang="it">Numero Carta Credito</value>
+        <value lang="ro">Numero Carte Credit</value>
+        <value lang="th">สร้างหมายเลขบัตร</value>
+        <value lang="zh">信用卡号码</value>
+        <value lang="zh_TW">信用卡號碼</value>
+    </property>
+    <property key="SurveyQuestionType.description.DATE">
+        <value lang="da">Datostreng (mm/dd/yyyy)</value>
+        <value lang="de">Datum String (mm/dd/yyyy)</value>
+        <value lang="en">Date String (mm/dd/yyyy)</value>
+        <value lang="es">Fecha (mm/dd/yyyy)</value>
+        <value lang="fr">Caractères de datation (mm/dd/yyyy)</value>
+        <value lang="it">Data Stringa (mm/dd/yyyy)</value>
+        <value lang="ro">Data Caractere (mm/dd/yyyy)</value>
+        <value lang="th">วัน (mm/dd/yyyy)</value>
+        <value lang="zh">日期字符串 (mm/dd/yyyy)</value>
+        <value lang="zh_TW">日期字串 (mm/dd/yyyy)</value>
+    </property>
+    <property key="SurveyQuestionType.description.EMAIL">
+        <value lang="da">E-mail adresse</value>
+        <value lang="de">E-Mail Adresse</value>
+        <value lang="en">Email Address</value>
+        <value lang="es">E-mail</value>
+        <value lang="fr">Adresse courriel</value>
+        <value lang="it">Indirizzo Email</value>
+        <value lang="ro">Adresa Email</value>
+        <value lang="th">ที่อยู่อีเมล์</value>
+        <value lang="zh">电子邮件地址</value>
+        <value lang="zh_TW">電子郵件位址</value>
+    </property>
+    <property key="SurveyQuestionType.description.ENUMERATION">
+        <value lang="da">Nummerering</value>
+        <value lang="en">Enumeration</value>
+        <value lang="it">Enumerare</value>
+        <value lang="zh">枚举</value>
+        <value lang="zh_TW">枚舉</value>
+    </property>
+    <property key="SurveyQuestionType.description.GEO">
+        <value lang="da">Geo liste</value>
+        <value lang="en">Geo List</value>
+        <value lang="it">Lista geografia</value>
+        <value lang="zh">地理列表</value>
+        <value lang="zh_TW">地理列表</value>
+    </property>
+    <property key="SurveyQuestionType.description.GIFT_CARD">
+        <value lang="da">Gavekort nummer</value>
+        <value lang="de">Geschenkgutschein Nummer</value>
+        <value lang="en">Gift Card Number</value>
+        <value lang="es">Certificado de regalo</value>
+        <value lang="fr">Numéro de carte cadeau</value>
+        <value lang="it">Numero Carta Omaggio</value>
+        <value lang="ro">Numero Carte Omagiu</value>
+        <value lang="th">หมายเลขบัตรของขวัญ</value>
+        <value lang="zh">礼品卡号码</value>
+        <value lang="zh_TW">禮品卡號碼</value>
+    </property>
+    <property key="SurveyQuestionType.description.NUMBER_CURRENCY">
+        <value lang="da">Numerisk (kurs)</value>
+        <value lang="de">Numerisch (Währung)</value>
+        <value lang="en">Numeric (Currency)</value>
+        <value lang="es">Numérico (moneda)</value>
+        <value lang="fr">Numérique (devise)</value>
+        <value lang="it">Numerico (Valuta)</value>
+        <value lang="ro">Numeric (Valuta)</value>
+        <value lang="th">เป็นตัวเลข (ที่ใช้กันทั่วไป)</value>
+        <value lang="zh">数字 (货币)</value>
+        <value lang="zh_TW">數字 (貨幣)</value>
+    </property>
+    <property key="SurveyQuestionType.description.NUMBER_FLOAT">
+        <value lang="da">Numerisk (float)</value>
+        <value lang="de">Numerisch (Gleitkommazahl)</value>
+        <value lang="en">Numeric (Float)</value>
+        <value lang="es">Numérico (flotante)</value>
+        <value lang="fr">Numérique (flottant)</value>
+        <value lang="it">Numerico (Float)</value>
+        <value lang="ro">Numeric (Float)</value>
+        <value lang="th">เป็นตัวเลข (Float)</value>
+        <value lang="zh">数字 (浮点)</value>
+        <value lang="zh_TW">數字 (浮點)</value>
+    </property>
+    <property key="SurveyQuestionType.description.NUMBER_LONG">
+        <value lang="da">Numerisk (long)</value>
+        <value lang="de">Numerisch (Long)</value>
+        <value lang="en">Numeric (Long)</value>
+        <value lang="es">Numérico (largo)</value>
+        <value lang="fr">Numérique (long)</value>
+        <value lang="it">Numerico (Long)</value>
+        <value lang="ro">Numeric (Long)</value>
+        <value lang="th">เป็นตัวเลข (Long)</value>
+        <value lang="zh">数字 (长整数)</value>
+        <value lang="zh_TW">數字 (長整數)</value>
+    </property>
+    <property key="SurveyQuestionType.description.OPTION">
+        <value lang="da">Valgte option</value>
+        <value lang="de">Ausgewählte Option</value>
+        <value lang="en">Selected Option</value>
+        <value lang="es">Opción selecccionada</value>
+        <value lang="fr">Option sélectionnée</value>
+        <value lang="it">Opzione Selezionata</value>
+        <value lang="ro">Optiune Selectionata</value>
+        <value lang="th">เลือกทางเลือก</value>
+        <value lang="zh">已选择的记录</value>
+        <value lang="zh_TW">已選擇的記錄</value>
+    </property>
+    <property key="SurveyQuestionType.description.PASSWORD">
+        <value lang="da">Kodeord</value>
+        <value lang="de">Passwort</value>
+        <value lang="en">Password</value>
+        <value lang="es">contraseña</value>
+        <value lang="fr">Mot de passe</value>
+        <value lang="it">Password</value>
+        <value lang="ro">Parola</value>
+        <value lang="th">รหัสผ่าน</value>
+        <value lang="zh">密码</value>
+        <value lang="zh_TW">密碼</value>
+    </property>
+    <property key="SurveyQuestionType.description.SEPERATOR_LINE">
+        <value lang="da">Separator</value>
+        <value lang="de">Trennlinie</value>
+        <value lang="en">Seperator Line</value>
+        <value lang="es">Separador</value>
+        <value lang="fr">Ligne séparatrice</value>
+        <value lang="it">Separatore Riga</value>
+        <value lang="ro">Separator Linie</value>
+        <value lang="th">เส้นคั่นบรรทัด</value>
+        <value lang="zh">分隔线</value>
+        <value lang="zh_TW">分隔線</value>
+    </property>
+    <property key="SurveyQuestionType.description.SEPERATOR_TEXT">
+        <value lang="da">Separator tekst</value>
+        <value lang="de">Trenntext</value>
+        <value lang="en">Seperator Text</value>
+        <value lang="es">Seperador</value>
+        <value lang="fr">Texte séparateur</value>
+        <value lang="it">Separatore Testo</value>
+        <value lang="ro">Separator Text</value>
+        <value lang="th">เส้นคั่นตัวอักษร</value>
+        <value lang="zh">分隔文本</value>
+        <value lang="zh_TW">分隔文本</value>
+    </property>
+    <property key="SurveyQuestionType.description.STATE_PROVINCE">
+        <value lang="da">Stat/provins</value>
+        <value lang="en">State/Province</value>
+        <value lang="it">Stato/Provincia    </value>
+        <value lang="zh">省市自治区</value>
+        <value lang="zh_TW">省市自治區</value>
+    </property>
+    <property key="SurveyQuestionType.description.TEXTAREA">
+        <value lang="da">Tekst (multi-line)</value>
+        <value lang="de">Text (mehrere Zeilen)</value>
+        <value lang="en">Text (multi-line)</value>
+        <value lang="es">Texto (multi línea)</value>
+        <value lang="fr">Texte multi-lignes</value>
+        <value lang="it">Testo (riga-multipla)</value>
+        <value lang="ro">Text (Linie-multipla)</value>
+        <value lang="th">ตัวอักษร (หลายบรรทัด)</value>
+        <value lang="zh">文本 (多行)</value>
+        <value lang="zh_TW">文本 (多行)</value>
+    </property>
+    <property key="SurveyQuestionType.description.TEXT_LONG">
+        <value lang="da">Lang tekst (single-line)</value>
+        <value lang="de">Ausführlicher Text (Eine Zeile)</value>
+        <value lang="en">Long Text (single-line)</value>
+        <value lang="es">Texto (largo)</value>
+        <value lang="fr">Texte long (ligne-simple)</value>
+        <value lang="it">Testo Lungo (singola-riga)</value>
+        <value lang="ro">Testo Lungo (o linie)</value>
+        <value lang="th">ข้อความยาว (บรรทัดเดียว)</value>
+        <value lang="zh">长文本 (单行)</value>
+        <value lang="zh_TW">長文本 (單行)</value>
+    </property>
+    <property key="SurveyQuestionType.description.TEXT_SHORT">
+        <value lang="da">Kort tekst (single-line)</value>
+        <value lang="de">Kurzer Text (Eine Zeile)</value>
+        <value lang="en">Short Text (single-line)</value>
+        <value lang="es">Texto (corto)</value>
+        <value lang="fr">Texte court (ligne-simple)</value>
+        <value lang="it">Testo Corto (singola-riga)</value>
+        <value lang="ro">Text Scurt (o linie)</value>
+        <value lang="th">ข้อความสั้น (บรรทัดเดียว)</value>
+        <value lang="zh">简短文本 (单行)</value>
+        <value lang="zh_TW">簡短文本 (單行)</value>
+    </property>
+    <property key="SurveyQuestionType.description.URL">
+        <value lang="da">URL</value>
+        <value lang="de">URL</value>
+        <value lang="en">URL</value>
+        <value lang="es">URL</value>
+        <value lang="fr">URL</value>
+        <value lang="it">URL</value>
+        <value lang="ro">URL</value>
+        <value lang="th">URL</value>
+        <value lang="zh">网址</value>
+        <value lang="zh_TW">網址</value>
+    </property>
+    <property key="WebSiteContentType.description.BLOG_ROOT">
+        <value lang="en">Blog Root</value>
+        <value lang="fr">Racine du blog</value>
+    </property>
+    <property key="WebSiteContentType.description.DEFAULT_PAGE">
+        <value lang="en">Default Page</value>
+        <value lang="fr">Page par défaut</value>
+    </property>
+    <property key="WebSiteContentType.description.ERROR_ROOT">
+        <value lang="en">Error Root</value>
+        <value lang="fr">Erreur</value>
+    </property>
+    <property key="WebSiteContentType.description.MENU_ROOT">
+        <value lang="en">Menu Root</value>
+        <value lang="fr">Racine du menu</value>
+    </property>
+    <property key="WebSiteContentType.description.FORUM_ROOT">
+        <value lang="en">Forum Root</value>
+        <value lang="fr">Racine du forum</value>
+    </property>
+    <property key="WebSiteContentType.description.PUBLISH_POINT">
+        <value lang="da">Udgivelsespunkt</value>
+        <value lang="de">Veröffentlichungsort</value>
+        <value lang="en">Publish Point</value>
+        <value lang="fr">Point de publication</value>
+        <value lang="it">Punto Pubblico</value>
+        <value lang="ro">Punct Public</value>
+        <value lang="th">ความคิดเห็นที่ลงประกาศ</value>
+        <value lang="zh">发布点</value>
+        <value lang="zh_TW">發布點</value>
+    </property>
+</resource>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="TemporalExpression">
+        <value lang="en">Temporal Expression</value>
+        <value lang="fr">Expression temporelle</value>
+        <value lang="it">Espressione temporale</value>
+        <value lang="pt_BR">Expressão temporal</value>
+        <value lang="zh">时间表达式</value>
+        <value lang="zh_TW">時間運算式</value>
+    </property>
+    <property key="TemporalExpressionCollections">
+        <value lang="en">Expression Collections</value>
+        <value lang="fr">Collections d'expression</value>
+        <value lang="it">Collezione espressioni</value>
+        <value lang="pt_BR">Coleções de Expressões</value>
+        <value lang="zh">表达式集合</value>
+        <value lang="zh_TW">運算式集合</value>
+    </property>
+    <property key="TemporalExpressionExclude">
+        <value lang="en">Exclude</value>
+        <value lang="fr">Exclure</value>
+        <value lang="it">Escludi</value>
+        <value lang="pt_BR">Excluir</value>
+        <value lang="zh">排除</value>
+        <value lang="zh_TW">排除</value>
+    </property>
+    <property key="TemporalExpressionFind">
+        <value lang="en">Find Temporal Expression</value>
+        <value lang="fr">Rechercher une expression temporelle</value>
+        <value lang="it">Ricerca espressione temporale</value>
+        <value lang="pt_BR">Encontrar uma expressão temporal</value>
+        <value lang="zh">查找时间表达式</value>
+        <value lang="zh_TW">查找時間運算式</value>
+    </property>
+    <property key="TemporalExpressionFreqCount">
+        <value lang="en">Frequency Count</value>
+        <value lang="fr">Nombre d'occurrences</value>
+        <value lang="it">Frequenza conteggio</value>
+        <value lang="pt_BR">Contagem de Freqüência</value>
+        <value lang="zh">频率计数</value>
+        <value lang="zh_TW">頻率計數</value>
+    </property>
+    <property key="TemporalExpressionFreqType">
+        <value lang="en">Frequency Type</value>
+        <value lang="fr">Type de fréquence</value>
+        <value lang="it">Tipo frequenza</value>
+        <value lang="pt_BR">Tipo de Frequência</value>
+        <value lang="zh">频率类型</value>
+        <value lang="zh_TW">頻率類型</value>
+    </property>
+    <property key="TemporalExpressionId">
+        <value lang="en">Expression Id</value>
+        <value lang="fr">Réf. d'expression</value>
+        <value lang="it">Espressione</value>
+        <value lang="pt_BR">Id de Expressão</value>
+        <value lang="zh">表达式标识</value>
+        <value lang="zh_TW">算式ID</value>
+    </property>
+    <property key="TemporalExpressionInclude">
+        <value lang="en">Include</value>
+        <value lang="fr">Inclure</value>
+        <value lang="it">Includi</value>
+        <value lang="pt_BR">Incluir</value>
+        <value lang="zh">包含</value>
+        <value lang="zh_TW">包含</value>
+    </property>
+    <property key="TemporalExpressionMaintenance">
+        <value lang="en">Temporal Expression Maintenance</value>
+        <value lang="fr">maintenance d'expression temporelle</value>
+        <value lang="it">Gestione espressioni temporali</value>
+        <value lang="pt_BR">Manutenção Expressão Temporal</value>
+        <value lang="zh">时间表达式维护</value>
+        <value lang="zh_TW">時間運算式維護</value>
+    </property>
+    <property key="TemporalExpressionOccurrence">
+        <value lang="en">Occurrence</value>
+        <value lang="fr">Occurrence</value>
+        <value lang="it">Occorrenze</value>
+        <value lang="pt_BR">Ocorrência</value>
+        <value lang="zh">同步</value>
+        <value lang="zh_TW">同步</value>
+    </property>
+    <property key="TemporalExpressionTimeFormat">
+        <value lang="en">hh:mm:ss</value>
+        <value lang="fr">hh:mm:ss</value>
+        <value lang="it">hh:mm:ss</value>
+        <value lang="pt_BR">hh:mm:ss</value>
+    </property>
+    <property key="TemporalExpressionType">
+        <value lang="en">Expression Type</value>
+        <value lang="fr">Type d'expression</value>
+        <value lang="it">Tipo espressione</value>
+        <value lang="pt_BR">Tipo de Expressão</value>
+        <value lang="zh">表达式类型</value>
+        <value lang="zh_TW">運算式類型</value>
+    </property>
+    <property key="TemporalExpression_DATE_RANGE">
+        <value lang="en">Date Range</value>
+        <value lang="fr">Intervalle entre 2 dates</value>
+        <value lang="it">Intervallo di date</value>
+        <value lang="pt_BR">Período</value>
+        <value lang="zh">日期范围</value>
+        <value lang="zh_TW">日期範圍</value>
+    </property>
+    <property key="TemporalExpression_DAY_IN_MONTH">
+        <value lang="en">Day In Month</value>
+        <value lang="fr">Jour du mois</value>
+        <value lang="it">Giorno nel mese</value>
+        <value lang="pt_BR">Dia do Mês</value>
+        <value lang="zh">月中的天</value>
+        <value lang="zh_TW">月中的天</value>
+    </property>
+    <property key="TemporalExpression_DAY_OF_MONTH_RANGE">
+        <value lang="en">Day Of Month Range</value>
+        <value lang="fr">Intervalle entre 2 jours du mois</value>
+        <value lang="it">Giorno del mese nell'intervallo</value>
+        <value lang="pt_BR">Intervalo de dias do mês</value>
+        <value lang="zh">月中天的范围</value>
+        <value lang="zh_TW">月中天的範圍</value>
+    </property>
+    <property key="TemporalExpression_DAY_OF_WEEK_RANGE">
+        <value lang="en">Day Of Week Range</value>
+        <value lang="fr">Intervalle entre 2 jour de la semaine</value>
+        <value lang="it">Giorno della settimana nell'intervallo</value>
+        <value lang="pt_BR">Intervalo de dias da semana</value>
+        <value lang="zh">周中天的范围</value>
+        <value lang="zh_TW">周中天的範圍</value>
+    </property>
+    <property key="TemporalExpression_DIFFERENCE">
+        <value lang="en">Difference</value>
+        <value lang="fr">Différence</value>
+        <value lang="it">Differenze</value>
+        <value lang="pt_BR">Diferença</value>
+        <value lang="zh">差别</value>
+        <value lang="zh_TW">差別</value>
+    </property>
+    <property key="TemporalExpression_FREQUENCY">
+        <value lang="en">Frequency</value>
+        <value lang="fr">Fréquence</value>
+        <value lang="it">Frequenza</value>
+        <value lang="pt_BR">Frequência</value>
+        <value lang="zh">频率</value>
+        <value lang="zh_TW">頻率</value>
+    </property>
+    <property key="TemporalExpression_HOUR_RANGE">
+        <value lang="en">Hour Range</value>
+        <value lang="pt_BR">Intervalo de Hora</value>
+    </property>
+    <property key="TemporalExpression_INTERSECTION">
+        <value lang="en">Intersection</value>
+        <value lang="fr">Intersection</value>
+        <value lang="it">Intersezione</value>
+        <value lang="pt_BR">Intersecção</value>
+        <value lang="zh">交叉点</value>
+        <value lang="zh_TW">交叉點</value>
+    </property>
+    <property key="TemporalExpression_MINUTE_RANGE">
+        <value lang="en">Minute Range</value>
+        <value lang="pt_BR">Intervalo de Minutos</value>
+    </property>
+    <property key="TemporalExpression_MONTH_RANGE">
+        <value lang="en">Month Range</value>
+        <value lang="fr">Intervalle entre 2 mois</value>
+        <value lang="it">Intervallo di mese</value>
+        <value lang="pt_BR">Intervalo de Meses</value>
+        <value lang="zh">月的范围</value>
+        <value lang="zh_TW">月的範圍</value>
+    </property>
+    <property key="TemporalExpression_SUBSTITUTION">
+        <value lang="en">Substitution</value>
+        <value lang="pt_BR">Substituição</value>
+    </property>
+    <property key="TemporalExpression_UNION">
+        <value lang="en">Union</value>
+        <value lang="fr">Union</value>
+        <value lang="it">Unione</value>
+        <value lang="pt_BR">União</value>
+        <value lang="zh">联合</value>
+        <value lang="zh_TW">聯合</value>
+    </property>
+</resource>

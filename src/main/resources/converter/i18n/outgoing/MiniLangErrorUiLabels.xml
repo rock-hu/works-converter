@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler beim Starten der Transaktion, Methode konnte nicht verarbeitet werden</value></content>
+<content><country></country><lang>en</lang><value>Error trying to begin transaction, could not process method</value></content>
+<content><country></country><lang>es</lang><value>Error trying to begin transaction, could not process method</value></content>
+<content><country></country><lang>fr</lang><value>La transaction ne peut débuter, une erreur est survenue</value></content>
+<content><country></country><lang>it</lang><value>Errore provando a iniziare una transazione, non è possibile eseguire il metodo</value></content>
+<content><country></country><lang>ro</lang><value>Eroare la incercarea de a initia  o</value></content>
+<content><country></country><lang>ru</lang><value>Попытка начать транзакцию завершилась ошибкой, невозможно обработать метод</value></content>
+<content><country></country><lang>th</lang><value>Error : ผิดพลด ! ในการเริ่มต้นดำเนินการ ไม่สามารถประมวลผลวิธีการนี้ได้</value></content>
+<content><country></country><lang>zh</lang><value>尝试开始交易时出错，无法执行</value></content>
+<content><country></country><lang>zh_TW</lang><value>嘗試開始交易時出錯，無法執行</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Fehler beim Ausführen der simple-method</value></content>
+<content><country></country><lang>en</lang><value>Error running the simple-method</value></content>
+<content><country></country><lang>es</lang><value>Error running the simple-method</value></content>
+<content><country></country><lang>fr</lang><value>Erreur pendant la simple-method</value></content>
+<content><country></country><lang>it</lang><value>Errore nell'esecuzione del metodo-semplice</value></content>
+<content><country></country><lang>ro</lang><value>Eroare in executia metodei-simple</value></content>
+<content><country></country><lang>ru</lang><value>Ошибка выполнения simple-method</value></content>
+<content><country></country><lang>th</lang><value>Error : ผิดพลาด ! ในการรัน simple-method</value></content>
+<content><country></country><lang>zh</lang><value>运行这个简单方法时出错</value></content>
+<content><country></country><lang>zh_TW</lang><value>運行這個簡單方法時出錯</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>calling service ${serviceName} in ${methodName}</value></content>
+<content><country></country><lang>it</lang><value>eseguendo il servizio ${serviceName} in ${methodName}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>de</lang><value>Sie müssen am System angemeldet sein um [${shortDescription}] auszuführen</value></content>
+<content><country></country><lang>en</lang><value>You must be logged in to complete the [${shortDescription}] process</value></content>
+<content><country></country><lang>es</lang><value>You must be logged in to complete the [${shortDescription}] process</value></content>
+<content><country></country><lang>fr</lang><value>Vous devez être connecté pour pouvoir achever le process ${shortDescription}</value></content>
+<content><country></country><lang>it</lang><value>Tu devi essere autenticato per completare il processo ${shortDescription}</value></content>
+<content><country></country><lang>ro</lang><value>Trebbie sa fii autentificat pentru a putea completa procesul ${shortDescription}</value></content>
+<content><country></country><lang>ru</lang><value>Для завершения процесса ${shortDescription} вы должны зарегистрироваться в системе</value></content>
+<content><country></country><lang>th</lang><value>คุณต้องทำการเข้าสู่ระบบในการประมวลผล  [${shortDescription}] ให้เสร็จสมบูรณ์</value></content>
+<content><country></country><lang>zh</lang><value>你必须登录才能完成${shortDescription}步骤</value></content>
+<content><country></country><lang>zh_TW</lang><value>你必須登錄才能完成${shortDescription}步驟</value></content>
+</contents></phrase> </phrases>

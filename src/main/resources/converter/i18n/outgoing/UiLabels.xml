@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>@component-resource-name@ Application</value></content>
+<content><country></country><lang>zh</lang><value>@component-resource-name@应用程序</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OFBiz: @component-resource-name@</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Part of the Open For Business Family of Open Source Software</value></content>
+<content><country></country><lang>it</lang><value>Un modulo della famiglia di software open source Open For Business</value></content>
+<content><country></country><lang>zh</lang><value>开源软件OFBiz的组成部分</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You are not allowed to view this page.</value></content>
+<content><country></country><lang>zh</lang><value>不允许你浏览这个页面。</value></content>
+</contents></phrase> </phrases>

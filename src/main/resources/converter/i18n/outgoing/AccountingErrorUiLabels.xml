@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Could not find RateAmount record to be deleted</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile trovare un record di RateAmount che deve essere cancellato</value></content>
+<content><country></country><lang>pt</lang><value>Não foi possível localizar o registro a ser excluído RateAmount</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Could not create payment method Id (id generation failure)</value></content>
+<content><country></country><lang>it</lang><value>ERRORE: Non è possibile creare il metodo pagamento (fallimento generazione id)</value></content>
+<content><country></country><lang>pt</lang><value>ERRO: Não foi possível criar Id de étodo de pagamento (falha ao gerar ID)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Could not create EFT account (write failure): ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>ERRORE: Non è possibile creare il conto EFT (fallita scrittura): ${errorString}</value></content>
+<content><country></country><lang>pt</lang><value>ERRO: Não foi possível criar conta de EFT (falha de escrita): ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Could not update EFT Account (write failure): ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>ERRORE: Non è possibile aggiornare il conto EFT (scrittura fallita): ${errorString}</value></content>
+<content><country></country><lang>pt</lang><value>ERRO: Não foi possível atualizar Conta EFT (falha de escrita): ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Could not update EFT Account (read error): ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>ERRORE: Non è possibile aggiornare il conto EFT (fallita lettura): ${errorString}</value></content>
+<content><country></country><lang>pt</lang><value>ERRO: Não foi possível atualizar Conta EFT (erro de leitura): ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Party Id ${partyId} is not the owner of payment method ${paymentMethodId} and does not have permission to change it.</value></content>
+<content><country></country><lang>it</lang><value>Il soggetto ${partyId} non è il propretario del metodo di pagamento ${paymentMethodId} non hai il permesso per cambiarlo.</value></content>
+<content><country></country><lang>pt</lang><value>Participante com ID ${partyId} não é o proprietário do método de pagamento de US ${paymentMethodId} e não têm permissão para alterá-lo.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Authorization transaction ${paymentGatewayResponseId} has expired as of ${authExpiration}</value></content>
+<content><country></country><lang>it</lang><value>Autorizzazione transazione ${paymentGatewayResponseId} ha una scadenza del ${authExpiration}</value></content>
+<content><country></country><lang>pt</lang><value>Autorização de transação de ${paymentGatewayResponseId} expirou como de ${authExpiration}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Account has been cancelled</value></content>
+<content><country></country><lang>it</lang><value>Il conto è stato cancellato</value></content>
+<content><country></country><lang>pt</lang><value>Conta foi cancelada</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cannot authorize financial account due to: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile autorizzare il conto finanziario per: ${errorString}</value></content>
+<content><country></country><lang>pt</lang><value>Não é possível autorizar a conta financeira decorrente de: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to expire financial account authorization: </value></content>
+<content><country></country><lang>it</lang><value>Non è possibile cancellare l'autorizzazione per il conto finanziario: </value></content>
+<content><country></country><lang>pt</lang><value>Incapaz de expirar a autorização da conta financeira:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Available balance does not match the actual balance; pending authorizations; cannot refund FinAccount at this time.</value></content>
+<content><country></country><lang>it</lang><value>Bilancio disponibilie non corrisponde all'attuale bilancio; autorizzazioni in attesa; non è possibile rimborsare il conto finanziario in questo momento.</value></content>
+<content><country></country><lang>pt</lang><value>Saldo disponível não corresponde ao saldo real, autorizações pendentes; não é possível reembolsar FinAccount neste momento.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cannot locate product store from previous deposits; product store cannot be empty</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile localizzare il negozio dei precedenti depositi; il negozio non può essere vuoto</value></content>
+<content><country></country><lang>pt</lang><value>Não é possível localizar loja de produtos de depósitos anteriores; loja de produtos não pode estar vazia</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No authorization transaction found for the OrderPaymentPreference; cannot capture</value></content>
+<content><country></country><lang>it</lang><value>Nessuna transazione di autorizzazione trovata per le preferenze pagamento ordine; non è possibile catturare</value></content>
+<content><country></country><lang>pt</lang><value>Nenhuma autorização de transação encontrado para a OrderPaymentPreference; não é possível capturar</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to create financial accout; no productStoreId on OrderHeader: ${orderId}</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare conto finanziario; nessun negozio impostato sulla testata ordine: ${orderId}</value></content>
+<content><country></country><lang>pt</lang><value>Não é possível criar accout financeira; sem productStoreId em OrderHeader: ${orderId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to create financial account transaction!</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare un transazione di un conto finanziario!</value></content>
+<content><country></country><lang>pt</lang><value>Não é possível criar transação na conta de financeiras!</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Could not find or create a service credit account</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile trovare o creare un servizio di accredito conto</value></content>
+<content><country></country><lang>pt</lang><value>Não foi possível encontrar ou criar um serviço de conta de crédito</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value> Could not find authorization transaction.</value></content>
+<content><country></country><lang>it</lang><value> Non è possibile trovare la transazione di autorizzazione.</value></content>
+<content><country></country><lang>pt</lang><value>Não foi possível encontrar autorização para a transação.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to locate financial account from account code</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile localizzare il conto finanziario dal codice conto</value></content>
+<content><country></country><lang>pt</lang><value>Não foi possível localizar a conta financeira do código de conta</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cannot post FinAccountTrans with ID ${parameters.finAccountTransId} to GL, could not find ${creditDebit} ${requiredField}</value></content>
+<content><country></country><lang>it</lang><value>Non post FinAccountTrans con ID ${parameters.finAccountTransId} in GL, could not find ${creditDebit} ${requiredField}</value></content>
+<content><country></country><lang>pt</lang><value>Não é possível enviar FinAccountTrans com ID ${parameters.finAccountTransId} para conntabilidade, não foi possível encontrar ${creditDebit} ${requiredField}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Account has expired as of ${thruDate}</value></content>
+<content><country></country><lang>it</lang><value>Conto scaduto dal ${thruDate}</value></content>
+<content><country></country><lang>pt</lang><value>Conta expirou a partir de ${thruDate}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Account is currently frozen</value></content>
+<content><country></country><lang>it</lang><value>Il conto è attualmente congelato</value></content>
+<content><country></country><lang>pt</lang><value>Conta está congelada</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Both finAccountId and finAccountCode cannot be null; at least one is required</value></content>
+<content><country></country><lang>it</lang><value>Entrambi finAccountId e finAccountCode non possono essere nulli; al minimo uno è richiesto</value></content>
+<content><country></country><lang>pt</lang><value>Ambos finAccountId e finAccountCode não podem ser nulos, pelo menos um é necessário</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Invalid financial account; cannot locate account</value></content>
+<content><country></country><lang>it</lang><value>Conto finanziario invalido; non è possibile localizzare il conto</value></content>
+<content><country></country><lang>pt</lang><value>Conta financeira Inválida, não é possível localizar a conta</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>FinAccount must be in active status</value></content>
+<content><country></country><lang>fr</lang><value>Le compte financier doit être dans un état actif</value></content>
+<content><country></country><lang>pt</lang><value>FinAccount deve estar no estado ativo</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Account is not refunable</value></content>
+<content><country></country><lang>it</lang><value>Il conto non è rimborsabile</value></content>
+<content><country></country><lang>pt</lang><value>Conta não é reembolsável</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Amount should be a positive number.</value></content>
+<content><country></country><lang>it</lang><value>L'importo dovrebbe essere un numero positivo.</value></content>
+<content><country></country><lang>pt</lang><value>Quantia deve ser um número positivo.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Account is currently negative and pending replenishment</value></content>
+<content><country></country><lang>it</lang><value>Il conto è attualmente negativo e in attesa di rifornimento</value></content>
+<content><country></country><lang>pt</lang><value>Conta está negativa e com reposição pendente</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No payment method associated with replenish account</value></content>
+<content><country></country><lang>it</lang><value>Nessun metodo pagamento associtao con il conto di rifornimento</value></content>
+<content><country></country><lang>pt</lang><value>Nenhum método de pagamento associado à reposição de conta</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No finAccountId found ${finAccountId}</value></content>
+<content><country></country><lang>it</lang><value>Conto finanziario non trovato ${finAccountId}</value></content>
+<content><country></country><lang>pt</lang><value>Não foi possível encontrar finAccountId ${finAccountId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>FinAccount partially refunded; not enough replenish deposits to refund!</value></content>
+<content><country></country><lang>it</lang><value>Conto finanziario parzialmente rimborsato; non ci sono abbastanza depositi per il rifornimento da rimborsare!</value></content>
+<content><country></country><lang>pt</lang><value>FinAccount parcialmente reembolsada, não há depósitos de reposição suficiente para reembolsar!</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Financial account PIN/CODE combination not found</value></content>
+<content><country></country><lang>it</lang><value>Conto finanziario combinazione PIN/CODE non trovata</value></content>
+<content><country></country><lang>pt</lang><value>Conta financeira PIN/Código não encontrada</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No settings found for store ${productStoreId} for fin account type ${finAccountTypeId}</value></content>
+<content><country></country><lang>it</lang><value>Nessuna configurazione trovata per il negozio ${productStoreId} per il tipo conto finanziario ${finAccountTypeId}</value></content>
+<content><country></country><lang>pt</lang><value>Nenhuma configuração encontrada para a loja ${productStoreId} para conta financeira de tipo ${finAccountTypeId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>FinAccount not in valid status</value></content>
+<content><country></country><lang>fr</lang><value>Le compte financier n'est pas dans un état valide</value></content>
+<content><country></country><lang>pt</lang><value>FinAccount não tem estado válido</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unknown replenish method found</value></content>
+<content><country></country><lang>it</lang><value>Metodo rifornimento sconosciuto</value></content>
+<content><country></country><lang>pt</lang><value>Método desconhecido para reabastecer encontrados</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Could not create GiftCard (id generation failure)</value></content>
+<content><country></country><lang>it</lang><value>ERRORE: Non è possibile creare la carta regalo (fallita generazione id)</value></content>
+<content><country></country><lang>pt</lang><value>ERRO: Não foi possível criar vale presente (falha ao gerar ID)</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Could not create GiftCard (write failure): ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>ERRORE: Non è possibile creare la carta regalo (fallita scrittura): ${errorString}</value></content>
+<content><country></country><lang>pt</lang><value>ERRO: Não foi possível criar vale presente (falha de escrita): ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Could not get GiftCard to update (read error): ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>ERRORE: Non è possibile aggiornare la carta regalo (fallita lettura): ${errorString}</value></content>
+<content><country></country><lang>pt</lang><value>ERRO: Não foi possível obter vale presente para atualizar (erro de leitura): ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Party Id ${partyId} is not the owner of payment method ${paymentMethodId} and does not have permission to change it.</value></content>
+<content><country></country><lang>it</lang><value>Il soggetto ${partyId} non è il propretario del metodo di pagamento ${paymentMethodId} non hai il permesso per cambiarlo.</value></content>
+<content><country></country><lang>pt</lang><value>ID de Participante ${partyId} não é o proprietário do método de pagamento de ${paymentMethodId} e não têm permissão para alterá-lo.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Cannot authorize gift certificate due to: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile autorizzare la carta regalo: ${errorString}</value></content>
+<content><country></country><lang>pt</lang><value>Não é possível autorizar o certificado de presente devido a:  ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to expire financial account authorization for Gift Certificate: </value></content>
+<content><country></country><lang>it</lang><value>Non è possibile cancellare l'autorizzazione per il conto finanziario per il certificato regalo: </value></content>
+<content><country></country><lang>pt</lang><value>Incapaz de expirar a autorização para a conta financeira para vale presente:</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No product associated with OrderItem, cannot fulfill gift card</value></content>
+<content><country></country><lang>it</lang><value>Nessun prodotto associato alla riga ordine, non è possibile processare l'acquisto con carta regalo</value></content>
+<content><country></country><lang>pt</lang><value>Nenhum produto associado OrderItem, não é possível honrar o cartão de presente</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to get survey response answers from survey response; cannot fulfill gift card</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile ottenere la risposta sondaggio dalle domande; non è possibile caricare la carta regalo</value></content>
+<content><country></country><lang>pt</lang><value>Não foi possível obter respostas da pesquisa, não pode atender ao cartão de presente</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to get payment configuration file</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile ottenere il file configurazione pagamento</value></content>
+<content><country></country><lang>pt</lang><value>Impossível obter arquivo de configuração de pagamento</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to get GiftCard from OrderPaymentPreference</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile localizzare il certificato regalo dalla preferenze pagamento dell'ordine</value></content>
+<content><country></country><lang>pt</lang><value>Não foi possível obter vale presente de OrderPaymentPreference</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to process gift card purchase; no productStoreId on OrderHeader: ${orderId}</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile processare l'acquisto con la carta regalo; nessun negozio impostato sulla testata ordine: ${orderId}</value></content>
+<content><country></country><lang>pt</lang><value>Não é possível processar de compra com o cartão do presente, sem productStoreId em OrderHeader: ${orderId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Attempt to release GiftCard payment failed; not a valid GiftCard record</value></content>
+<content><country></country><lang>it</lang><value>Tentivo di rilasciare il pagamento carta regalo fallito; non c'è un record valido</value></content>
+<content><country></country><lang>pt</lang><value>Tentativa de liberar o pagamento GiftCard falhou; não é registro válido GiftCard</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to process gift card reload; no productStoreId on OrderHeader: ${orderId}</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile processare la ricarica con la carta regalo; nessun negozio impostato sulla testata ordine: ${orderId}</value></content>
+<content><country></country><lang>pt</lang><value>Não foi possível processar a recarga do cartão de presente, sem productStoreId em OrderHeader: ${orderId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to get survey response answers from survey response; cannot fulfill gift card reload</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile ottenere l'informazione relativa alla risposta sondaggio dalle domande; non è possibile ricaricare la carta regalo</value></content>
+<content><country></country><lang>pt</lang><value>Não foi possível obter respostas da pesquisa, não é possível realizar recarga do cartão do presente</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error sending Gift Card notice email:  ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile inviaria email di notifica carta regalo: ${errorString}</value></content>
+<content><country></country><lang>pt</lang><value>Erro ao enviar e-mail de aviso do cartão de presente: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to store fulfillment info:  ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile registrazione le informazioni di ricarica: ${errorString}</value></content>
+<content><country></country><lang>pt</lang><value>Não é possível armazenar informações de cumprimento: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to create gift certificate number.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile creare un numero certificato regalo.</value></content>
+<content><country></country><lang>pt</lang><value>Não é possível criar o número do vale presente.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Gift certificate has expired as of  ${thruDate}</value></content>
+<content><country></country><lang>it</lang><value>Certificato regalo scaduto dal ${thruDate}</value></content>
+<content><country></country><lang>pt</lang><value>O cartão de presente expirou a partir de ${thruDate}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Gift certificate not found ${finAccountId}</value></content>
+<content><country></country><lang>it</lang><value>Certificato regalo non trovato ${finAccountId}</value></content>
+<content><country></country><lang>pt</lang><value>Cartão de presente não encontrado ${finAccountId}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>PIN number is not valid</value></content>
+<content><country></country><lang>it</lang><value>Numero PIN non è valido</value></content>
+<content><country></country><lang>pt</lang><value>Número do PIN não é válido</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Unable to call refund service!</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile eseguire il servizio refund!</value></content>
+<content><country></country><lang>pt</lang><value>Não foi possível invocar serviço de reembolso!</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>An error occurred while retreiving cart details</value></content>
+<content><country></country><lang>it</lang><value>Un'errore è successo mentre ricavavo i dettagli del carrello</value></content>
+<content><country></country><lang>pt</lang><value>Ocorreu um erro ao recuperar os detalhes carrinho</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Acctg preference not define</value></content>
+<content><country></country><lang>fr</lang><value>Aucune configuration sur les préférences de gestion encore définie pour votre société</value></content>
+<content><country></country><lang>pt</lang><value>Acctg não definir preferência</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>A problem occurred while communicating with PayPal, please try again or select a different checkout method</value></content>
+<content><country></country><lang>hi_IN</lang><value>Paypal से संचार में समस्या, कृपया पुन: प्रयास करें या एक अलग Checkout पद्धति का चयन करें</value></content>
+<content><country></country><lang>it</lang><value>Si è verificato un problema durante la comunicazione con PayPal, per favore provare di nuovo o selezionare un altro metodo di checkout</value></content>
+<content><country></country><lang>pt</lang><value>Ocorreu um problema durante a comunicação com o PayPal, por favor tente novamente, ou selecione um método de pagamento diferente</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>An error occurred while retreiving cart details</value></content>
+<content><country></country><lang>it</lang><value>Un'errore è successo mentre ricavavo i dettagli del carrello</value></content>
+<content><country></country><lang>pt</lang><value>Ocorreu um erro ao recuperar os detalhes do carrinho</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Couldn't retrieve a PaymentGatewayConfigPayPal record for Express Checkout, cannot continue.</value></content>
+<content><country></country><lang>it</lang><value>Non è possibile ricavare un record PaymentGatewayConfigPayPal per Express Checkout, non è possibile continuare.</value></content>
+<content><country></country><lang>pt</lang><value>Não foi possível recuperar um registro PaymentGatewayConfigPayPal para Checkout Express, não é possível continuar.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Shopping cart is empty, cannot proceed with Express Checkout</value></content>
+<content><country></country><lang>fr</lang><value>Votre panier est vide, vous ne pouvez pas effectuer une validation express</value></content>
+<content><country></country><lang>hi_IN</lang><value>शॉपिंग कार्ट खाली है, एक्सप्रेस चेकआउट के साथ आगे नहीं बढ़ सकते</value></content>
+<content><country></country><lang>it</lang><value>Il carrello è vuoto, non posso procedere con il checkout Express</value></content>
+<content><country></country><lang>pt</lang><value>Carrinho de Compras está vazio, não é possível prosseguir com o Pagamento expresso</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Express Checkout token not present in cart, cannot get checkout details</value></content>
+<content><country></country><lang>it</lang><value>Il token per Express Checkout non è presente nel carrello, non è possibile ottenere i dettagli di checkout</value></content>
+<content><country></country><lang>pt</lang><value>Token de pagamento expreso não presentes no carrinho, não é possível obter detalhes de checkout</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>An unknown error occurred while contacting PayPal</value></content>
+<content><country></country><lang>it</lang><value>Un'errore sconosciuto è accaduto mentre contattavi PayPal</value></content>
+<content><country></country><lang>pt</lang><value>Um erro desconhecido ocorreu ao entrar em contato com PayPal</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Amount entered ${overrideAmount} is negative.</value></content>
+<content><country></country><lang>it</lang><value>Importo inserito ${overrideAmount} è negativo.</value></content>
+<content><country></country><lang>pt</lang><value>Quantia preenchida ${overrideAmount} é negativa.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Amount entered ${overrideAmount} is zero.</value></content>
+<content><country></country><lang>it</lang><value>Importo inserito ${overrideAmount} è zero.</value></content>
+<content><country></country><lang>pt</lang><value>Quantia preenchida ${overrideAmount} é zero.</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error processing payment authorization: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore esecuione autorizzazione pagamento: ${errorString}</value></content>
+<content><country></country><lang>pt</lang><value>Erro ao processar a autorização de pagamento: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Could not find Payment Method to delete (read failure ${errorString})</value></content>
+<content><country></country><lang>it</lang><value>ERRORE: Non è possibile trovare il metodo di pagmento da cancellare (lettura fallita ${errorString})</value></content>
+<content><country></country><lang>pt</lang><value>ERRO: Não foi possível encontrar o método de pagamento para excluir (erro de leitura ${errorString})</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>ERROR: Could not find Payment Method to delete (write failure ${errorString})</value></content>
+<content><country></country><lang>it</lang><value>ERRORE: Non è possibile trovare il metodo di pagmento da cancellare (scrittura fallita ${errorString})</value></content>
+<content><country></country><lang>pt</lang><value>ERRO: Não foi possível encontrar o método de pagamento para excluir (erro de escrita ${errorString})</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You do not have permission to delete Payment Method for this partyId</value></content>
+<content><country></country><lang>it</lang><value>Non hai il permesso per cancellare il metodo di pagamento per questo soggetto</value></content>
+<content><country></country><lang>pt</lang><value>Você não tem permissão para excluir este método de pagamento para partyId</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>You do not have permission to delete Payment Method for this partyId</value></content>
+<content><country></country><lang>it</lang><value>Non hai il permesso per cancellare il metodo di pagamento per questo soggetto</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Error updating payment status information: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore aggiornando lo stato del pagamento: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>The tax ID ${parameters.partyTaxId} was not in a valid format for the selected tax authority ${taxAuthority.taxIdFormatPattern}</value></content>
+<content><country></country><lang>it</lang><value>Id tasse ${parameters.partyTaxId} non è nel formato valido per l'autorità tasse selezionata ${taxAuthority.taxIdFormatPattern}</value></content>
+<content><country></country><lang>pt</lang><value>O número de ID fiscal ${parameters.partyTaxId} não estava em um formato válido para a autoridade fiscal selecionada ${taxAuthority.taxIdFormatPattern}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Data error getting tax settings: ${errorString}</value></content>
+<content><country></country><lang>it</lang><value>Errore di lettura impostazioni tasse: ${errorString}</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Failed to execute service createPaymentFromPreference</value></content>
+<content><country></country><lang>fr</lang><value>Echec à l'exécution du service createPaymentFromPreference</value></content>
+<content><country></country><lang>hi_IN</lang><value>सर्विस createPaymentFromPreference पर अमल(execute) करने में असफल</value></content>
+<content><country></country><lang>it</lang><value>Fallita esecuzione del servizio createPaymentFromPreference</value></content>
+<content><country></country><lang>nl</lang><value>OFBiz-service 'createPaymentFromPreference' is niet uitgevoerd.</value></content>
+<content><country></country><lang>pt</lang><value>Falha ao executar o serviço createPaymentFromPreference</value></content>
+<content><country></country><lang>th</lang><value>การดำเนินการผิดพลาด createPaymentFromPreference</value></content>
+<content><country></country><lang>zh</lang><value>执行服务createPaymentFromPreference时失败</value></content>
+<content><country></country><lang>zh_TW</lang><value>執行服務createPaymentFromPreference時失敗</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No valid orderId returned with PayPal Callback.</value></content>
+<content><country></country><lang>fr</lang><value>Aucune réf. valide de commande retournée par l'appel à PayPal.</value></content>
+<content><country></country><lang>hi_IN</lang><value>मान्य orderId Paypal Callback के साथ नहीं लौटा</value></content>
+<content><country></country><lang>it</lang><value>Nessun ordine valido restituito da PayPal.</value></content>
+<content><country></country><lang>nl</lang><value>Geen valide order-ID teruggegeven door PayPal Callback.</value></content>
+<content><country></country><lang>pt</lang><value>Nenhuma OrderId válida devolvida pelo Callback do PayPal.</value></content>
+<content><country></country><lang>th</lang><value>ไม่มีค่ารหัสรายการสั่งซื้อคืนกลับมาด้วยการเรียกกลับของ paypal</value></content>
+<content><country></country><lang>zh</lang><value>贝宝返回的信息中没有有效的orderId（订单编号）。</value></content>
+<content><country></country><lang>zh_TW</lang><value>貝寶返回的資訊中沒有有效的orderId（訂單編號）。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Previous PayPal order has been cancelled.</value></content>
+<content><country></country><lang>fr</lang><value>La commande PayPal précédente a été annulée.</value></content>
+<content><country></country><lang>hi_IN</lang><value>पिछला Paypal आदेश रद्द कर दिया गया है</value></content>
+<content><country></country><lang>it</lang><value>Ordine PayPal precedente è stato annullato.</value></content>
+<content><country></country><lang>nl</lang><value>Vorige PayPal-opdracht is geannuleerd.</value></content>
+<content><country></country><lang>pt</lang><value>Pedido do PayPal anterior foi cancelado.</value></content>
+<content><country></country><lang>th</lang><value>กลับไปยังรายการpaypalที่ถูกยกเลิก</value></content>
+<content><country></country><lang>zh</lang><value>之前的贝宝订单已经被取消了。</value></content>
+<content><country></country><lang>zh_TW</lang><value>之前的貝寶訂單已經被取消了。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems connecting with PayPal, please contact customer service.</value></content>
+<content><country></country><lang>fr</lang><value>Les problèmes pour se connecter à PayPal, SVP entrez en contact avec le service clientèle.</value></content>
+<content><country></country><lang>hi_IN</lang><value>Paypal के साथ जोड़ने में समस्या, कृपया ग्राहक सेवा से संपर्क करें</value></content>
+<content><country></country><lang>it</lang><value>Problemi nella connessione a PayPal, prego contattare il servizio clienti.</value></content>
+<content><country></country><lang>nl</lang><value>Problemen met de PayPal-verbinding. Neem contact op met de customer service van PayPal.</value></content>
+<content><country></country><lang>pt</lang><value>Problemas de conexão com o PayPal, por favor entre em contato com serviço de atendimento ao cliente.</value></content>
+<content><country></country><lang>th</lang><value>ปัญหาในการเชิ่อมต่อด้วย paypal , กรุณาติดต่อบริการลูกค้า</value></content>
+<content><country></country><lang>zh</lang><value>连接贝宝失败，请与客户服务联系。</value></content>
+<content><country></country><lang>zh_TW</lang><value>連接貝寶失敗，請與客戶服務聯系。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems getting authentication user.</value></content>
+<content><country></country><lang>fr</lang><value>Problèmes d'obtention d'authentification utilisateur</value></content>
+<content><country></country><lang>hi_IN</lang><value>उपयोगकर्ता(user) के प्रमाणीकरण में समस्याएँ हो रही</value></content>
+<content><country></country><lang>it</lang><value>Problemi durante autenticazione utente</value></content>
+<content><country></country><lang>nl</lang><value>Problemen met authenticatie gebruiker.</value></content>
+<content><country></country><lang>pt</lang><value>Problemas ao obter usuário autenticado.</value></content>
+<content><country></country><lang>th</lang><value>ปัญหาการเรียกใช้สัญลักษณ์ผู้ใช้</value></content>
+<content><country></country><lang>zh</lang><value>获得认证用户时出现问题。</value></content>
+<content><country></country><lang>zh_TW</lang><value>獲得認証用戶時出現問題。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems getting merchant configuration, please contact customer service.</value></content>
+<content><country></country><lang>fr</lang><value>Problèmes d'obtention de la configuration du vendeur, svp entrez en contact avec le service clientèle.</value></content>
+<content><country></country><lang>hi_IN</lang><value>व्यापारी विन्यास में समस्याएँ हो रही, कृपया ग्राहक सेवा से संपर्क करें</value></content>
+<content><country></country><lang>it</lang><value>Problemi leggendo la configurazione del venditore, prego contattare il servizio clienti.</value></content>
+<content><country></country><lang>nl</lang><value>Problemen verkrijgen Handelaarsconfiguratie. Neem contact op met de customer service.</value></content>
+<content><country></country><lang>pt</lang><value>Problemas ao obter configuração de comerciante, entre em contato com o serviço de atendimento ao cliente.</value></content>
+<content><country></country><lang>th</lang><value>ปัญหาการเรียกใช้เกี่ยวกับการติดต่อการค้า , กรุณาติดต่อบริการลูกค้า</value></content>
+<content><country></country><lang>zh</lang><value>获得商家配置时出错，请与客户服务联系。</value></content>
+<content><country></country><lang>zh_TW</lang><value>獲得商家配置時出錯，請與客戶服務聯系。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems getting order header.</value></content>
+<content><country></country><lang>fr</lang><value>Problèmes d'obtention d'en-tête de commande .</value></content>
+<content><country></country><lang>hi_IN</lang><value>order header में समस्याएँ हो रही</value></content>
+<content><country></country><lang>it</lang><value>Problemi nel ricavare la testata ordine.</value></content>
+<content><country></country><lang>nl</lang><value>Problemen verkrijgen orderkop.</value></content>
+<content><country></country><lang>pt</lang><value>Problemas ao obter o cabeçalho do pedido.</value></content>
+<content><country></country><lang>th</lang><value>ปัญหาการเรียกใช้หัวข้อรายการสั่งซื้อ</value></content>
+<content><country></country><lang>zh</lang><value>获得订单头时出错。</value></content>
+<content><country></country><lang>zh_TW</lang><value>獲得訂單頭時出錯。</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Failed To Execute Service CreatePaymentFromPreference</value></content>
+<content><country></country><lang>fr</lang><value>Échec sur l'execution du service de création d'un payment suivant les préférence (CreatePaymentFromPreference)</value></content>
+<content><country></country><lang>hi_IN</lang><value>सर्विस CreatePaymentFromPreference पर अमल(execute) करने में असफल</value></content>
+<content><country></country><lang>it</lang><value>Fallita esecuzione servizio CreatePaymentFromPreference</value></content>
+<content><country></country><lang>pt</lang><value>Falha ao executar o serviço CreatePaymentFromPreference</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No Valid OrderId Returned</value></content>
+<content><country></country><lang>fr</lang><value>Référence commande retournée n'est pas valide</value></content>
+<content><country></country><lang>hi_IN</lang><value>मान्य OrderId वापस नहीं लौटा</value></content>
+<content><country></country><lang>it</lang><value>Nessun numero ordine restituito</value></content>
+<content><country></country><lang>pt</lang><value>Nenhuma OrderId válida retornada</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems Connecting With WorldPay</value></content>
+<content><country></country><lang>fr</lang><value>Problème rencontré dans la connexion avec WorldPay</value></content>
+<content><country></country><lang>hi_IN</lang><value>WorldPay के साथ जोड़ने में समस्या</value></content>
+<content><country></country><lang>it</lang><value>Problema nella connessione con WorldPay</value></content>
+<content><country></country><lang>pt</lang><value>Problemas de conexão com WorldPay</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems Getting Authentication User</value></content>
+<content><country></country><lang>fr</lang><value>Problème sur l'authentification de l'utilisateur</value></content>
+<content><country></country><lang>hi_IN</lang><value>उपयोगकर्ता(user) के प्रमाणीकरण में समस्याएँ हो रही</value></content>
+<content><country></country><lang>it</lang><value>Problema durante l'autenticazione utente</value></content>
+<content><country></country><lang>pt</lang><value>Problemas Obtendo Autenticação de Usuário</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems Getting Inst Id</value></content>
+<content><country></country><lang>fr</lang><value>Problème de récupération de l'Inst Id</value></content>
+<content><country></country><lang>hi_IN</lang><value>Inst Id में समस्याएँ हो रही</value></content>
+<content><country></country><lang>it</lang><value>Problema nel ricavare il parametro Inst Id</value></content>
+<content><country></country><lang>pt</lang><value>Problemas ao obter ID de inst</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems Getting Inst Id To Integer</value></content>
+<content><country></country><lang>fr</lang><value>Problème de récupération de l'Inst Id vers un nombre</value></content>
+<content><country></country><lang>hi_IN</lang><value>Inst Id से Integer में समस्याएँ हो रही</value></content>
+<content><country></country><lang>it</lang><value>Problema nel convertire il parametro Inst Id ad intero</value></content>
+<content><country></country><lang>pt</lang><value>Problemas Obtendo Id Inst para Integer</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems Getting Merchant Configuration</value></content>
+<content><country></country><lang>fr</lang><value>Problème de récupération de la configuration marchand</value></content>
+<content><country></country><lang>hi_IN</lang><value>व्यापारी विन्यास में समस्याएँ हो रही</value></content>
+<content><country></country><lang>it</lang><value>Problema nel ricavare la configurazione del negoziante</value></content>
+<content><country></country><lang>pt</lang><value>Problemas Obtendo Configuração de comerciante</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems Getting OrderHeader</value></content>
+<content><country></country><lang>fr</lang><value>Problème de récupération de la commande</value></content>
+<content><country></country><lang>hi_IN</lang><value>OrderHeader में समस्याएँ हो रही</value></content>
+<content><country></country><lang>it</lang><value>Problema nel ricavare la testata ordine</value></content>
+<content><country></country><lang>pt</lang><value>Problemas Obtendo OrderHeader</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Failed To Execute Service CreatePaymentFromPreference</value></content>
+<content><country></country><lang>fr</lang><value>Échec sur l'execution du service de création d'un payment suivant les préférence (CreatePaymentFromPreference)</value></content>
+<content><country></country><lang>hi_IN</lang><value>सर्विस CreatePaymentFromPreference पर अमल(execute) करने में असफल</value></content>
+<content><country></country><lang>it</lang><value>Fallita esecuzione servizio CreatePaymentFromPreference</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>No Valid OrderId Returned</value></content>
+<content><country></country><lang>fr</lang><value>Référence commande retournée n'est pas valide</value></content>
+<content><country></country><lang>hi_IN</lang><value>मान्य OrderId वापस नहीं लौटा</value></content>
+<content><country></country><lang>it</lang><value>Nessun numero ordine restituito</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems Connecting With iDEAL</value></content>
+<content><country></country><lang>fr</lang><value>Problème rencontré dans la connexion avec iDEAL</value></content>
+<content><country></country><lang>hi_IN</lang><value>iDEAL के साथ जोड़ने में समस्या</value></content>
+<content><country></country><lang>it</lang><value>Problema nella connessione con iDEAL</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems Getting Authentication User</value></content>
+<content><country></country><lang>fr</lang><value>Problème sur l'authentification de l'utilisateur</value></content>
+<content><country></country><lang>hi_IN</lang><value>उपयोगकर्ता(user) के प्रमाणीकरण में समस्याएँ हो रही</value></content>
+<content><country></country><lang>it</lang><value>Problema durante l'autenticazione utente</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems Getting Merchant Configuration</value></content>
+<content><country></country><lang>fr</lang><value>Problème de récupération de la configuration marchand</value></content>
+<content><country></country><lang>hi_IN</lang><value>व्यापारी विन्यास में समस्याएँ हो रही</value></content>
+<content><country></country><lang>it</lang><value>Problema nel ricavare la configurazione del negoziante</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Problems Getting OrderHeader</value></content>
+<content><country></country><lang>fr</lang><value>Problème de récupération de la commande</value></content>
+<content><country></country><lang>hi_IN</lang><value>OrderHeader में समस्याएँ हो रही</value></content>
+<content><country></country><lang>it</lang><value>Problema nel ricavare la testata ordine</value></content>
+</contents></phrase> </phrases>

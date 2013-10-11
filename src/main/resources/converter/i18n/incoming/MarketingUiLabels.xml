@@ -1,0 +1,2797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="FormFieldTitle_actualCost">
+        <value lang="en">Actual Cost</value>
+        <value lang="fr">Coût réel</value>
+        <value lang="it">Costo attuale</value>
+        <value lang="nl">Werkelijke kosten</value>
+        <value lang="pt_BR">Custo real</value>
+        <value lang="ro">Cost Actual</value>
+        <value lang="th">ราคาจริง</value>
+        <value lang="zh">实际费用</value>
+        <value lang="zh_TW">實際費用</value>
+    </property>
+    <property key="FormFieldTitle_bestCaseAmount">
+        <value lang="en">Best Case Amount</value>
+        <value lang="fr">Montant dans le meilleur cas </value>
+        <value lang="it">Importo migliore caso</value>
+        <value lang="pt_BR">Montante de melhor caso</value>
+        <value lang="zh">最佳案例金额</value>
+        <value lang="zh_TW">最佳案例金額</value>
+    </property>
+    <property key="FormFieldTitle_budgetedCost">
+        <value lang="en">Budgeted Cost</value>
+        <value lang="fr">Coût budgetisé</value>
+        <value lang="it">Costo a budget</value>
+        <value lang="pt_BR">Custo previsto no orçamento</value>
+        <value lang="ro">Cost la Buget</value>
+        <value lang="th">งบประมาณ</value>
+        <value lang="zh">已预算的费用</value>
+        <value lang="zh_TW">已預算的費用</value>
+    </property>
+    <property key="FormFieldTitle_changeNote">
+        <value lang="en">Change Note</value>
+        <value lang="it">Nota per variazione</value>
+        <value lang="pt_BR">Comunicação de mudança</value>
+        <value lang="zh">变更说明</value>
+        <value lang="zh_TW">變更說明</value>
+    </property>
+    <property key="FormFieldTitle_closedAmount">
+        <value lang="en">Closed Amount</value>
+        <value lang="fr">Montant fermé</value>
+        <value lang="it">Importo chiuso</value>
+        <value lang="pt_BR">Montante fechado</value>
+        <value lang="zh">已结束的金额</value>
+        <value lang="zh_TW">已結束的金額</value>
+    </property>
+    <property key="FormFieldTitle_convertedLeads">
+        <value lang="en">Converted Leads</value>
+        <value lang="fr">Prospects convertis</value>
+        <value lang="it">Leads convertiti</value>
+        <value lang="pt_BR">Leads concretizados</value>
+        <value lang="zh">转化了的线索</value>
+        <value lang="zh_TW">轉化了的線索</value>
+    </property>
+    <property key="FormFieldTitle_custReqestId">
+        <value lang="en">Cust Reqest Id</value>
+        <value lang="fr">Réf. de requête de client</value>
+        <value lang="it">Numero richiesta cliente</value>
+        <value lang="pt_BR">Id de requisição de cliente</value>
+        <value lang="ro">Numar Cerere Subiect</value>
+        <value lang="th">รหัสคำร้องของลูกค้า</value>
+        <value lang="zh">客户请求标识</value>
+        <value lang="zh_TW">客戶要求ID</value>
+    </property>
+    <property key="FormFieldTitle_expectedResponsePercent">
+        <value lang="en">Expected Response Percent</value>
+        <value lang="fr">Pourcentage de réponse estimé</value>
+        <value lang="it">Percentuale di risposta stimata</value>
+        <value lang="pt_BR">Porcentagem esperada de respostas</value>
+        <value lang="zh">期望响应百分比</value>
+        <value lang="zh_TW">期望回應百分比</value>
+    </property>
+    <property key="FormFieldTitle_expectedRevenue">
+        <value lang="en">Expected Revenue</value>
+        <value lang="fr">Revenu estimé</value>
+        <value lang="it">Ricavo stimato</value>
+        <value lang="pt_BR">Renda esperada</value>
+        <value lang="zh">期望收入</value>
+        <value lang="zh_TW">期望收入</value>
+    </property>
+    <property key="FormFieldTitle_forecastAmount">
+        <value lang="en">Forecast Amount</value>
+        <value lang="fr">Montant estimé</value>
+        <value lang="it">Importo previsto</value>
+        <value lang="pt_BR">Montante previsto</value>
+        <value lang="zh">预测金额</value>
+        <value lang="zh_TW">預測金額</value>
+    </property>
+    <property key="FormFieldTitle_internalPartyId">
+        <value lang="en">Internal Party Id</value>
+        <value lang="fr">Réf. d'acteur interne</value>
+        <value lang="it">Soggetto interno</value>
+        <value lang="pt_BR">ID de participante interno</value>
+        <value lang="zh">内部会员标识</value>
+        <value lang="zh_TW">內部會員ID</value>
+    </property>
+    <property key="FormFieldTitle_numSent">
+        <value lang="en">Num Sent</value>
+        <value lang="fr">N° envoyé</value>
+        <value lang="it">Num. invio</value>
+        <value lang="pt_BR">Número de envio</value>
+        <value lang="zh">已发送数量</value>
+        <value lang="zh_TW">已發送數量</value>
+    </property>
+    <property key="FormFieldTitle_parentSalesForecastId">
+        <value lang="en">Parent Sales Forecast Id</value>
+        <value lang="fr">Réf. de vente parente estimée</value>
+        <value lang="it">Previsione di vendita padre</value>
+        <value lang="pt_BR">ID da previsão superior de vendas</value>
+        <value lang="zh">上级销售预测标识</value>
+        <value lang="zh_TW">上級銷售預測ID</value>
+    </property>
+    <property key="FormFieldTitle_percentOfQuotaClosed">
+        <value lang="en">Percent Of Quota Closed</value>
+        <value lang="fr">Pourcentage de quota fermé</value>
+        <value lang="it">Quota di percentuale chiusa</value>
+        <value lang="pt_BR">Porcentagem da cota fechada</value>
+        <value lang="zh">已完成指标的百分比</value>
+        <value lang="zh_TW">已完成指標的百分比</value>
+    </property>
+    <property key="FormFieldTitle_percentOfQuotaForecast">
+        <value lang="en">Percent Of Quota Forecast</value>
+        <value lang="fr">Pourcentage de quota estimé</value>
+        <value lang="it">Quota percentuale della previsione di vendita</value>
+        <value lang="pt_BR">Previsão da porcentage de cota</value>
+        <value lang="zh">预测指标的百分比</value>
+        <value lang="zh_TW">預測指標的百分比</value>
+    </property>
+    <property key="FormFieldTitle_pipelineAmount">
+        <value lang="en">Pipeline Amount</value>
+        <value lang="fr">Montant transitoire</value>
+        <value lang="it">Importo di passaggio</value>
+        <value lang="pt_BR">Montnate de fluxo</value>
+        <value lang="zh">渠道金额</value>
+        <value lang="zh_TW">管道金額</value>
+    </property>
+    <property key="FormFieldTitle_prodCatalogId">
+        <value lang="en">Product Catalog Id</value>
+        <value lang="fr">Réf. de catalogue</value>
+        <value lang="it">Catalogo prodotti</value>
+        <value lang="pt_BR">ID de Catálogo do Produto</value>
+        <value lang="ro">Catalog Produse</value>
+        <value lang="th">รหัสหมวดหมู่สินค้า</value>
+        <value lang="zh">产品目录标识</value>
+        <value lang="zh_TW">產品目錄ID</value>
+    </property>
+    <property key="FormFieldTitle_quotaAmount">
+        <value lang="en">Quota Amount</value>
+        <value lang="fr">Montant de quota</value>
+        <value lang="it">Importo quota</value>
+        <value lang="pt_BR">Montante da Cota</value>
+        <value lang="zh">指标金额</value>
+        <value lang="zh_TW">指標金額</value>
+    </property>
+    <property key="FormFieldTitle_salesForecastDetailId">
+        <value lang="en">Sales Forecast Detail Id</value>
+        <value lang="fr">Réf. de détail de vente estimée</value>
+        <value lang="it">Dettaglio previsione di vendita</value>
+        <value lang="pt_BR">ID de detalhes da previsão de vendas</value>
+        <value lang="zh">销售预测细节标识</value>
+        <value lang="zh_TW">銷售預測細節ID</value>
+    </property>
+    <property key="FormFieldTitle_salesForecastId">
+        <value lang="en">Sales Forecast Id</value>
+        <value lang="fr">Réf. de vente estimée</value>
+        <value lang="it">Previsione di vendita</value>
+        <value lang="pt_BR">ID de previsão de vendas</value>
+        <value lang="zh">销售预测标识</value>
+        <value lang="zh_TW">銷售預測ID</value>
+    </property>
+    <property key="MarketingCampaign">
+        <value lang="de">Marketing Kampagne</value>
+        <value lang="en">Marketing Campaign</value>
+        <value lang="es">Campañas</value>
+        <value lang="fr">Campagne marketing</value>
+        <value lang="it">Campagna di vendita</value>
+        <value lang="nl">Marketing campagne</value>
+        <value lang="pt_BR">Campanha de Marketing</value>
+        <value lang="ro">Campania Vanzare</value>
+        <value lang="th">การวางแผนทางการตลาด</value>
+        <value lang="zh">市场攻势</value>
+        <value lang="zh_TW">行銷活動</value>
+    </property>
+    <property key="MarketingCampaignCreate">
+        <value lang="de">Marketing Kampagne erstellen</value>
+        <value lang="en">Create Marketing Campaign</value>
+        <value lang="es">Crear campaña de marketing</value>
+        <value lang="fr">Nouvelle campagne marketing</value>
+        <value lang="it">Nuova campagna di vendita</value>
+        <value lang="nl">Nieuwe Marketing Campagne</value>
+        <value lang="pt_BR">Criar Campanha de Marketing</value>
+        <value lang="ro">Creare Campanie Vanzare</value>
+        <value lang="th">สร้างการวางแผนทางการตลาด</value>
+        <value lang="zh">新建市场攻势</value>
+        <value lang="zh_TW">新建行銷活動</value>
+    </property>
+    <property key="MarketingCampaignId">
+        <value lang="de">Marketing Kampagne ID</value>
+        <value lang="en">Marketing Campaign Id</value>
+        <value lang="es">Campaña</value>
+        <value lang="fr">Réf. de campagne marketing</value>
+        <value lang="it">Codice campagna di vendita</value>
+        <value lang="nl">ID Campagne</value>
+        <value lang="pt_BR">ID de Campanha de Marketing</value>
+        <value lang="ro">Cod Campanie Vanzare</value>
+        <value lang="th">รหัสการวางแผนทางการตลาด</value>
+        <value lang="zh">市场攻势标识</value>
+        <value lang="zh_TW">行銷活動ID</value>
+    </property>
+    <property key="MarketingCampaignInvalidEmailInput">
+        <value lang="de">Falsche E-Mail-Adresse eingegeben.</value>
+        <value lang="en">Invalid email address entered.</value>
+        <value lang="fr">Entrée d'adresse courriel irrecevable</value>
+        <value lang="it">Indirizzo email inserito invalido.</value>
+        <value lang="nl">Fout emailadres opgegeven.</value>
+        <value lang="pt_BR">Endereço de e-mail inválido</value>
+        <value lang="th">เข้าสู่ที่อยู่ของอีเมล์ไม่ได้</value>
+        <value lang="zh">输入的电子邮件地址无效。</value>
+        <value lang="zh_TW">輸入的電子郵件位址無效。</value>
+    </property>
+    <property key="MarketingCampaignName">
+        <value lang="de">Kampagnenname</value>
+        <value lang="en">Campaign Name</value>
+        <value lang="es">Nombre de la campaña</value>
+        <value lang="fr">Nom de la campagne</value>
+        <value lang="it">Nome campagna</value>
+        <value lang="nl">Naam Campagne</value>
+        <value lang="pt_BR">Nome de campanha</value>
+        <value lang="ro">Nume Campanie</value>
+        <value lang="th">ชื่อโครงการ</value>
+        <value lang="zh">攻势名称</value>
+        <value lang="zh_TW">活動名稱</value>
+    </property>
+    <property key="MarketingCampaignReportTitle">
+        <value lang="de">Marketing Kampagne Bericht</value>
+        <value lang="en">Marketing Campaign Report</value>
+        <value lang="es">Informe de campañas de marketing</value>
+        <value lang="fr">Rapport des campagnes de marketing</value>
+        <value lang="it">Report campagne di vendita</value>
+        <value lang="nl">Campaigne Rapport</value>
+        <value lang="pt_BR">Relatório de campanha de marketing</value>
+        <value lang="ro">Tiparire Campanie de Vanzare</value>
+        <value lang="th">รายงานการวางแผนทางการตลาด</value>
+        <value lang="zh">市场攻势报告</value>
+        <value lang="zh_TW">行銷活動報告</value>
+    </property>
+    <property key="MarketingCampaignRoleCreate">
+        <value lang="de">Marketing-Kampagnenrolle erstellen</value>
+        <value lang="en">Create Marketing Campaign Role</value>
+        <value lang="es">Crear rol de campaña de marketing</value>
+        <value lang="fr">Créer le rôle de la campagne marketing</value>
+        <value lang="it">Nuovo ruolo campagna di vendita</value>
+        <value lang="nl">Nieuwe Campagne Rol</value>
+        <value lang="pt_BR">Criar papel de campanha de marketig</value>
+        <value lang="ro">Creare Rol Campanie Vanzare</value>
+        <value lang="th">สร้างสถานะการวางแผนทางการตลาด</value>
+        <value lang="zh">新建市场攻势角色</value>
+        <value lang="zh_TW">新建行銷活動角色</value>
+    </property>
+    <property key="MarketingCampaignSummary">
+        <value lang="de">Kampagnenzusammenfassung</value>
+        <value lang="en">Campaign Summary</value>
+        <value lang="es">Descripción de la campaña</value>
+        <value lang="fr">Résumé de la campagne</value>
+        <value lang="it">Sommario della campagna</value>
+        <value lang="nl">Samenvatting Campagne</value>
+        <value lang="pt_BR">Descrição da campanha</value>
+        <value lang="ro">Sumar Campanie</value>
+        <value lang="th">สรุปโครงการ</value>
+        <value lang="zh">攻势摘要</value>
+        <value lang="zh_TW">活動摘要</value>
+    </property>
+    <property key="MarketingCompanyName">
+        <value lang="de">OFBiz: Vermarktungsmanager</value>
+        <value lang="en">OFBiz: Marketing Manager</value>
+        <value lang="es">OFBiz: Gestión de Marketing</value>
+        <value lang="fr">OFBiz: Gestion du Marketing</value>
+        <value lang="it">OFBiz: Gestione vendite</value>
+        <value lang="nl">OFBiz: Marketing Manager</value>
+        <value lang="pt_BR">OFBiz: Gerente de Marketing</value>
+        <value lang="ro">OFBiz: Gestione Vendite</value>
+        <value lang="th">OFBiz: การจัดการทางการตลาด</value>
+        <value lang="zh">OFBiz: 市场宣传管理</value>
+        <value lang="zh_TW">OFBiz: 行銷管理</value>
+    </property>
+    <property key="MarketingCompanySubtitle">
+        <value lang="ar">جزء من عائلة أوفبيز للتطبيقات الحرة للتسيير</value>
+        <value lang="de">Teil der Open For Business Familie von Open Source Software</value>
+        <value lang="en">Part of the Open For Business Family of Open Source Software</value>
+        <value lang="es">Parte de la familia de software Open For Business de código abierto</value>
+        <value lang="fr">Un module de la famille Open For Business, logiciel libre de gestion d'entreprise.</value>
+        <value lang="it">Un modulo della famiglia di software open source Open For Business</value>
+        <value lang="nl">Deel van de Open For Business-suite van Open Source Software</value>
+        <value lang="pt_BR">Parte da família OfBiz de software de código livre</value>
+        <value lang="pt_PT">Parte da família OfBiz de software de fonte aberta</value>
+        <value lang="ro">Partea de Deschidere Pentru Afaceri Familiale din Open Source Software</value>
+        <value lang="ru">Входит в состав семейства Open For Business</value>
+        <value lang="th">ส่วนหนึ่งของธุรกิจแบบครอบครัวที่เป็นซอฟต์แวร์โอเพนซอส</value>
+        <value lang="zh">开源软件OFBiz家族的一部分</value>
+        <value lang="zh_CN">OFBiz的一部分</value>
+        <value lang="zh_TW">開源軟件OFBiz家族的一部分</value>
+    </property>
+    <property key="MarketingContactList">
+        <value lang="de">Kontaktliste</value>
+        <value lang="en">Contact List</value>
+        <value lang="es">Lista de contactos</value>
+        <value lang="fr">Liste de contacts</value>
+        <value lang="it">Lista contatti</value>
+        <value lang="nl">Contactenlijst</value>
+        <value lang="pt_BR">Lista de contatos</value>
+        <value lang="ro">Lista Contact</value>
+        <value lang="th">รายการติดต่อ</value>
+        <value lang="zh">联系列表</value>
+        <value lang="zh_TW">聯系列表</value>
+    </property>
+    <property key="MarketingContactListCommEventCreate">
+        <value lang="en">Create New Contact List Comm Event</value>
+        <value lang="es">Crear evento de comunicación</value>
+        <value lang="fr">Nouvel évènement de communication de la liste de contact</value>
+        <value lang="it">Nuovo evento comunicazione della lista contatti</value>
+        <value lang="nl">Nieuwe contactenlijst Comm Event</value>
+        <value lang="pt_BR">Criar envento de comunicação</value>
+        <value lang="ro">Creare Noua Lista Contact Eveniment Comunicatie</value>
+        <value lang="th">สร้างรายการผลการติดต่อใหม่</value>
+        <value lang="zh">新建联系列表沟通事件</value>
+        <value lang="zh_TW">新建聯系列表溝通事件</value>
+    </property>
+    <property key="MarketingContactListCommEventId">
+        <value lang="en">Communication Event Id</value>
+        <value lang="es">Código de evento</value>
+        <value lang="fr">Réf. d'évènement de communication</value>
+        <value lang="it">Codice evento comunicazione</value>
+        <value lang="nl">ID Comm Event</value>
+        <value lang="pt_BR">ID de evento de comunicação</value>
+        <value lang="ro">Cod Eveniment Comunicatie</value>
+        <value lang="th">รหัสผลการติดต่อ</value>
+        <value lang="zh">沟通事件标识</value>
+        <value lang="zh_TW">通訊事件ID</value>
+    </property>
+    <property key="MarketingContactListCommEventTypeId">
+        <value lang="en">Communication Event Type Id</value>
+        <value lang="es">Tipo de evento</value>
+        <value lang="fr">Réf. du type d'événement de communication</value>
+        <value lang="it">Tipo evento comunicazione</value>
+        <value lang="pt_BR">ID de tipo de evento de comunicação</value>
+        <value lang="ro">Tip Eveniment Comunicatie</value>
+        <value lang="th">รหัสประเภทผลการติดต่อ</value>
+        <value lang="zh">沟通事件类型标识</value>
+        <value lang="zh_TW">通訊事件類型ID</value>
+    </property>
+    <property key="MarketingContactListCommStatus">
+        <value lang="en">Contact List Communication Status</value>
+        <value lang="pt_BR">Estado da comunicação com Lista de contatos</value>
+        <value lang="zh">联系列表沟通状态</value>
+        <value lang="zh_TW">聯絡列表溝通狀態</value>
+    </property>
+    <property key="MarketingContactListContactListId">
+        <value lang="en">Contact List Id</value>
+        <value lang="es">Código de lista</value>
+        <value lang="fr">Réf. de la liste de contact</value>
+        <value lang="it">Codice lista contatti</value>
+        <value lang="nl">ID Contactenlijst</value>
+        <value lang="pt_BR">ID de lista de contatos</value>
+        <value lang="ro">Cod Lista Contact</value>
+        <value lang="th">รหัสรายการติดต่อ</value>
+        <value lang="zh">联系列表标识</value>
+        <value lang="zh_TW">聯絡列表ID</value>
+    </property>
+    <property key="MarketingContactListContactListName">
+        <value lang="en">Contact List Name</value>
+        <value lang="es">Nombre de lista</value>
+        <value lang="fr">Nom de la liste de contact</value>
+        <value lang="it">Nome lista contatti</value>
+        <value lang="nl">Naam Contactenlijst</value>
+        <value lang="pt_BR">Nome da lista de contatos</value>
+        <value lang="ro">Nume Lista Contact</value>
+        <value lang="th">รายชื่อที่ติดต่อ</value>
+        <value lang="zh">联系列表名称</value>
+        <value lang="zh_TW">聯系列表名稱</value>
+    </property>
+    <property key="MarketingContactListContactListTypeId">
+        <value lang="en">Contact List Type Id</value>
+        <value lang="es">Tipo de lista</value>
+        <value lang="fr">Réf. du type de liste de contact</value>
+        <value lang="it">Tipo lista contatti</value>
+        <value lang="nl">ID Soort Contactenlijst</value>
+        <value lang="pt_BR">ID do tipo de lista de contato</value>
+        <value lang="ro">Tip Lista Contact</value>
+        <value lang="th">รหัสประเภทรายการติดต่อ</value>
+        <value lang="zh">联系列表类型标识</value>
+        <value lang="zh_TW">聯絡列表類型ID</value>
+    </property>
+    <property key="MarketingContactListContactMechTypeId">
+        <value lang="en">Contact Mechanism Type Id</value>
+        <value lang="es">Mecanismo de contacto</value>
+        <value lang="fr">Type de mécanisme de contact </value>
+        <value lang="it">Tipo di contatti</value>
+        <value lang="nl">ID Soort Contact Mechanism</value>
+        <value lang="pt_BR">ID do tipo de mecanismo de contato</value>
+        <value lang="ro">Tip Contact</value>
+        <value lang="th">รหัสประเภทวิธีการติดต่อ</value>
+        <value lang="zh">联系方式类型标识</value>
+        <value lang="zh_TW">聯絡方式類型ID</value>
+    </property>
+    <property key="MarketingContactListCreate">
+        <value lang="en">Create New Contact List</value>
+        <value lang="es">Crear nueva lista de contactos</value>
+        <value lang="fr">Nouvelle liste de contact</value>
+        <value lang="it">Nuova lista contatti</value>
+        <value lang="nl">Nieuwe Contactenlijst</value>
+        <value lang="pt_BR">Criar nova lista de contatos</value>
+        <value lang="ro">Creare Noua Lista Contact</value>
+        <value lang="th">สร้างรายการติดต่อใหม่</value>
+        <value lang="zh">新建联系列表</value>
+        <value lang="zh_TW">新建聯系列表</value>
+    </property>
+    <property key="MarketingContactListFindContactLists">
+        <value lang="en">Find Contact Lists</value>
+        <value lang="fr">Rechercher les listes de contact</value>
+        <value lang="it">Ricerca liste contatti</value>
+        <value lang="nl">Zoek Contactenlijst</value>
+        <value lang="pt_BR">Encontrar lista de contato</value>
+        <value lang="ro">Cauta Liste Contact</value>
+        <value lang="th">ค้นหารายการติดต่อ</value>
+        <value lang="zh">查找联系列表</value>
+        <value lang="zh_TW">查找聯系列表</value>
+    </property>
+    <property key="MarketingContactListIsPublic">
+        <value lang="de">Ist Öffentlich ?</value>
+        <value lang="en">Is Public ?</value>
+        <value lang="es">Es pública ?</value>
+        <value lang="fr">Est publique ?</value>
+        <value lang="it">E' pubblica ?</value>
+        <value lang="nl">Openbaar?</value>
+        <value lang="pt_BR">É pública ?</value>
+        <value lang="ro">Este Public ?</value>
+        <value lang="th">เป็นสาธารณะ ?</value>
+        <value lang="zh">公开吗?</value>
+        <value lang="zh_TW">公開嗎?</value>
+    </property>
+    <property key="MarketingContactListIsSingleUse">
+        <value lang="de">Einmalige Nutzung ?</value>
+        <value lang="en">Is Single Use ?</value>
+        <value lang="fr">Est à usage unique ?</value>
+        <value lang="it">E' a singolo uso ?</value>
+        <value lang="nl">Single Use?</value>
+        <value lang="pt_BR">É de uso único ?</value>
+        <value lang="ro">Este pentru un unic utilizatir?</value>
+        <value lang="th">ใช้ได้ครั้งเดียว ?</value>
+        <value lang="zh">单一用途吗?</value>
+        <value lang="zh_TW">單一用途嗎?</value>
+    </property>
+    <property key="MarketingContactListNotFound">
+        <value lang="en">Could not find email list [${contactListId}].</value>
+        <value lang="fr">Aucune liste de courriel [${contactListId}] trouvée.</value>
+        <value lang="it">Non è possibile trovare la lista e-mail [${contactListId}].</value>
+        <value lang="nl">Contactenlijst [${contactListId}] werd niet gevonden.</value>
+        <value lang="pt_BR">Não foi possível encontrar lista de e-mail [${contactListId}].</value>
+        <value lang="ro">Nu este posibila gasirea listei e-mail [${contactListId}].</value>
+        <value lang="th">ไม่สามารถค้นหารายการติดต่อ [${contactListId}]</value>
+        <value lang="zh">无法找到电子邮件列表 [${contactListId}]。</value>
+        <value lang="zh_TW">無法找到電子郵件列表 [${contactListId}]。</value>
+    </property>
+    <property key="MarketingContactListOptInVerifyCode">
+        <value lang="de">zusätzlicher Bestätigungscode</value>
+        <value lang="en">Opt-In Verify Code</value>
+        <value lang="es">Código de verificación Opt-in</value>
+        <value lang="fr">Code de vérification d'inscription volontaire (Opt-in)</value>
+        <value lang="it">Codice Verifica Opt-In</value>
+        <value lang="nl">Verificatie-code Opt-In</value>
+        <value lang="pt_BR">Código de verificação Opt-In</value>
+        <value lang="ro">Cod Verificare Opt-In</value>
+        <value lang="th">ทางเลือกในการตรวจสอบรหัส</value>
+        <value lang="zh">兴趣验证码</value>
+        <value lang="zh_TW">興趣驗証碼</value>
+    </property>
+    <property key="MarketingContactListOptInVerifyCodeIsMandatory">
+        <value lang="en">No Opt-in Verify Code specified, but one is required.</value>
+        <value lang="it">Nessun codice di verifica Opt-in specificato, ma uno è obbligatorio.</value>
+    </property>
+    <property key="MarketingContactListOptInVerifyCodeNotCorrect">
+        <value lang="en">The Opt-in Verify Code specified [${parameters.optInVerifyCode}] was not correct. Please check the code you were sent.</value>
+        <value lang="it">Il codice di verifia Opt-in specificato [${parameters.optInVerifyCode}] non era corretto. Per favore verificare il codice che ti è stato inviato.</value>
+    </property>
+    <property key="MarketingContactListOwnerPartyId">
+        <value lang="de">Ersteller ID</value>
+        <value lang="en">Owner Party Id</value>
+        <value lang="es">Propietario</value>
+        <value lang="fr">Réf. d'acteur propriétaire</value>
+        <value lang="it">Codice soggetto proprietario</value>
+        <value lang="nl">ID Manager Contactenlijst</value>
+        <value lang="pt_BR">ID do proprietário</value>
+        <value lang="ro">Cod Subiect Proprietar</value>
+        <value lang="th">รหัสของกลุ่มผู้ใช้</value>
+        <value lang="zh">拥有人会员标识</value>
+        <value lang="zh_TW">擁有者成員ID</value>
+    </property>
+    <property key="MarketingContactListParty">
+        <value lang="en">Contact List Party</value>
+        <value lang="es">Participantes</value>
+        <value lang="fr">Abonné à la liste de contact</value>
+        <value lang="it">Membro lista contatti</value>
+        <value lang="nl">Partij Contactlijst</value>
+        <value lang="pt_BR">Participante de Lista de contatos</value>
+        <value lang="ro">Lista Contacte Subiecti</value>
+        <value lang="th">รายการติดต่อกลุ่มผู้ใช้</value>
+        <value lang="zh">联系列表会员</value>
+        <value lang="zh_TW">聯絡列表成員</value>
+    </property>
+    <property key="MarketingContactListPartyCreate">
+        <value lang="en">Create New Contact List Party</value>
+        <value lang="es">Asociar participante</value>
+        <value lang="fr">Créer un nouvel abonné à  la liste de contact</value>
+        <value lang="it">Nuovo membro lista contatti</value>
+        <value lang="nl">Nieuwe Partij Contactenlijst</value>
+        <value lang="pt_BR">Criar novo participante de lista de contatos</value>
+        <value lang="ro">Creare Noua Lista Contact Subiect</value>
+        <value lang="th">สร้างรายการติดต่อกลุ่มผู้ใช้ใหม่</value>
+        <value lang="zh">新建联系列表会员</value>
+        <value lang="zh_TW">新建聯絡列表成員</value>
+    </property>
+    <property key="MarketingContactListPartyId">
+        <value lang="de">Teilnehmer ID</value>
+        <value lang="en">Party Id</value>
+        <value lang="es">Código de participante</value>
+        <value lang="fr">Réf. d'abonné à la liste de contact</value>
+        <value lang="it">Codice membro lista contatti</value>
+        <value lang="nl">ID Deelnemer</value>
+        <value lang="pt_BR">ID de participante</value>
+        <value lang="ro">Cod Subiect</value>
+        <value lang="th">รหัสกลุ่มผู้ใช้</value>
+        <value lang="zh">会员标识</value>
+        <value lang="zh_TW">成員ID</value>
+    </property>
+    <property key="MarketingContactListPartiesImport">
+        <value lang="en">Import Parties</value>
+        <value lang="th">นำเข้ากลุ่มผู้ใช้</value>
+    </property>
+    <property key="MarketingContactListPreferredContactMech">
+        <value lang="en">Preferred Contact Mechanism</value>
+        <value lang="es">Mecanismo de contacto</value>
+        <value lang="fr">Mécanisme de contact favori</value>
+        <value lang="it">Modo di contatto preferito</value>
+        <value lang="nl">Voorkeur Contact Mechanism</value>
+        <value lang="pt_BR">Mecanismo de contato preferencial</value>
+        <value lang="ro">Contact Preferit</value>
+        <value lang="th">วิธีการติดติดต่อลำดับแรก</value>
+        <value lang="zh">优先使用的联系方式</value>
+        <value lang="zh_TW">優先使用的聯系方式</value>
+    </property>
+    <property key="MarketingContactListVerifyEmailFrom">
+        <value lang="de">Bestätigungsemail von</value>
+        <value lang="en">Verify Email From</value>
+        <value lang="es">E-mail de verificación</value>
+        <value lang="fr">Adresse courriel de vérification</value>
+        <value lang="it">Verifica Email da</value>
+        <value lang="nl">Verifieer email van</value>
+        <value lang="pt_BR">Verificação de e-mail de origem</value>
+        <value lang="ro">Verifica Email De la</value>
+        <value lang="th">ตรวจสอบอีเมล์จาก</value>
+        <value lang="zh">验证电子邮件来自</value>
+        <value lang="zh_TW">驗証電子郵件來自</value>
+    </property>
+    <property key="MarketingContactListVerifyEmailScreen">
+        <value lang="de">Bestätigungsemail Inhalt</value>
+        <value lang="en">Verify Email Screen</value>
+        <value lang="es">Pantalla de verificación</value>
+        <value lang="fr">Ecran de vérification du courriel</value>
+        <value lang="it">Schermo di verifica Email</value>
+        <value lang="nl">Verificatiescherm email</value>
+        <value lang="pt_BR">Tela de verificação de e-mail</value>
+        <value lang="ro">Verifica Email Videata</value>
+        <value lang="th">ตรวจสอบอีเมล์</value>
+        <value lang="zh">验证电子邮件屏幕</value>
+        <value lang="zh_TW">驗証電子郵件螢幕</value>
+    </property>
+    <property key="MarketingContactListVerifyEmailSubject">
+        <value lang="de">Bestätigungsemail Betreff</value>
+        <value lang="en">Verify Email Subject</value>
+        <value lang="es">Título del mensaje</value>
+        <value lang="fr">Sujet du courriel de vérification</value>
+        <value lang="it">Verifica Email Soggetto</value>
+        <value lang="nl">Verifieer onderwerp email</value>
+        <value lang="pt_BR">Assunto do e-mail de verificação</value>
+        <value lang="ro">Verifica Email Subiect</value>
+        <value lang="th">ตรวจสอบหัวข้ออีเมล์</value>
+        <value lang="zh">验证电子邮件主题</value>
+        <value lang="zh_TW">驗証電子郵件主題</value>
+    </property>
+    <property key="MarketingContactListVerifyEmailWebSiteId">
+        <value lang="de">Bestätigungsemail Webseiten ID</value>
+        <value lang="en">Verify Email WebSite Id</value>
+        <value lang="es">Sitio web de verificación</value>
+        <value lang="fr">Réf. du site Internet du courriel de vérification</value>
+        <value lang="it">Verifica Email Sito Web</value>
+        <value lang="nl">Verifieer website email</value>
+        <value lang="pt_BR">Site de verificação</value>
+        <value lang="ro">Verifica Email Sit Web</value>
+        <value lang="th">ตรวจสอบรหัสอีเมล์ในเว็บไซต์</value>
+        <value lang="zh">验证电子邮件站点标识</value>
+        <value lang="zh_TW">驗証電子郵件站台ID</value>
+    </property>
+    <property key="MarketingContactMechNotRightForContactList">
+        <value lang="en">The preferred contact mechanism [${preferredContactMechType.description}] was not of the right type for the list [${listContactMechType.description}].</value>
+        <value lang="it">Il contatto preferito [${preferredContactMechType.description}] non era la giusta lista [${listContactMechType.description}].</value>
+    </property>
+    <property key="MarketingConversionRate">
+        <value lang="de">Konversationsrate</value>
+        <value lang="en">Conversion Rate</value>
+        <value lang="es">Factor de conversión</value>
+        <value lang="fr">Taux de conversion</value>
+        <value lang="it">Tasso di Conversione</value>
+        <value lang="nl">Koers conversie</value>
+        <value lang="pt_BR">Taxa de conversão</value>
+        <value lang="ro">Taxa de Conversie</value>
+        <value lang="th">อัตรการเปลี่ยนแปลง</value>
+        <value lang="zh">折算率</value>
+        <value lang="zh_TW">折算率</value>
+    </property>
+    <property key="MarketingCreatePermissionError">
+        <value lang="en">Security Error: to run ${resourceDescription} you must have the MARKETING_CREATE or MARKETING_ADMIN permission</value>
+        <value lang="it">Errore di sicurezza: per eseguire ${resourceDescription} devi avere il permesso MARKETING_CREATE o MARKETING_ADMIN</value>
+    </property>
+    <property key="MarketingDateRange">
+        <value lang="en">Date Range</value>
+        <value lang="es">Rango de fechas</value>
+        <value lang="fr">Intervalle de date</value>
+        <value lang="it">Intervallo di Date</value>
+        <value lang="nl">data-range</value>
+        <value lang="pt_BR">Intervalo de datas</value>
+        <value lang="ro">Interval de Date</value>
+        <value lang="th">ข้อมูลแถว</value>
+        <value lang="zh">日期范围</value>
+        <value lang="zh_TW">日期範圍</value>
+    </property>
+    <property key="MarketingDeletePermissionError">
+        <value lang="en">Security Error: to run ${resourceDescription} you must have the MARKETING_DELETE or MARKETING_ADMIN permission</value>
+        <value lang="it">Errore di sicurezza: per eseguire ${resourceDescription} devi avere il permesso MARKETING_DELETE o MARKETING_ADMIN</value>
+    </property>
+    <property key="MarketingEmailStatusReport">
+        <value lang="de">E-Mail Statusbericht</value>
+        <value lang="en">Email Status Report</value>
+        <value lang="it">Report stato e-mail</value>
+        <value lang="pt_BR">Relatório de estado de e-mail</value>
+    </property>
+    <property key="MarketingFindAccounts">
+        <value lang="en">Find SFA Accounts</value>
+        <value lang="fr">Rechercher les comptes de ventes</value>
+        <value lang="it">Ricerca utenze SFA</value>
+        <value lang="pt_BR">Encontrar contas da equipe de vendas</value>
+        <value lang="th">ค้นหา Account</value>
+        <value lang="zh">查找销售管理账户</value>
+        <value lang="zh_TW">查找銷售管理賬戶</value>
+    </property>
+    <property key="MarketingFindContacts">
+        <value lang="en">Find SFA Contacts</value>
+        <value lang="fr">Rechercher des contacts</value>
+        <value lang="pt_BR">Encontrar contatos da equipe de vendas</value>
+        <value lang="th">ค้นหา Contact</value>
+    </property>
+    <property key="MarketingFindLeads">
+        <value lang="en">Find SFA Leads</value>
+        <value lang="fr">Rechercher des prospects</value>
+        <value lang="pt_BR">Buscar Leads da equipe de vendas</value>
+        <value lang="th">ค้นหา Lead</value>
+    </property>
+    <property key="MarketingMainPage">
+        <value lang="de">Haupt</value>
+        <value lang="en">Main</value>
+        <value lang="es">Principal</value>
+        <value lang="fr">Page d'accueil</value>
+        <value lang="it">Pagina Principale</value>
+        <value lang="nl">Startpagina</value>
+        <value lang="pt_BR">Principal</value>
+        <value lang="ro">Pagina Principala</value>
+        <value lang="th">หน้าหลัก</value>
+        <value lang="zh">首页</value>
+        <value lang="zh_TW">首頁</value>
+    </property>
+    <property key="MarketingManager">
+        <value lang="en">Marketing Manager</value>
+        <value lang="es">Gestión de Marketing</value>
+        <value lang="fr">Application de gestion marketing</value>
+        <value lang="it">Gestione vendite</value>
+        <value lang="nl">Marketing Manager</value>
+        <value lang="pt_BR">Gestão de Marketing</value>
+        <value lang="ro">Aplicatie Gestiune Vanzare</value>
+        <value lang="th">โปรแกรมประยุกต์การจัดการทางการตลาด</value>
+        <value lang="zh">市场管理应用程序</value>
+        <value lang="zh_TW">行銷管理</value>
+    </property>
+    <property key="MarketingManagerApplication">
+        <value lang="en">Marketing Manager Application</value>
+        <value lang="es">Gestión de Marketing</value>
+        <value lang="fr">Application de gestion marketing</value>
+        <value lang="it">Applicazione gestione vendite</value>
+        <value lang="nl">Marketing Managment</value>
+        <value lang="pt_BR">Aplicação de Gestão de Marketing</value>
+        <value lang="ro">Aplicatie Gestiune Vanzare</value>
+        <value lang="th">โปรแกรมประยุกต์การจัดการทางการตลาด</value>
+        <value lang="zh">市场管理应用程序</value>
+        <value lang="zh_TW">行銷管理應用程式</value>
+    </property>
+    <property key="MarketingManagerWelcome">
+        <value lang="en">Welcome to the Marketing Manager!</value>
+        <value lang="fr">Bienvenue dans l'application de gestion du marketing !</value>
+        <value lang="it">Benvenuto nell'applicazione gestione vendite!</value>
+        <value lang="pt_BR">Bem-vindo à aplicação de Gestão de Marketing</value>
+        <value lang="th">ยินดีต้อนรับสู่การจัดการทางการตลาด</value>
+        <value lang="zh">欢迎使用市场管理程序！</value>
+        <value lang="zh_TW">歡迎使用行銷管理程式！</value>
+    </property>
+    <property key="MarketingNoOfEmployees">
+        <value lang="en">No of Employees</value>
+        <value lang="es">Nº Empleados</value>
+        <value lang="fr">N° des employés</value>
+        <value lang="it">N. di impiegati</value>
+        <value lang="pt_BR">Número de empregados</value>
+        <value lang="zh">雇员数量</value>
+        <value lang="zh_TW">雇員數量</value>
+    </property>
+    <property key="MarketingOrderAmount">
+        <value lang="en">Amount of Orders</value>
+        <value lang="es">Cantidad de órdenes</value>
+        <value lang="fr">Montant des commandes</value>
+        <value lang="it">Importo degli Ordini</value>
+        <value lang="nl">Bedrag orders</value>
+        <value lang="pt_BR">Quantidade de pedidos</value>
+        <value lang="ro">Valoare Comenzi</value>
+        <value lang="th">จำนวนการสั่งซื้อสินค้า</value>
+        <value lang="zh">订单金额</value>
+        <value lang="zh_TW">訂單金額</value>
+    </property>
+    <property key="MarketingOrders">
+        <value lang="en">Orders</value>
+        <value lang="es">Órdenes</value>
+        <value lang="fr">Commandes</value>
+        <value lang="it">Ordini</value>
+        <value lang="nl">Orders</value>
+        <value lang="pt_BR">Pedido</value>
+        <value lang="ro">Comenzi</value>
+        <value lang="th">การสั่งซื้อสินค้า</value>
+        <value lang="zh">订单</value>
+        <value lang="zh_TW">訂單</value>
+    </property>
+    <property key="MarketingParentCampaignId">
+        <value lang="en">Parent Campaign Id</value>
+        <value lang="es">Campaña padre</value>
+        <value lang="fr">Réf. de campagne parent</value>
+        <value lang="it">Codice Campagna Padre</value>
+        <value lang="pt_BR">ID de campanha superior</value>
+        <value lang="ro">Cod Campanie Parinte</value>
+        <value lang="th">รหัสกลุ่มผู้วางแผน</value>
+        <value lang="zh">上级攻势标识</value>
+        <value lang="zh_TW">上級活動ID</value>
+    </property>
+    <property key="MarketingPartyStatusReport">
+        <value lang="en">Party Status Report</value>
+        <value lang="it">Report stato soggetti</value>
+        <value lang="pt_BR">Relatório de estado de participante</value>
+    </property>
+    <property key="MarketingReports">
+        <value lang="de">Berichte</value>
+        <value lang="en">Reports</value>
+        <value lang="es">Informes</value>
+        <value lang="fr">Rapports</value>
+        <value lang="it">Report</value>
+        <value lang="nl">Rapporten</value>
+        <value lang="pt_BR">Relatórios</value>
+        <value lang="ro">Tiparire</value>
+        <value lang="th">รายงาน</value>
+        <value lang="zh">报告</value>
+        <value lang="zh_TW">報告</value>
+    </property>
+    <property key="MarketingSegment">
+        <value lang="en">Segment</value>
+        <value lang="es">Segmentos</value>
+        <value lang="fr">Segment</value>
+        <value lang="it">Segmento</value>
+        <value lang="pt_BR">Segmento</value>
+        <value lang="ro">Segment</value>
+        <value lang="th">กลุ่ม</value>
+        <value lang="zh">分区</value>
+        <value lang="zh_TW">分區</value>
+    </property>
+    <property key="MarketingSegmentGroupClassCreate">
+        <value lang="en">Create New Segment Group Classification</value>
+        <value lang="es">Nueva clasificación de segmento</value>
+        <value lang="fr">Créer une nouvelle classification de groupe de segment</value>
+        <value lang="it">Creare Nuova Classificazione Gruppo Segmento</value>
+        <value lang="nl">Nieuwe Classificatie Segmentgroep</value>
+        <value lang="pt_BR">Criar grupo de classificação de segmento</value>
+        <value lang="ro">Creare Noua Clasificare Grup Segment</value>
+        <value lang="th">สร้างการจัดแบ่งประเภทของกลุ่มใหม่</value>
+        <value lang="zh">新建分区组分类</value>
+        <value lang="zh_TW">新建分區組分類</value>
+    </property>
+    <property key="MarketingSegmentGroupClassificationCreatePermissionError">
+        <value lang="en">Error on creation Segment Group Classification</value>
+        <value lang="it">Errore durante la creazione di una nuova classificazione gruppo segmento</value>
+        <value lang="pt_BR">Erro ao criar grupo de classificação de segmento</value>
+        <value lang="zh">创建分区组分类时出错</value>
+        <value lang="zh_TW">創建分區組分類時出錯</value>
+    </property>
+    <property key="MarketingSegmentGroupClassificationDeletePermissionError">
+        <value lang="en">Error on delete Segment Group Classification</value>
+        <value lang="it">Errore durante la cancellazione di una classificazione gruppo segmento</value>
+        <value lang="pt_BR">Erro ao excluir o grupo de classificação de segmento</value>
+        <value lang="zh">删除分区组分类时出错</value>
+        <value lang="zh_TW">刪除分區組分類時出錯</value>
+    </property>
+    <property key="MarketingSegmentGroupClassificationUpdatePermissionError">
+        <value lang="en">Error on update Segment Group Classification</value>
+        <value lang="it">Errore durante l'aggiornamento di una classificazione gruppo segmento</value>
+        <value lang="pt_BR">Erro ao atualizar o grupo de classificação de segmento</value>
+        <value lang="zh">更新分区组分类时出错</value>
+        <value lang="zh_TW">更新分區組分類時出錯</value>
+    </property>
+    <property key="MarketingSegmentGroupCreate">
+        <value lang="en">Create New Segment Group</value>
+        <value lang="es">Nuevo segmento</value>
+        <value lang="fr">Créer un nouveau groupe de segment</value>
+        <value lang="it">Nuovo gruppo di segmento</value>
+        <value lang="nl">Nieuwe Segmentgroep</value>
+        <value lang="pt_BR">Criar novo grupo de segmento</value>
+        <value lang="ro">Creare Nou Grup Segment</value>
+        <value lang="th">สร้างส่วนของกลุ่มใหม่</value>
+        <value lang="zh">新建分区组</value>
+        <value lang="zh_TW">新建分區組</value>
+    </property>
+    <property key="MarketingSegmentGroupCreatePermissionError">
+        <value lang="en">Error on creation Segment Group</value>
+        <value lang="it">Errore durante la creazione di un nuovo gruppo segmento</value>
+        <value lang="pt_BR">Erro ao criar grupo de segmento</value>
+        <value lang="zh">创建分区组时出错</value>
+        <value lang="zh_TW">創建分區組時出錯</value>
+    </property>
+    <property key="MarketingSegmentGroupDeletePermissionError">
+        <value lang="en">Error on delete Segment Group</value>
+        <value lang="it">Errore durante la cancellazione di un gruppo segmento</value>
+        <value lang="pt_BR">Erro ao excluir grupo de segmento</value>
+        <value lang="zh">删除分区组时出错</value>
+        <value lang="zh_TW">刪除分區組時出錯</value>
+    </property>
+    <property key="MarketingSegmentGroupDescription">
+        <value lang="de">Beschreibung</value>
+        <value lang="en">Description</value>
+        <value lang="es">Descripción</value>
+        <value lang="fr">Description</value>
+        <value lang="it">Descrizione</value>
+        <value lang="nl">Omschrijving</value>
+        <value lang="pt_BR">Descrição</value>
+        <value lang="ro">Descriere</value>
+        <value lang="th">รายละเอียด</value>
+        <value lang="zh">描述</value>
+        <value lang="zh_TW">描述</value>
+    </property>
+    <property key="MarketingSegmentGroupGeoCreate">
+        <value lang="en">Create New Segment Group Geo</value>
+        <value lang="es">Nueva ubicación</value>
+        <value lang="fr">Créer une nouvelle zone géographique de groupe de segment</value>
+        <value lang="it">Creare Nuovo Gruppo Segmento Geografia</value>
+        <value lang="nl">Nieuwe GEO Segmentgroep</value>
+        <value lang="pt_BR">Criar nova localização de grupo de segmento</value>
+        <value lang="ro">Creare Nou Grup Segment Geografie</value>
+        <value lang="th">สร้างส่วนของโครงสร้างกลุ่มใหม่</value>
+        <value lang="zh">新建分区组地理</value>
+        <value lang="zh_TW">新建分區組地理</value>
+    </property>
+    <property key="MarketingSegmentGroupGeoCreatePermissionError">
+        <value lang="en">Error on creation Segment Group Geo</value>
+        <value lang="it">Errore durante la creazione di una nuova geo gruppo segmento</value>
+        <value lang="pt_BR">Erro ao griar localização de grupo de segmento</value>
+        <value lang="zh">创建分区组地理时出错</value>
+        <value lang="zh_TW">創建分區組地理時出錯</value>
+    </property>
+    <property key="MarketingSegmentGroupGeoDeletePermissionError">
+        <value lang="en">Error on delete Segment Group Geo</value>
+        <value lang="it">Errore durante la cancellazione di un geo gruppo segmento</value>
+        <value lang="pt_BR">Erro ao excluir localização de grupo de segmento</value>
+        <value lang="zh">删除分区组地理时出错</value>
+        <value lang="zh_TW">刪除分區組地理時出錯</value>
+    </property>
+    <property key="MarketingSegmentGroupGeoUpdatePermissionError">
+        <value lang="en">Error on update Segment Group Geo</value>
+        <value lang="it">Errore durante l'aggiornamento di un nuovo geo gruppo segmento</value>
+        <value lang="pt_BR">Erro ao atualizar a localização de grupo de segmento</value>
+        <value lang="zh">更新分区组地理时出错</value>
+        <value lang="zh_TW">更新分區組地理時出錯</value>
+    </property>
+    <property key="MarketingSegmentGroupMgrViewPermissionError">
+        <value lang="en">Segment Group View Permission Error</value>
+        <value lang="it">Errore permesso di visualizzare i gruppi segmento</value>
+        <value lang="pt_BR">Erro de permissões para visualização de grupo de segmento</value>
+        <value lang="zh">分区组浏览权限出错</value>
+        <value lang="zh_TW">分區組瀏覽權限出錯</value>
+    </property>
+    <property key="MarketingSegmentGroupNoSegmentGroupFoundWithId">
+        <value lang="en">No SegmentGroup found with ID:</value>
+        <value lang="es">No se encontraron segmentos con el ID:</value>
+        <value lang="fr">Aucun groupe de segment trouvé pour la réf. : </value>
+        <value lang="it">Nessun Gruppo Segmento trovato con il codice:</value>
+        <value lang="nl">Geen Segmentgroep gevonden met ID:</value>
+        <value lang="pt_BR">Nenhum Grupo de Segmento encontrado com ID:</value>
+        <value lang="ro">Nici-un Grup Segment gasit cu codul:</value>
+        <value lang="th">ไม่มีส่วนของกลุ่มที่พบจากรหัสนี้ :</value>
+        <value lang="zh">没有找到分区组，标识：</value>
+        <value lang="zh_TW">找不到分區組ID：</value>
+    </property>
+    <property key="MarketingSegmentGroupPartyClassificationGroupId">
+        <value lang="en">Segment GroupParty ClassificationGroup Id</value>
+        <value lang="it">Soggetto gruppo segmento classificazione</value>
+        <value lang="nl">ID Classificatiegroep Segmentgroep</value>
+        <value lang="pt_BR">ID de segmento de grupo de participante classificação de grupo</value>
+        <value lang="zh">分区组会员的分类组标识</value>
+        <value lang="zh_TW">分區組成員的分類組ID</value>
+    </property>
+    <property key="MarketingSegmentGroupPermissionError">
+        <value lang="en">Security Error\: to run ${methodShortDescription} you must have the MARKETING${securityAction} or MARKETING_ADMIN permission</value>
+        <value lang="it">Errore di sicurezza\: per eseguire ${methodShortDescription} devi avere il permesso MARKETING${securityAction} o MARKETING_ADMIN</value>
+    </property>
+    <property key="MarketingSegmentGroupProductStoreId">
+        <value lang="de">Produktgeschäfts-ID</value>
+        <value lang="en">Product Store Id</value>
+        <value lang="es">Tienda</value>
+        <value lang="fr">Réf. de centre de profit</value>
+        <value lang="it">Codice Negozio</value>
+        <value lang="pt_BR">ID do produto</value>
+        <value lang="ro">Cod Magazin</value>
+        <value lang="th">รหัสคลังสินค้า</value>
+        <value lang="zh">产品店铺标识</value>
+        <value lang="zh_TW">產品商店ID</value>
+    </property>
+    <property key="MarketingSegmentGroupRoleCreate">
+        <value lang="en">Create New Segment Group Role</value>
+        <value lang="es">Nuevo rol de segmento</value>
+        <value lang="fr">Créer un nouveau rôle de groupe de segment</value>
+        <value lang="it">Creare Nuovo Ruolo Gruppo Segmento</value>
+        <value lang="nl">Nieuwe rol Segmentgroep</value>
+        <value lang="pt_BR">Criar novo papel de Grupo de segmento</value>
+        <value lang="ro">Creare Nou Rol Grup Segment</value>
+        <value lang="th">สร้างสถานะของกลุ่มใหม่</value>
+        <value lang="zh">新建分区组角色</value>
+        <value lang="zh_TW">新建分區組角色</value>
+    </property>
+    <property key="MarketingSegmentGroupRoleCreatePermissionError">
+        <value lang="en">Error on creation Segment Group Role</value>
+        <value lang="it">Errore durante la creazione di un nuovo ruolo gruppo segmento</value>
+        <value lang="pt_BR">Erro na criação do papel de Grupo de Segmento</value>
+        <value lang="zh">创建分区组角色时出错</value>
+        <value lang="zh_TW">創建分區組角色時出錯</value>
+    </property>
+    <property key="MarketingSegmentGroupRoleDeletePermissionError">
+        <value lang="en">Error on delete Segment Group Role</value>
+        <value lang="it">Errore durante la cancellazione di un nuovo ruolo gruppo segmento</value>
+        <value lang="pt_BR">Erro ao excluir o papel de grupo de segmento</value>
+        <value lang="zh">删除分区组角色时出错</value>
+        <value lang="zh_TW">刪除分區組角色時出錯</value>
+    </property>
+    <property key="MarketingSegmentGroupRoleUpdatePermissionError">
+        <value lang="en">Error on update Segment Group Role</value>
+        <value lang="it">Errore durante l'aggiornamento di un nuovo ruolo gruppo segmento</value>
+        <value lang="pt_BR">Erro ao atualizar o papel de Grupo de Segmento</value>
+        <value lang="zh">更新分区组角色时出错</value>
+        <value lang="zh_TW">更新分區組角色時出錯</value>
+    </property>
+    <property key="MarketingSegmentGroupSegmentGroup">
+        <value lang="en">Segment</value>
+        <value lang="es">Segmentos</value>
+        <value lang="fr">Segment</value>
+        <value lang="it">Segmento</value>
+        <value lang="nl">Segment</value>
+        <value lang="pt_BR">Segmento</value>
+        <value lang="ro">Segment</value>
+        <value lang="th">กลุ่ม</value>
+        <value lang="zh">分区</value>
+        <value lang="zh_TW">分區</value>
+    </property>
+    <property key="MarketingSegmentGroupSegmentGroupClassification">
+        <value lang="en">Classification</value>
+        <value lang="es">Clasificación</value>
+        <value lang="fr">Classification</value>
+        <value lang="it">Classificazione</value>
+        <value lang="pt_BR">Classificação</value>
+        <value lang="ro">Clasificare</value>
+        <value lang="th">จัดแบ่งประเภทหมวดหมู่</value>
+        <value lang="zh">分类</value>
+        <value lang="zh_TW">分類</value>
+    </property>
+    <property key="MarketingSegmentGroupSegmentGroupGeo">
+        <value lang="de">Gebiet</value>
+        <value lang="en">Geo</value>
+        <value lang="es">Ubicación</value>
+        <value lang="fr">Zone géographique</value>
+        <value lang="it">Geografia</value>
+        <value lang="nl">GEO</value>
+        <value lang="pt_BR">Localização</value>
+        <value lang="ro">Geografie</value>
+        <value lang="th">โครงสร้าง</value>
+        <value lang="zh">地理</value>
+        <value lang="zh_TW">地理</value>
+    </property>
+    <property key="MarketingSegmentGroupSegmentGroupId">
+        <value lang="en">Segment Group Id</value>
+        <value lang="es">Código de segmento</value>
+        <value lang="fr">Réf. du groupe de segment</value>
+        <value lang="it">Codice Gruppo Segmento</value>
+        <value lang="nl">ID Segmentgroep</value>
+        <value lang="pt_BR">ID de Grupo de Segmento</value>
+        <value lang="ro">Cod Grup Segment</value>
+        <value lang="th">รหัสส่วนของกลุ่ม</value>
+        <value lang="zh">分区组标识</value>
+        <value lang="zh_TW">分區群組ID</value>
+    </property>
+    <property key="MarketingSegmentGroupSegmentGroupLookup">
+        <value lang="en">Find</value>
+        <value lang="es">Buscar</value>
+        <value lang="fr">Rechercher</value>
+        <value lang="it">Ricerca</value>
+        <value lang="nl">Vinden</value>
+        <value lang="pt_BR">Procurar</value>
+        <value lang="ro">Cauta</value>
+        <value lang="th">ค้นหา</value>
+        <value lang="zh">查找</value>
+        <value lang="zh_TW">查找</value>
+    </property>
+    <property key="MarketingSegmentGroupSegmentGroupRole">
+        <value lang="de">Funktion</value>
+        <value lang="en">Role</value>
+        <value lang="es">Rol</value>
+        <value lang="fr">Rôle</value>
+        <value lang="it">Ruolo</value>
+        <value lang="nl">Rol</value>
+        <value lang="pt_BR">Papel</value>
+        <value lang="ro">Rol</value>
+        <value lang="th">สถานะ</value>
+        <value lang="zh">角色</value>
+        <value lang="zh_TW">角色</value>
+    </property>
+    <property key="MarketingSegmentGroupSegmentGroupType">
+        <value lang="de">Art</value>
+        <value lang="en">Type</value>
+        <value lang="es">Tipo</value>
+        <value lang="fr">Type</value>
+        <value lang="it">Tipo</value>
+        <value lang="nl">Soort</value>
+        <value lang="pt_BR">Tipo</value>
+        <value lang="ro">Tip</value>
+        <value lang="th">ประเภท</value>
+        <value lang="zh">类型</value>
+        <value lang="zh_TW">類型</value>
+    </property>
+    <property key="MarketingSegmentGroupSegmentGroupTypeId">
+        <value lang="en">Segment Group Type Id</value>
+        <value lang="es">Tipo de segmento</value>
+        <value lang="fr">Réf. du type de groupe de segment</value>
+        <value lang="it">Tipo Gruppo Segmento</value>
+        <value lang="nl">ID Type Segmentgroep</value>
+        <value lang="pt_BR">ID de tipo de Grupo de Segmento</value>
+        <value lang="ro">Tip Grup Segment</value>
+        <value lang="th">รหัสประเภทของกลุ่ม</value>
+        <value lang="zh">分区组类型标识</value>
+        <value lang="zh_TW">分區群組類型ID</value>
+    </property>
+    <property key="MarketingSegmentGroupUpdatePermissionError">
+        <value lang="en">Error on update Segment Group</value>
+        <value lang="it">Errore durante l'aggiornamento di un gruppo segmento</value>
+        <value lang="pt_BR">Erro ao atualizar Grupo de Segmento</value>
+        <value lang="zh">更新分区组时出错</value>
+        <value lang="zh_TW">更新分區組時出錯</value>
+    </property>
+    <property key="MarketingServiceError">
+        <value lang="en">There was a problem processing your request.  Please try again.  If the problem persists, please contact us.</value>
+        <value lang="fr">Il y a eu un problème durant le traitement de votre demande. SVP, essayez encore. Si le problème persiste, contactez-nous, merci.</value>
+        <value lang="it">C'è stato un problema durante l'esecuzione della tua richiesta. Prego riprovare. Se il problema persiste, contattaci, grazie.</value>
+        <value lang="pt_BR">Houve um erro ao processar seu pedido. Por favor, tente novamente. Se o problema persistir, entre em contato conosco.</value>
+        <value lang="th">มีปัญหาในการประมวลผลคำร้องของคุณ กรุณาลองอีกครั้ง ถ้ายังเกิดปัญหาเหมือนเดิม กรุณาติดต่อเรา</value>
+        <value lang="zh">处理你的请求时出错。请重试。如果仍然出错，请与我们联系。</value>
+        <value lang="zh_TW">處理你的請求時出錯。請重試。如果仍然出錯，請與我們聯系。</value>
+    </property>
+    <property key="MarketingTracking">
+        <value lang="en">Tracking</value>
+        <value lang="es">Seguimiento</value>
+        <value lang="fr">Suivi</value>
+        <value lang="it">Tracciatura</value>
+        <value lang="pt_BR">Rastreio</value>
+        <value lang="ro">Traseu</value>
+        <value lang="th">การติดตาม</value>
+        <value lang="zh">跟踪</value>
+        <value lang="zh_TW">跟蹤</value>
+    </property>
+    <property key="MarketingTrackingCode">
+        <value lang="en">Tracking Code</value>
+        <value lang="es">Seguimiento</value>
+        <value lang="fr">Code de suivi</value>
+        <value lang="it">Codice Tracciatura</value>
+        <value lang="pt_BR">Código para rastreio</value>
+        <value lang="ro">Cod Traseu</value>
+        <value lang="th">รหัส Tracking</value>
+        <value lang="zh">跟踪码</value>
+        <value lang="zh_TW">跟蹤碼</value>
+    </property>
+    <property key="MarketingTrackingCodeBillableLifetime">
+        <value lang="en">Billable Lifetime</value>
+        <value lang="es">Tiempo de facturación</value>
+        <value lang="fr">Durée de vie facturable</value>
+        <value lang="it">Tempo di Vita Fatturabile</value>
+        <value lang="nl">Declareerbare levensduur</value>
+        <value lang="pt_BR">Tempo de faturamento</value>
+        <value lang="ro">Timp de Viata Facturabila</value>
+        <value lang="th">ใบเสร็จรับเงินใช้ได้ตลอดเวลา</value>
+        <value lang="zh">可记账期限</value>
+        <value lang="zh_TW">可記賬期限</value>
+    </property>
+    <property key="MarketingTrackingCodeComments">
+        <value lang="de">Kommentare</value>
+        <value lang="en">Comments</value>
+        <value lang="es">Comentarios</value>
+        <value lang="fr">Commentaires</value>
+        <value lang="it">Commenti</value>
+        <value lang="nl">Opmerkingen</value>
+        <value lang="pt_BR">Comentários</value>
+        <value lang="ro">Comentarii</value>
+        <value lang="th">ความคิดเห็น</value>
+        <value lang="zh">评论</value>
+        <value lang="zh_TW">評論</value>
+    </property>
+    <property key="MarketingTrackingCodeCreate">
+        <value lang="en">Create Tracking Code</value>
+        <value lang="es">Crear seguimiento</value>
+        <value lang="fr">Nouveau code de suivi</value>
+        <value lang="it">Nuovo codice tracciatura</value>
+        <value lang="nl">Nieuwe Tracking Code</value>
+        <value lang="pt_BR">Criar código de rastreio</value>
+        <value lang="ro">Creare Cod Traseu</value>
+        <value lang="th">สร้างรหัส Tracking</value>
+        <value lang="zh">新建跟踪码</value>
+        <value lang="zh_TW">新建跟蹤碼</value>
+    </property>
+    <property key="MarketingTrackingCodeDefaultProdCatalogId">
+        <value lang="en">Default Product Catalog Id</value>
+        <value lang="es">Catálogo</value>
+        <value lang="fr">Réf. du catalogue produit par défault</value>
+        <value lang="it">Codice Catalogo Default</value>
+        <value lang="nl">Standaard catalogus</value>
+        <value lang="pt_BR">ID do Catálogo de Produtos Padrão</value>
+        <value lang="ro">Cod Catalog Default</value>
+        <value lang="th">รหัสหมวดหมู่สินค้าทั่วไป</value>
+        <value lang="zh">缺省产品目录标识</value>
+        <value lang="zh_TW">預設產品目錄ID</value>
+    </property>
+    <property key="MarketingTrackingCodeDescription">
+        <value lang="de">Beschreibung</value>
+        <value lang="en">Description</value>
+        <value lang="es">Descripción</value>
+        <value lang="fr">Description</value>
+        <value lang="it">Descrizione</value>
+        <value lang="nl">Omschrijving</value>
+        <value lang="pt_BR">Descrição</value>
+        <value lang="ro">Descriere</value>
+        <value lang="th">รายละเอียด</value>
+        <value lang="zh">描述</value>
+        <value lang="zh_TW">描述</value>
+    </property>
+    <property key="MarketingTrackingCodeGroupId">
+        <value lang="en">Group Id</value>
+        <value lang="es">Grupo</value>
+        <value lang="fr">Réf. du groupe</value>
+        <value lang="it">Codice Gruppo</value>
+        <value lang="nl">ID Groep</value>
+        <value lang="pt_BR">ID do Grupo</value>
+        <value lang="ro">Cod Grup</value>
+        <value lang="th">รหัสกลุ่ม</value>
+        <value lang="zh">组标识</value>
+        <value lang="zh_TW">群組ID</value>
+    </property>
+    <property key="MarketingTrackingCodeInSeconds">
+        <value lang="en">Seconds</value>
+        <value lang="es">Segundos</value>
+        <value lang="fr">Secondes</value>
+        <value lang="it">Secondi</value>
+        <value lang="nl">Secondes</value>
+        <value lang="pt_BR">Segundos</value>
+        <value lang="ro">Secunde</value>
+        <value lang="th">ลำดับที่สอง</value>
+        <value lang="zh">秒</value>
+        <value lang="zh_TW">秒</value>
+    </property>
+    <property key="MarketingTrackingCodeNoOverrideIfEmpty">
+        <value lang="en">No override (co-brand) if empty</value>
+        <value lang="es">Si este campo queda vacío no se reemplazará</value>
+        <value lang="fr">Aucun remplacement (marque associée) si vide</value>
+        <value lang="it">Nessuna sovrapposizione (co-brand) se vuoto</value>
+        <value lang="pt_BR">Não haverá sobreposição se este campo estiver vazio</value>
+        <value lang="ro">Nu se poate suprascrie (marca-asociata) daca este gol.</value>
+        <value lang="th">ไม่มีการยกเลิก (ยี่ห้อสินค้าร่วมกัน) ถ้าว่าง</value>
+        <value lang="zh">如果为空，不作替代 (联合品牌)</value>
+        <value lang="zh_TW">如果為空，不作替代 (聯合品牌)</value>
+    </property>
+    <property key="MarketingTrackingCodeNoRedirectIfEmpty">
+        <value lang="en">No redirect if empty</value>
+        <value lang="es">Si este campo queda vacío no habrá redirección</value>
+        <value lang="fr">Aucune redirection si vide</value>
+        <value lang="it">Nessun redirect se vuoto</value>
+        <value lang="pt_BR">Não haverá redirecionamento se este campo estiver vazio</value>
+        <value lang="ro">Daca este gol nu poate fi redirectionat</value>
+        <value lang="th">ไม่มีการเปลี่ยนถ้าว่าง</value>
+        <value lang="zh">如果为空，不重定向</value>
+        <value lang="zh_TW">如果為空，不重定向</value>
+    </property>
+    <property key="MarketingTrackingCodeOrder">
+        <value lang="en">Tracking Code Orders</value>
+        <value lang="es">Órdenes de seguimiento</value>
+        <value lang="fr">Codes de suivi des commandes</value>
+        <value lang="it">Codice Tracciatura Ordini</value>
+        <value lang="pt_BR">Código de rastreio de pedidos</value>
+        <value lang="ro">Cod Traseu Comenzi</value>
+        <value lang="th">รหัส Tracking การสั่งซื้อสินค้า</value>
+        <value lang="zh">跟踪码定订单</value>
+        <value lang="zh_TW">跟蹤碼定訂單</value>
+    </property>
+    <property key="MarketingTrackingCodeOrderIsBilliable">
+        <value lang="en">Is Billable ?</value>
+        <value lang="es">Es facturable ?</value>
+        <value lang="fr">Facturable ?</value>
+        <value lang="it">E' Fatturabile ?</value>
+        <value lang="pt_BR">É faturável ?</value>
+        <value lang="ro">Este Facturabil ?</value>
+        <value lang="th">เป็นใบเสร็จที่ใช้ได้ ?</value>
+        <value lang="zh">可记账吗?</value>
+        <value lang="zh_TW">可記賬嗎?</value>
+    </property>
+    <property key="MarketingTrackingCodeOrderOrderId">
+        <value lang="en">Order Id</value>
+        <value lang="es">Código de orden</value>
+        <value lang="fr">Réf. de l'ordre</value>
+        <value lang="it">Numero Ordine</value>
+        <value lang="pt_BR">ID do pedido</value>
+        <value lang="ro">Numar Comanda</value>
+        <value lang="th">รหัสการสั่งซื้อสินค้า</value>
+        <value lang="zh">订单标识</value>
+        <value lang="zh_TW">訂單ID</value>
+    </property>
+    <property key="MarketingTrackingCodeOverrideCss">
+        <value lang="en">Override CSS URL</value>
+        <value lang="es">CSS</value>
+        <value lang="fr">URL de la CSS de remplacement</value>
+        <value lang="it">Sostituzione URL CSS</value>
+        <value lang="pt_BR">Sobrepor URL de CSS</value>
+        <value lang="ro">Substitutie URL CSS</value>
+        <value lang="th">ยกเลิก CSS URL</value>
+        <value lang="zh">替代风格页网址</value>
+        <value lang="zh_TW">替代風格頁網址</value>
+    </property>
+    <property key="MarketingTrackingCodeOverrideLogo">
+        <value lang="en">Override Logo URL</value>
+        <value lang="es">Logo</value>
+        <value lang="fr">URL de l'image logo de remplacement</value>
+        <value lang="it">Sostituzione URL Logo</value>
+        <value lang="nl">Logo</value>
+        <value lang="pt_BR">Sobrepor URL do logo</value>
+        <value lang="ro">Substitutie URL Logo</value>
+        <value lang="th">ยกเลิกโลโก้ URL</value>
+        <value lang="zh">替代徽标网址</value>
+        <value lang="zh_TW">替代徽標網址</value>
+    </property>
+    <property key="MarketingTrackingCodeProdCatalogId">
+        <value lang="en">Tracking Code Prod Catalog Id</value>
+        <value lang="fr">Réf. de code de suivi de catalogue</value>
+        <value lang="it">Codice tracciatura catalogo</value>
+        <value lang="pt_BR">ID do produto do Código de rastreio</value>
+        <value lang="zh">跟踪码产品目录标识</value>
+        <value lang="zh_TW">追蹤碼產品目錄ID</value>
+    </property>
+    <property key="MarketingTrackingCodeRedirectUrl">
+        <value lang="en">Redirect URL</value>
+        <value lang="es">URL</value>
+        <value lang="fr">URL de redirection</value>
+        <value lang="it">Ridirezione URL</value>
+        <value lang="pt_BR">URL de redirecionamento</value>
+        <value lang="ro">Redirectie URL</value>
+        <value lang="th">เปลี่ยน URL</value>
+        <value lang="zh">重定向网址</value>
+        <value lang="zh_TW">重定向網址</value>
+    </property>
+    <property key="MarketingTrackingCodeReportTitle">
+        <value lang="en">Tracking Code Report</value>
+        <value lang="es">Informe de seguimientos</value>
+        <value lang="fr">Rapport de code de suivi</value>
+        <value lang="it">Report codici tracciatura</value>
+        <value lang="pt_BR">Relatório de código de rastreio</value>
+        <value lang="ro">Tiparire Cod Traseu</value>
+        <value lang="th">รหัส Tracking</value>
+        <value lang="zh">跟踪码报告</value>
+        <value lang="zh_TW">跟蹤碼報告</value>
+    </property>
+    <property key="MarketingTrackingCodeSubgroupId">
+        <value lang="en">Sub-Group Id</value>
+        <value lang="es">Sub-grupo</value>
+        <value lang="fr">Réf. du sous-groupe</value>
+        <value lang="it">Codice Sotto-Gruppo</value>
+        <value lang="pt_BR">ID de subgrupo</value>
+        <value lang="ro">Cod Sub-Grup</value>
+        <value lang="th">รหัสกลุ่มย่อย</value>
+        <value lang="zh">下级组标识</value>
+        <value lang="zh_TW">次級群組ID</value>
+    </property>
+    <property key="MarketingTrackingCodeTrackableLifetime">
+        <value lang="en">Trackable Lifetime</value>
+        <value lang="es">Tiempo de vida</value>
+        <value lang="fr">Durée de vie du suivi</value>
+        <value lang="it">Tracciatura Tempo di Vita</value>
+        <value lang="pt_BR">Tempo de vida</value>
+        <value lang="ro">Traseu Timp de Viata</value>
+        <value lang="th">เส้นทางที่ใช้ได้ตลอดเวลา</value>
+        <value lang="zh">可跟踪期限</value>
+        <value lang="zh_TW">追蹤期限</value>
+    </property>
+    <property key="MarketingTrackingCodeTrackingCodeId">
+        <value lang="en">Tracking Code Id</value>
+        <value lang="es">Código</value>
+        <value lang="fr">Réf. du code de suivi</value>
+        <value lang="it">Codice Tracciatura</value>
+        <value lang="pt_BR">ID de código de rastreio</value>
+        <value lang="ro">Code Traseu</value>
+        <value lang="th">รหัส Tracking</value>
+        <value lang="zh">跟踪码标识</value>
+        <value lang="zh_TW">追蹤碼ID</value>
+    </property>
+    <property key="MarketingTrackingCodeTrackingCodeTypeId">
+        <value lang="en">Tracking Code Type Id</value>
+        <value lang="es">Tipo de código</value>
+        <value lang="fr">Type de code de suivi</value>
+        <value lang="it">Tipo Tracciatura</value>
+        <value lang="pt_BR">ID de tipo de código de rastreio</value>
+        <value lang="ro">Tip Traseu</value>
+        <value lang="th">รหัสประเภทรหัส Tracking</value>
+        <value lang="zh">跟踪码类型标识</value>
+        <value lang="zh_TW">追蹤碼類型ID</value>
+    </property>
+    <property key="MarketingTrackingCodeType">
+        <value lang="en">Tracking Code Type</value>
+        <value lang="es">Tipo de seguimiento</value>
+        <value lang="fr">Type de code de suivi</value>
+        <value lang="it">Tipo tracciatura</value>
+        <value lang="pt_BR">Tipo de código de rastreio</value>
+        <value lang="ro">Tip Cod Traseu</value>
+        <value lang="th">ประเภทรหัส Tracking</value>
+        <value lang="zh">跟踪码类型</value>
+        <value lang="zh_TW">跟蹤碼類型</value>
+    </property>
+    <property key="MarketingTrackingCodeTypeCreate">
+        <value lang="en">Create Tracking Code Type</value>
+        <value lang="es">Crear tipo de seguimiento</value>
+        <value lang="fr">Nouveau type de code de suivi</value>
+        <value lang="it">Nuovo tipo tracciatura</value>
+        <value lang="pt_BR">Criar tipo de código de rastreio</value>
+        <value lang="ro">Creare Tip Traseu</value>
+        <value lang="th">สร้างประเภทรหัส Tracking</value>
+        <value lang="zh">新建跟踪码类型</value>
+        <value lang="zh_TW">新建跟蹤碼類型</value>
+    </property>
+    <property key="MarketingTrackingCodeTypeDescription">
+        <value lang="de">Beschreibung</value>
+        <value lang="en">Description</value>
+        <value lang="es">Descripción</value>
+        <value lang="fr">Description</value>
+        <value lang="it">Descrizione</value>
+        <value lang="pt_BR">Descrição</value>
+        <value lang="ro">Descriere</value>
+        <value lang="th">รายละเอียด</value>
+        <value lang="zh">描述</value>
+        <value lang="zh_TW">描述</value>
+    </property>
+    <property key="MarketingTrackingCodeVisit">
+        <value lang="en">Tracking Code Visits</value>
+        <value lang="es">Visitas de seguimiento</value>
+        <value lang="fr">Codes de suivi des visites</value>
+        <value lang="it">Codice Tracciatura Visite</value>
+        <value lang="pt_BR">Visitas ao código de rastreio</value>
+        <value lang="ro">Cod Traseu Vizite</value>
+        <value lang="th">รหัส Tracking ของการเยี่ยมชม</value>
+        <value lang="zh">跟踪码访问</value>
+        <value lang="zh_TW">跟蹤碼訪問</value>
+    </property>
+    <property key="MarketingTrackingCodeVisitClientHostName">
+        <value lang="en">Client Hostname</value>
+        <value lang="es">Host</value>
+        <value lang="fr">Nom d'hôte du client</value>
+        <value lang="it">Nome Host Client</value>
+        <value lang="pt_BR">Nome do Host do cliente</value>
+        <value lang="ro">Nume Host Client</value>
+        <value lang="th">ชื่อเจ้าของเครื่องคอมพิวเตอร์ในเครือข่าย</value>
+        <value lang="zh">客户端主机名</value>
+        <value lang="zh_TW">客戶端主機名</value>
+    </property>
+    <property key="MarketingTrackingCodeVisitClientIpAddress">
+        <value lang="en">Client IP Address</value>
+        <value lang="es">Dirección IP</value>
+        <value lang="fr">Adresse IP du client</value>
+        <value lang="it">Indirizzo IP Client</value>
+        <value lang="pt_BR">Número IP do cliente</value>
+        <value lang="ro">Adresa IP Client</value>
+        <value lang="th">ที่อยู่ IP ของเครื่องคอมพิวเตอร์ในเครือข่าย</value>
+        <value lang="zh">客户端IP地址</value>
+        <value lang="zh_TW">客戶端IP位址</value>
+    </property>
+    <property key="MarketingTrackingCodeVisitContactMechTypeId">
+        <value lang="en">Contact Mechanism Type</value>
+        <value lang="es">Mecanismo de contacto</value>
+        <value lang="fr">Type de coordonnées</value>
+        <value lang="it">Tipo Contatto</value>
+        <value lang="pt_BR">Tipo de mecanismo de contato</value>
+        <value lang="ro">Tip Contact</value>
+        <value lang="th">ประเภทวิธีการสื่อสาร</value>
+        <value lang="zh">联系方式类型</value>
+        <value lang="zh_TW">聯系方式類型</value>
+    </property>
+    <property key="MarketingTrackingCodeVisitPartyId">
+        <value lang="de">Teilnehmer ID</value>
+        <value lang="en">Party Id</value>
+        <value lang="es">Participante</value>
+        <value lang="fr">Réf. de l'acteur</value>
+        <value lang="it">Codice Soggetto</value>
+        <value lang="pt_BR">ID de participante</value>
+        <value lang="ro">Cod Subiect</value>
+        <value lang="th">รหัสกลุ่มผู้ใช้</value>
+        <value lang="zh">会员标识</value>
+        <value lang="zh_TW">成員ID</value>
+    </property>
+    <property key="MarketingTrackingCodeVisitRoleTypeId">
+        <value lang="de">Funktionstyp ID</value>
+        <value lang="en">Role Type Id</value>
+        <value lang="es">Tipo de rol</value>
+        <value lang="fr">Type de rôle</value>
+        <value lang="it">Tipo Ruolo</value>
+        <value lang="pt_BR">ID de tipo de papel</value>
+        <value lang="ro">Tip Rol</value>
+        <value lang="th">รหัสประเภทสถานะ</value>
+        <value lang="zh">角色类型标识</value>
+        <value lang="zh_TW">角色類型ID</value>
+    </property>
+    <property key="MarketingTrackingCodeVisitSessionId">
+        <value lang="en">Session Id</value>
+        <value lang="es">Código de sesión</value>
+        <value lang="fr">Réf. de la session</value>
+        <value lang="it">Numero Sessione</value>
+        <value lang="pt_BR">ID de sessão</value>
+        <value lang="ro">Numar Seziune</value>
+        <value lang="th">รหัสการประชุม</value>
+        <value lang="zh">会话标识</value>
+        <value lang="zh_TW">活動ID</value>
+    </property>
+    <property key="MarketingTrackingCodeVisitSourceEnumId">
+        <value lang="en">Source Id</value>
+        <value lang="es">Código de fuente de la visita</value>
+        <value lang="fr">Réf. de l'origine</value>
+        <value lang="it">Numero Origine</value>
+        <value lang="pt_BR">ID de origem</value>
+        <value lang="ro">Numar Origine</value>
+        <value lang="th">รหัสแหล่งที่มา</value>
+        <value lang="zh">源标识</value>
+        <value lang="zh_TW">來源ID</value>
+    </property>
+    <property key="MarketingTrackingCodeVisitUserLoginId">
+        <value lang="en">Tracking Code Visit User Login Id</value>
+        <value lang="fr">Réf. de code de suivi de visite d'identifiant de connexion</value>
+        <value lang="it">Codice tracciatura utente visita</value>
+        <value lang="pt_BR">ID da vista do usuário ao código de rastreio</value>
+        <value lang="zh">跟踪码访问的用户登录标识</value>
+        <value lang="zh_TW">追蹤碼拜訪的使用者登入ID</value>
+    </property>
+    <property key="MarketingTrackingCodeVisitVisitId">
+        <value lang="en">Visit Id</value>
+        <value lang="es">Código de visita</value>
+        <value lang="fr">Réf. de la visite</value>
+        <value lang="it">Numero Visita</value>
+        <value lang="pt_BR">ID de visita</value>
+        <value lang="ro">Numar Vizita</value>
+        <value lang="th">รหัสการเยี่ยมชม</value>
+        <value lang="zh">访问标识</value>
+        <value lang="zh_TW">拜訪ID</value>
+    </property>
+    <property key="MarketingTrackingCodeVisitVisitorId">
+        <value lang="en">Visitor Id</value>
+        <value lang="es">Código de visitante</value>
+        <value lang="fr">Réf. du visiteur</value>
+        <value lang="it">Codice Visitatore</value>
+        <value lang="pt_BR">ID do visitante</value>
+        <value lang="ro">Cod Vizita</value>
+        <value lang="th">รหัสผู้เยี่ยมชม</value>
+        <value lang="zh">访问者标识</value>
+        <value lang="zh_TW">拜訪者ID</value>
+    </property>
+    <property key="MarketingTrackingCodeVisitWebappName">
+        <value lang="en">Webapp Name</value>
+        <value lang="es">Nombre de aplicación web</value>
+        <value lang="fr">Nom de l'application Web</value>
+        <value lang="it">Nome Applicazione Web</value>
+        <value lang="pt_BR">Nome da aplicação Web</value>
+        <value lang="ro">Nume Aplicatie Web</value>
+        <value lang="th">ชื่อโปรแกรมประยุต์บนเว็บ</value>
+        <value lang="zh">Web应用名称</value>
+        <value lang="zh_TW">Web應用名稱</value>
+    </property>
+    <property key="MarketingUpdatePermissionError">
+        <value lang="en">Security Error: to run ${resourceDescription} you must have the MARKETING_UPDATE or MARKETING_ADMIN permission</value>
+        <value lang="it">Errore di sicurezza: per eseguire ${resourceDescription} devi avere il permesso MARKETING_UPDATE o MARKETING_ADMIN</value>
+    </property>
+    <property key="MarketingViewPermissionError">
+        <value lang="en">View Permission Error</value>
+        <value lang="es">Usted no cuenta con permiso de acceso</value>
+        <value lang="fr">Vous n'avez pas l'autorisation de voir</value>
+        <value lang="it">Mostra Errore Permessi</value>
+        <value lang="pt_BR">Erro - você não possui permissão de acesso</value>
+        <value lang="ro">Afiseaza Eroare Permisii</value>
+        <value lang="th">แสดงความผิดพลาดในการอนุญาต</value>
+        <value lang="zh">浏览权限错误</value>
+        <value lang="zh_TW">瀏覽權限錯誤</value>
+    </property>
+    <property key="MarketingVisits">
+        <value lang="en">Visits</value>
+        <value lang="es">Visitas</value>
+        <value lang="fr">Visites</value>
+        <value lang="it">Visite</value>
+        <value lang="pt_BR">Visitas</value>
+        <value lang="ro">Vizite</value>
+        <value lang="th">การเยี่ยมชม</value>
+        <value lang="zh">访问</value>
+        <value lang="zh_TW">訪問</value>
+    </property>
+    <property key="PageTitleAccountSummary">
+        <value lang="en">Account Summary</value>
+        <value lang="fr">Résumé de compte</value>
+        <value lang="it">Sommario utente</value>
+        <value lang="pt_BR">Resumo da conta</value>
+        <value lang="zh">账户总览</value>
+        <value lang="zh_TW">賬戶總覽</value>
+    </property>
+    <property key="PageTitleAddContactList">
+        <value lang="en">Add Contact List</value>
+        <value lang="es">Nueva lista de contactos</value>
+        <value lang="fr">Ajouter une liste de contact</value>
+        <value lang="it">Aggiungi lista contatti</value>
+        <value lang="pt_BR">Adicionar lista de contatos</value>
+        <value lang="ro">Adauga Lista Contact</value>
+        <value lang="th">เพิ่มรายการติดต่อ</value>
+        <value lang="zh">添加联系列表</value>
+        <value lang="zh_TW">添加聯系列表</value>
+    </property>
+    <property key="PageTitleAddMarketingCampaign">
+        <value lang="en">Add New Marketing Campaign</value>
+        <value lang="es">Nueva campaña de marketing</value>
+        <value lang="fr">Ajouter une nouvelle campagne de marketing</value>
+        <value lang="it">Aggiungi nuova campagna di vendita</value>
+        <value lang="pt_BR">Adicionar nova Campanha de Marketing</value>
+        <value lang="ro">Adauga Noua Campanie Marketing</value>
+        <value lang="th">เพิ่มแผนการตลาดใหม่</value>
+        <value lang="zh">新建市场攻势</value>
+        <value lang="zh_TW">新建行銷活動</value>
+    </property>
+    <property key="PageTitleAddTrackingCode">
+        <value lang="en">Add New Tracking Code</value>
+        <value lang="es">Nuevo código de seguimiento</value>
+        <value lang="fr">Ajouter un nouveau code de suivi</value>
+        <value lang="it">Aggiungi Nuovo Codice Tracciatura</value>
+        <value lang="pt_BR">Adicionar novo código de rastreio</value>
+        <value lang="ro">Adauga Nou Cod Traseu</value>
+        <value lang="th">เพิ่มรหัส Tracking ใหม่</value>
+        <value lang="zh">新建跟踪码</value>
+        <value lang="zh_TW">新建跟蹤碼</value>
+    </property>
+    <property key="PageTitleAddTrackingCodeType">
+        <value lang="en">Add New Tracking Code Type</value>
+        <value lang="es">Nuevo tipo de código</value>
+        <value lang="fr">Ajouter un nouveau type de code de suivi</value>
+        <value lang="it">Aggiungi nuovo tipo tracciatura</value>
+        <value lang="pt_BR">Adicionar novo tipo de código de rastreio</value>
+        <value lang="ro">Adauga Noul Tip Traseu</value>
+        <value lang="th">เพิ่มประเภทรหัส Tracking ใหม่</value>
+        <value lang="zh">新建跟踪码类型</value>
+        <value lang="zh_TW">新建跟蹤碼類型</value>
+    </property>
+    <property key="PageTitleAssignAccountFromExisting">
+        <value lang="en">Assign Existing Account</value>
+        <value lang="pt_BR">Designar uma conta existente</value>
+        <value lang="th">กำหนด Account ที่มีอยู่</value>
+    </property>
+    <property key="PageTitleAssignLeadFromExisting">
+        <value lang="en">Assign Existing Lead</value>
+        <value lang="pt_BR">Designar um Lead existente</value>
+        <value lang="th">กำหนด Lead ที่มีอยู่</value>
+    </property>
+    <property key="PageTitleCreateAccount">
+        <value lang="en">Create New Account</value>
+        <value lang="es">Crear nueva cuenta</value>
+        <value lang="fr">Créer un nouveau compte</value>
+        <value lang="it">Creare una nuova utenza</value>
+        <value lang="pt_BR">Criar nova conta</value>
+        <value lang="zh">新建账户</value>
+        <value lang="zh_TW">新建賬戶</value>
+    </property>
+    <property key="PageTitleCreateContact">
+        <value lang="en">Create New Contact</value>
+        <value lang="es">Crear nuevo contacto</value>
+        <value lang="fr">Créer un nouveau contact</value>
+        <value lang="it">Creare un nuovo contatto</value>
+        <value lang="pt_BR">Criar novo contato</value>
+        <value lang="zh">新建联系人</value>
+        <value lang="zh_TW">新建聯系人</value>
+    </property>
+    <property key="PageTitleCreateContactFromVCard">
+        <value lang="en">Create contact from vCard</value>
+        <value lang="fr">Créer un contact depuis une vCard</value>
+        <value lang="it">Creare contatto dalla vCard</value>
+        <value lang="pt_BR">Criar contato a partir do vCard</value>
+        <value lang="zh">从vCard新建联系人</value>
+        <value lang="zh_TW">從vCard新建聯系人</value>
+    </property>
+    <property key="PageTitleCreateLead">
+        <value lang="en">Create New Lead</value>
+        <value lang="es">Crear nuevo lead</value>
+        <value lang="fr">Créer un nouveau prospect</value>
+        <value lang="it">Creare nuovo lead</value>
+        <value lang="pt_BR">Criar novo Lead</value>
+        <value lang="zh">新建线索</value>
+        <value lang="zh_TW">新建線索</value>
+    </property>
+    <property key="PageTitleCreateLeadFromVCard">
+        <value lang="en">Create Lead from vCard</value>
+        <value lang="es">Crear nuevo lead desde vCard</value>
+        <value lang="fr">Créer un prospect depuis une vCard</value>
+        <value lang="it">Creare lead dalla vCard</value>
+        <value lang="pt_BR">Criar novo Lead a partir do vCard</value>
+        <value lang="zh">从vCard新建线索</value>
+        <value lang="zh_TW">從vCard新建線索</value>
+    </property>
+    <property key="PageTitleEditAccount">
+        <value lang="en">Edit Account</value>
+        <value lang="es">Editar cuenta</value>
+        <value lang="fr">Modifier le compte</value>
+        <value lang="it">Aggiornare utente</value>
+        <value lang="pt_BR">Editar conta</value>
+        <value lang="zh">编辑账户</value>
+        <value lang="zh_TW">編輯賬戶</value>
+    </property>
+    <property key="PageTitleEditContactList">
+        <value lang="en">Edit Contact List</value>
+        <value lang="es">Editar lista de contactos</value>
+        <value lang="fr">Modifier la liste de contact</value>
+        <value lang="it">Aggiorna lista contatti</value>
+        <value lang="pt_BR">Editar lista de contatos</value>
+        <value lang="ro">Editeaza Lista Contacte</value>
+        <value lang="th">แก้ไขรายการติดต่อ</value>
+        <value lang="zh">编辑联系列表</value>
+        <value lang="zh_TW">編輯聯系列表</value>
+    </property>
+    <property key="PageTitleEditContactListCommEvent">
+        <value lang="en">Edit Contact List Comm Event</value>
+        <value lang="es">Editar evento de comunicación</value>
+        <value lang="fr">Modifier l'événement de communication de la liste de contact</value>
+        <value lang="it">Aggiorna Lista Contatto Evento Comunicazione</value>
+        <value lang="pt_BR">Editar evento de comunicação de lista de contatos</value>
+        <value lang="ro">Actualizeaza Lista Contact Eveniment Comunicatie</value>
+        <value lang="th">แก้ไขรายการผลการติดต่อ</value>
+        <value lang="zh">编辑联系列表沟通事件</value>
+        <value lang="zh_TW">編輯聯系列表溝通事件</value>
+    </property>
+    <property key="PageTitleEditContactListParty">
+        <value lang="en">Edit Contact List Party</value>
+        <value lang="es">Añadir participante</value>
+        <value lang="fr">Modifier l'abonné à la liste de contact</value>
+        <value lang="it">Aggiorna membro lista contatti</value>
+        <value lang="pt_BR">Editar participante de lista de contatos</value>
+        <value lang="ro">Editeaza Lista Contacte Parteneri</value>
+        <value lang="th">แก้ไขรายการติดต่อกลุ่มผู้ใช้</value>
+        <value lang="zh">编辑联系列表会员</value>
+        <value lang="zh_TW">編輯聯系列表會員</value>
+    </property>
+    <property key="PageTitleEditMarketingCampaign">
+        <value lang="en">Edit Marketing Campaign</value>
+        <value lang="es">Editar campaña de marketing</value>
+        <value lang="fr">Modifier la campagne marketing</value>
+        <value lang="it">Aggiorna campagna di vendita</value>
+        <value lang="pt_BR">Editar Campanha de Marketing</value>
+        <value lang="ro">Editeaza Campania Vanzare</value>
+        <value lang="th">แก้ไขแผนการตลาด</value>
+        <value lang="zh">编辑市场攻势</value>
+        <value lang="zh_TW">編輯行銷活動</value>
+    </property>
+    <property key="PageTitleEditMarketingCampaignRole">
+        <value lang="en">Edit Marketing Campaign Role</value>
+        <value lang="es">Editar roles de la campaña de marketing</value>
+        <value lang="fr">Modifier les rôles de la campagne marketing</value>
+        <value lang="it">Aggiorna Ruolo Campagna Vendita</value>
+        <value lang="pt_BR">Editar papel de Campanha de Marketing</value>
+        <value lang="ro">Editeaza Rol Campanie Vanzare</value>
+        <value lang="th">แก้ไขสถานะแผนการตลาด</value>
+        <value lang="zh">编辑市场攻势角色</value>
+        <value lang="zh_TW">編輯行銷活動角色</value>
+    </property>
+    <property key="PageTitleEditSalesForecast">
+        <value lang="en">Edit Sales Forecast</value>
+        <value lang="fr">Modifier la prévision de ventes</value>
+        <value lang="it">Aggiorna previsioni di vendita</value>
+        <value lang="pt_BR">Editar previsão de vendas</value>
+        <value lang="zh">编辑销售预测</value>
+        <value lang="zh_TW">編輯銷售預測</value>
+    </property>
+    <property key="PageTitleEditSalesForecastDetail">
+        <value lang="en">Edit Sales Forecast Detail</value>
+        <value lang="fr">Modifier le détail de la prévision de ventes</value>
+        <value lang="it">Aggiorna dettagli previsioni di vendita</value>
+        <value lang="pt_BR">Editar detalhes da previsão de vendas</value>
+        <value lang="zh">编辑销售预测细节</value>
+        <value lang="zh_TW">編輯銷售預測細節</value>
+    </property>
+    <property key="PageTitleEditSegmentGroup">
+        <value lang="en">Edit Segment Group</value>
+        <value lang="es">Editar segmento</value>
+        <value lang="fr">Modifier le groupe de segment</value>
+        <value lang="it">Aggiorna gruppo segmento</value>
+        <value lang="pt_BR">Editar Grupo de Segmento</value>
+        <value lang="ro">Editeaza Grup Segment</value>
+        <value lang="th">แก้ไขการแบ่งกลุ่ม</value>
+        <value lang="zh">编辑分区组</value>
+        <value lang="zh_TW">編輯分區組</value>
+    </property>
+    <property key="PageTitleEditSegmentGroupClass">
+        <value lang="en">Edit Segment Group Classification</value>
+        <value lang="es">Editar clasificación de segmento</value>
+        <value lang="fr">Modifier la classification de groupe de segment</value>
+        <value lang="it">Aggiorna Classificazione Gruppo Segmento</value>
+        <value lang="pt_BR">Editar classificação de Grupo de Segmento</value>
+        <value lang="ro">Editeaza Clasificare Grup Segment</value>
+        <value lang="th">แก้ไขการจัดแบ่งประเภทกลุ่ม</value>
+        <value lang="zh">编辑分区组分类</value>
+        <value lang="zh_TW">編輯分區組分類</value>
+    </property>
+    <property key="PageTitleEditSegmentGroupGeo">
+        <value lang="en">Edit Segment Group Geo</value>
+        <value lang="es">Editar ubicación de segmento</value>
+        <value lang="fr">Modifier des zones géographiques du groupe de segment</value>
+        <value lang="it">Aggiorna Geografia Gruppo Segmento </value>
+        <value lang="pt_BR">Editar localização do Grupo de Segmento</value>
+        <value lang="ro">Editeaza Geografia Grup Segment </value>
+        <value lang="th">แก้ไขส่วนโครงสร้างของกลุ่ม</value>
+        <value lang="zh">编辑分区组地理</value>
+        <value lang="zh_TW">編輯分區組地理</value>
+    </property>
+    <property key="PageTitleEditSegmentGroupRole">
+        <value lang="en">Edit Segment Group Role</value>
+        <value lang="es">Editar rol de segmento</value>
+        <value lang="fr">Modifier le rôle du groupe de segment</value>
+        <value lang="it">Aggiorna Ruolo Gruppo Segmento </value>
+        <value lang="pt_BR">Editar Papel de Grupo de Segmento</value>
+        <value lang="ro">Editeaza Rol Grup Segment </value>
+        <value lang="th">แก้ไขส่วนสถานะของกลุ่ม</value>
+        <value lang="zh">编辑分区组角色</value>
+        <value lang="zh_TW">編輯分區組角色</value>
+    </property>
+    <property key="PageTitleEditTrackingCode">
+        <value lang="en">Edit Tracking Code</value>
+        <value lang="es">Editar seguimiento</value>
+        <value lang="fr">Modifier le code de suivi</value>
+        <value lang="it">Aggiorna Codice Tracciatura</value>
+        <value lang="pt_BR">Editar código de rastreio</value>
+        <value lang="ro">Editeaza Cod Traseu</value>
+        <value lang="th">แก้ไขรหัส Tracking</value>
+        <value lang="zh">编辑跟踪码</value>
+        <value lang="zh_TW">編輯跟蹤碼</value>
+    </property>
+    <property key="PageTitleEditTrackingCodeOrder">
+        <value lang="en">Edit Tracking Code Order</value>
+        <value lang="es">Editar orden de seguimiento</value>
+        <value lang="fr">Modifier la commande associée au code de suivi</value>
+        <value lang="it">Aggiorna Codice Tracciatura Ordine</value>
+        <value lang="pt_BR">Editar código de rastreio do pedido</value>
+        <value lang="ro">Editeaza ordine Cod Traseu </value>
+        <value lang="th">แก้ไขรหัส Tracking การสั่งซื้อสินค้า</value>
+        <value lang="zh">编辑跟踪码订单</value>
+        <value lang="zh_TW">編輯跟蹤碼訂單</value>
+    </property>
+    <property key="PageTitleEditTrackingCodeType">
+        <value lang="en">Edit Tracking Code Type</value>
+        <value lang="es">Editar tipo de seguimiento</value>
+        <value lang="fr">Modifier le type de code de suivi</value>
+        <value lang="it">Aggiorna tipo tracciatura</value>
+        <value lang="pt_BR">Editar tipo de código de rastreio</value>
+        <value lang="ro">Editeaza Tip Traseu</value>
+        <value lang="th">แก้ไขประเภทรหัส Tracking</value>
+        <value lang="zh">编辑跟踪码类型</value>
+        <value lang="zh_TW">編輯跟蹤碼類型</value>
+    </property>
+    <property key="PageTitleEditTrackingCodeVisit">
+        <value lang="en">Edit Tracking Code Visit</value>
+        <value lang="es">Editar visita de seguimiento</value>
+        <value lang="fr">Modifier la visite associée au code de suivi</value>
+        <value lang="it">Aggiorna Codice Visita Tracciatura</value>
+        <value lang="pt_BR">Editar visita ao código de rastreio</value>
+        <value lang="ro">Editeaza Cod Vizita Traseu</value>
+        <value lang="th">แก้ไขรหัส Tracking ของการเยี่ยมชม</value>
+        <value lang="zh">编辑跟踪码访问</value>
+        <value lang="zh_TW">編輯跟蹤碼訪問</value>
+    </property>
+    <property key="PageTitleFindContactListCommEvent">
+        <value lang="en">Find Contact List Communication Event</value>
+        <value lang="es">Buscar evento de comunicación</value>
+        <value lang="fr">Rechercher l'évènement de communication de la liste de contact</value>
+        <value lang="it">Ricerca Lista Contatto Eventi Comunicazione</value>
+        <value lang="pt_BR">Buscar evento de comunicação da lista de contatos</value>
+        <value lang="ro">Cauta Lista Contact Eveniment Comunicare</value>
+        <value lang="th">ค้นหารายการผลการติดต่อ</value>
+        <value lang="zh">查找联系列表沟通事件</value>
+        <value lang="zh_TW">查找聯系列表溝通事件</value>
+    </property>
+    <property key="PageTitleFindContactListCommEvents">
+        <value lang="en">Find Associated CommEvents</value>
+        <value lang="es">Buscar eventos asociados</value>
+        <value lang="fr">Rechercher les évènements de communication associés</value>
+        <value lang="it">Ricerca eventi comunicazione associati</value>
+        <value lang="pt_BR">Buscar Eventos de comunicação associados</value>
+        <value lang="ro">Cauta Asociatii Evenimente de Comunicare</value>
+        <value lang="th">ค้นหาผลการติดต่อที่สัมพันธ์กัน</value>
+        <value lang="zh">查找关联的沟通事件</value>
+        <value lang="zh_TW">查找關聯的溝通事件</value>
+    </property>
+    <property key="PageTitleFindContactListParty">
+        <value lang="en">Find Contact List Parties</value>
+        <value lang="es">Buscar participantes</value>
+        <value lang="fr">Rechercher les abonnés à la liste de contact</value>
+        <value lang="it">Ricerca membri della lista contatti</value>
+        <value lang="pt_BR">Buscar participantes na lsita de contatos</value>
+        <value lang="ro">Cauta Lista Contact Parteneri</value>
+        <value lang="th">ค้นหารายการติดต่อกลุ่มผู้ใช้</value>
+        <value lang="zh">查找联系列表会员</value>
+        <value lang="zh_TW">查找聯系列表會員</value>
+    </property>
+    <property key="PageTitleFindImportContactListParties">
+        <value lang="en">Find Import Contact List Parties</value>
+        <value lang="th">ค้นหารายการติดต่อกลุ่มผู้ใช้เพื่อการนำเข้า</value>
+    </property>
+    <property key="PageTitleFindMarketingCampaignRole">
+        <value lang="en">Find Marketing Campaign Role</value>
+        <value lang="es">Buscar rol de campaña</value>
+        <value lang="fr">Rechercher le rôle de la campagne marketing</value>
+        <value lang="it">Ricerca Ruoli Campagne Vendita</value>
+        <value lang="pt_BR">Buscar papel de Campanha de Marketing</value>
+        <value lang="ro">Cauta Rol Campanie Vanzari</value>
+        <value lang="th">ค้นหาสถานะแผนการตลาด</value>
+        <value lang="zh">查找市场攻势角色</value>
+        <value lang="zh_TW">查找行銷活動角色</value>
+    </property>
+    <property key="PageTitleFindSalesForecast">
+        <value lang="de">Finde Verkaufsprognose</value>
+        <value lang="en">Find Sales Forecast</value>
+        <value lang="fr">Recherche de prévision de ventes</value>
+        <value lang="it">Ricerca previsioni di vendita</value>
+        <value lang="pt_BR">Buscar previsão de vendas</value>
+        <value lang="zh">查找销售预测</value>
+        <value lang="zh_TW">查找銷售預測</value>
+    </property>
+    <property key="PageTitleFindSegmentGroup">
+        <value lang="en">Find Segment Group</value>
+        <value lang="es">Buscar segmento</value>
+        <value lang="fr">Rechercher le groupe de segment</value>
+        <value lang="it">Ricerca gruppo segmento</value>
+        <value lang="pt_BR">Buscar Grupo de Segmento</value>
+        <value lang="ro">Cauta Grup Segment</value>
+        <value lang="th">ค้นหาส่วนของกลุ่ม</value>
+        <value lang="zh">查找分区组</value>
+        <value lang="zh_TW">查找分區組</value>
+    </property>
+    <property key="PageTitleFindTrackingCode">
+        <value lang="en">Find Tracking Code</value>
+        <value lang="fr">Rechercher un code de suivi</value>
+        <value lang="it">Ricerca codice tracciatura</value>
+        <value lang="pt_BR">Buscar código de rastreio</value>
+        <value lang="zh">查找跟踪码</value>
+        <value lang="zh_TW">查找跟蹤碼</value>
+    </property>
+    <property key="PageTitleFindTrackingCodeOrder">
+        <value lang="en">Find Tracking Code Orders</value>
+        <value lang="es">Buscar órdenes de seguimiento</value>
+        <value lang="fr">Rechercher les ordres associés au code de suivi</value>
+        <value lang="it">Ricerca Codice Tracciatura Ordini</value>
+        <value lang="pt_BR">Buscar códigos de rastreio de pedidos</value>
+        <value lang="ro">Cauta Coduri Comenzi Traseu ?</value>
+        <value lang="th">ค้นหารหัส Tracking การสั่งซื้อสินค้า</value>
+        <value lang="zh">查找跟踪码订单</value>
+        <value lang="zh_TW">查找跟蹤碼訂單</value>
+    </property>
+    <property key="PageTitleFindTrackingCodeVisit">
+        <value lang="en">Find Tracking Code Visit</value>
+        <value lang="fr">Rechercher un code de suivi de visite</value>
+        <value lang="it">Ricerca codice tracciatura visita</value>
+        <value lang="pt_BR">Buscar visita ao código de rastreio</value>
+        <value lang="zh">查找跟踪码访问</value>
+        <value lang="zh_TW">查找跟蹤碼訪問</value>
+    </property>
+    <property key="PageTitleFindTrackingCodeVisits">
+        <value lang="en">Find Tracking Code Visits</value>
+        <value lang="es">Buscar visitas de seguimiento</value>
+        <value lang="fr">Rechercher les visites associées au code de suivi</value>
+        <value lang="it">Ricerca Codice Tracciatura Visite</value>
+        <value lang="pt_BR">Buscar visitas ao código de rastreio</value>
+        <value lang="ro">Cauta Coduri Vizite Traseu </value>
+        <value lang="th">ค้นหารหัส Tracking การเยี่ยมชม</value>
+        <value lang="zh">查找跟踪码访问</value>
+        <value lang="zh_TW">查找跟蹤碼訪問</value>
+    </property>
+    <property key="PageTitleListContactList">
+        <value lang="de">Liste der Kontaktlisten</value>
+        <value lang="en">List Contact List</value>
+        <value lang="es">Listado de listas de contactos</value>
+        <value lang="fr">Afficher la liste de contact</value>
+        <value lang="it">Lista contatto</value>
+        <value lang="nl">Contactlijst(en) tonen</value>
+        <value lang="pt_BR">Listar Contatos da lista</value>
+        <value lang="ro">Listeaza Lista Contacte</value>
+        <value lang="ru">Список контактов</value>
+        <value lang="th">รายการการติดต่อ</value>
+        <value lang="zh">联系列表的列表</value>
+        <value lang="zh_TW">聯系列表的列表</value>
+    </property>
+    <property key="PageTitleListContactListCommEvent">
+        <value lang="en">List Contact List Comm Events</value>
+        <value lang="es">Mostrar eventos de comunicación</value>
+        <value lang="fr">Liste des événements de communication de la liste de contact</value>
+        <value lang="it">Visualizza Lista Contatti Eventi Comunicazioni</value>
+        <value lang="pt_BR">Listar Eventos de Comunicação da lista de contatos</value>
+        <value lang="ro">Vizualizeaza Lista Contacte Evenimente</value>
+        <value lang="th">ลงรายการผลการติดต่อ</value>
+        <value lang="zh">联系列表沟通事件列表</value>
+        <value lang="zh_TW">聯系列表溝通事件列表</value>
+    </property>
+    <property key="PageTitleListContactListParty">
+        <value lang="en">List Contact List Parties</value>
+        <value lang="es">Mostrar participantes</value>
+        <value lang="fr">Liste des abonnés à la liste de contact</value>
+        <value lang="it">Elenco membri della lista contatti</value>
+        <value lang="pt_BR">Listar participantes da lista de contatos</value>
+        <value lang="ro">Visualizeaza Lista Contacte Subiecti</value>
+        <value lang="th">ลงรายการติดต่อกลุ่มผู้ใช้</value>
+        <value lang="zh">联系列表会员列表</value>
+        <value lang="zh_TW">聯系列表會員列表</value>
+    </property>
+    <property key="PageTitleListMarketingCampaign">
+        <value lang="en">List Marketing Campaign</value>
+        <value lang="es">Mostrar campañas de marketing</value>
+        <value lang="fr">Liste des campagnes marketing</value>
+        <value lang="it">Lista campagne di vendita</value>
+        <value lang="pt_BR">Listar Campanhas de Marketing</value>
+        <value lang="ro">Lista Campanie Marketing</value>
+        <value lang="th">รายการแผนการตลาด</value>
+        <value lang="zh">市场攻势列表</value>
+        <value lang="zh_TW">行銷活動列表</value>
+    </property>
+    <property key="PageTitleListMarketingCampaignRole">
+        <value lang="en">List Marketing Campaign Role</value>
+        <value lang="es">Mostrar roles de campaña</value>
+        <value lang="fr">Liste des rôles de la campagne marketing</value>
+        <value lang="it">Lista ruoli campagna di vendita</value>
+        <value lang="pt_BR">Listar papéis de Campanha de Marketing</value>
+        <value lang="ro">Lista Rol Campanie Vanzare</value>
+        <value lang="th">รายการสถานะแผนการตลาด</value>
+        <value lang="zh">市场攻势角色列表</value>
+        <value lang="zh_TW">行銷活動角色列表</value>
+    </property>
+    <property key="PageTitleListSegmentGroupGeo">
+        <value lang="en">List Segment Group Geos</value>
+        <value lang="es">Mostrar ubicación de segmento</value>
+        <value lang="fr">Liste des zones géographiques de groupe de segment</value>
+        <value lang="it">Lista Gruppo Segmento Geos</value>
+        <value lang="pt_BR">Listar localizações de Grupos de Segmento</value>
+        <value lang="ro">Lista Grup Segment Geos</value>
+        <value lang="th">รายการส่วนของโครงสร้างกลุ่ม</value>
+        <value lang="zh">分区组地理</value>
+        <value lang="zh_TW">分區組地理</value>
+    </property>
+    <property key="PageTitleListSegmentGroupRole">
+        <value lang="en">List Segment Group Roles</value>
+        <value lang="es">Mostrar roles de segmentos</value>
+        <value lang="fr">Liste des rôles du groupe de segment</value>
+        <value lang="it">Visualizza Ruoli Gruppo Segmento</value>
+        <value lang="pt_BR">Listar papéis de Grupo de Segmento</value>
+        <value lang="ro">Visualizeaza Rol Grup Segment</value>
+        <value lang="th">รายการส่วนของสถานะกลุ่ม</value>
+        <value lang="zh">分区组角色列表</value>
+        <value lang="zh_TW">分區組角色列表</value>
+    </property>
+    <property key="PageTitleListTrackingCode">
+        <value lang="en">List Tracking Code</value>
+        <value lang="es">Mostrar seguimientos</value>
+        <value lang="fr">Liste des codes de suivi</value>
+        <value lang="it">Lista codici tracciatura</value>
+        <value lang="pt_BR">Listar códigos de rastreio</value>
+        <value lang="ro">Lista Cod Traseu</value>
+        <value lang="th">รายการรหัส Tracking</value>
+        <value lang="zh">跟踪码列表</value>
+        <value lang="zh_TW">跟蹤碼列表</value>
+    </property>
+    <property key="PageTitleListTrackingCodeFor">
+        <value lang="en">List Tracking Code Visit for</value>
+        <value lang="es">Mostrar visitas de seguimiento para</value>
+        <value lang="fr">Liste des visite associées pour le</value>
+        <value lang="it">Lista Codice Tracciatura Visita per</value>
+        <value lang="pt_BR">Listar Visitaso ao Códigos de Rastreio para</value>
+        <value lang="ro">Lista Cod Traseu Vizita pentru</value>
+        <value lang="th">รายการรหัส Tracking การเยี่ยมชมสำหรับ</value>
+        <value lang="zh">跟踪码访问列表：</value>
+        <value lang="zh_TW">跟蹤碼訪問列表：</value>
+    </property>
+    <property key="PageTitleListTrackingCodeOrder">
+        <value lang="en">List Tracking Code Order</value>
+        <value lang="es">Mostrar órdenes de seguimiento para</value>
+        <value lang="fr">Liste des ordres associés</value>
+        <value lang="it">Lista Codice Tracciatura Ordine</value>
+        <value lang="pt_BR">Listar código de ratreio para pedido</value>
+        <value lang="ro">Lista Cod Traseu Comanda</value>
+        <value lang="th">รายการรหัส Tracking ของการสั่งซื้อสินค้า</value>
+        <value lang="zh">跟踪码订单列表</value>
+        <value lang="zh_TW">跟蹤碼訂單列表</value>
+    </property>
+    <property key="PageTitleListTrackingCodeOrdersFor">
+        <value lang="en">List Tracking Code Order for</value>
+        <value lang="es">Mostrar órdenes de seguimiento para</value>
+        <value lang="fr">Liste des ordres associés pour le</value>
+        <value lang="it">Lista Codice Tracciatura Ordine per</value>
+        <value lang="pt_BR">Listar código de rastreio de pedido para</value>
+        <value lang="ro">Lista Cod Traseu Comanda pentru</value>
+        <value lang="th">รายการรหัส Tracking การสั่งซื้อสินค้าสำหรับ</value>
+        <value lang="zh">跟踪码订单列表：</value>
+        <value lang="zh_TW">跟蹤碼訂單列表：</value>
+    </property>
+    <property key="PageTitleListTrackingCodeType">
+        <value lang="en">List Tracking Code Type</value>
+        <value lang="es">Editar tipo de seguimiento</value>
+        <value lang="fr">Liste des types de code de suivi</value>
+        <value lang="it">Lista tipi tracciatura</value>
+        <value lang="pt_BR">Listar tipo de código de rastreio</value>
+        <value lang="ro">Lista Tip Traseu</value>
+        <value lang="th">รายการรหัส Tracking ประเภท</value>
+        <value lang="zh">跟踪码类型列表</value>
+        <value lang="zh_TW">跟蹤碼類型列表</value>
+    </property>
+    <property key="PageTitleListTrackingCodeVisit">
+        <value lang="en">List Tracking Code Visit</value>
+        <value lang="es">Mostrar visitas de seguimiento</value>
+        <value lang="fr">Liste des visite associées</value>
+        <value lang="it">Lista Codice Tracciatura Visita</value>
+        <value lang="pt_BR">Listar visitas ao código de rastreio</value>
+        <value lang="ro">Lista Cod Traseu Vizita</value>
+        <value lang="th">รายการรหัส Tracking การเยี่ยมชม</value>
+        <value lang="zh">跟踪码访问列表</value>
+        <value lang="zh_TW">跟蹤碼訪問列表</value>
+    </property>
+    <property key="PageTitleLookupCommEvent">
+        <value lang="en">Lookup Communication Event</value>
+        <value lang="es">Buscar evento de comunicación</value>
+        <value lang="fr">Rechercher un ou des  évènements de communication</value>
+        <value lang="it">Ricerca Evento Comunicazione</value>
+        <value lang="pt_BR">Buscar Evento de Comunicação</value>
+        <value lang="ro">Cauta Eveniment Comunicatie</value>
+        <value lang="th">ค้นหาข้อมูลผลการติดต่อ</value>
+        <value lang="zh">查找沟通事件</value>
+        <value lang="zh_TW">查找溝通事件</value>
+    </property>
+    <property key="PageTitleLookupContactList">
+        <value lang="en">Lookup Contact List</value>
+        <value lang="es">Buscar lista de contactos</value>
+        <value lang="fr">Rechercher une ou des listes de contact</value>
+        <value lang="it">Ricerca Lista Contatti</value>
+        <value lang="pt_BR">Buscar Lista de Contatos</value>
+        <value lang="ro">Cauta Lista Contacte</value>
+        <value lang="th">ค้นหาข้อมูลรายการติดต่อ</value>
+        <value lang="zh">查找联系列表</value>
+        <value lang="zh_TW">查找聯系列表</value>
+    </property>
+    <property key="PageTitleLookupSalesForecast">
+        <value lang="de">Verkaufsprognosen anschauen</value>
+        <value lang="en">Lookup Sales Forecast</value>
+        <value lang="fr">Rechercher une ou des prévisions de ventes</value>
+        <value lang="it">Ricerca previsioni di vendita</value>
+        <value lang="pt_BR">Buscar previsões de venda</value>
+        <value lang="zh">查找销售预测</value>
+        <value lang="zh_TW">查找銷售預測</value>
+    </property>
+    <property key="PageTitleLookupSegmentGroup">
+        <value lang="en">Lookup Segment Group</value>
+        <value lang="fr">Rechercher un ou des groupes de segment</value>
+        <value lang="it">Ricerca Gruppi Segmento</value>
+        <value lang="pt_BR">Buscar Grupo de segmento</value>
+        <value lang="ro">Cauta Grupuri Segment</value>
+        <value lang="th">ค้นหาข้อมูลส่วนของกลุ่ม</value>
+        <value lang="zh">查找分区组</value>
+        <value lang="zh_TW">查找分區組</value>
+    </property>
+    <property key="PageTitleLookupTrackingCode">
+        <value lang="en">Lookup Tracking Code</value>
+        <value lang="es">Buscar seguimiento</value>
+        <value lang="fr">Rechercher un ou des codes de suivi</value>
+        <value lang="it">Ricerca Codice Tracciatura</value>
+        <value lang="pt_BR">Buscar código de rastreio</value>
+        <value lang="ro">Cauta Cod Traseu</value>
+        <value lang="th">ค้นหาข้อมูลรหัส Tracking</value>
+        <value lang="zh">查找跟踪码</value>
+        <value lang="zh_TW">查找跟蹤碼</value>
+    </property>
+    <property key="PageTitleLookupTrackingCodeType">
+        <value lang="en">Lookup Tracking Code Type</value>
+        <value lang="es">Buscar tipo de seguimiento</value>
+        <value lang="fr">Rechercher un ou des types de code de suivi</value>
+        <value lang="it">Ricerca tipo tracciatura</value>
+        <value lang="pt_BR">Buscar por tipo de código de rastreio</value>
+        <value lang="ro">Cauta Tip Traseu</value>
+        <value lang="th">ค้นหาข้อมูลรหัส Tracking ประเภท</value>
+        <value lang="zh">查找跟踪码类型</value>
+        <value lang="zh_TW">查找跟蹤碼類型</value>
+    </property>
+    <property key="PageTitleLookupVisit">
+        <value lang="de">Besuche anschauen</value>
+        <value lang="en">Lookup Visit</value>
+        <value lang="es">Buscar visita</value>
+        <value lang="fr">Rechercher une ou des visites</value>
+        <value lang="it">Ricerca Visita</value>
+        <value lang="pt_BR">Buscar visita</value>
+        <value lang="ro">Cauta Vizita</value>
+        <value lang="th">ค้นหาข้อมูลการเยี่ยมชม</value>
+        <value lang="zh">查找访问</value>
+        <value lang="zh_TW">查找訪問</value>
+    </property>
+    <property key="PageTitlePreferredContactMech">
+        <value lang="de">Bevorzugte Kontaktart</value>
+        <value lang="en">Preferred Contact Mechanism</value>
+        <value lang="es">Mecanismo de contacto preferido</value>
+        <value lang="fr">Mécanisme de contact favori</value>
+        <value lang="it">Contatto Preferito</value>
+        <value lang="pt_BR">Mecanismo de contato preferencial</value>
+        <value lang="ro">Contact Preferit</value>
+        <value lang="th">วิธีการติดต่อ</value>
+        <value lang="zh">优先使用的联系方式</value>
+        <value lang="zh_TW">優先使用的聯系方式</value>
+    </property>
+    <property key="SfaAcccounts">
+        <value lang="de">Konten</value>
+        <value lang="en">Accounts</value>
+        <value lang="fr">Comptes</value>
+        <value lang="it">Utenze</value>
+        <value lang="pt_BR">Contas</value>
+        <value lang="zh">账户</value>
+        <value lang="zh_TW">賬戶</value>
+    </property>
+    <property key="SfaAccountName">
+        <value lang="de">Kontoname</value>
+        <value lang="en">Account Name</value>
+        <value lang="es">Nombre de cuenta</value>
+        <value lang="fr">Nom de compte</value>
+        <value lang="it">Nome utente</value>
+        <value lang="pt_BR">Nome da conta</value>
+        <value lang="zh">账户名称</value>
+        <value lang="zh_TW">賬戶名稱</value>
+    </property>
+    <property key="SfaAddSalesForecastDetail">
+        <value lang="de">Hinzufügen von Verkaufsprognosen-Details</value>
+        <value lang="en">Add Sales Forcast Detail</value>
+        <value lang="fr">Ajouter le détail de la prévision de ventes</value>
+        <value lang="it">Aggiungi dettagli previsioni di vendita</value>
+        <value lang="pt_BR">Adicionar detalhes à previsão de vendas</value>
+        <value lang="zh">添加销售预测细节</value>
+        <value lang="zh_TW">添加銷售預測細節</value>
+    </property>
+    <property key="SfaAllAccounts">
+        <value lang="de">Alle Konten</value>
+        <value lang="en">All Accounts</value>
+        <value lang="fr">Tous les comptes</value>
+        <value lang="pt_BR">Todas contas</value>
+        <value lang="th">Account ทั้งหมด</value>
+    </property>
+    <property key="SfaAllContacts">
+        <value lang="de">Alle Kontakte</value>
+        <value lang="en">All Contacts</value>
+        <value lang="fr">Tous les contacts</value>
+        <value lang="pt_BR">Todos contatos</value>
+        <value lang="th">Contact ทั้งหมด</value>
+    </property>
+    <property key="SfaAllLeads">
+        <value lang="en">All Leads</value>
+        <value lang="fr">Tous les prospects</value>
+        <value lang="pt_BR">Todos Leads</value>
+        <value lang="th">Lead ทั้งหมด</value>
+    </property>
+    <property key="SfaAssignToMe">
+        <value lang="de">Zugewiesen an mich</value>
+        <value lang="en">Assign To Me</value>
+        <value lang="fr">Me l'assigner</value>
+        <value lang="pt_BR">Designar para mim</value>
+        <value lang="th">กำหนดให้ฉัน</value>
+    </property>
+    <property key="SfaAssignedBy">
+        <value lang="de">Zugewiesen von</value>
+        <value lang="en">Assigned by</value>
+        <value lang="fr">Assigné par</value>
+        <value lang="pt_BR">Designada por</value>
+        <value lang="th">กำหนดโดย</value>
+    </property>
+    <property key="SfaAutoCreateContactByImportingVCard">
+        <value lang="de">Automatisches Erstellen eines neuen Kontaktes bei dem Import einer vCard</value>
+        <value lang="en">Automatically create a new contact by importing a vCard</value>
+        <value lang="fr">Créez automatiquement un nouveau contact par import d'une vCard</value>
+        <value lang="it">Creazione automatica di un nuovo contatto importando una vCard</value>
+        <value lang="pt_BR">Criar automaticamente um novo contato importando um vCard</value>
+        <value lang="zh">通过导入vCard自动新建联系</value>
+        <value lang="zh_TW">通過導入vCard自動新建聯系</value>
+    </property>
+    <property key="SfaAutoCreateLeadByImportingVCard">
+        <value lang="en">Automatically create a new lead by importing a vCard</value>
+        <value lang="es">Crear nuevo lead automaticamente importando vCard</value>
+        <value lang="fr">Créez automatiquement un nouveau prospect par import d'une vCard</value>
+        <value lang="it">Creazione automatica di un nuovo lead importando una vCard</value>
+        <value lang="pt_BR">Criar automaticamente um novo Lead importando um vCard</value>
+        <value lang="zh">通过导入vCard自动新建线索</value>
+        <value lang="zh_TW">通過導入vCard自動新建線索</value>
+    </property>
+    <property key="SfaCampaigns">
+        <value lang="de">Kampagne</value>
+        <value lang="en">Campaigns</value>
+        <value lang="es">Campañas</value>
+        <value lang="fr">Campagnes de ventes</value>
+        <value lang="it">Campagne</value>
+        <value lang="pt_BR">Campanhas</value>
+        <value lang="zh">攻势</value>
+        <value lang="zh_TW">活動</value>
+    </property>
+    <property key="SfaCanNotMergeSameContact">
+        <value lang="de">Zusammenführen der Kontakte fehlgeschlagen. Sie haben die gleichen Kontakte zum zusammenführen ausgewählt.</value>
+        <value lang="en">Failed to merge contacts. You have selected same contact to merge.</value>
+        <value lang="fr">Echec à la fusion des contacts. Vous avez choisi le même contact à fusionner.</value>
+        <value lang="it">Fallito il merce dei contatti. Tu devi selezionare lo stesso contatto per fare il merge.</value>
+        <value lang="pt_BR">Falha ao mesclar os contatos. Você selecionou o mesmo contato para mesclar.</value>
+        <value lang="zh">合并联系时失败。你选择了同一个联系做合并。</value>
+        <value lang="zh_TW">合並聯系時失敗。你選擇了同一個聯系做合並。</value>
+    </property>
+    <property key="SfaCanNotMergeSameLeads">
+        <value lang="en">Failed to merge Leads. You have selected same Lead to merge.</value>
+        <value lang="es">No se ha podido unir leads. Ha seleccionado el mismo lead.</value>
+        <value lang="fr">Echec à la fusion des prospects. Vous avez choisi le même prospect pour fusionner</value>
+        <value lang="it">Fallito il merce dei leads. Tu devi selezionare lo stesso lead per fare il merge.</value>
+        <value lang="pt_BR">Falha ao mesclar Leads. Você selecionou o mesmo Lead para mesclar.</value>
+        <value lang="zh">合并线索时失败。你选择了同一个线索做合并。</value>
+        <value lang="zh_TW">合並線索時失敗。你選擇了同一個線索做合並。</value>
+    </property>
+    <property key="SfaCloneLead">
+        <value lang="en">Clone Lead</value>
+        <value lang="es">Clonar lead</value>
+        <value lang="fr">Dupliquer un prospect</value>
+        <value lang="it">Clona lead</value>
+        <value lang="pt_BR">Clonar Lead</value>
+        <value lang="zh">克隆线索</value>
+        <value lang="zh_TW">克隆線索</value>
+    </property>
+    <property key="SfaCloseDate">
+        <value lang="en">Close Date</value>
+        <value lang="es">Fecha de cierre</value>
+        <value lang="fr">Fermer à la date</value>
+        <value lang="it">Data di chiusura</value>
+        <value lang="pt_BR">Data de encerramento</value>
+        <value lang="zh">关闭日期</value>
+        <value lang="zh_TW">關閉日期</value>
+    </property>
+    <property key="SfaCompanyName">
+        <value lang="en">OFBiz: SFA Manager</value>
+        <value lang="es">Gestor de fuerzas de ventas</value>
+        <value lang="fr">OFBiz: gestion des ventes</value>
+        <value lang="it">OFBiz: Gestione forze di vendita</value>
+        <value lang="pt_BR">OFBiz: gestor da equipe de vendas</value>
+        <value lang="zh">OFBiz: 销售管理程序</value>
+        <value lang="zh_TW">OFBiz: 銷售管理程式</value>
+    </property>
+    <property key="SfaCompetitors">
+        <value lang="en">Competitors &amp; Partners </value>
+        <value lang="fr">Concurrents &amp; Associés</value>
+        <value lang="it">Competitori e soci</value>
+        <value lang="pt_BR">Concorrentes &amp; Parceiros</value>
+        <value lang="zh">竞争者和合作伙伴</value>
+        <value lang="zh_TW">競爭者和合作伙伴</value>
+    </property>
+    <property key="SfaComplete">
+        <value lang="de">Komplett</value>
+        <value lang="en">Complete</value>
+        <value lang="pt_BR">Completo</value>
+        <value lang="th">เสร็จสิ้น</value>
+    </property>
+    <property key="SfaContact">
+        <value lang="de">Kontakt</value>
+        <value lang="en">Contact</value>
+        <value lang="fr">Contact</value>
+        <value lang="it">Contatto</value>
+        <value lang="pt_BR">Contato</value>
+        <value lang="zh">联系</value>
+        <value lang="zh_TW">聯系</value>
+    </property>
+    <property key="SfaContacts">
+        <value lang="en">Contacts</value>
+        <value lang="fr">Contacts</value>
+        <value lang="it">Contatti</value>
+        <value lang="pt_BR">Contatos</value>
+        <value lang="zh">联系</value>
+        <value lang="zh_TW">聯系</value>
+    </property>
+    <property key="SfaConvertLead">
+        <value lang="en">Convert Lead</value>
+        <value lang="es">Convertir lead</value>
+        <value lang="fr">Convertir le prospect</value>
+        <value lang="it">Converti lead</value>
+        <value lang="pt_BR">Concretizar Lead</value>
+        <value lang="zh">转化线索</value>
+        <value lang="zh_TW">轉化線索</value>
+    </property>
+    <property key="SfaCreateAccountForLead">
+        <value lang="en">Create Account For Lead</value>
+        <value lang="fr">Créer un compte pour le prospect</value>
+        <value lang="it">Crea utenza per leader</value>
+        <value lang="pt_BR">Criar conta para LEad</value>
+        <value lang="zh">为线索创建账户</value>
+        <value lang="zh_TW">為線索創建賬戶</value>
+    </property>
+    <property key="SfaCreateContactForLead">
+        <value lang="en">Create contact for lead</value>
+        <value lang="es">Crear contacto para lead</value>
+        <value lang="fr">Créer un contact pour le prospect</value>
+        <value lang="it">Creare contatto per il lead</value>
+        <value lang="pt_BR">Criar contato para Lead</value>
+        <value lang="zh">为线索创建联系</value>
+        <value lang="zh_TW">為線索創建聯系</value>
+    </property>
+    <property key="SfaCreateContactFromVCard">
+        <value lang="de">Erstelle von vCard</value>
+        <value lang="en">Create from vCard</value>
+        <value lang="fr">Créer depuis une vCard</value>
+        <value lang="it">Creare contatto dalla vCard</value>
+        <value lang="pt_BR">Criar a partir de vCard</value>
+        <value lang="zh">从vCard创建</value>
+        <value lang="zh_TW">從vCard創建</value>
+    </property>
+    <property key="SfaDataSourceLabel">
+        <value lang="de">Quelle</value>
+        <value lang="en">Source</value>
+        <value lang="fr">Origine</value>
+        <value lang="it">Origine</value>
+        <value lang="pt_BR">Origem</value>
+        <value lang="zh">来源</value>
+        <value lang="zh_TW">來源</value>
+    </property>
+    <property key="SfaDocuments">
+        <value lang="de">Dokumente</value>
+        <value lang="en">Documents</value>
+        <value lang="fr">Documents</value>
+        <value lang="it">Documenti</value>
+        <value lang="pt_BR">Documentos</value>
+        <value lang="zh">文档</value>
+        <value lang="zh_TW">文檔</value>
+    </property>
+    <property key="SfaEditOpportunity">
+        <value lang="en">Edit Opportunity</value>
+        <value lang="fr">Modifier l'opportunité</value>
+        <value lang="it">Aggiorna opportunità</value>
+        <value lang="pt_BR">Editar oportunidade</value>
+        <value lang="zh">编辑机会</value>
+        <value lang="zh_TW">編輯機會</value>
+    </property>
+    <property key="SfaEditSalesForecast">
+        <value lang="de">Erstelle/Aktualisiere Verkaufsprognose</value>
+        <value lang="en">Create/Update Sales Forecast</value>
+        <value lang="fr">Créer/Mise à jour des prévisions de ventes</value>
+        <value lang="it">Crea/Aggiorna previsioni di vendita</value>
+        <value lang="pt_BR">Criar/atualizar previsão de vendas</value>
+        <value lang="zh">创建/更新销售预测</value>
+        <value lang="zh_TW">創建/更新銷售預測</value>
+    </property>
+    <property key="SfaEstimatedAmount">
+        <value lang="en">Estimated Amount</value>
+        <value lang="fr">Montant estimé</value>
+        <value lang="it">Importo stimato</value>
+        <value lang="pt_BR">Montante estimado</value>
+        <value lang="zh">预计金额</value>
+        <value lang="zh_TW">預計金額</value>
+    </property>
+    <property key="SfaEvents">
+        <value lang="en">Events</value>
+        <value lang="fr">Évènements</value>
+        <value lang="it">Eventi</value>
+        <value lang="pt_BR">Eventos</value>
+        <value lang="zh">事件</value>
+        <value lang="zh_TW">事件</value>
+    </property>
+    <property key="SfaExportVCardError">
+        <value lang="en">Error during export data from VCard: ${errorString}</value>
+        <value lang="it">Errore durante l'esportazione dei dati da VCard: ${errorString}</value>
+    </property>
+    <property key="SfaExportVCardErrorOpeningFile">
+        <value lang="en">Error during export data from VCard, unable to open file for writing: ${errorString}</value>
+        <value lang="it">Errore durante l'esportazione dei dati da VCard, non è possibile aprire il file in scrittura: ${errorString}</value>
+    </property>
+    <property key="SfaExportVCardErrorWritingFile">
+        <value lang="en">Error during export data from VCard, unable to write data to: ${errorString}</value>
+        <value lang="it">Errore durante l'esportazione dei dati da VCard, non è possibile scrivere i dati in: ${errorString}</value>
+    </property>
+    <property key="SfaFindAccountLeads">
+        <value lang="en">Find Account Leads</value>
+        <value lang="pt_BR">Buscar contas de Leads</value>
+        <value lang="th">ค้นหา Account Leads</value>
+    </property>
+    <property key="SfaFindAccounts">
+        <value lang="de">Finde Konten</value>
+        <value lang="en">Find Accounts</value>
+        <value lang="pt_BR">Buscar contas</value>
+        <value lang="th">ค้นหา Accounts</value>
+    </property>
+    <property key="SfaFindContacts">
+        <value lang="de">Finde Kontakte</value>
+        <value lang="en">Find Contacts</value>
+        <value lang="fr">Rechercher les contacts</value>
+        <value lang="it">Ricerca contatti</value>
+        <value lang="pt_BR">Buscar contatos</value>
+        <value lang="zh">查找联系</value>
+        <value lang="zh_TW">查找聯系</value>
+    </property>
+    <property key="SfaFindLeads">
+        <value lang="en">Find Leads</value>
+        <value lang="es">Buscar leads</value>
+        <value lang="fr">Recherchers les prospects</value>
+        <value lang="it">Ricerca leads</value>
+        <value lang="pt_BR">Buscar Leads</value>
+        <value lang="zh">查找线索</value>
+        <value lang="zh_TW">查找線索</value>
+    </property>
+    <property key="SfaFindOpportunities">
+        <value lang="en">Find Opportunities</value>
+        <value lang="es">Buscar oportunidades</value>
+        <value lang="fr">Rechercher les opportunités</value>
+        <value lang="it">Ricerca opportunità</value>
+        <value lang="pt_BR">Buscar oportunidades</value>
+        <value lang="zh">查找机会</value>
+        <value lang="zh_TW">查找機會</value>
+    </property>
+    <property key="SfaFindResults">
+        <value lang="de">Finde Ergebnisse</value>
+        <value lang="en">Find Results</value>
+        <value lang="es">Buscar resultados</value>
+        <value lang="fr">Rechercher les résultats</value>
+        <value lang="it">Ricerca risultati</value>
+        <value lang="pt_BR">Buscar resultados</value>
+        <value lang="zh">查找结果</value>
+        <value lang="zh_TW">查找結果</value>
+    </property>
+    <property key="SfaFirstContact">
+        <value lang="en">First Contact</value>
+        <value lang="es">Primer contacto</value>
+        <value lang="fr">Premier contact</value>
+        <value lang="it">Primo contatto</value>
+        <value lang="pt_BR">Primeiro contato</value>
+        <value lang="zh">首选联系方式</value>
+        <value lang="zh_TW">首選聯系方式</value>
+    </property>
+    <property key="SfaFirstNameLastNameAndCompanyNameMissingError">
+        <value lang="de">Bitte geben Sie den Vornamen, Nachnamen oder Firmennamen ein</value>
+        <value lang="en">Please enter Person First name or Last name or Company name</value>
+        <value lang="pt_BR">Por favor, digite o nome da pessoa, sobrenome ou nome da empresa</value>
+    </property>
+    <property key="SfaForecasts">
+        <value lang="de">Prognose</value>
+        <value lang="en">Forecast</value>
+        <value lang="es">Previsión</value>
+        <value lang="fr">Prévision</value>
+        <value lang="it">Previsioni</value>
+        <value lang="pt_BR">Previsão</value>
+        <value lang="zh">预测</value>
+        <value lang="zh_TW">預測</value>
+    </property>
+    <property key="SfaImportLead">
+        <value lang="en">Import Lead</value>
+        <value lang="es">Importar lead</value>
+        <value lang="fr">Importer le prospect</value>
+        <value lang="it">Importo lead</value>
+        <value lang="pt_BR">Importar Lead</value>
+        <value lang="zh">导入线索</value>
+        <value lang="zh_TW">導入線索</value>
+    </property>
+    <property key="SfaImportVCardError">
+        <value lang="en">Error during import data from VCard: ${errorString}</value>
+        <value lang="it">Errore durante l'importazione dei dati da VCard: ${errorString}</value>
+    </property>
+    <property key="SfaInitialAccount">
+        <value lang="en">Initial Account</value>
+        <value lang="fr">Compte initial</value>
+        <value lang="it">Utente iniziale</value>
+        <value lang="pt_BR">Conta inicial</value>
+        <value lang="zh">初始账户</value>
+        <value lang="zh_TW">初始賬戶</value>
+    </property>
+    <property key="SfaInitialStage">
+        <value lang="en">Initial Stage</value>
+        <value lang="fr">Phase initiale</value>
+        <value lang="it">Stage iniziale</value>
+        <value lang="pt_BR">Estágio inicial</value>
+        <value lang="zh">初始阶段</value>
+        <value lang="zh_TW">初始階段</value>
+    </property>
+    <property key="SfaLead">
+        <value lang="en">Lead</value>
+        <value lang="fr">Prospect</value>
+        <value lang="it">Lead</value>
+        <value lang="pt_BR">Lead</value>
+        <value lang="zh">线索</value>
+        <value lang="zh_TW">線索</value>
+    </property>
+    <property key="SfaLeadSource">
+        <value lang="en">Lead Source</value>
+        <value lang="fr">Origine du prospect</value>
+        <value lang="it">Lead origine</value>
+        <value lang="pt_BR">Origem do Lead</value>
+        <value lang="zh">线索来源</value>
+        <value lang="zh_TW">線索來源</value>
+    </property>
+    <property key="SfaLeads">
+        <value lang="en">Leads</value>
+        <value lang="fr">Prospects</value>
+        <value lang="it">Leads</value>
+        <value lang="pt_BR">Leads</value>
+        <value lang="zh">线索</value>
+        <value lang="zh_TW">線索</value>
+    </property>
+    <property key="SfaListSalesForecastDetail">
+        <value lang="en">List Sales Forecast Details</value>
+        <value lang="fr">Liste des détails de prévision de ventes</value>
+        <value lang="it">Lista dettagli previsioni di vendita</value>
+        <value lang="pt_BR">Listar detalhes de previsão de vendas</value>
+        <value lang="zh">销售预测细节列表</value>
+        <value lang="zh_TW">銷售預測細節列表</value>
+    </property>
+    <property key="SfaManager">
+        <value lang="en">SFA Manager</value>
+        <value lang="fr">Application de gestion des ventes</value>
+        <value lang="it">Gestione vendite</value>
+        <value lang="pt_BR">Gestor de automação de equipe de vendas</value>
+        <value lang="zh">销售管理应用程序</value>
+        <value lang="zh_TW">銷售管理應用程式</value>
+    </property>
+    <property key="SfaManagerApplication">
+        <value lang="en">CRM-Anwendung</value>
+        <value lang="fr">Application de gestion des ventes</value>
+        <value lang="it">Applicazione gestione forze esterne</value>
+        <value lang="pt_BR">Applicação de gestão de automação de equipe de vendas</value>
+        <value lang="zh">销售管理应用程序</value>
+        <value lang="zh_TW">銷售管理應用程式</value>
+    </property>
+    <property key="SfaManagerWelcome">
+        <value lang="de">Willkommen bei der CRM-Anwendung.</value>
+        <value lang="en">Welcome to the Sales Force Automation Manager Application.</value>
+        <value lang="fr">Bienvenue dans l'application de gestion des ventes.</value>
+        <value lang="it">Benvenuto all'applicazione di gestione delle forze esterne.</value>
+        <value lang="pt_BR">Seja bem-vindo à aplicação de atomação da equipe de vendas.</value>
+        <value lang="zh">欢迎使用销售管理应用程序</value>
+        <value lang="zh_TW">歡迎使用銷售管理應用程式</value>
+    </property>
+    <property key="SfaMergeContacts">
+        <value lang="de">Kontakte zusammenführen</value>
+        <value lang="en">Merge Contacts</value>
+        <value lang="fr">Fusionner les contacts</value>
+        <value lang="it">Merge Contatti</value>
+        <value lang="pt_BR">Mesclar contatos</value>
+        <value lang="zh">合并联系</value>
+        <value lang="zh_TW">合並聯系</value>
+    </property>
+    <property key="SfaMergeLeads">
+        <value lang="en">Merge Leads</value>
+        <value lang="fr">Fusionner les prospects</value>
+        <value lang="it">Merge Leads</value>
+        <value lang="pt_BR">Mesclar Leads</value>
+        <value lang="zh">合并线索</value>
+        <value lang="zh_TW">合並線索</value>
+    </property>
+    <property key="SfaMergingFollowing">
+        <value lang="de">Führe folgende zusammen</value>
+        <value lang="en">Merging Following</value>
+        <value lang="fr">Fusionner les suivants</value>
+        <value lang="it">Merge seguendo i</value>
+        <value lang="pt_BR">Mesclar seguindo</value>
+        <value lang="zh">合并跟单</value>
+        <value lang="zh_TW">合並跟單</value>
+    </property>
+    <property key="SfaMyAccounts">
+        <value lang="de">Meine Konten</value>
+        <value lang="en">My Accounts</value>
+        <value lang="fr">Mes comptes</value>
+        <value lang="pt_BR">Minhas contas</value>
+        <value lang="th">Account ของฉัน</value>
+    </property>
+    <property key="SfaMyContacts">
+        <value lang="de">Meine Kontakte</value>
+        <value lang="en">My Contacts</value>
+        <value lang="fr">Mes contacts</value>
+        <value lang="pt_BR">Meus contatos</value>
+        <value lang="th">Contact ของฉัน</value>
+    </property>
+    <property key="SfaMyLeads">
+        <value lang="en">My Leads</value>
+        <value lang="fr">Mes prospects</value>
+        <value lang="pt_BR">Meus Leads</value>
+        <value lang="th">Lead ของฉัน</value>
+    </property>
+    <property key="SfaNewSalesForecast">
+        <value lang="de">Neue Verkaufsprognose</value>
+        <value lang="en">New Sales Forecast</value>
+        <value lang="fr">Nouvelle prévision de vente</value>
+        <value lang="it">Nuova Previsioni di vendita</value>
+        <!-- JLR : not quite sure of the translation here (done with the help of Yahoo's babelfish), please check -->
+        <value lang="pt_BR">Nova previsão de vendas</value>
+        <value lang="zh">新的销售展望</value>
+        <value lang="zh_TW">新的銷售展望</value>
+    </property>
+    <property key="SfaNextStep">
+        <value lang="de">Nächster Schritt</value>
+        <value lang="en">Next Step</value>
+        <value lang="fr">Prochaine étape</value>
+        <value lang="it">Passo successivo</value>
+        <value lang="pt_BR">Próximo passo</value>
+        <value lang="zh">下一步</value>
+        <value lang="zh_TW">下一步</value>
+    </property>
+    <property key="SfaNoLeadsSelectedToMerged">
+        <value lang="en">No leads selected to merge</value>
+        <value lang="fr">Aucun prospect sélectionné pour la fusion</value>
+        <value lang="it">Nessun leads selezionato da fare merge</value>
+        <value lang="pt_BR">Nenhum Lead selecionado para mesclar</value>
+        <value lang="zh">没有选择要合并的线索</value>
+        <value lang="zh_TW">沒有選擇要合並的線索</value>
+    </property>
+    <property key="SfaOpportunities">
+        <value lang="en">Opportunities</value>
+        <value lang="fr">Opportunités</value>
+        <value lang="it">Opportunità</value>
+        <value lang="pt_BR">Oportunidades</value>
+        <value lang="zh">机会</value>
+        <value lang="zh_TW">機會</value>
+    </property>
+    <property key="SfaOpportunityCommunications">
+        <value lang="en">Opportunity Communications</value>
+        <value lang="pt_BR">Comunicação de oportunidades</value>
+    </property>
+    <property key="SfaOpportunityId">
+        <value lang="en">Opportunity ID</value>
+        <value lang="fr">Réf. d'opportunité</value>
+        <value lang="it">N. Opportunità</value>
+        <value lang="pt_BR">ID da oportunidade</value>
+        <value lang="zh">机会标识</value>
+        <value lang="zh_TW">機會ID</value>
+    </property>
+    <property key="SfaOpportunityInfo">
+        <value lang="en">Opportunity Information</value>
+        <value lang="fr">Information sur l'opportunité</value>
+        <value lang="it">Informazioni oppportunità</value>
+        <value lang="pt_BR">Informação da oportunidade</value>
+        <value lang="zh">机会信息</value>
+        <value lang="zh_TW">機會資訊</value>
+    </property>
+    <property key="SfaOpportunityName">
+        <value lang="en">Opportunity Name</value>
+        <value lang="fr">Nom d'opportunité</value>
+        <value lang="it">Nome opportunità</value>
+        <value lang="pt_BR">Nome da oportunidade</value>
+        <value lang="zh">机会名称</value>
+        <value lang="zh_TW">機會名稱</value>
+    </property>
+    <property key="SfaOpportunitySummary">
+        <value lang="en">Opportunity Summary</value>
+        <value lang="fr">Résumé d'opportunité</value>
+        <value lang="it">Sommario opportunità</value>
+        <value lang="pt_BR">Resumo da oportunidade</value>
+        <value lang="zh">机会总览</value>
+        <value lang="zh_TW">機會總覽</value>
+    </property>
+    <property key="SfaProbability">
+        <value lang="de">Wahrscheinlichkeit(%)</value>
+        <value lang="en">Probability(%)</value>
+        <value lang="fr">Probabilité (%)</value>
+        <value lang="it">Probabilità(%)</value>
+        <value lang="pt_BR">Probabilidade (%)</value>
+        <value lang="zh">可能性(%)</value>
+        <value lang="zh_TW">可能性(%)</value>
+    </property>
+    <property key="SfaQuickAddContact">
+        <value lang="en">Quick Add Contact</value>
+        <value lang="fr">Ajout rapide d'un contact</value>
+        <value lang="it">Aggiunta veloce contatto</value>
+        <value lang="pt_BR">Adição rápida de contato</value>
+        <value lang="zh">快速添加联系</value>
+        <value lang="zh_TW">快速添加聯系</value>
+    </property>
+    <property key="SfaQuickAddLead">
+        <value lang="en">Quick Add Lead</value>
+        <value lang="fr">Ajout rapide d'un prospect</value>
+        <value lang="it">Aggiunta veloce lead</value>
+        <value lang="pt_BR">Adição rápida de Lead</value>
+        <value lang="zh">快速添加线索</value>
+        <value lang="zh_TW">快速添加線索</value>
+    </property>
+    <property key="SfaSalesForecast">
+        <value lang="de">Verkaufsprognose</value>
+        <value lang="en">Sales Forecast</value>
+        <value lang="fr">Prévision de ventes</value>
+        <value lang="it">Previsioni di vendita</value>
+        <value lang="pt_BR">Previsão de vendas</value>
+        <value lang="zh">销售预测</value>
+        <value lang="zh_TW">銷售預測</value>
+    </property>
+    <property key="SfaSecondContact">
+        <value lang="en">Second Contact</value>
+        <value lang="fr">Deuxième contact</value>
+        <value lang="it">Secondo contatto</value>
+        <value lang="pt_BR">Segundo contato</value>
+        <value lang="zh">第二联系方式</value>
+        <value lang="zh_TW">第二聯系方式</value>
+    </property>
+    <property key="SfaSelectExistingAccountOrLeaveBlankToCreateNew">
+        <value lang="de">Wählen Sie ein existierendes Konto oder lassen Sie es leer um ein neues Konto zu erstellen"</value>
+        <value lang="en">Either select existing account or leave blank to create new account"</value>
+        <value lang="fr">Sélectionner un compte existant ou laissez un espace vide pour créer un nouveau compte"</value>
+        <value lang="it">Selezione entrambi utente esistente o lasciare vuoto per creare un nuovo utente</value>
+        <value lang="pt_BR">Ou selecione uma conta existente ou deixe em branco para criar uma nova conta</value>
+        <value lang="zh">或者选择已有账户，或者留空来新建账户</value>
+        <value lang="zh_TW">或者選擇已有賬戶，或者留空來新建賬戶</value>
+    </property>
+    <property key="SfaSelectLeadOwners">
+        <value lang="en">Select Lead Owners</value>
+        <value lang="pt_BR">Selecionar donos do Lead</value>
+    </property>
+    <property key="SfaTaskAssignedByMe">
+        <value lang="de">Öffne Aufgaben die ich zugeteilt habe.</value>
+        <value lang="en">Open Tasks Assigned by me.</value>
+        <value lang="fr">Tâches ouvertes assignées par moi</value>
+        <value lang="pt_BR">Tarefas em aberto designadas para mim.</value>
+        <value lang="th">งานที่ฉันมอบหมาย</value>
+    </property>
+    <property key="SfaTaskAssignedToMe">
+        <value lang="de">Öffne Aufgaben die mir zugeteilt sind.</value>
+        <value lang="en">Open Tasks Assigned to me.</value>
+        <value lang="fr">Tâches ouvertes qui me sont assignées</value>
+        <value lang="pt_BR">Tarefas em aberto designadas para mim.</value>
+        <value lang="th">งานที่มอบหมายให้ฉัน</value>
+    </property>
+    <property key="SfaType">
+        <value lang="de">Art</value>
+        <value lang="en">Type</value>
+        <value lang="fr">Type</value>
+        <value lang="it">Tipo</value>
+        <value lang="pt_BR">Tipo</value>
+        <value lang="zh">类型</value>
+        <value lang="zh_TW">類型</value>
+    </property>
+    <property key="SfaUploadVCard">
+        <value lang="de">vCard hochladen</value>
+        <value lang="en">Upload vCard</value>
+        <value lang="fr">Téléchargement de la vCard vers le serveur</value>
+        <value lang="it">Carica vCard</value>
+        <value lang="pt_BR">Enviar vCard</value>
+        <value lang="zh">上传vCard</value>
+        <value lang="zh_TW">上傳vCard</value>
+    </property>
+    <property key="SfaVCard">
+        <value lang="de">vCard</value>
+        <value lang="en">vCard</value>
+        <value lang="fr">vCard</value>
+        <value lang="it">vCard</value>
+        <value lang="pt_BR">vCard</value>
+    </property>
+</resource>

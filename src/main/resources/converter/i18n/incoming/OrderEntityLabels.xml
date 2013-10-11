@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <property key="CustRequestResolution.description.DUPLICATE">
+        <value lang="de">Duplikat</value>
+        <value lang="en">Duplicate</value>
+        <value lang="es">Duplicado</value>
+        <value lang="fr">Dupliquée</value>
+        <value lang="it">Duplicato</value>
+        <value lang="pt_BR">Duplicata</value>
+        <value lang="ro">Duplicat</value>
+        <value lang="ru">Повторное</value>
+        <value lang="th">จำลอง</value>
+        <value lang="zh">重复</value>
+        <value lang="zh_TW">重複</value>
+    </property>
+    <property key="CustRequestResolution.description.FIXED">
+        <value lang="de">Gelöst</value>
+        <value lang="en">Fixed</value>
+        <value lang="es">Resuelto</value>
+        <value lang="fr">Corrigée</value>
+        <value lang="it">Risolto</value>
+        <value lang="pt_BR">Resolvido</value>
+        <value lang="ro">Solutionat</value>
+        <value lang="ru">Исправлено</value>
+        <value lang="th">แก้ไข</value>
+        <value lang="zh">已改正</value>
+        <value lang="zh_TW">已改正</value>
+    </property>
+    <property key="CustRequestResolution.description.IMPLEMENTED">
+        <value lang="de">Umgesetzt</value>
+        <value lang="en">Implemented</value>
+        <value lang="es">Implementado</value>
+        <value lang="fr">Implémentée</value>
+        <value lang="it">Implementato</value>
+        <value lang="pt_BR">Implementado</value>
+        <value lang="ro">Implementat</value>
+        <value lang="ru">Реализовано</value>
+        <value lang="th">ทำให้เห็นผล</value>
+        <value lang="zh">已实现</value>
+        <value lang="zh_TW">已實現</value>
+    </property>
+    <property key="CustRequestResolution.description.REJECTED">
+        <value lang="de">Abgelehnt</value>
+        <value lang="en">Rejected</value>
+        <value lang="es">Rechazado</value>
+        <value lang="fr">Rejetée</value>
+        <value lang="it">Rifiutato</value>
+        <value lang="pt_BR">Recusado</value>
+        <value lang="ro">Refuzat</value>
+        <value lang="ru">Отказано</value>
+        <value lang="th">ปฏิเสธ</value>
+        <value lang="zh">拒绝</value>
+        <value lang="zh_TW">拒絕</value>
+    </property>
+    <property key="CustRequestResolution.description.WONTFIX">
+        <value lang="de">Wird nicht behoben</value>
+        <value lang="en">Won't Fix</value>
+        <value lang="es">No se resuelve</value>
+        <value lang="fr">Non corrigée</value>
+        <value lang="it">Non verra fissato</value>
+        <value lang="pt_BR">Não se resolve</value>
+        <value lang="ro">Nu Va fi Fixat</value>
+        <value lang="ru">Не исправлено</value>
+        <value lang="th">ไม่สามารถแก้ไขได้</value>
+        <value lang="zh">不改正</value>
+        <value lang="zh_TW">不改正</value>
+    </property>
+    <property key="CustRequestResolution.description.WORKS">
+        <value lang="de">Funktioniert bei mir</value>
+        <value lang="en">Works For Me</value>
+        <value lang="es">Me funciona</value>
+        <value lang="fr">Fonctionne pour moi</value>
+        <value lang="it">Per me funziona</value>
+        <value lang="pt_BR">Funciona para mim</value>
+        <value lang="ro">Cred ca Functioneaza</value>
+        <value lang="ru">Для нас работает</value>
+        <value lang="th">งานสำหรับฉัน</value>
+        <value lang="zh">对我是正确的</value>
+        <value lang="zh_TW">對我是正確的</value>
+    </property>
+    <property key="CustRequestType.description.RF_BUGFIX">
+        <value lang="de">Fehlerkorrektur verlangt</value>
+        <value lang="en">Request For Bug Fix</value>
+        <value lang="es">Petición de corregir error</value>
+        <value lang="fr">Correction d'erreur</value>
+        <value lang="it">Richiesta di bug fix</value>
+        <value lang="pt_BR">Requisição para conserto de Bug</value>
+        <value lang="ro">Cerere De Bug Fix</value>
+        <value lang="ru">Запрос на исправление ошибки</value>
+        <value lang="th">คำขอร้องสำหรับการแก้บัค</value>
+        <value lang="zh">除错请求</value>
+        <value lang="zh_TW">除錯請求</value>
+    </property>
+    <property key="CustRequestType.description.RF_CATALOG">
+        <value lang="de">Katalog verlangt</value>
+        <value lang="en">Request For Catalog</value>
+        <value lang="es">Petición de catálogo</value>
+        <value lang="fr">Demande catalogue</value>
+        <value lang="it">Richiesta di catalogo</value>
+        <value lang="pt_BR">Requisição para catálogo</value>
+        <value lang="ro">Cerere De Catalog</value>
+        <value lang="ru">Запрос каталога</value>
+        <value lang="th">คำขอร้องสำหรับหมวดหมู่</value>
+        <value lang="zh">目录请求</value>
+        <value lang="zh_TW">目錄請求</value>
+    </property>
+    <property key="CustRequestType.description.RF_FEATURE">
+        <value lang="de">Produktmerkmal verlangt</value>
+        <value lang="en">Request For Feature</value>
+        <value lang="es">Petición de característica</value>
+        <value lang="fr">Demande de caractéristique</value>
+        <value lang="it">Richiesta di caratteristica</value>
+        <value lang="pt_BR">Requisição por característica</value>
+        <value lang="ro">Cerere Caracteristica</value>
+        <value lang="ru">Запрос особенности</value>
+        <value lang="th">คำขอร้องสำหรับลักษณะ</value>
+        <value lang="zh">特性请求</value>
+        <value lang="zh_TW">特性請求</value>
+    </property>
+    <property key="CustRequestType.description.RF_INFO">
+        <value lang="de">Informationen verlangt</value>
+        <value lang="en">Request For Information</value>
+        <value lang="es">Petición de información</value>
+        <value lang="fr">Demande d'information</value>
+        <value lang="it">Richiesta di informazione</value>
+        <value lang="pt_BR">Requisição por informação</value>
+        <value lang="ro">Cerere Informatie</value>
+        <value lang="ru">Запрос информации</value>
+        <value lang="th">คำขอร้องสำหรับข้อมูล</value>
+        <value lang="zh">信息请求</value>
+        <value lang="zh_TW">資訊請求</value>
+    </property>
+    <property key="CustRequestType.description.RF_PROPOSAL">
+        <value lang="de">Vorschlag verlangt</value>
+        <value lang="en">Request For Proposal</value>
+        <value lang="es">Petición de propuesta</value>
+        <value lang="fr">Proposition</value>
+        <value lang="it">Richiesta di proposta</value>
+        <value lang="pt_BR">Requisição por proposta</value>
+        <value lang="ro">Cerere De Propunere</value>
+        <value lang="ru">Запрос предложения</value>
+        <value lang="th">คำขอร้องสำหรับข้อเสนอ</value>
+        <value lang="zh">建议请求</value>
+        <value lang="zh_TW">建議請求</value>
+    </property>
+    <property key="CustRequestType.description.RF_PUR_QUOTE">
+        <value lang="de">Beschaffungsofferte verlangt</value>
+        <value lang="de_DE">Einkaufsangebot angefordert</value>
+        <value lang="en">Request For Purchase Quote</value>
+        <value lang="es">Petición de presupuesto de compra</value>
+        <value lang="fr">Demande de devis pour achat</value>
+        <value lang="it">Richiesta Di Preventivo Acquisto</value>
+        <value lang="pt_BR">Requisição por cotação para compra</value>
+        <value lang="ru">Запрос закупочных цен</value>
+        <value lang="th">คำขอร้องสำหรับการอ้างอิงการสั่งซื้อ</value>
+        <value lang="zh">采购询价</value>
+        <value lang="zh_TW">採購詢價</value>
+    </property>
+    <property key="CustRequestType.description.RF_QUOTE">
+        <value lang="de">Offerte verlangt</value>
+        <value lang="de_DE">Angebot angefordert</value>
+        <value lang="en">Request For Quote</value>
+        <value lang="es">Petición de presupuesto</value>
+        <value lang="fr">Demande de devis</value>
+        <value lang="it">Richiesta di preventivo</value>
+        <value lang="pt_BR">Requisição por cotação</value>
+        <value lang="ro">Cerere De Oferta</value>
+        <value lang="ru">Запрос цены</value>
+        <value lang="th">คำขอร้องสำหรับการอ้างอิง</value>
+        <value lang="zh">询价请求</value>
+        <value lang="zh_TW">詢價請求</value>
+    </property>
+    <property key="CustRequestType.description.RF_SUPPORT">
+        <value lang="de">Support verlangt</value>
+        <value lang="en">Request For Support</value>
+        <value lang="es">Petición de ayuda</value>
+        <value lang="fr">Demande de support</value>
+        <value lang="it">Richiesta di supporto</value>
+        <value lang="pt_BR">Requisição por suporte</value>
+        <value lang="ro">Cerere De Suport</value>
+        <value lang="ru">Запрос поддержки</value>
+        <value lang="th">คำขอร้องสำหรับการสนับสนุน</value>
+        <value lang="zh">支持请求</value>
+        <value lang="zh_TW">支援請求</value>
+    </property>
+    <property key="OrderAdjustmentType.description.ADDITIONAL_FEATURE">
+        <value lang="de">Zusätzliches Merkmal</value>
+        <value lang="en">Additional Feature</value>
+        <value lang="es">Característica adicional</value>
+        <value lang="fr">Caractéristique additionnelle</value>
+        <value lang="it">Caratteristica aggiuntiva</value>
+        <value lang="pt_BR">Característica adicional</value>
+        <value lang="ro">Caracteristica Suplimentara</value>
+        <value lang="ru">Дополнительная возможность</value>
+        <value lang="th">เพิ่มเติมลักษณะ</value>
+        <value lang="zh">附加特性</value>
+        <value lang="zh_TW">附加特性</value>
+    </property>
+    <property key="OrderAdjustmentType.description.DISCOUNT_ADJUSTMENT">
+        <value lang="de">Rabatt</value>
+        <value lang="en">Discount</value>
+        <value lang="es">Descuento</value>
+        <value lang="fr">Remise</value>
+        <value lang="it">Sconto</value>
+        <value lang="pt_BR">Desconto</value>
+        <value lang="ro">Scont</value>
+        <value lang="ru">Скидка</value>
+        <value lang="th">ส่วนลด</value>
+        <value lang="zh">折扣</value>
+        <value lang="zh_TW">折扣</value>
+    </property>
+    <property key="OrderAdjustmentType.description.FEE">
+        <value lang="de">Gebühr</value>
+        <value lang="en">Fee</value>
+        <value lang="es">Tasa</value>
+        <value lang="fr">Honoraires</value>
+        <value lang="it">Tassa</value>
+        <value lang="pt_BR">Taxa</value>
+        <value lang="ro">Taxa</value>
+        <value lang="ru">Сбор</value>
+        <value lang="th">ค่าธรรมเนียม</value>
+        <value lang="zh">费用</value>
+        <value lang="zh_TW">費用</value>
+    </property>
+    <property key="OrderAdjustmentType.description.MISCELLANEOUS_CHARGE">
+        <value lang="de">Sonstige Gebühren</value>
+        <value lang="en">Miscellaneous Charges</value>
+        <value lang="es">Gastos diversos</value>
+        <value lang="fr">Frais divers</value>
+        <value lang="it">Ricarico vario</value>
+        <value lang="pt_BR">Gastos diversos</value>
+        <value lang="ro">Incarcare mixta</value>
+        <value lang="ru">Различные расходы</value>
+        <value lang="th">ค่าธรรมเนียมเบ็ดเตล็ด</value>
+        <value lang="zh">其它费用</value>
+        <value lang="zh_TW">其他費用</value>
+    </property>
+    <property key="OrderAdjustmentType.description.MKTG_PKG_AUTO_ADJUST">
+        <value lang="de">Marketingpaket Anpassung</value>
+        <value lang="en">Marketing Package Adjustment</value>
+        <value lang="es">Ajuste de paquete de marketing</value>
+        <value lang="fr">Offre marketing (ajustement)</value>
+        <value lang="it">Aggiustamento paccho di vendita</value>
+        <value lang="pt_BR">Ajuste de pacote de marketing</value>
+        <value lang="ro">Adaptare Pachet Vanzare</value>
+        <value lang="ru">Настройка маркетингового пакета</value>
+        <value lang="th">การปรับปรุงรายการทางการตลาด</value>
+        <value lang="zh">调整市场促销方案</value>
+        <value lang="zh_TW">調整市場促銷方案</value>
+    </property>
+    <property key="OrderAdjustmentType.description.PROMOTION_ADJUSTMENT">
+        <value lang="de">Aktion</value>
+        <value lang="en">Promotion</value>
+        <value lang="es">Promoción</value>
+        <value lang="fr">Promotion</value>
+        <value lang="it">Promozione</value>
+        <value lang="pt_BR">Promoção</value>
+        <value lang="ro">Promotie</value>
+        <value lang="ru">Акция</value>
+        <value lang="th">โปรโมชัน</value>
+        <value lang="zh">促销</value>
+        <value lang="zh_TW">促銷</value>
+    </property>
+    <property key="OrderAdjustmentType.description.REPLACE_ADJUSTMENT">
+        <value lang="de">Ersatz</value>
+        <value lang="en">Replacement</value>
+        <value lang="es">Reemplazo</value>
+        <value lang="fr">Remplacement</value>
+        <value lang="it">Sostituzione</value>
+        <value lang="pt_BR">Reposição</value>
+        <value lang="ro">Substituire</value>
+        <value lang="ru">Замена</value>
+        <value lang="th">จากการเปลี่ยนแปลง</value>
+        <value lang="zh">替换</value>
+        <value lang="zh_TW">替換</value>
+    </property>
+    <property key="OrderAdjustmentType.description.SALES_TAX">
+        <value lang="de">Verkaufssteuer</value>
+        <value lang="en">Sales Tax</value>
+        <value lang="es">Impuestos de venta</value>
+        <value lang="fr">Taxes de vente</value>
+        <value lang="it">Tassa di vendita</value>
+        <value lang="pt_BR">Taxas de venda</value>
+        <value lang="ro">Taxa Vanzare</value>
+        <value lang="ru">Налог с продаж</value>
+        <value lang="th">ภาษีการขาย</value>
+        <value lang="zh">营业税</value>
+        <value lang="zh_TW">營業稅</value>
+    </property>
+    <property key="OrderAdjustmentType.description.SHIPPING_CHARGES">
+        <value lang="de">Versandkosten</value>
+        <value lang="en">Shipping and Handling</value>
+        <value lang="es">Envío y seguimiento</value>
+        <value lang="fr">Port et emballage</value>
+        <value lang="it">Spesa di spedizione e imballaggio</value>
+        <value lang="pt_BR">Envio e manuseio</value>
+        <value lang="ro">Cheltueli cu Expedierea si Ambalarea</value>
+        <value lang="ru">Поставка и обработка</value>
+        <value lang="th">การขนส่งและการควบคุม</value>
+        <value lang="zh">运输和包装</value>
+        <value lang="zh_TW">運輸和包裝</value>
+    </property>
+    <property key="OrderAdjustmentType.description.SURCHARGE_ADJUSTMENT">
+        <value lang="de">Zuschlag</value>
+        <value lang="en">Surcharge</value>
+        <value lang="es">Recargo</value>
+        <value lang="fr">Supplément</value>
+        <value lang="it">Sovraccarico</value>
+        <value lang="pt_BR">Sobretaxa</value>
+        <value lang="ro">Supraincarcare</value>
+        <value lang="ru">Надбавка</value>
+        <value lang="th">การคิดเงินเพิ่ม</value>
+        <value lang="zh">额外费用</value>
+        <value lang="zh_TW">額外費用</value>
+    </property>
+    <property key="OrderAdjustmentType.description.WARRANTY_ADJUSTMENT">
+        <value lang="de">Garantie</value>
+        <value lang="en">Warranty</value>
+        <value lang="es">Garantía</value>
+        <value lang="fr">Garantie</value>
+        <value lang="it">Garanzia</value>
+        <value lang="pt_BR">Garantia</value>
+        <value lang="ro">Garantie</value>
+        <value lang="ru">Гарантия</value>
+        <value lang="th">การรับประกัน</value>
+        <value lang="zh">保修</value>
+        <value lang="zh_TW">保修</value>
+    </property>
+    <property key="OrderBlacklistType.description.BLACKLIST_ADDRESS">
+        <value lang="de">Blackliste Adressen</value>
+        <value lang="en">Blacklist Address</value>
+        <value lang="es">Dirección bloqueada</value>
+        <value lang="fr">Mettre l'adresse en liste noire</value>
+        <value lang="it">Indirizzo blacklist</value>
+        <value lang="pt_BR">Lista negra de endereços</value>
+        <value lang="th">ที่อยู่</value>
+        <value lang="zh">地址黑名单</value>
+        <value lang="zh_TW">位址黑名單</value>
+    </property>
+    <property key="OrderBlacklistType.description.BLACKLIST_CREDITCARD">
+        <value lang="de">Blackliste Kreditkarte</value>
+        <value lang="en">Blacklist Credit Card</value>
+        <value lang="es">Tarjeta de crédito bloqueada</value>
+        <value lang="fr">Mettre la carte de crédit en liste noire</value>
+        <value lang="it">Blacklist carta di credito</value>
+        <value lang="pt_BR">Lista negra de cartões de crédito</value>
+        <value lang="th">บัตรเครดิต</value>
+        <value lang="zh">信用卡黑名单</value>
+        <value lang="zh_TW">信用卡黑名單</value>
+    </property>
+    <property key="OrderBlacklistType.description.BLACKLIST_EMAIL">
+        <value lang="de">Blackliste E-Mail</value>
+        <value lang="en">Blacklist Email</value>
+        <value lang="es">Email bloqueado</value>
+        <value lang="fr">Mettre l'addresse de courriel en liste noire</value>
+        <value lang="it">Email blacklist</value>
+        <value lang="pt_BR">Lista negra de e-mails</value>
+        <value lang="th">อีเมล</value>
+        <value lang="zh">电子邮件黑名单</value>
+        <value lang="zh_TW">電子郵件黑名單</value>
+    </property>
+    <property key="OrderBlacklistType.description.BLACKLIST_PHONE">
+        <value lang="de">Blackliste Telefon</value>
+        <value lang="en">Blacklist Phone</value>
+        <value lang="es">Teléfono bloqueado</value>
+        <value lang="fr">Mettre le n° de téléphone en liste noire</value>
+        <value lang="it">Telefono blacklist</value>
+        <value lang="pt_BR">Lista negra de telefones</value>
+        <value lang="th">หมายเลขโทรศัพท์</value>
+        <value lang="zh">电话黑名单</value>
+        <value lang="zh_TW">電話黑名單</value>
+    </property>
+    <property key="OrderContentType.description.IMAGE_URL">
+        <value lang="de">Bild URL</value>
+        <value lang="en">Image URL</value>
+        <value lang="es">URL de Imagen</value>
+        <value lang="fr">URL d'image</value>
+        <value lang="it">URL immagine</value>
+        <value lang="pt_BR">URL de imagem</value>
+        <value lang="th">รูปภาพ</value>
+        <value lang="zh">图像网址</value>
+        <value lang="zh_TW">圖像網址</value>
+    </property>
+    <property key="OrderItemType.description.BULK_ORDER_ITEM">
+        <value lang="de">Grossauftrag Element</value>
+        <value lang="en">BULK_ORDER_ITEM</value>
+        <value lang="es">Ítem a granel</value>
+        <value lang="fr">Vrac</value>
+        <value lang="it">Riga ordine bulk</value>
+        <value lang="pt_BR">Item no atacado</value>
+        <value lang="th">รายการความจุ</value>
+        <value lang="zh">大宗订单明细</value>
+        <value lang="zh_TW">大宗訂單明細</value>
+    </property>
+    <property key="OrderItemType.description.PRODUCT_ORDER_ITEM">
+        <value lang="de">Produkt</value>
+        <value lang="en">PRODUCT_ORDER_ITEM</value>
+        <value lang="es">Ítem de pedido</value>
+        <value lang="fr">Article</value>
+        <value lang="it">Prodotto riga ordine</value>
+        <value lang="pt_BR">Item de pedido</value>
+        <value lang="th">รายการ</value>
+        <value lang="zh">产品订单明细</value>
+        <value lang="zh_TW">產品訂單明細</value>
+    </property>
+    <property key="OrderItemType.description.RENTAL_ORDER_ITEM">
+        <value lang="de">Miete</value>
+        <value lang="en">RENTAL_ORDER_ITEM</value>
+        <value lang="es">Ítem de alquiler</value>
+        <value lang="fr">Location</value>
+        <value lang="it">Riga ordine di affitto</value>
+        <value lang="pt_BR">Item de aluguel</value>
+        <value lang="th">รายการการเช่า</value>
+        <value lang="zh">租赁订单明细</value>
+        <value lang="zh_TW">租賃訂單明細</value>
+    </property>
+    <property key="OrderItemType.description.WORK_ORDER_ITEM">
+        <value lang="de">Arbeit</value>
+        <value lang="en">WORK_ORDER_ITEM</value>
+        <value lang="es">Ítem de trabajo</value>
+        <value lang="fr">Tâche</value>
+        <value lang="it">Riga ordine di lavoro</value>
+        <value lang="pt_BR">Item de trabalho</value>
+        <value lang="th">รายการงาน</value>
+        <value lang="zh">派工单明细</value>
+        <value lang="zh_TW">派工單明細</value>
+    </property>
+    <property key="OrderType.description.PURCHASE_ORDER">
+        <value lang="de">Beschaffungsauftrag</value>
+        <value lang="en">Purchase Order</value>
+        <value lang="es">Pedido de Compra</value>
+        <value lang="fr">Achats</value>
+        <value lang="it">Ordine di acquisto</value>
+        <value lang="pt_BR">Pedido de compra</value>
+        <value lang="ro">Cumparare</value>
+        <value lang="ru">Закупка</value>
+        <value lang="th">รายการการสั่งซื้อ</value>
+        <value lang="zh">采购订单</value>
+        <value lang="zh_TW">採購訂單</value>
+    </property>
+    <property key="OrderType.description.SALES_ORDER">
+        <value lang="de">Kundenauftrag</value>
+        <value lang="en">Sales Order</value>
+        <value lang="es">Pedido de Venta</value>
+        <value lang="fr">Ventes</value>
+        <value lang="it">Ordine di vendita</value>
+        <value lang="nl">Verkoopbestelling</value>		
+        <value lang="pt_BR">Pedido de vendas</value>
+        <value lang="ro">Vanzare</value>
+        <value lang="ru">Продажи</value>
+        <value lang="th">รายการขาย</value>
+        <value lang="zh">销售订单</value>
+        <value lang="zh_TW">銷售訂單</value>
+    </property>
+    <property key="OrderType.description.WORK_ORDER">
+        <value lang="de">Arbeitsauftrag</value>
+        <value lang="en">WORK_ORDER</value>
+        <value lang="es">Pedido de Trabajo</value>
+        <value lang="fr">Tâche</value>
+        <value lang="it">Ordine di lavoro</value>
+        <value lang="pt_BR">Pedido de trabalho</value>
+        <value lang="th">งาน</value>
+        <value lang="zh">派工单</value>
+        <value lang="zh_TW">派工單</value>
+    </property>
+    <property key="QuoteType.description.OTHER_QUOTE">
+        <value lang="de">Andere</value>
+        <value lang="en">Other</value>
+        <value lang="es">Otros</value>
+        <value lang="fr">Autres</value>
+        <value lang="it">Altro</value>
+        <value lang="pt_BR">Outros</value>
+        <value lang="ro">Alte</value>
+        <value lang="ru">Другие</value>
+        <value lang="th">อื่น ๆ</value>
+        <value lang="zh">其它</value>
+        <value lang="zh_TW">其他</value>
+    </property>
+    <property key="QuoteType.description.PRODUCT_QUOTE">
+        <value lang="de">Produkt</value>
+        <value lang="en">Product</value>
+        <value lang="es">Producto</value>
+        <value lang="fr">Produit</value>
+        <value lang="it">Prodotto</value>
+        <value lang="pt_BR">Produto</value>
+        <value lang="ro">Produs</value>
+        <value lang="ru">Цены на продукцию</value>
+        <value lang="th">สินค้า</value>
+        <value lang="zh">产品</value>
+        <value lang="zh_TW">產品</value>
+    </property>
+    <property key="QuoteType.description.PROPOSAL">
+        <value lang="de">Vorschlag</value>
+        <value lang="en">Proposal</value>
+        <value lang="es">Propuesta</value>
+        <value lang="fr">Proposition</value>
+        <value lang="it">Proposta</value>
+        <value lang="pt_BR">Proposta</value>
+        <value lang="ro">Propunere</value>
+        <value lang="ru">Предложение</value>
+        <value lang="th">ข้อเสนอ</value>
+        <value lang="zh">建议</value>
+        <value lang="zh_TW">建議</value>
+    </property>
+    <property key="QuoteType.description.PROPOSAL_PURCHASE">
+        <value lang="de">Vorschlag Beschaffung</value>
+        <value lang="en">PROPOSAL_PURCHASE</value>
+        <value lang="es">Propuesta de compra</value>
+        <value lang="fr">Proposition d'achat</value>
+        <value lang="it">Proposta di acquisto</value>
+        <value lang="pt_BR">Proposta de compra</value>
+        <value lang="th">ข้อเสนอการซื้อ</value>
+        <value lang="zh">采购建议</value>
+        <value lang="zh_TW">採購建議</value>
+    </property>
+    <property key="QuoteType.description.PURCHASE_QUOTE">
+        <value lang="de">Produkt Beschaffung</value>
+        <value lang="en">Product Purchase</value>
+        <value lang="es">Presupuesto Compra de producto</value>
+        <value lang="fr">Achat</value>
+        <value lang="it">Prodotto acquistato</value>
+        <value lang="pt_BR">Compra de produto</value>
+        <value lang="ro">Produs Cumparat</value>
+        <value lang="ru">Закупочное предложение</value>
+        <value lang="th">การสั่งซื้อสินค้า</value>
+        <value lang="zh">产品采购</value>
+        <value lang="zh_TW">產品採購</value>
+    </property>
+    <property key="RequirementType.description.CUSTOMER_REQUIREMENT">
+        <value lang="de">Kunde Bedarf</value>
+        <value lang="en">Customer Requirement</value>
+        <value lang="es">Requisito de cliente</value>
+        <value lang="fr">Besoin client</value>
+        <value lang="it">Fabbisogno cliente</value>
+        <value lang="pt_BR">Exigência de cliente</value>
+        <value lang="ro">Necesar Cliente</value>
+        <value lang="ru">Требование заказчика</value>
+        <value lang="th">ความต้องการของลูกค้า</value>
+        <value lang="zh">客户需求</value>
+        <value lang="zh_TW">客戶需求</value>
+    </property>
+    <property key="RequirementType.description.INTERNAL_REQUIREMENT">
+        <value lang="de">Interner Bedarf</value>
+        <value lang="en">Internal Requirement</value>
+        <value lang="es">Requisito interno</value>
+        <value lang="fr">Besoin interne</value>
+        <value lang="it">Fabbisogno interno</value>
+        <value lang="pt_BR">Exigência interna</value>
+        <value lang="ro">Necesar Intern</value>
+        <value lang="ru">Внутреннее требование</value>
+        <value lang="th">ความต้องการภายใน</value>
+        <value lang="zh">内部需求</value>
+        <value lang="zh_TW">內部需求</value>
+    </property>
+    <property key="RequirementType.description.MRP_PRO_PROD_ORDER">
+        <value lang="de">Bedarf gemäss Produktionsplanung MRP</value>
+        <value lang="en">MRP_PRO_PROD_ORDER</value>
+        <value lang="es">Requisito de producción según MRP</value>
+        <value lang="fr">Besoins du cycle de production proposé au processus MRP</value>
+        <value lang="it">Fabbisogno ciclo produzione proposto dal processo MRP</value>
+        <value lang="pt_BR">Pedido de produção segundo MRP</value>
+        <value lang="ro">Necesar Ciclu Productie propus de procesul MRP</value>
+        <value lang="th">MRP_PRO_PROD_ORDER</value>
+        <value lang="zh">MRP中产品订单的物料需求</value>
+        <value lang="zh_TW">MRP中產品訂單的物料需求</value>
+    </property>
+    <property key="RequirementType.description.MRP_PRO_PURCH_ORDER">
+        <value lang="de">Einkaufsbedarf gemäss Produktionsplanung MRP</value>
+        <value lang="en">MRP_PRO_PURCH_ORDER</value>
+        <value lang="es">Requisito de compra según MRP</value>
+        <value lang="fr">Besoins d'achat proposé au processus MRP</value>
+        <value lang="it">Fabbisogno ordine acquisto proposto dal processo MRP</value>
+        <value lang="pt_BR">Pedido de compra segundo MRP</value>
+        <value lang="ro">Necesar Comanda Comparare propusa de procesul MRP</value>
+        <value lang="th">MRP_PRO_PURCH_ORDER</value>
+        <value lang="zh">MRP中采购订单的物料需求</value>
+        <value lang="zh_TW">MRP中採購訂單的物料需求</value>
+    </property>
+    <property key="RequirementType.description.PRODUCT_REQUIREMENT">
+        <value lang="de">Produkt Bedarf</value>
+        <value lang="en">Product Requirement</value>
+        <value lang="es">Requisito de producto</value>
+        <value lang="fr">Besoin en produit</value>
+        <value lang="it">Fabbisogno prodotto</value>
+        <value lang="pt_BR">Requisito de produto</value>
+        <value lang="ro">Necesar Produs</value>
+        <value lang="ru">Требование продукции</value>
+        <value lang="th">ความต้องการสินค้า</value>
+        <value lang="zh">产品需求</value>
+        <value lang="zh_TW">產品需求</value>
+    </property>
+    <property key="RequirementType.description.WORK_REQUIREMENT">
+        <value lang="de">Arbeitsbedarf</value>
+        <value lang="en">Work Requirement</value>
+        <value lang="es">Requisito de trabajo</value>
+        <value lang="fr">Besoin de production</value>
+        <value lang="it">Fabbisogno lavoro</value>
+        <value lang="pt_BR">Requisito de trabalho</value>
+        <value lang="ro">Necesar de Lucru</value>
+        <value lang="ru">Требование работ</value>
+        <value lang="th">ความต้องการงาน</value>
+        <value lang="zh">作业需求</value>
+        <value lang="zh_TW">作業需求</value>
+    </property>
+    <property key="ReturnAdjustmentType.description.RET_ADD_FEATURE_ADJ">
+        <value lang="en">Return Additional Feature</value>
+        <value lang="it">Caratteristiche aggiuntive sul reso</value>
+        <value lang="pt_BR">Devolução de funcionalidade adicional</value>
+        <value lang="zh">退货的附加特征</value>
+        <value lang="zh_TW">退貨的附加特征</value>
+    </property>
+    <property key="ReturnAdjustmentType.description.RET_DISCOUNT_ADJ">
+        <value lang="en">Return Discount</value>
+        <value lang="it">Sconto sul reso</value>
+        <value lang="pt_BR">Desconto por devolução</value>
+        <value lang="zh">退货的折扣</value>
+        <value lang="zh_TW">退貨的折扣</value>
+    </property>
+    <property key="ReturnAdjustmentType.description.RET_FEE_ADJ">
+        <value lang="en">Return Fee</value>
+        <value lang="it">Commissioni sul reso</value>
+        <value lang="pt_BR">Taxa de devolução</value>
+        <value lang="zh">退货的费用</value>
+        <value lang="zh_TW">退貨的費用</value>
+    </property>
+    <property key="ReturnAdjustmentType.description.RET_MAN_ADJ">
+        <value lang="en">Return Manual Adjustment</value>
+        <value lang="it">Aggiustamento manuale sul reso</value>
+        <value lang="pt_BR">Ajuste manual sobre devolução</value>
+        <value lang="zh">退货的手册调整</value>
+        <value lang="zh_TW">退貨的手冊調整</value>
+    </property>
+    <property key="ReturnAdjustmentType.description.RET_MISC_ADJ">
+        <value lang="en">Return Miscellaneous Charges</value>
+        <value lang="it">Ricarichi vari sul reso</value>
+        <value lang="pt_BR">Taxas diversas sobre devolução</value>
+        <value lang="zh">退货的杂费</value>
+        <value lang="zh_TW">退貨的雜費</value>
+    </property>
+    <property key="ReturnAdjustmentType.description.RET_MKTG_PKG_ADJ">
+        <value lang="en">Return Marketing Package Adjustment</value>
+        <value lang="it">Aggiustamento pacco di vendita sul reso</value>
+        <value lang="pt_BR">Ajuste sobre a a devolução de pacote de marketing</value>
+        <value lang="zh">退货的行销包装调整</value>
+        <value lang="zh_TW">退貨的行銷包裝調整</value>
+    </property>
+    <property key="ReturnAdjustmentType.description.RET_PROMOTION_ADJ">
+        <value lang="en">Return Promotion</value>
+        <value lang="it">Promozione reso</value>
+        <value lang="pt_BR">Promoção devolução</value>
+        <value lang="zh">退货的促销</value>
+        <value lang="zh_TW">退貨的促銷</value>
+    </property>
+    <property key="ReturnAdjustmentType.description.RET_REPLACE_ADJ">
+        <value lang="en">Return Replacement</value>
+        <value lang="it">Reso in sostituzione</value>
+        <value lang="pt_BR">Devolução de reposição</value>
+        <value lang="zh">退货的替代</value>
+        <value lang="zh_TW">退貨的替代</value>
+    </property>
+    <property key="ReturnAdjustmentType.description.RET_SALES_TAX_ADJ">
+        <value lang="en">Return Sales Tax</value>
+        <value lang="it">Tasse di vendita sul reso</value>
+        <value lang="pt_BR">Taxa de devolução de venda</value>
+        <value lang="zh">退货的营业税</value>
+        <value lang="zh_TW">退貨的營業稅</value>
+    </property>
+    <property key="ReturnAdjustmentType.description.RET_SHIPPING_ADJ">
+        <value lang="en">Return Shipping and Handling</value>
+        <value lang="it">Spese di trasporto sul reso</value>
+        <value lang="pt_BR">Devolução de envio e manuseio</value>
+        <value lang="zh">退货的装运费</value>
+        <value lang="zh_TW">退貨的裝運費</value>
+    </property>
+    <property key="ReturnAdjustmentType.description.RET_SURCHARGE_ADJ">
+        <value lang="en">Return Surcharge</value>
+        <value lang="it">Spese supplementari sul reso</value>
+        <value lang="pt_BR">Devolução de sobretaxa</value>
+        <value lang="zh">退货的附加费</value>
+        <value lang="zh_TW">退貨的附加費</value>
+    </property>
+    <property key="ReturnAdjustmentType.description.RET_WARRANTY_ADJ">
+        <value lang="en">Return Warranty</value>
+        <value lang="it">Garanzia sul reso</value>
+        <value lang="pt_BR">Devolução de garantia</value>
+        <value lang="zh">退货的保证条款</value>
+        <value lang="zh_TW">退貨的保証條款</value>
+    </property>
+    <property key="ReturnReason.description.RTN_COD_REJECT">
+        <value lang="de">Vereinbarte Zahlung bei Lieferung abgeleht</value>
+        <value lang="en">COD Payment Rejected</value>
+        <value lang="es">Pago acordado rechazado a la entrega</value>
+        <value lang="fr">COD paiement rejeté</value>
+        <value lang="it">Pagmento contrassegno rifiutato</value>
+        <value lang="pt_BR">Pagamento mediante recebimento rejeitado</value>
+        <value lang="ru">COD платеж не принят</value>
+        <value lang="th">ปฏิเสธการชำระเงินด่วน</value>
+        <value lang="zh">货到付款被拒绝了</value>
+        <value lang="zh_TW">貨到付款被拒絕了</value>
+    </property>
+    <property key="ReturnReason.description.RTN_DEFECTIVE_ITEM">
+        <value lang="de">Defektes Element</value>
+        <value lang="en">Defective Item</value>
+        <value lang="es">Producto defectuoso</value>
+        <value lang="fr">Défectueux</value>
+        <value lang="it">Prodotto difettoso</value>
+        <value lang="pt_BR">Produto defeituoso</value>
+        <value lang="ro">Produs Defectuos</value>
+        <value lang="ru">Дефектное изделие</value>
+        <value lang="th">รายการมีตำหนิ</value>
+        <value lang="zh">有缺陷的明细</value>
+        <value lang="zh_TW">有缺陷的明細</value>
+    </property>
+    <property key="ReturnReason.description.RTN_DIG_FILL_FAIL">
+        <value lang="de">Elektronische Auslieferung fehlgeschlagen</value>
+        <value lang="en">Digital Fulfillment Failed</value>
+        <value lang="es">Error de entrega via electrónica</value>
+        <value lang="fr">Erreur de chargement de fichier </value>
+        <value lang="it">Soddisfazione digitale fallita</value>
+        <value lang="pt_BR">Falha no processamento eletrônico</value>
+        <value lang="ro">Satisfactie Digitala Falita</value>
+        <value lang="ru">Выполнение поставки цифр. продукта не удалось</value>
+        <value lang="th">การปฏิบัติการของดิจิตอลล้มเหลว</value>
+        <value lang="zh">数字执行失败</value>
+        <value lang="zh_TW">數字執行失敗</value>
+    </property>
+    <property key="ReturnReason.description.RTN_MISSHIP_ITEM">
+        <value lang="de">Falsch versandtes Element</value>
+        <value lang="en">Mis-Shipped Item</value>
+        <value lang="es">Ítem mal enviado</value>
+        <value lang="fr">Ligne d'expédition manquante</value>
+        <value lang="it">Prodotto non-spedito</value>
+        <value lang="pt_BR">Item enviado errado</value>
+        <value lang="ro">Produs Ne-Expediat</value>
+        <value lang="ru">Ошибочная поставка</value>
+        <value lang="th">ไม่มีรายการขนส่ง</value>
+        <value lang="zh">送错的明细</value>
+        <value lang="zh_TW">送錯的明細</value>
+    </property>
+    <property key="ReturnReason.description.RTN_NOT_WANT">
+        <value lang="de">Element nicht verlangt</value>
+        <value lang="en">Did Not Want Item</value>
+        <value lang="es">No quiere el ítem</value>
+        <value lang="fr">Non demandé</value>
+        <value lang="it">Prodotto non voluto</value>
+        <value lang="pt_BR">Não quis o item</value>
+        <value lang="ro">Produs Non Volut</value>
+        <value lang="ru">Ненужная позиция</value>
+        <value lang="th">ไม่ต้องการรายการ</value>
+        <value lang="zh">不需要明细</value>
+        <value lang="zh_TW">不需要明細</value>
+    </property>
+    <property key="ReturnReason.description.RTN_SIZE_EXCHANGE">
+        <value lang="en">Size Exchange</value>
+        <value lang="it">Cambio taglia</value>
+        <value lang="pt_BR">Troca de tamanho</value>
+    </property>
+    <property key="ReturnType.description.RTN_CREDIT">
+        <value lang="de">Guthaben</value>
+        <value lang="en">Store Credit</value>
+        <value lang="es">Crédito de la tienda</value>
+        <value lang="fr">Avoir</value>
+        <value lang="it">Credito negozio</value>
+        <value lang="pt_BR">Crédito da loja</value>
+        <value lang="ro">Credit Magazin</value>
+        <value lang="ru">Торговый кредит</value>
+        <value lang="th">สะสมเครดิต</value>
+        <value lang="zh">存储信用</value>
+        <value lang="zh_TW">存儲信用</value>
+    </property>
+    <property key="ReturnType.description.RTN_CSREPLACE">
+        <value lang="de">Austausch bei Lieferung</value>
+        <value lang="en">Cross-Ship Replacement</value>
+        <value lang="es">Reemplazo en la entrega</value>
+        <value lang="fr">Remplacement à la livraison </value>
+        <value lang="it">Sostituzione cross-ship</value>
+        <value lang="pt_BR">Troca mediante outro pagamento</value>
+        <value lang="ro">Substitutie Cross-Ship</value>
+        <value lang="ru">Замена на другой продукт</value>
+        <value lang="th">Cross-Ship Replacement</value>
+        <value lang="zh">邮寄换货</value>
+        <value lang="zh_TW">郵寄換貨</value>
+    </property>
+    <property key="ReturnType.description.RTN_REFUND">
+        <value lang="de">Rückerstattung</value>
+        <value lang="en">Refund</value>
+        <value lang="es">Reembolso/Devolución</value>
+        <value lang="fr">Remboursement</value>
+        <value lang="it">Rimborsato</value>
+        <value lang="pt_BR">Reembolso</value>
+        <value lang="ro">Rambursat</value>
+        <value lang="ru">Возмещение</value>
+        <value lang="th">การคืนเงิน</value>
+        <value lang="zh">退款</value>
+        <value lang="zh_TW">退款</value>
+    </property>
+    <property key="ReturnType.description.RTN_REPAIR_REPLACE">
+        <value lang="de">Reparatur Ersatz</value>
+        <value lang="en">Repair Replacement</value>
+        <value lang="es">Reemplazo de reparación</value>
+        <value lang="fr">Réparation</value>
+        <value lang="it">Riparato sostituito</value>
+        <value lang="pt_BR">Produto sobressalente</value>
+        <value lang="ru">Замена при ремонте</value>
+        <value lang="th">ชดเชยการทดแทน</value>
+        <value lang="zh">修理替换</value>
+        <value lang="zh_TW">修理替換</value>
+    </property>
+    <property key="ReturnType.description.RTN_REPLACE">
+        <value lang="de">Ersatz</value>
+        <value lang="en">Replacement</value>
+        <value lang="es">Reemplazo</value>
+        <value lang="fr">Remplacement</value>
+        <value lang="it">Sostituito</value>
+        <value lang="pt_BR">Substituto</value>
+        <value lang="ro">Substituit</value>
+        <value lang="ru">Замена</value>
+        <value lang="th">การทดแทน</value>
+        <value lang="zh">替换</value>
+        <value lang="zh_TW">替換</value>
+    </property>
+    <property key="ShoppingListType.description.SLT_AUTO_REODR">
+        <value lang="de">Automatischer Auftrag</value>
+        <value lang="en">Automatic Re-Orders</value>
+        <value lang="es">Volver a pedir automáticamente</value>
+        <value lang="fr">Commander automatiquement un produit déjà commandé  </value>
+        <value lang="it">Ri-ordini automatici</value>
+        <value lang="pt_BR">Refazer pedido automaticamente</value>
+        <value lang="ro">Comenzi reordinate Automatic</value>
+        <value lang="ru">Автоматический повторный заказ</value>
+        <value lang="th">สั่งใหม่โดยอัตโนมัติ</value>
+        <value lang="zh">自动重新下订单</value>
+        <value lang="zh_TW">自動重新下訂單</value>
+    </property>
+    <property key="ShoppingListType.description.SLT_FREQ_PURCHASES">
+        <value lang="de">Häufige Einkäufe</value>
+        <value lang="en">Frequent Purchases</value>
+        <value lang="es">Compras frecuentes</value>
+        <value lang="fr">Achats fréquents</value>
+        <value lang="it">Acquisti frequenti</value>
+        <value lang="pt_BR">Compras frequentes</value>
+        <value lang="ro">Cumparari Frecvente</value>
+        <value lang="ru">Частые покупки</value>
+        <value lang="th">การสั่งซื้อเป็นประจำ</value>
+        <value lang="zh">经常购买</value>
+        <value lang="zh_TW">經常購買</value>
+    </property>
+    <property key="ShoppingListType.description.SLT_GIFT_REG">
+        <value lang="de">Geschenkliste</value>
+        <value lang="en">Gift Registry</value>
+        <value lang="es">Lista de regalos</value>
+        <value lang="fr">Liste de cadeaux</value>
+        <value lang="it">Registro omaggi</value>
+        <value lang="pt_BR">Lista de presentes</value>
+        <value lang="ro">Registru Omagiu</value>
+        <value lang="ru">Реестр подарков</value>
+        <value lang="th">การจดทะเบียนของขวัญ</value>
+        <value lang="zh">礼品注册</value>
+        <value lang="zh_TW">禮品注冊</value>
+    </property>
+    <property key="ShoppingListType.description.SLT_SPEC_PURP">
+        <value lang="de">Spezialfälle</value>
+        <value lang="en">Special Purpose</value>
+        <value lang="es">Casos especiales</value>
+        <value lang="fr">Occasions spéciales</value>
+        <value lang="it">Funzione speciale</value>
+        <value lang="pt_BR">Propósito especial</value>
+        <value lang="ro">Functie Speciala</value>
+        <value lang="ru">Специальное назначение</value>
+        <value lang="th">เป้าหมายพิเศษ</value>
+        <value lang="zh">特别目的</value>
+        <value lang="zh_TW">特別目的</value>
+    </property>
+    <property key="ShoppingListType.description.SLT_WISH_LIST">
+        <value lang="de">Wunschliste</value>
+        <value lang="en">Wish List</value>
+        <value lang="es">Lista de deseos</value>
+        <value lang="fr">Liste de souhaits</value>
+        <value lang="it">Lista dei desideri</value>
+        <value lang="pt_BR">Lista de desejos</value>
+        <value lang="ro">Lista Dorintelor</value>
+        <value lang="ru">Список пожеланий</value>
+        <value lang="th">รายการความต้องการ</value>
+        <value lang="zh">期望列表</value>
+        <value lang="zh_TW">期望列表</value>
+    </property>
+    <property key="WorkReqFulfType.description.WRF_DELIVERS">
+        <value lang="de">Liefert</value>
+        <value lang="en">Delivers</value>
+        <value lang="es">Entrega</value>
+        <value lang="fr">Livraisons</value>
+        <value lang="it">Consegna</value>
+        <value lang="pt_BR">Entrega</value>
+        <value lang="ro">Livreaza</value>
+        <value lang="ru">Доставка</value>
+        <value lang="th">ประกาศ</value>
+        <value lang="zh">交付</value>
+        <value lang="zh_TW">交付</value>
+    </property>
+    <property key="WorkReqFulfType.description.WRF_DEPLOYS">
+        <value lang="de">Einrichten</value>
+        <value lang="en">Deploys</value>
+        <value lang="es">Utiliza</value>
+        <value lang="fr">Déployements</value>
+        <value lang="it">Distribuisci</value>
+        <value lang="pt_BR">Utiliza</value>
+        <value lang="ro">Distribuie</value>
+        <value lang="ru">Развертывание</value>
+        <value lang="th">กระจาย</value>
+        <value lang="zh">部署</value>
+        <value lang="zh_TW">部署</value>
+    </property>
+    <property key="WorkReqFulfType.description.WRF_FIXES">
+        <value lang="de">Korrigiert</value>
+        <value lang="en">Fixes</value>
+        <value lang="es">Arregla</value>
+        <value lang="fr">Corrections</value>
+        <value lang="it">Fissa</value>
+        <value lang="pt_BR">Conserta</value>
+        <value lang="ro">Fixeaza</value>
+        <value lang="ru">Исправления</value>
+        <value lang="th">แก้ไข</value>
+        <value lang="zh">改正</value>
+        <value lang="zh_TW">改正</value>
+    </property>
+    <property key="WorkReqFulfType.description.WRF_IMPLEMENTS">
+        <value lang="de">Implementiert</value>
+        <value lang="en">Implements</value>
+        <value lang="es">Implementa</value>
+        <value lang="fr">Implémentations</value>
+        <value lang="it">Implementa</value>
+        <value lang="pt_BR">Implementa</value>
+        <value lang="ro">Implementeaza</value>
+        <value lang="ru">Реализация</value>
+        <value lang="th">ทำให้ได้ผล</value>
+        <value lang="zh">完成</value>
+        <value lang="zh_TW">完成</value>
+    </property>
+    <property key="WorkReqFulfType.description.WRF_TESTS">
+        <value lang="de">führt Test durch</value>
+        <value lang="en">Tests</value>
+        <value lang="es">Prueba</value>
+        <value lang="fr">Tests</value>
+        <value lang="it">Testa</value>
+        <value lang="pt_BR">Testa</value>
+        <value lang="ro">Testeaza</value>
+        <value lang="ru">Тестирование</value>
+        <value lang="th">ทดสอบ</value>
+        <value lang="zh">测试</value>
+        <value lang="zh_TW">測試</value>
+    </property>
+</resource>

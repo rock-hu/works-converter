@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><phrases><phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>OFBiz: Eclipse BIRT</value></content>
+<content><country></country><lang>th</lang><value>OFBiz : Eclipse BIRT</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Part of the Open For Business Family of Open Source Software</value></content>
+<content><country></country><lang>it</lang><value>Un modulo della famiglia di software open source Open For Business</value></content>
+<content><country></country><lang>th</lang><value>เป็นส่วนหนึ่งของธุรกิจแบบครอบครัวที่เป็นซอฟต์แวร์โอเพนซอส</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Eclipse BIRT Application</value></content>
+<content><country></country><lang>th</lang><value>Eclipse BIRT Application</value></content>
+</contents></phrase> <phrase><basename></basename><key></key><contents><content><country></country><lang>en</lang><value>Framework Eclipse BIRT</value></content>
+<content><country></country><lang>th</lang><value>Framework Eclipse BIRT</value></content>
+</contents></phrase> </phrases>
