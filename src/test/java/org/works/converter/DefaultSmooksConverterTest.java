@@ -15,7 +15,7 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.AbstractJUnit4SpringContextTests;
 import org.springframework.test.context.transaction.TransactionConfiguration;
 
-@ContextConfiguration(locations = { "classpath*:common/applicationContext-common-registry-locale.xml",
+@ContextConfiguration(locations = { "classpath*:common/applicationContext-common-registry.xml",
 		"classpath*:converter/applicationContext-converter-registry.xml" })
 //@TransactionConfiguration(transactionManager = "transactionManager", defaultRollback = false)
 public class DefaultSmooksConverterTest extends AbstractJUnit4SpringContextTests {
