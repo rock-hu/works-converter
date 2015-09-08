@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="works-converter-suite">
+	<test name="works-converter">
+		<packages>
+			<package name="org.works.converter" />
+		</packages>
+	</test>
+</suite>
