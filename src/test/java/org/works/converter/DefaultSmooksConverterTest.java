@@ -20,10 +20,12 @@ import org.springframework.test.context.transaction.TransactionConfiguration;
 //@TransactionConfiguration(transactionManager = "transactionManager", defaultRollback = false)
 public class DefaultSmooksConverterTest extends AbstractJUnit4SpringContextTests {
 
+	private String workspaceDir = System.getenv("WORKSPACE_DIR");
+	
 	@Autowired
 	SmooksConverter smooksConverter;
 
-	String basePath = "E:/Workspace/works-converter/src/main/resources/converter/i18n/";
+	String basePath = workspaceDir + "/works-converter/src/main/resources/converter/i18n/";
 
 	@Before
 	public void setUp() throws Exception {
@@ -39,8 +41,7 @@ public class DefaultSmooksConverterTest extends AbstractJUnit4SpringContextTests
 		File outgoing = new File(basePath + "outgoing");
 		String targetFileExt = ".xml";
 
-		File smooksConfig = new File(
-				"E:/Workspace/works-converter/src/main/resources/converter/smooks/smooks-xml-labels-xml-config.xml");
+		File smooksConfig = new File(workspaceDir + "/works-converter/src/main/resources/converter/smooks/smooks-xml-labels-xml-config.xml");
 
 		FilenameFilter nameFilter = new FilenameFilter() {
 
